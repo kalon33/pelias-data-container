@@ -60,7 +60,7 @@ install_node_project pelias polylines c1a17d9537652aee12e166d3aafee03bf120331d
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
 
-install_node_project HSLdevcom pelias-gtfs
+install_node_project laidig pelias-gtfs
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
 
