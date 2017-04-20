@@ -8,10 +8,10 @@ function import_gtfs {
     unzip -o $1
     prefix=$(echo $1 | sed 's/.zip//g')
     prefix=${prefix^^}
-    node $TOOLS/pelias-gtfs/import -d $DATA/router-finland --prefix=$prefix
+    node $TOOLS/pelias-gtfs/import -d $DATA/gtfs --prefix=$prefix
 }
 
-cd $DATA/router-finland
+cd $DATA/gtfs
 targets=(`ls *.zip`)
 for target in "${targets[@]}"
 do
@@ -22,12 +22,7 @@ echo '###### gtfs done'
 #import openaddresses data
 cd  $TOOLS/openaddresses
 
-# first import swedish OA docs
-bin/parallel 2 --language=sv
-echo '###### openaddresses/sv done'
-
-# then import and merge fi data with sv docs
-bin/parallel 2 --language=fi --merge --merge-fields=name
-echo '###### openaddresses/fi done'
+bin/parallel 2 --language=en --merge --merge-fields=name
+echo '###### openaddresses/en done'
 
 echo 'OK' >> /tmp/indexresults

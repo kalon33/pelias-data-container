@@ -3,11 +3,11 @@
 # errors should break the execution
 set -e
 
-NAME=router-finland.zip
+NAME=google_transit.zip
 
 # Download gtfs stop data
 cd $DATA
-curl -sS -O http://dev-api.digitransit.fi/routing-data/v1/$NAME
+curl -sS -O http://web.mta.info/developers/data/nyct/subway/$NAME
 unzip $NAME
 
 echo '##### Loaded GTFS data'

@@ -18,7 +18,6 @@ ENV ES_HEAP_SIZE 4g
 ADD pelias.json /root/pelias.json
 
 RUN mkdir -p /mnt/data
-ADD finland.polylines /mnt/data/finland.polylines
 
 RUN mkdir -p /mnt/data/whosonfirst
 ADD wof_data /mnt/data/whosonfirst/wof_data

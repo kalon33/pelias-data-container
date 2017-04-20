@@ -5,9 +5,6 @@
 # errors should break the execution
 set -e
 
-node $TOOLS/pelias-nlsfi-places-importer/lib/index -d $DATA/nls-places
-echo '###### nlsfi places done'
-
 node $TOOLS/polylines/bin/cli.js --config --db
 echo '###### polylines done'
 
