@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this import script indexes nlsfi places, polylines and osm data
+# this import script indexes polylines and osm data
 
 # errors should break the execution
 set -e

@@ -30,7 +30,7 @@
       "leveldbpath": "/tmp",
       "adminLookup": true,
       "import": [{
-        "filename": "finland.osm.pbf"
+        "filename": "osm.pbf"
       }]
     },
     "openaddresses": {

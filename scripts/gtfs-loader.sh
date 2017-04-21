@@ -7,8 +7,8 @@ NAME=google_transit.zip
 
 # Download gtfs stop data
 cd $DATA
-curl -sS -O http://web.mta.info/developers/data/nyct/subway/$NAME
-unzip $NAME
+wget -nv http://web.mta.info/developers/data/nyct/subway/$NAME
+unzip -d gtfs $NAME
 
 echo '##### Loaded GTFS data'
 echo 'OK' >> /tmp/loadresults
