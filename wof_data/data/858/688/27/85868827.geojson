@@ -1,0 +1,106 @@
+{
+  "id": 85868827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000274,
+    "geom:bbox":"-74.9779565429,44.5824230743,-74.9579565429,44.6019136553",
+    "geom:latitude":44.591499,
+    "geom:longitude":-74.967356,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":44.592422,
+    "lbl:longitude":-74.967957,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5131251,
+    "misc:gn_nam_loc":"pierrepont",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":171,
+    "misc:local_sum":172,
+    "misc:localhoods":2,
+    "misc:name":"Browns Bridge",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"St. Lawrence",
+    "misc:name_local":"Pierrepont",
+    "misc:photo_max":1,
+    "misc:photo_sum":1,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589361,
+    "misc:woe_funk":"Parented by a neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2471669,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":44.590928,
+    "mps:longitude":-74.967165,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Browns Bridge"
+    ],
+    "name:eng_x_variant":[
+        "Browns Brg"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":33,
+    "wof:belongsto":[
+        102191575,
+        404523143,
+        85633793,
+        85980035,
+        102082379,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28746676,
+        "qs:id":1112744,
+        "wd:id":"Q4976633"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bfc9dc1ec6ea7a360ef242dce43fb47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082379,
+            "localadmin_id":404523143,
+            "locality_id":85980035,
+            "neighbourhood_id":85868827,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85868827,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467245842,
+    "wof:name":"Browns Bridge",
+    "wof:parent_id":85980035,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.97795654294981,
+    44.58242307425006,
+    -74.95795654294986,
+    44.60191365528327
+],
+  "geometry": {"coordinates":[[[-74.97789833835196,44.59321189451175],[-74.97619628907506,44.59473301695762],[-74.96494767431523,44.60191365528327],[-74.96494802419562,44.60191010288951],[-74.96412970862627,44.60166186957515],[-74.96240084061975,44.6007377703731],[-74.96088547513801,44.59949414206203],[-74.95964184682686,44.59797877658021],[-74.95871774762489,44.59624990857377],[-74.95814869014589,44.59437397747034],[-74.95795654294986,44.59242307425002],[-74.95814869014589,44.59047217103007],[-74.95871774762489,44.58859623992636],[-74.95964184682686,44.58686737191984],[-74.96088547513801,44.58535200643821],[-74.96240084061975,44.58410837812711],[-74.96412970862627,44.58318427892489],[-74.96600563972953,44.58261522144615],[-74.96795654294993,44.58242307425006],[-74.96990744617005,44.58261522144615],[-74.97178337727348,44.58318427892489],[-74.97351224528012,44.58410837812711],[-74.97502761076183,44.58535200643821],[-74.97627123907301,44.58686737191984],[-74.97719533827495,44.58859623992636],[-74.97776439575398,44.59047217103007],[-74.97795654294981,44.59242307425002],[-74.97787903815799,44.59320999360851],[-74.97789833835196,44.59321189451175]]],"type":"Polygon"}
+}

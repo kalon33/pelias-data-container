@@ -1,0 +1,103 @@
+{
+  "id": 85857173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000287,
+    "geom:bbox":"-76.2852461565,43.0287833121,-76.2615966797,43.0455054863",
+    "geom:latitude":43.036474,
+    "geom:longitude":-76.27296,
+    "iso:country":"US",
+    "lbl:latitude":43.038784,
+    "lbl:longitude":-76.272583,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":4833098,
+    "misc:gn_nam_loc":"Camillus, Onondaga, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":59,
+    "misc:local_sum":178,
+    "misc:localhoods":7,
+    "misc:name":"Westview Manor",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Onondaga",
+    "misc:name_local":"Camillus",
+    "misc:photo_max":1,
+    "misc:photo_sum":2,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":2,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589345,
+    "misc:woe_funk":"Parented by a neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2373746,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":43.037023,
+    "mps:longitude":-76.272737,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Westview Manor"
+    ],
+    "name:eng_x_variant":[
+        "Westview Mnr"
+    ],
+    "qs:id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        404522819,
+        85633793,
+        85979217,
+        102082351,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2518575
+    },
+    "wof:country":"US",
+    "wof:geomhash":"faeb1c3896169d6c2148992e148eaee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082351,
+            "localadmin_id":404522819,
+            "locality_id":85979217,
+            "neighbourhood_id":85857173,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85857173,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784873,
+    "wof:name":"Westview Manor",
+    "wof:parent_id":85979217,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28524615647132,
+    43.02878331214994,
+    -76.26159667969992,
+    43.04550548626504
+],
+  "geometry": {"coordinates":[[[-76.26555431588775,43.04410471722642],[-76.26159667969992,43.03327475524357],[-76.26159667969992,43.0331362829527],[-76.26276535798803,43.03171224433819],[-76.26428072346974,43.03046861602711],[-76.26600959147618,43.02954451682497],[-76.26788552257972,43.02897545934614],[-76.26983642579992,43.02878331214994],[-76.27178732901996,43.02897545934614],[-76.27258300782495,43.02921682587274],[-76.27337868662983,43.02897545934614],[-76.27532958984995,43.02878331214994],[-76.27728049307018,43.02897545934614],[-76.27915642417361,43.02954451682497],[-76.28088529218013,43.03046861602711],[-76.28240065766187,43.03171224433819],[-76.28364428597285,43.03322760982],[-76.28456838517508,43.03495647782646],[-76.28513744265382,43.03683240893007],[-76.28524163224989,43.03789026365016],[-76.28524615647132,43.03789268189691],[-76.27411861067372,43.04550548626504],[-76.27258300782495,43.04480508465039],[-76.2670898437749,43.04480508465039],[-76.26555431588775,43.04410471722642]]],"type":"Polygon"}
+}

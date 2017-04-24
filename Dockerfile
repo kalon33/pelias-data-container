@@ -21,19 +21,22 @@ RUN mkdir -p /var/lib/elasticsearch/pelias_data \
 
 ENV ES_HEAP_SIZE 4g
 
-# Copy pelias config file
+# Download and index data and do cleanup for temp data + packages
+RUN mkdir -p /mnt/tools/scripts
+ADD scripts/*.sh /mnt/tools/scripts/
+RUN /bin/bash -c "source /mnt/tools/scripts/install-node-deps.sh"
+
 ADD pelias.json /root/pelias.json
 
 RUN mkdir -p /mnt/data
 ADD new_york.polylines /mnt/data
 
+RUN mkdir -p /mnt/data/openstreetmap
+ADD clean.osm.pbf /mnt/data/openstreetmap
+
 RUN mkdir -p /mnt/data/whosonfirst
 ADD wof_data /mnt/data/whosonfirst/wof_data
 
-# Download and index data and do cleanup for temp data + packages
-RUN mkdir -p /mnt/tools/scripts
-ADD scripts/*.sh /mnt/tools/scripts/
-RUN /bin/bash -c "source /mnt/tools/scripts/install-node-deps.sh"
 RUN /bin/bash -c "source /mnt/tools/scripts/getdata.sh"
 
 RUN chmod -R a+rwX /var/lib/elasticsearch/ \

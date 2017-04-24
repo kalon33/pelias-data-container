@@ -1,0 +1,97 @@
+{
+  "id": 85846235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-75.8170373535,42.9715442106,-75.7970373535,42.9915442106",
+    "geom:latitude":42.981544,
+    "geom:longitude":-75.807037,
+    "iso:country":"US",
+    "lbl:latitude":42.981544,
+    "lbl:longitude":-75.807037,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5117005,
+    "misc:gn_nam_loc":"Fenner, Madison, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":232,
+    "misc:local_sum":271,
+    "misc:localhoods":2,
+    "misc:name":"Rowan Corners",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Madison",
+    "misc:name_local":"Fenner",
+    "misc:photo_max":39,
+    "misc:photo_sum":39,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589338,
+    "misc:woe_funk":"Parented by a neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2402910,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":42.981544,
+    "mps:longitude":-75.807037,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":16,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Rowan Corners"
+    ],
+    "name:eng_x_variant":[
+        "Rowan Cors"
+    ],
+    "qs:id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102080989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2485264
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e8fdcbef3ab22dd9240935f15723039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080989,
+            "neighbourhood_id":85846235,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85846235,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784730,
+    "wof:name":"Rowan Corners",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81703735349993,
+    42.97154421060013,
+    -75.79703735349989,
+    42.99154421060025
+],
+  "geometry": {"coordinates":[[[-75.80508645027982,42.97173635779606],[-75.80703735349977,42.97154421060013],[-75.80898825672017,42.97173635779606],[-75.81086418782368,42.97230541527497],[-75.81259305582995,42.9732295144772],[-75.81410842131186,42.97447314278828],[-75.81535204962285,42.97598850826992],[-75.81627614882498,42.97771737627627],[-75.81684520630398,42.97959330737997],[-75.81703735349993,42.98154421060011],[-75.81684520630398,42.98349511382023],[-75.81627614882498,42.98537104492384],[-75.81535204962285,42.98709991293046],[-75.81410842131186,42.9886152784121],[-75.81259305582995,42.98985890672319],[-75.81086418782368,42.99078300592522],[-75.80898825672017,42.99135206340415],[-75.80703735349977,42.99154421060025],[-75.80508645027982,42.99135206340415],[-75.80321051917639,42.99078300592522],[-75.80148165116958,42.98985890672319],[-75.79996628568813,42.9886152784121],[-75.79872265737669,42.98709991293046],[-75.7977985581748,42.98537104492384],[-75.79722950069589,42.98349511382023],[-75.79703735349989,42.98154421060011],[-75.79722950069589,42.97959330737997],[-75.7977985581748,42.97771737627627],[-75.79872265737669,42.97598850826992],[-75.79996628568813,42.97447314278828],[-75.80148165116958,42.9732295144772],[-75.80321051917639,42.97230541527497],[-75.80508645027982,42.97173635779606]]],"type":"Polygon"}
+}

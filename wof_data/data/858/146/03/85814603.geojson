@@ -1,0 +1,108 @@
+{
+  "id": 85814603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000789,
+    "geom:bbox":"-72.228819,40.920795,-72.149407,40.957125",
+    "geom:latitude":40.938859,
+    "geom:longitude":-72.18997,
+    "gn:elevation":7,
+    "iso:country":"US",
+    "lbl:latitude":40.943843,
+    "lbl:longitude":-72.19361,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5115871,
+    "misc:gn_nam_loc":"East Hampton, Suffolk, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Divinity Hill",
+    "misc:local_max":1263,
+    "misc:local_sum":5037,
+    "misc:localhoods":16,
+    "misc:name":"Divinity Hill",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Suffolk",
+    "misc:name_local":"East Hampton",
+    "misc:photo_max":83,
+    "misc:photo_sum":206,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":15,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589363,
+    "misc:woe_lau":0,
+    "misc:woe_local":2395666,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.938899,
+    "mps:longitude":-72.189969,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Divinity Hill"
+    ],
+    "name:eng_x_variant":[
+        "Divinity Hl"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85978405,
+        85633793,
+        102082395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5115099,
+        "gp:id":2392286,
+        "qs:id":471653
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2dabe0533506fc94413b0f6f4533c360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082395,
+            "locality_id":85978405,
+            "neighbourhood_id":85814603,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85814603,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784333,
+    "wof:name":"Divinity Hill",
+    "wof:parent_id":85978405,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        361032009012080
+    ],
+    "zs:housing10":0,
+    "zs:pop10":0
+},
+  "bbox": [
+    -72.228819,
+    40.920795,
+    -72.149407,
+    40.957125
+],
+  "geometry": {"coordinates":[[[-72.154895,40.957125],[-72.14940799999999,40.949476],[-72.149407,40.949476],[-72.221709,40.920795],[-72.222418,40.921762],[-72.22525,40.925478],[-72.228819,40.929955],[-72.22651500000001,40.930627],[-72.220564,40.933221],[-72.20673600000001,40.938115],[-72.203388,40.939135],[-72.196805,40.94114],[-72.19378500000001,40.943398],[-72.189336,40.944581],[-72.18886999999999,40.944707],[-72.18009600000001,40.947907],[-72.179073,40.948453],[-72.174595,40.94978],[-72.17138300000001,40.950869],[-72.16743099999999,40.95226],[-72.164676,40.953428],[-72.158992,40.9556],[-72.154895,40.957125]]],"type":"Polygon"}
+}

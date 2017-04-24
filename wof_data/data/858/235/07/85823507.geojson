@@ -1,0 +1,97 @@
+{
+  "id": 85823507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000253,
+    "geom:bbox":"-73.5876993016,41.4636022937,-73.5681860351,41.4797754255",
+    "geom:latitude":41.472094,
+    "geom:longitude":-73.578043,
+    "gn:elevation":167,
+    "iso:country":"US",
+    "lbl:latitude":41.473602,
+    "lbl:longitude":-73.578186,
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":0,
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Haines Corners",
+    "misc:local_max":270,
+    "misc:local_sum":436,
+    "misc:localhoods":6,
+    "misc:name":"Haines Corners",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Putnam",
+    "misc:name_local":"Patterson",
+    "misc:photo_max":2,
+    "misc:photo_sum":2,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589351,
+    "misc:woe_lau":0,
+    "misc:woe_local":2469188,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":41.471696,
+    "mps:longitude":-73.578038,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Haines Corners"
+    ],
+    "name:eng_x_variant":[
+        "Haines Cors"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102083007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5119721,
+        "gp:id":2416097,
+        "qs:id":192277
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4626e6f13fa59d39e9d5002f468af702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85823507,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85823507,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784448,
+    "wof:name":"Haines Corners",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58769930162242,
+    41.46360229370012,
+    -73.56818603514972,
+    41.47977542550015
+],
+  "geometry": {"coordinates":[[[-73.56872209193659,41.47678670209503],[-73.56874813876067,41.47677277977706],[-73.56837818234584,41.47555319692023],[-73.56818603514972,41.47360229370028],[-73.56837818234584,41.47165139047998],[-73.56894723982475,41.46977545937627],[-73.56987133902697,41.4680465913701],[-73.57111496733796,41.46653122588829],[-73.5726303328197,41.4652875975772],[-73.57435920082622,41.46436349837496],[-73.57623513192965,41.46379444089605],[-73.57818603514988,41.46360229370012],[-73.58013693837,41.46379444089605],[-73.58201286947371,41.46436349837496],[-73.58374173748007,41.4652875975772],[-73.58525710296169,41.46653122588829],[-73.58650073127296,41.4680465913701],[-73.58742483047502,41.46977545937627],[-73.58767030091701,41.4705846669772],[-73.58769930162242,41.4705608667134],[-73.58539800508464,41.47977542550015],[-73.57543945312477,41.47977542550015],[-73.56872209193659,41.47678670209503]]],"type":"Polygon"}
+}

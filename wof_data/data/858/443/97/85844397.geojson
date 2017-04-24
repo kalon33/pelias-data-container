@@ -1,0 +1,101 @@
+{
+  "id": 85844397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:bbox":"-73.7858258788,41.4594863498,-73.7659399414,41.4781037656",
+    "geom:latitude":41.468253,
+    "geom:longitude":-73.775888,
+    "gn:elevation":293,
+    "iso:country":"US",
+    "lbl:latitude":41.469486,
+    "lbl:longitude":-73.77594,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":4837232,
+    "misc:gn_nam_loc":"kent",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Richardsville",
+    "misc:local_max":164,
+    "misc:local_sum":336,
+    "misc:localhoods":6,
+    "misc:name":"Richardsville",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Putnam",
+    "misc:name_local":"Kent",
+    "misc:photo_max":3,
+    "misc:photo_sum":3,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589351,
+    "misc:woe_lau":0,
+    "misc:woe_local":28744952,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":41.468175,
+    "mps:longitude":-73.775887,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Richardsville"
+    ],
+    "name:eng_x_preferred":[
+        "Richardsville"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":30,
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102083007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5133788,
+        "gp:id":2480757,
+        "qs:id":1318001,
+        "wd:id":"Q1432248"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b4a0edf85f8e980f0a095090047e7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85844397,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85844397,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467243491,
+    "wof:name":"Richardsville",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.78582587875081,
+    41.45948634980002,
+    -73.76593994139995,
+    41.47810376564578
+],
+  "geometry": {"coordinates":[[[-73.76647620466343,41.47267143183073],[-73.76650224965351,41.47265751049341],[-73.7661320885959,41.47143725302011],[-73.76593994139995,41.46948634980016],[-73.7661320885959,41.46753544657996],[-73.76670114607481,41.46565951547652],[-73.76762524527686,41.46393064746998],[-73.76886887358802,41.46241528198827],[-73.77038423906976,41.46117165367708],[-73.77211310707628,41.46024755447505],[-73.77398903817954,41.45967849699612],[-73.77593994139994,41.45948634980002],[-73.77789084462006,41.45967849699612],[-73.77976677572349,41.46024755447505],[-73.78149564373012,41.46117165367708],[-73.78301100921183,41.46241528198827],[-73.78425463752302,41.46393064746998],[-73.78517873672496,41.46565951547652],[-73.78574779420398,41.46753544657996],[-73.78581342147328,41.46820177142716],[-73.78582587875081,41.46819511287363],[-73.78288083889589,41.47437168917348],[-73.77868652344989,41.47810376564578],[-73.76647620466343,41.47267143183073]]],"type":"Polygon"}
+}

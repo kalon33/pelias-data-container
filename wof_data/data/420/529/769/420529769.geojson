@@ -1,0 +1,73 @@
+{
+  "id": 420529769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2016-08-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9012.844795,
+    "geom:bbox":"-74.124899,40.568431,-74.123427,40.569908",
+    "geom:latitude":40.569106,
+    "geom:longitude":-74.124042,
+    "iso:country":"US",
+    "lbl:latitude":40.569068,
+    "lbl:longitude":-74.124034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Oakwood Heights Station"
+    ],
+    "src:geom":"zetashapes",
+    "src:lbl":"mapshaper",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85977539,
+        421205775,
+        102081779,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2463933
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6066a6db28178d939a5d771b5c6f53dd",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205775,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420529769,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":420529769,
+    "wof:lastmodified":1489096092,
+    "wof:name":"Oakwood Heights Station",
+    "wof:parent_id":421205775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[
+        907215405
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:area_m":9012.222205,
+    "zs:blockids":"360850134003022",
+    "zs:housing10":18,
+    "zs:id":2463933,
+    "zs:label":"Oakwood Heights Station",
+    "zs:pop10":56
+},
+  "bbox": [
+    -74.124899,
+    40.568431,
+    -74.123427,
+    40.569908
+],
+  "geometry": {"coordinates":[[[[-74.12395100000001,40.568431],[-74.124899,40.568949],[-74.124179,40.569434],[-74.12342700000001,40.569908],[-74.123459,40.569664],[-74.12349399999999,40.569454],[-74.123543,40.569262],[-74.123616,40.569048],[-74.123704,40.568846],[-74.12379199999999,40.56868],[-74.123896,40.56851],[-74.12395100000001,40.568431]]]],"type":"MultiPolygon"}
+}

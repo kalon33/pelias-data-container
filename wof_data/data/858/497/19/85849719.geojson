@@ -1,0 +1,122 @@
+{
+  "id": 85849719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-73.4178979492,43.3371523272,-73.3978979492,43.3571523272",
+    "geom:latitude":43.347152,
+    "geom:longitude":-73.407898,
+    "iso:country":"US",
+    "lbl:latitude":43.347153,
+    "lbl:longitude":-73.407898,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5120131,
+    "misc:gn_nam_loc":"hartford",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":1,
+    "misc:local_sum":1,
+    "misc:localhoods":1,
+    "misc:name":"South Hartford",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Washington",
+    "misc:name_local":"Hartford",
+    "misc:photo_max":1,
+    "misc:photo_sum":1,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589369,
+    "misc:woe_lau":0,
+    "misc:woe_local":2418233,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":43.347152,
+    "mps:longitude":-73.407898,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0631\u062a\u0641\u0648\u0631\u062f"
+    ],
+    "name:deu_x_preferred":[
+        "Hartford"
+    ],
+    "name:eng_x_preferred":[
+        "South Hartford"
+    ],
+    "name:eng_x_variant":[
+        "S Hartford"
+    ],
+    "name:hat_x_preferred":[
+        "Hartford"
+    ],
+    "name:ita_x_preferred":[
+        "Hartford"
+    ],
+    "name:pol_x_preferred":[
+        "Hartford"
+    ],
+    "name:spa_x_preferred":[
+        "Hartford"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0631\u0679\u0641\u0648\u0631\u0688\u060c \u0646\u06cc\u0648 \u06cc\u0627\u0631\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Hartford"
+    ],
+    "qs:id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":677,
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102083153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2496310,
+        "wd:id":"Q1022761"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"312c17e3b56b2ae054ebe60eee38cb95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083153,
+            "neighbourhood_id":85849719,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85849719,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467242698,
+    "wof:name":"South Hartford",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.41789794919995,
+    43.33715232720026,
+    -73.3978979492,
+    43.35715232720004
+],
+  "geometry": {"coordinates":[[[-73.40594704597976,43.33734447439619],[-73.40789794919988,43.33715232720026],[-73.40984885242011,43.33734447439619],[-73.41172478352354,43.33791353187493],[-73.41345365153006,43.33883763107715],[-73.4149690170118,43.34008125938824],[-73.41621264532296,43.34159662486988],[-73.41713674452484,43.3433254928765],[-73.41770580200392,43.34520142398011],[-73.41789794919995,43.34715232720006],[-73.41770580200392,43.34910323042037],[-73.41713674452484,43.3509791615238],[-73.41621264532296,43.35270802953025],[-73.4149690170118,43.35422339501206],[-73.41345365153006,43.35546702332314],[-73.41172478352354,43.35639112252518],[-73.40984885242011,43.35696018000428],[-73.40789794919988,43.35715232720004],[-73.40594704597976,43.35696018000428],[-73.40407111487633,43.35639112252518],[-73.40234224686969,43.35546702332314],[-73.40082688138799,43.35422339501206],[-73.3995832530768,43.35270802953025],[-73.39865915387486,43.3509791615238],[-73.39809009639583,43.34910323042037],[-73.3978979492,43.34715232720006],[-73.39809009639583,43.34520142398011],[-73.39865915387486,43.3433254928765],[-73.3995832530768,43.34159662486988],[-73.40082688138799,43.34008125938824],[-73.40234224686969,43.33883763107715],[-73.40407111487633,43.33791353187493],[-73.40594704597976,43.33734447439619]]],"type":"Polygon"}
+}

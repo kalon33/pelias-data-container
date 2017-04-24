@@ -1,0 +1,97 @@
+{
+  "id": 85852333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-76.9239099121,42.1951247515,-76.9039099121,42.2151247515",
+    "geom:latitude":42.205125,
+    "geom:longitude":-76.91391,
+    "gn:elevation":319,
+    "iso:country":"US",
+    "lbl:latitude":42.205124,
+    "lbl:longitude":-76.91391,
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":0,
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Tompkins Corners",
+    "misc:local_max":60,
+    "misc:local_sum":60,
+    "misc:localhoods":1,
+    "misc:name":"Tompkins Corners",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Chemung",
+    "misc:name_local":"Catlin",
+    "misc:photo_max":60,
+    "misc:photo_sum":60,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589319,
+    "misc:woe_lau":0,
+    "misc:woe_local":28744460,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":42.205125,
+    "mps:longitude":-76.91391,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Tompkins Corners"
+    ],
+    "name:eng_x_variant":[
+        "Tompkins Cors"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102081819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5141149,
+        "gp:id":2507047,
+        "qs:id":995147
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca15446f2e69e14d0b15cef9f72ec6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081819,
+            "neighbourhood_id":85852333,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85852333,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784824,
+    "wof:name":"Tompkins Corners",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.92390991209993,
+    42.19512475149993,
+    -76.90390991209989,
+    42.21512475150016
+],
+  "geometry": {"coordinates":[[[-76.91195900887982,42.19531689869613],[-76.91390991209977,42.19512475149993],[-76.91586081532017,42.19531689869613],[-76.91773674642369,42.19588595617515],[-76.91946561442995,42.1968100553771],[-76.92098097991186,42.19805368368837],[-76.92222460822285,42.19956904916999],[-76.92314870742499,42.20129791717645],[-76.92371776490398,42.20317384827987],[-76.92390991209993,42.20512475150018],[-76.92371776490398,42.20707565472021],[-76.92314870742499,42.20895158582366],[-76.92222460822285,42.21068045383036],[-76.92098097991186,42.2121958193119],[-76.91946561442995,42.21343944762326],[-76.91773674642369,42.2143635468254],[-76.91586081532017,42.21493260430422],[-76.91390991209977,42.21512475150016],[-76.91195900887982,42.21493260430422],[-76.91008307777639,42.2143635468254],[-76.90835420976958,42.21343944762326],[-76.90683884428813,42.2121958193119],[-76.90559521597669,42.21068045383036],[-76.90467111677481,42.20895158582366],[-76.90410205929589,42.20707565472021],[-76.90390991209989,42.20512475150018],[-76.90410205929589,42.20317384827987],[-76.90467111677481,42.20129791717645],[-76.90559521597669,42.19956904916999],[-76.90683884428813,42.19805368368837],[-76.90835420976958,42.1968100553771],[-76.91008307777639,42.19588595617515],[-76.91195900887982,42.19531689869613]]],"type":"Polygon"}
+}

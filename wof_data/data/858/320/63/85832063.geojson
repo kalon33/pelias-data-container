@@ -1,0 +1,99 @@
+{
+  "id": 85832063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-77.2026879882,42.9685301228,-77.1826879882,42.9885301228",
+    "geom:latitude":42.97853,
+    "geom:longitude":-77.192688,
+    "gn:elevation":167,
+    "iso:country":"US",
+    "lbl:latitude":42.978531,
+    "lbl:longitude":-77.192688,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5125757,
+    "misc:gn_nam_loc":"Manchester, Ontario, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Manchester Center",
+    "misc:local_max":79,
+    "misc:local_sum":82,
+    "misc:localhoods":2,
+    "misc:name":"Manchester Center",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Ontario",
+    "misc:name_local":"Manchester",
+    "misc:photo_max":3,
+    "misc:photo_sum":3,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589346,
+    "misc:woe_lau":0,
+    "misc:woe_local":2444656,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":42.97853,
+    "mps:longitude":-77.192688,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Manchester Center"
+    ],
+    "name:eng_x_variant":[
+        "Manchester Ctr"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102082359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5125759,
+        "gp:id":2444690,
+        "qs:id":46115
+    },
+    "wof:country":"US",
+    "wof:geomhash":"368c83167cadfafa1b589d4815821509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082359,
+            "neighbourhood_id":85832063,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85832063,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784554,
+    "wof:name":"Manchester Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.20268798824998,
+    42.96853012280016,
+    -77.18268798824982,
+    42.98853012280001
+],
+  "geometry": {"coordinates":[[[-77.19073708502987,42.96872226999609],[-77.1926879882499,42.96853012280016],[-77.19463889147011,42.96872226999609],[-77.19651482257365,42.96929132747509],[-77.19824369058009,42.97021542667706],[-77.19975905606179,42.97145905498805],[-77.20100268437298,42.97297442046995],[-77.20192678357512,42.97470328847648],[-77.20249584105395,42.97657921957992],[-77.20268798824998,42.97853012280014],[-77.20249584105395,42.98048102602044],[-77.20192678357512,42.98235695712387],[-77.20100268437298,42.98408582513032],[-77.19975905606179,42.98560119061194],[-77.19824369058009,42.98684481892295],[-77.19651482257365,42.98776891812517],[-77.19463889147011,42.98833797560418],[-77.1926879882499,42.98853012280001],[-77.19073708502987,42.98833797560418],[-77.18886115392615,42.98776891812517],[-77.18713228591972,42.98684481892295],[-77.18561692043801,42.98560119061194],[-77.18437329212682,42.98408582513032],[-77.18344919292468,42.98235695712387],[-77.18288013544586,42.98048102602044],[-77.18268798824982,42.97853012280014],[-77.18288013544586,42.97657921957992],[-77.18344919292468,42.97470328847648],[-77.18437329212682,42.97297442046995],[-77.18561692043801,42.97145905498805],[-77.18713228591972,42.97021542667706],[-77.18886115392615,42.96929132747509],[-77.19073708502987,42.96872226999609]]],"type":"Polygon"}
+}

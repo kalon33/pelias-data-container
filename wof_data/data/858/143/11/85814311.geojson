@@ -1,0 +1,96 @@
+{
+  "id": 85814311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-73.5332543945,42.5976847118,-73.5132543945,42.6176847118",
+    "geom:latitude":42.607685,
+    "geom:longitude":-73.523254,
+    "iso:country":"US",
+    "lbl:latitude":42.607685,
+    "lbl:longitude":-73.523254,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5128313,
+    "misc:gn_nam_loc":"Nassau, Rensselaer, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":21,
+    "misc:local_sum":21,
+    "misc:localhoods":1,
+    "misc:name":"Denault Corners",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Rensselaer",
+    "misc:name_local":"Nassau",
+    "misc:photo_max":21,
+    "misc:photo_sum":21,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589353,
+    "misc:woe_lau":0,
+    "misc:woe_local":2457217,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":42.607685,
+    "mps:longitude":-73.523254,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Denault Corners"
+    ],
+    "name:eng_x_variant":[
+        "Denault Cors"
+    ],
+    "qs:id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102081773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2391070
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00a7c714759cd9dd12b409d069ddaee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081773,
+            "neighbourhood_id":85814311,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85814311,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784329,
+    "wof:name":"Denault Corners",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.53325439455,
+    42.59768471175008,
+    -73.51325439454985,
+    42.61768471175012
+],
+  "geometry": {"coordinates":[[[-73.52130349132972,42.59787685894609],[-73.52325439454992,42.59768471175008],[-73.52520529777013,42.59787685894609],[-73.52708122887367,42.59844591642511],[-73.52881009688011,42.59937001562714],[-73.53032546236182,42.60061364393833],[-73.531569090673,42.60212900941995],[-73.53249318987514,42.60385787742641],[-73.53306224735397,42.60573380853002],[-73.53325439455,42.60768471175014],[-73.53306224735397,42.60963561497017],[-73.53249318987514,42.61151154607361],[-73.531569090673,42.61324041408032],[-73.53032546236182,42.61475577956186],[-73.52881009688011,42.61599940787322],[-73.52708122887367,42.61692350707536],[-73.52520529777013,42.61749256455418],[-73.52325439454992,42.61768471175012],[-73.52130349132972,42.61749256455418],[-73.51942756022618,42.61692350707536],[-73.51769869221974,42.61599940787322],[-73.51618332673803,42.61475577956186],[-73.51493969842684,42.61324041408032],[-73.51401559922471,42.61151154607361],[-73.51344654174588,42.60963561497017],[-73.51325439454985,42.60768471175014],[-73.51344654174588,42.60573380853002],[-73.51401559922471,42.60385787742641],[-73.51493969842684,42.60212900941995],[-73.51618332673803,42.60061364393833],[-73.51769869221974,42.59937001562714],[-73.51942756022618,42.59844591642511],[-73.52130349132972,42.59787685894609]]],"type":"Polygon"}
+}

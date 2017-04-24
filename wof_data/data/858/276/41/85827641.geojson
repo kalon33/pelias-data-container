@@ -1,0 +1,247 @@
+{
+  "id": 85827641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000332,
+    "geom:bbox":"-76.27692,42.905409,-76.256394,42.927626",
+    "geom:latitude":42.91507,
+    "geom:longitude":-76.26657,
+    "gn:elevation":340,
+    "iso:country":"US",
+    "lbl:latitude":42.914196,
+    "lbl:longitude":-76.264343,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5129884,
+    "misc:gn_nam_loc":"Onondaga, Onondaga, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Joshua",
+    "misc:local_max":57,
+    "misc:local_sum":155,
+    "misc:localhoods":4,
+    "misc:name":"Joshua",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Onondaga",
+    "misc:name_local":"Onondaga",
+    "misc:photo_max":25,
+    "misc:photo_sum":25,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589345,
+    "misc:woe_lau":0,
+    "misc:woe_local":28744528,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":42.915202,
+    "mps:longitude":-76.266375,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u0634\u0639 \u0628\u0646 \u0646\u0648\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u0443\u0441 \u041d\u0430\u0432\u0456\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Yehoshoua"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0441\u0443\u0441 \u041d\u0430\u0432\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Josu\u00e8"
+    ],
+    "name:ces_x_preferred":[
+        "Jozue"
+    ],
+    "name:che_x_preferred":[
+        "\u042e\u0448\u0430\u04c0 \u0438\u0431\u043d \u041d\u0443\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Josva"
+    ],
+    "name:deu_x_preferred":[
+        "Josua"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b7\u03c3\u03bf\u03cd\u03c2 \u03c4\u03bf\u03c5 \u039d\u03b1\u03c5\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Joshua"
+    ],
+    "name:eus_x_preferred":[
+        "Josue"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0634\u0639 \u0628\u0646 \u0646\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Joosua"
+    ],
+    "name:fra_x_preferred":[
+        "Josu\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "I\u00f3sua"
+    ],
+    "name:glg_x_preferred":[
+        "Xosu\u00e9"
+    ],
+    "name:hbs_x_preferred":[
+        "Jo\u0161ua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d4\u05d5\u05e9\u05e2 \u05d1\u05df \u05e0\u05d5\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Jo\u0161ua"
+    ],
+    "name:ind_x_preferred":[
+        "Yosua"
+    ],
+    "name:ita_x_preferred":[
+        "Giosu\u00e8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30b7\u30e5\u30a2"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d7\u10d0\u10da\u10d8 \u10d8\u10e1\u10e3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5ec\ud638\uc218\uc544"
+    ],
+    "name:lat_x_preferred":[
+        "Iosue"
+    ],
+    "name:lit_x_preferred":[
+        "Jozu\u0117"
+    ],
+    "name:msa_x_preferred":[
+        "Joshua"
+    ],
+    "name:nld_x_preferred":[
+        "Jozua"
+    ],
+    "name:nor_x_preferred":[
+        "Josva"
+    ],
+    "name:pol_x_preferred":[
+        "Jozue"
+    ],
+    "name:por_x_preferred":[
+        "Josu\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Iosua Navi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0438\u0441\u0443\u0441 \u041d\u0430\u0432\u0438\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Giosu\u00e8"
+    ],
+    "name:sco_x_preferred":[
+        "Joshua"
+    ],
+    "name:slk_x_preferred":[
+        "Jozue"
+    ],
+    "name:spa_x_preferred":[
+        "Josu\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0441\u0443\u0441 \u041d\u0430\u0432\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Yoshua"
+    ],
+    "name:swe_x_preferred":[
+        "Josua"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baf\u0bcb\u0b9a\u0bc1\u0bb5\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Josue"
+    ],
+    "name:tur_x_preferred":[
+        "Yu\u015fa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u0443\u0441 \u041d\u0430\u0432\u0438\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0634\u0639 \u0628\u0646 \u0646\u0648\u0646"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d9\u05d4\u05d5\u05e9\u05e2 \u05d1\u05df \u05e0\u05d5\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d04\u66f8\u4e9e"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":3502,
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102082351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5122905,
+        "gp:id":2430063,
+        "qs:id":263477,
+        "wd:id":"Q7734"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3766e0951d5b0f02764f0742f6db9491",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082351,
+            "neighbourhood_id":85827641,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85827641,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467245194,
+    "wof:name":"Joshua",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        360670160011042,
+        360670160011046
+    ],
+    "zs:housing10":35,
+    "zs:pop10":111
+},
+  "bbox": [
+    -76.27692,
+    42.905409,
+    -76.256394,
+    42.927626
+],
+  "geometry": {"coordinates":[[[-76.257994,42.906028],[-76.27692,42.905409],[-76.276749,42.905787],[-76.276595,42.906052],[-76.276433,42.906286],[-76.276051,42.906749],[-76.27562,42.907233],[-76.27503,42.907945],[-76.27486500000001,42.9082],[-76.2748,42.908369],[-76.274772,42.908524],[-76.274761,42.908734],[-76.274761,42.91017],[-76.274807,42.911663],[-76.274922,42.913359],[-76.274891,42.913414],[-76.275065,42.913574],[-76.27494900000001,42.913691],[-76.274885,42.913793],[-76.274845,42.91392],[-76.274823,42.914085],[-76.274857,42.914316],[-76.274946,42.914918],[-76.275006,42.915212],[-76.275035,42.915456],[-76.27507799999999,42.916145],[-76.275127,42.917292],[-76.275109,42.917999],[-76.27490299999999,42.919547],[-76.274699,42.920874],[-76.27458799999999,42.921641],[-76.27440199999999,42.92281],[-76.27413300000001,42.924269],[-76.27379999999999,42.92592],[-76.273787,42.926112],[-76.273841,42.926661],[-76.273877,42.927371],[-76.273877,42.927626],[-76.273472,42.927456],[-76.272766,42.927177],[-76.27074,42.92639],[-76.270053,42.926106],[-76.267186,42.924963],[-76.266443,42.924675],[-76.264914,42.924135],[-76.258292,42.921737],[-76.257531,42.921464],[-76.25751099999999,42.921347],[-76.257468,42.920578],[-76.257395,42.919674],[-76.25733200000001,42.918676],[-76.25717400000001,42.916905],[-76.25704899999999,42.915189],[-76.257114,42.915126],[-76.257228,42.915043],[-76.257381,42.914968],[-76.257203,42.914946],[-76.25711,42.91492],[-76.25703,42.914884],[-76.257008,42.914212],[-76.256981,42.914108],[-76.256879,42.913912],[-76.25674600000001,42.913741],[-76.256606,42.913538],[-76.25649199999999,42.913311],[-76.256415,42.913091],[-76.256394,42.912961],[-76.25640300000001,42.912729],[-76.256435,42.912592],[-76.25652700000001,42.912367],[-76.256624,42.912063],[-76.25698300000001,42.910565],[-76.257408,42.908664],[-76.257637,42.907721],[-76.257994,42.906028]]],"type":"Polygon"}
+}

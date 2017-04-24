@@ -1,0 +1,98 @@
+{
+  "id": 85840895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-73.6101586914,43.3930519915,-73.5901586914,43.4130519915",
+    "geom:latitude":43.403052,
+    "geom:longitude":-73.600159,
+    "iso:country":"US",
+    "lbl:latitude":43.403053,
+    "lbl:longitude":-73.600159,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5117647,
+    "misc:gn_nam_loc":"fort ann",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":2,
+    "misc:local_sum":2,
+    "misc:localhoods":1,
+    "misc:name":"Pattens Mills",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Washington",
+    "misc:name_local":"Fort Ann",
+    "misc:photo_max":2,
+    "misc:photo_sum":2,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589369,
+    "misc:woe_lau":0,
+    "misc:woe_local":2405579,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":43.403052,
+    "mps:longitude":-73.600159,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Pattens Mills"
+    ],
+    "name:eng_x_variant":[
+        "Pattens Mls"
+    ],
+    "qs:id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":98,
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102083153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2469173,
+        "wd:id":"Q22133369"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02e37aaf80534ee8f9296e6ae5ed8a0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083153,
+            "neighbourhood_id":85840895,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85840895,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467244654,
+    "wof:name":"Pattens Mills",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61015869139999,
+    43.39305199150017,
+    -73.59015869139984,
+    43.41305199150013
+],
+  "geometry": {"coordinates":[[[-73.59820778817971,43.39324413869601],[-73.60015869139991,43.39305199150017],[-73.60210959461995,43.39324413869601],[-73.60398552572366,43.39381319617493],[-73.6057143937301,43.39473729537697],[-73.6072297592118,43.39598092368833],[-73.60847338752299,43.39749628916987],[-73.60939748672513,43.39922515717659],[-73.60996654420396,43.40110108828002],[-73.61015869139999,43.40305199150005],[-73.60996654420396,43.40500289472018],[-73.60939748672513,43.40687882582388],[-73.60847338752299,43.40860769383023],[-73.6072297592118,43.41012305931187],[-73.6057143937301,43.41136668762313],[-73.60398552572366,43.41229078682518],[-73.60210959461995,43.41285984430409],[-73.60015869139991,43.41305199150013],[-73.59820778817971,43.41285984430409],[-73.59633185707617,43.41229078682518],[-73.59460298906973,43.41136668762313],[-73.59308762358802,43.41012305931187],[-73.59184399527683,43.40860769383023],[-73.59091989607469,43.40687882582388],[-73.59035083859587,43.40500289472018],[-73.59015869139984,43.40305199150005],[-73.59035083859587,43.40110108828002],[-73.59091989607469,43.39922515717659],[-73.59184399527683,43.39749628916987],[-73.59308762358802,43.39598092368833],[-73.59460298906973,43.39473729537697],[-73.59633185707617,43.39381319617493],[-73.59820778817971,43.39324413869601]]],"type":"Polygon"}
+}

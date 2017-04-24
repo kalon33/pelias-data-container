@@ -1,0 +1,96 @@
+{
+  "id": 85830299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-74.8626000976,42.7430627677,-74.8426000977,42.7630627678",
+    "geom:latitude":42.753063,
+    "geom:longitude":-74.8526,
+    "gn:elevation":465,
+    "iso:country":"US",
+    "lbl:latitude":42.753063,
+    "lbl:longitude":-74.8526,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5126833,
+    "misc:gn_nam_loc":"Middlefield, Otsego, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Lentsville",
+    "misc:local_max":3467,
+    "misc:local_sum":3518,
+    "misc:localhoods":4,
+    "misc:name":"Lentsville",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Otsego",
+    "misc:name_local":"Middlefield",
+    "misc:photo_max":5,
+    "misc:photo_sum":5,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589350,
+    "misc:woe_lau":0,
+    "misc:woe_local":2450312,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":42.753063,
+    "mps:longitude":-74.8526,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Lentsville"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102082399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5124246,
+        "gp:id":2438345,
+        "qs:id":965782
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8ea3836e8721e84bb6281ab5ba7b17b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082399,
+            "neighbourhood_id":85830299,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85830299,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784532,
+    "wof:name":"Lentsville",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.86260009764987,
+    42.74306276774993,
+    -74.84260009765,
+    42.76306276775016
+],
+  "geometry": {"coordinates":[[[-74.85064919442976,42.74325491494604],[-74.85260009764988,42.74306276774993],[-74.8545510008702,42.74325491494604],[-74.85642693197354,42.74382397242513],[-74.85815579998007,42.744748071627],[-74.8596711654618,42.74599169993836],[-74.86091479377296,42.7475070654199],[-74.86183889297484,42.74923593342643],[-74.86240795045393,42.75111186453005],[-74.86260009764987,42.75306276775008],[-74.86240795045393,42.75501367097021],[-74.86183889297484,42.75688960207374],[-74.86091479377296,42.75861847008026],[-74.8596711654618,42.7601338355619],[-74.85815579998007,42.76137746387316],[-74.85642693197354,42.7623015630754],[-74.8545510008702,42.76287062055412],[-74.85260009764988,42.76306276775016],[-74.85064919442976,42.76287062055412],[-74.84877326332634,42.7623015630754],[-74.8470443953197,42.76137746387316],[-74.84552902983799,42.7601338355619],[-74.8442854015268,42.75861847008026],[-74.84336130232487,42.75688960207374],[-74.84279224484584,42.75501367097021],[-74.84260009765001,42.75306276775008],[-74.84279224484584,42.75111186453005],[-74.84336130232487,42.74923593342643],[-74.8442854015268,42.7475070654199],[-74.84552902983799,42.74599169993836],[-74.8470443953197,42.744748071627],[-74.84877326332634,42.74382397242513],[-74.85064919442976,42.74325491494604]]],"type":"Polygon"}
+}

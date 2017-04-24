@@ -1,0 +1,106 @@
+{
+  "id": 85805951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:bbox":"-77.904722,43.03227,-77.895996,43.037963",
+    "geom:latitude":43.034798,
+    "geom:longitude":-77.900721,
+    "gn:elevation":198,
+    "iso:country":"US",
+    "lbl:latitude":43.026737,
+    "lbl:longitude":-77.887573,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5144179,
+    "misc:gn_nam_loc":"Wheatland, Monroe, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Beulah",
+    "misc:local_max":50,
+    "misc:local_sum":56,
+    "misc:localhoods":2,
+    "misc:name":"Beulah",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Monroe",
+    "misc:name_local":"Wheatland",
+    "misc:photo_max":4,
+    "misc:photo_sum":6,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":3,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589339,
+    "misc:woe_lau":0,
+    "misc:woe_local":28744524,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":43.035043,
+    "mps:longitude":-77.900637,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Beulah"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":111,
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102081815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5108987,
+        "gp:id":2363666,
+        "qs:id":496965,
+        "wd:id":"Q4899247",
+        "wk:page":"Beulah, New York"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"146e0328c5f04c47092d4ec4aca92e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081815,
+            "neighbourhood_id":85805951,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85805951,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467244471,
+    "wof:name":"Beulah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        360550147005026
+    ],
+    "zs:housing10":1,
+    "zs:pop10":0
+},
+  "bbox": [
+    -77.904722,
+    43.03227,
+    -77.895996,
+    43.037963
+],
+  "geometry": {"coordinates":[[[-77.895996,43.03227],[-77.90434399999999,43.032426],[-77.90472200000001,43.032437],[-77.90472,43.032474],[-77.904121,43.037056],[-77.899429,43.037963],[-77.898149,43.037896],[-77.89814699999999,43.037752],[-77.898122,43.036889],[-77.898067,43.036547],[-77.89797900000001,43.036233],[-77.897865,43.03589],[-77.89773700000001,43.035615],[-77.89745600000001,43.035057],[-77.89685299999999,43.033928],[-77.895996,43.03227]]],"type":"Polygon"}
+}

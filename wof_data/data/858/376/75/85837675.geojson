@@ -1,0 +1,102 @@
+{
+  "id": 85837675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:bbox":"-77.937424,43.320787,-77.927824,43.334843",
+    "geom:latitude":43.327044,
+    "geom:longitude":-77.932164,
+    "iso:country":"US",
+    "lbl:latitude":43.319183,
+    "lbl:longitude":-77.934265,
+    "misc:gn_id":0,
+    "misc:gn_local":0,
+    "misc:local_max":55,
+    "misc:local_sum":73,
+    "misc:localhoods":3,
+    "misc:name":"North Hamlin",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Monroe",
+    "misc:name_local":"Hamlin",
+    "misc:photo_max":2,
+    "misc:photo_sum":2,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589339,
+    "misc:woe_lau":0,
+    "misc:woe_local":2416685,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":43.327016,
+    "mps:longitude":-77.932256,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "North Hamlin"
+    ],
+    "name:eng_x_variant":[
+        "N Hamlin"
+    ],
+    "qs:id":0,
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85979027,
+        85633793,
+        102081815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2461063
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfebbd83e14808aa210b32412e15d23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081815,
+            "locality_id":85979027,
+            "neighbourhood_id":85837675,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85837675,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784624,
+    "wof:name":"North Hamlin",
+    "wof:parent_id":85979027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        360550151021061
+    ],
+    "zs:housing10":23,
+    "zs:pop10":65
+},
+  "bbox": [
+    -77.937424,
+    43.320787,
+    -77.927824,
+    43.334843
+],
+  "geometry": {"coordinates":[[[-77.927842,43.324273],[-77.92784899999999,43.323609],[-77.92791699999999,43.320787],[-77.92895900000001,43.320819],[-77.932413,43.3209],[-77.93468799999999,43.320963],[-77.936842,43.320995],[-77.93706299999999,43.329123],[-77.93669199999999,43.331142],[-77.93742399999999,43.331133],[-77.927847,43.334843],[-77.927848,43.328253],[-77.927824,43.326088],[-77.927842,43.324273]]],"type":"Polygon"}
+}

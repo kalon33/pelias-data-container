@@ -1,0 +1,115 @@
+{
+  "id": 85868657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-08-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1435.73748,
+    "geom:bbox":"-73.819322,40.587964,-73.819093,40.589307",
+    "geom:latitude":40.58847,
+    "geom:longitude":-73.819242,
+    "gn:elevation":1,
+    "iso:country":"US",
+    "lbl:latitude":40.574857,
+    "lbl:longitude":-73.810808,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5128581,
+    "misc:gn_nam_loc":"New York, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Holland",
+    "misc:local_max":59970,
+    "misc:local_sum":2486608,
+    "misc:localhoods":427,
+    "misc:name":"Holland",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Queens",
+    "misc:name_local":"New York",
+    "misc:photo_max":412,
+    "misc:photo_sum":2276,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":45,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589352,
+    "misc:woe_lau":0,
+    "misc:woe_local":2459115,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.588319,
+    "mps:longitude":-73.819224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
+    "mz:tier_locality":7,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Holland"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wk:wordcount":3169,
+    "wof:belongsto":[
+        102191575,
+        404521211,
+        85633793,
+        85977539,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5121005,
+        "gp:id":28746212,
+        "qs:id":1086380,
+        "wd:id":"Q102911"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77ede82653f62abe35a2ff9c8b15adc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85868657,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85868657,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1491425476,
+    "wof:name":"Holland",
+    "wof:parent_id":85977539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        360810942011000
+    ],
+    "zs:housing10":0,
+    "zs:pop10":0
+},
+  "bbox": [
+    -73.819322,
+    40.587964,
+    -73.819093,
+    40.589307
+],
+  "geometry": {"coordinates":[[[-73.819312,40.589307],[-73.819093,40.588139],[-73.819322,40.587964],[-73.819312,40.589307]]],"type":"Polygon"}
+}

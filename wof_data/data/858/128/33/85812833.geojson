@@ -1,0 +1,109 @@
+{
+  "id": 85812833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:bbox":"-77.658234,43.27629,-77.643118,43.282715",
+    "geom:latitude":43.279349,
+    "geom:longitude":-77.650009,
+    "gn:elevation":76,
+    "iso:country":"US",
+    "lbl:latitude":43.277323,
+    "lbl:longitude":-77.649879,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5119251,
+    "misc:gn_nam_loc":"Greece, Monroe, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Crescent Beach",
+    "misc:local_max":512,
+    "misc:local_sum":1215,
+    "misc:localhoods":10,
+    "misc:name":"Crescent Beach",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Monroe",
+    "misc:name_local":"Greece",
+    "misc:photo_max":71,
+    "misc:photo_sum":141,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":9,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589339,
+    "misc:woe_funk":"Grouping neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2413634,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":43.279569,
+    "mps:longitude":-77.64945,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Crescent Beach"
+    ],
+    "name:eng_x_variant":[
+        "Crescent Bch"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102081815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5114087,
+        "gp:id":2386985,
+        "qs:id":193978
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74a48019ef84113037e0289a6f6c4378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081815,
+            "neighbourhood_id":85812833,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85812833,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784313,
+    "wof:name":"Crescent Beach",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        360550134023029,
+        360550134023026,
+        360550134023025
+    ],
+    "zs:housing10":84,
+    "zs:pop10":132
+},
+  "bbox": [
+    -77.658234,
+    43.27629,
+    -77.643118,
+    43.282715
+],
+  "geometry": {"coordinates":[[[[-77.644419,43.27629],[-77.644645,43.27638],[-77.64487099999999,43.276466],[-77.645549,43.276712],[-77.646063,43.27686],[-77.64714499999999,43.27719],[-77.64803000000001,43.277501],[-77.650091,43.278246],[-77.65062,43.278409],[-77.650831,43.278459],[-77.65102899999999,43.278487],[-77.651241,43.278493],[-77.651545,43.278475],[-77.651735,43.278438],[-77.651949,43.278389],[-77.65272,43.278201],[-77.655862,43.279762],[-77.65534700000001,43.280219],[-77.652827,43.282715],[-77.65124299999999,43.281818],[-77.643118,43.278676],[-77.644125,43.276943],[-77.644419,43.27629]]],[[[-77.65642699999999,43.279662],[-77.655862,43.279762],[-77.65313500000001,43.278248],[-77.655753,43.277962],[-77.65823399999999,43.278162],[-77.65503,43.278762],[-77.65642699999999,43.279662]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 85847147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-74.3022973632,44.3511694541,-74.2822973632,44.3711694541",
+    "geom:latitude":44.361169,
+    "geom:longitude":-74.292297,
+    "gn:elevation":488,
+    "iso:country":"US",
+    "lbl:latitude":44.361168,
+    "lbl:longitude":-74.292297,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5136300,
+    "misc:gn_nam_loc":"santa clara",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Saranac Inn",
+    "misc:local_max":26,
+    "misc:local_sum":29,
+    "misc:localhoods":2,
+    "misc:name":"Saranac Inn",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Franklin",
+    "misc:name_local":"Santa Clara",
+    "misc:photo_max":3,
+    "misc:photo_sum":3,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589328,
+    "misc:woe_lau":0,
+    "misc:woe_local":2488832,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":44.361169,
+    "mps:longitude":-74.292297,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Saranac Inn"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":652,
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102081817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5136321,
+        "gp:id":2489016,
+        "qs:id":47769,
+        "wd:id":"Q7423061",
+        "wk:page":"Saranac Inn"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f61db1faba660ad479a3b53664f8e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081817,
+            "neighbourhood_id":85847147,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85847147,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467243917,
+    "wof:name":"Saranac Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.3022973632498,
+    44.35116945405024,
+    -74.28229736324994,
+    44.37116945405008
+],
+  "geometry": {"coordinates":[[[-74.29034646002953,44.35136160124615],[-74.29229736324993,44.35116945405024],[-74.29424826647005,44.35136160124615],[-74.29612419757348,44.35193065872507],[-74.29785306558011,44.35285475792712],[-74.29936843106182,44.35409838623811],[-74.30061205937301,44.35561375172001],[-74.30153615857495,44.35734261972637],[-74.30210521605397,44.35921855082979],[-74.30229736324981,44.3611694540502],[-74.30210521605397,44.36312035727032],[-74.30153615857495,44.36499628837377],[-74.30061205937301,44.36672515638038],[-74.29936843106182,44.36824052186201],[-74.29785306558011,44.36948415017328],[-74.29612419757348,44.37040824937525],[-74.29424826647005,44.37097730685407],[-74.29229736324993,44.37116945405008],[-74.29034646002953,44.37097730685407],[-74.28847052892627,44.37040824937525],[-74.28674166091974,44.36948415017328],[-74.28522629543801,44.36824052186201],[-74.28398266712685,44.36672515638038],[-74.28305856792488,44.36499628837377],[-74.28248951044588,44.36312035727032],[-74.28229736324994,44.3611694540502],[-74.28248951044588,44.35921855082979],[-74.28305856792488,44.35734261972637],[-74.28398266712685,44.35561375172001],[-74.28522629543801,44.35409838623811],[-74.28674166091974,44.35285475792712],[-74.28847052892627,44.35193065872507],[-74.29034646002953,44.35136160124615]]],"type":"Polygon"}
+}

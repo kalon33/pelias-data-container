@@ -1,0 +1,69 @@
+{
+  "id": 420530471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-73.745111,41.005535,-73.744062,41.006639",
+    "geom:latitude":41.00595,
+    "geom:longitude":-73.744561,
+    "iso:country":"US",
+    "lbl:latitude":41.005916,
+    "lbl:longitude":-73.744546,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Gedney Meadows"
+    ],
+    "src:geom":"zetashapes",
+    "src:lbl":"mapshaper",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        404523395,
+        85633793,
+        85978761,
+        102082373,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55992297
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4bba8cebdf7083f18397249baf96f1d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
+            "neighbourhood_id":420530471,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":420530471,
+    "wof:lastmodified":1473199945,
+    "wof:name":"Gedney Meadows",
+    "wof:parent_id":85978761,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:area_m":5916.075796,
+    "zs:blockids":"361190097034002",
+    "zs:housing10":3,
+    "zs:id":55992297,
+    "zs:label":"Gedney Meadows",
+    "zs:pop10":9
+},
+  "bbox": [
+    -73.745111,
+    41.005535,
+    -73.744062,
+    41.006639
+],
+  "geometry": {"coordinates":[[[[-73.744719,41.006639],[-73.744632,41.006525],[-73.74452700000001,41.00642],[-73.74412100000001,41.00605],[-73.744083,41.006002],[-73.744062,41.005955],[-73.744068,41.005836],[-73.744118,41.005712],[-73.744163,41.005667],[-73.744302,41.005571],[-73.74442999999999,41.005541],[-73.744525,41.005535],[-73.74465600000001,41.005541],[-73.744801,41.005591],[-73.74497599999999,41.005695],[-73.74511099999999,41.005793],[-73.74472400000001,41.006389],[-73.744719,41.006639]]]],"type":"MultiPolygon"}
+}

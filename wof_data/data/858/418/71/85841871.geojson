@@ -1,0 +1,95 @@
+{
+  "id": 85841871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-77.9332788086,42.7511293521,-77.9132788086,42.7711293521",
+    "geom:latitude":42.761129,
+    "geom:longitude":-77.923279,
+    "iso:country":"US",
+    "lbl:latitude":42.761127,
+    "lbl:longitude":-77.923279,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5124210,
+    "misc:gn_nam_loc":"Leicester, Livingston, New York, US",
+    "misc:gn_namadm1":"NY",
+    "misc:local_max":1,
+    "misc:local_sum":1,
+    "misc:localhoods":1,
+    "misc:name":"Pine Tavern",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Livingston",
+    "misc:name_local":"Leicester",
+    "misc:photo_max":1,
+    "misc:photo_sum":1,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589337,
+    "misc:woe_lau":0,
+    "misc:woe_local":2438067,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":42.761129,
+    "mps:longitude":-77.923279,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Pine Tavern"
+    ],
+    "qs:id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":1152,
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102082381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2472416,
+        "wd:id":"Q16898461"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6102d477da36c250750956013a871b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082381,
+            "neighbourhood_id":85841871,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85841871,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467183511,
+    "wof:name":"Pine Tavern",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93327880860002,
+    42.75112935205001,
+    -77.9132788085999,
+    42.77112935205024
+],
+  "geometry": {"coordinates":[[[-77.92132790537983,42.75132149924612],[-77.92327880859995,42.75112935205001],[-77.92522971182018,42.75132149924612],[-77.92710564292361,42.75189055672504],[-77.92883451093013,42.75281465592708],[-77.93034987641187,42.75405828423827],[-77.93159350472285,42.75557364971998],[-77.93251760392508,42.75730251772652],[-77.93308666140382,42.75917844882996],[-77.93327880860002,42.76112935205016],[-77.93308666140382,42.76308025527011],[-77.93251760392508,42.76495618637382],[-77.93159350472285,42.76668505438035],[-77.93034987641187,42.7682004198618],[-77.92883451093013,42.76944404817316],[-77.92710564292361,42.77036814737529],[-77.92522971182018,42.77093720485421],[-77.92327880859995,42.77112935205024],[-77.92132790537983,42.77093720485421],[-77.9194519742764,42.77036814737529],[-77.91772310626976,42.76944404817316],[-77.91620774078814,42.7682004198618],[-77.91496411247687,42.76668505438035],[-77.91404001327481,42.76495618637382],[-77.91347095579573,42.76308025527011],[-77.9132788085999,42.76112935205016],[-77.91347095579573,42.75917844882996],[-77.91404001327481,42.75730251772652],[-77.91496411247687,42.75557364971998],[-77.91620774078814,42.75405828423827],[-77.91772310626976,42.75281465592708],[-77.9194519742764,42.75189055672504],[-77.92132790537983,42.75132149924612]]],"type":"Polygon"}
+}

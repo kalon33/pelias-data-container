@@ -1,0 +1,109 @@
+{
+  "id": 85804863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000285,
+    "geom:area_square_m":2569289.033192,
+    "geom:bbox":"-77.5432999907,43.1791440716,-77.5208183195,43.2051754887",
+    "geom:latitude":43.193649,
+    "geom:longitude":-77.532317,
+    "gn:elevation":74,
+    "iso:country":"US",
+    "lbl:latitude":43.188156,
+    "lbl:longitude":-77.535736,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5122331,
+    "misc:gn_nam_loc":"irondequoit",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Bay View",
+    "misc:local_max":901,
+    "misc:local_sum":2406,
+    "misc:localhoods":8,
+    "misc:name":"Bay View",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New York",
+    "misc:name_adm2":"Monroe",
+    "misc:name_local":"Irondequoit",
+    "misc:photo_max":10,
+    "misc:photo_sum":20,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":6,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347591,
+    "misc:woe_adm2":12589339,
+    "misc:woe_funk":"Grouping neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2427600,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":43.194655,
+    "mps:longitude":-77.533094,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Bay View"
+    ],
+    "name:eng_x_variant":[
+        "Bay Vw"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":71,
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        404522639,
+        85633793,
+        85979035,
+        102081815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5108177,
+        "gp:id":2360262,
+        "qs:id":996856,
+        "wd:id":"Q402004"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4ea546321a093478e036b51f2791492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081815,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
+            "neighbourhood_id":85804863,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":85804863,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1479862185,
+    "wof:name":"Bay View",
+    "wof:parent_id":85979035,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5432999907336,
+    43.17914407162549,
+    -77.52081831951818,
+    43.20517548872543
+],
+  "geometry": {"coordinates":[[[-77.53747126061859,43.17914407162549],[-77.54004338778122,43.17914407162549],[-77.54150390620006,43.18114699366625],[-77.54150395413274,43.18114705940006],[-77.5432999907336,43.18361010351335],[-77.54150390620006,43.18508807126412],[-77.54150390620006,43.1851525094001],[-77.54150390620006,43.18915769650003],[-77.54045222294943,43.18915769650003],[-77.53992636644932,43.19132131725662],[-77.53875732419991,43.19292472586251],[-77.53875732419991,43.19316255520008],[-77.53875732419991,43.19728549393547],[-77.53332170249899,43.20101373922201],[-77.53206231171782,43.20446907302455],[-77.53051757812477,43.20517548872543],[-77.52373705716877,43.20517548872543],[-77.52081831951818,43.20117135275036],[-77.52227783202477,43.19716721680037],[-77.52227783202477,43.19692989742687],[-77.52502436617652,43.19316262090005],[-77.52502441409996,43.19316255516597],[-77.52648435765997,43.19116002732544],[-77.52905763453981,43.19116002732544],[-77.53051753024155,43.18915769650003],[-77.5305175780999,43.18915763085955],[-77.53326416014988,43.18539053578795],[-77.53326416014988,43.18515244367542],[-77.53326416014988,43.18491359438379],[-77.53601069426708,43.18114705940006],[-77.53601074219995,43.18114699366598],[-77.53747126061859,43.17914407162549]]],"type":"Polygon"}
+}
