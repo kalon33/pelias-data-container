@@ -11,5 +11,9 @@ mkdir -p $DATA/gtfs
 cd $DATA/gtfs
 wget -nv http://web.mta.info/developers/data/nyct/subway/$NAME
 
+#empty translations.txt 
+echo "trans_id,lang,translation" >> translations.txt
+zip -u $name translations.txt
+
 echo '##### Loaded GTFS data'
 echo 'OK' >> /tmp/loadresults
