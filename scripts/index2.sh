@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # errors should break the execution
-set -e
+set -e -x
 
 # param: zip name containing gtfs data
 function import_gtfs {
@@ -12,7 +12,7 @@ function import_gtfs {
 }
 
 cd $DATA/gtfs
-echo $PWD
+
 targets=(`ls *.zip`)
 for target in "${targets[@]}"
 do
