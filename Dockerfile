@@ -1,10 +1,10 @@
 FROM elasticsearch:2.3
 MAINTAINER Reittiopas version: 0.1
 
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends git unzip python python-pip python-dev build-essential gdal-bin rlwrap && \
+RUN apt-get update -q && \
+    apt-get install -yq --no-install-recommends git unzip python python-pip python-dev build-essential gdal-bin rlwrap && \
     curl -sL https://deb.nodesource.com/setup_4.x | bash - && \
-    apt-get install -y --no-install-recommends nodejs && \
+    apt-get install -yq --no-install-recommends nodejs && \
     apt-get clean autoclean && \
     rm -rf /var/lib/apt/lists/*
 
