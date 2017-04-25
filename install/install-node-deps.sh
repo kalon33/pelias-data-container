@@ -22,7 +22,7 @@ function install_node_project {
     if [ -n "$3" ]; then
         git checkout $3
     fi
-    npm install
+    npm install -q
 
     #make the package locally available
     npm link
