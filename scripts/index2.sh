@@ -12,6 +12,7 @@ function import_gtfs {
 }
 
 cd $DATA/gtfs
+echo $PWD
 targets=(`ls *.zip`)
 for target in "${targets[@]}"
 do
