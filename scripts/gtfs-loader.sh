@@ -13,7 +13,7 @@ wget -nv http://web.mta.info/developers/data/nyct/subway/$NAME
 
 #empty translations.txt 
 echo "trans_id,lang,translation" >> translations.txt
-zip -u $name translations.txt
+zip -u $NAME translations.txt
 
 echo '##### Loaded GTFS data'
 echo 'OK' >> /tmp/loadresults
