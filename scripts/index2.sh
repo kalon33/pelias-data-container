@@ -23,7 +23,7 @@ echo '###### gtfs done'
 #import openaddresses data
 cd  $TOOLS/openaddresses
 
-bin/parallel 2 --language=en --merge --merge-fields=name
+#bin/parallel 2 --language=en --merge --merge-fields=name
 echo '###### openaddresses/en done'
 
 echo 'OK' >> /tmp/indexresults
