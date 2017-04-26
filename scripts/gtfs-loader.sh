@@ -36,7 +36,7 @@ done
 echo "trans_id,lang,translation" >> translations.txt
 
 for NAME in *.zip; do
-	zip -u $NAME translations.txt
+	zip -uq $NAME translations.txt
 done
 
 echo '##### Loaded GTFS data'

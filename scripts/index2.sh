@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # errors should break the execution
-set -e -x
+set -e 
 
 # param: zip name containing gtfs data
 function import_gtfs {
-    unzip -o $1
+    unzip -q -o $1
     prefix=$(echo $1 | sed 's/.zip//g')
     prefix=${prefix^^}
     node $TOOLS/pelias-gtfs/import -d $DATA/gtfs --prefix=$prefix
