@@ -1,0 +1,69 @@
+{
+  "id": 404477273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002296,
+    "geom:area_square_m":21872745.066925,
+    "geom:bbox":"-74.884346,39.561656,-74.800782,39.624094",
+    "geom:latitude":39.592808,
+    "geom:longitude":-74.842559,
+    "iso:country":"US",
+    "lbl:latitude":39.592805,
+    "lbl:longitude":-74.842559,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Folsom"
+    ],
+    "qs:a0":"United States",
+    "qs:a1":"New Jersey",
+    "qs:a1_lc":"34",
+    "qs:a2":"Atlantic",
+    "qs:a2_lc":"34001",
+    "qs:adm0":"United States",
+    "qs:adm0_a3":"USA",
+    "qs:la":"Folsom",
+    "qs:la_lc":"3400123940",
+    "qs:level":"localadmin",
+    "qs:pop":1885,
+    "qs:source":"US Census",
+    "qs:type":"boro",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688607,
+        102083869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"US",
+    "wof:geomhash":"115f45a8c87c4d4573fa7d1f53501633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083869,
+            "localadmin_id":404477273,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":404477273,
+    "wof:lastmodified":1479863999,
+    "wof:name":"Folsom",
+    "wof:parent_id":102083869,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.884346,
+    39.561656,
+    -74.800782,
+    39.624094
+],
+  "geometry": {"coordinates":[[[-74.86115100000001,39.586053],[-74.867132,39.590201],[-74.88434599999999,39.602076],[-74.882318,39.603833],[-74.877189,39.608288],[-74.859134,39.624094],[-74.83618300000001,39.607945],[-74.800782,39.58352],[-74.81861499999999,39.567862],[-74.82591499999999,39.561656],[-74.86115100000001,39.586053]]],"type":"Polygon"}
+}
