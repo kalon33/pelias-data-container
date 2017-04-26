@@ -1,0 +1,110 @@
+{
+  "id": 85892327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":284880.463982,
+    "geom:bbox":"-74.159749,40.673903,-74.137574,40.689055",
+    "geom:latitude":40.681538,
+    "geom:longitude":-74.148647,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":40.664234,
+    "lbl:longitude":-74.123849,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5095445,
+    "misc:gn_nam_loc":"bayonne",
+    "misc:gn_namadm1":"NJ",
+    "misc:gn_name":"Centerville",
+    "misc:local_max":424,
+    "misc:local_sum":1195,
+    "misc:localhoods":5,
+    "misc:name":"Centreville",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Hudson",
+    "misc:name_local":"Bayonne",
+    "misc:photo_max":73,
+    "misc:photo_sum":280,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":28,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589266,
+    "misc:woe_lau":0,
+    "misc:woe_local":2360347,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.683959,
+    "mps:longitude":-74.151886,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Centreville"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
+        102080719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55991582,
+        "qs:id":1090651
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bcaaddc3f1324a97a7febd8b731237d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478127,
+            "locality_id":85975307,
+            "neighbourhood_id":85892327,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85892327,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1479862468,
+    "wof:name":"Centreville",
+    "wof:parent_id":85975307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        340139802001213,
+        340139802001215
+    ],
+    "zs:housing10":0,
+    "zs:pop10":0
+},
+  "bbox": [
+    -74.159749,
+    40.673903,
+    -74.137574,
+    40.689055
+],
+  "geometry": {"coordinates":[[[[-74.14547899999999,40.67793],[-74.144913,40.678977],[-74.137574,40.674455],[-74.138195,40.674179],[-74.13881600000001,40.673903],[-74.13880899999999,40.674024],[-74.13889500000001,40.674057],[-74.139126,40.674018],[-74.144204,40.677146],[-74.144317,40.677216],[-74.14496,40.677612],[-74.145229,40.677777],[-74.14547899999999,40.67793]]],[[[-74.144913,40.678977],[-74.14509700000001,40.67909],[-74.15974900000001,40.688117],[-74.159105,40.689055],[-74.15883100000001,40.688907],[-74.15374,40.685781],[-74.15254299999999,40.685039],[-74.14557000000001,40.680863],[-74.144302,40.680108],[-74.14457400000001,40.679605],[-74.144913,40.678977]]]],"type":"MultiPolygon"}
+}

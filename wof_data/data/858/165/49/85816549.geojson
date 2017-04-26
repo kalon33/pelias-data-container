@@ -1,0 +1,122 @@
+{
+  "id": 85816549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":300956.644246,
+    "geom:bbox":"-73.979039,40.294211,-73.97336,40.30208",
+    "geom:latitude":40.298672,
+    "geom:longitude":-73.976112,
+    "gn:elevation":6,
+    "iso:country":"US",
+    "lbl:latitude":40.315723,
+    "lbl:longitude":-73.977268,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5100619,
+    "misc:gn_nam_loc":"Long Branch, Monmouth, New Jersey, US",
+    "misc:gn_namadm1":"NJ",
+    "misc:gn_name":"East Long Branch",
+    "misc:local_max":2784,
+    "misc:local_sum":5381,
+    "misc:localhoods":3,
+    "misc:name":"East Long Branch",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Monmouth",
+    "misc:name_local":"Long Branch",
+    "misc:photo_max":97,
+    "misc:photo_sum":454,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":20,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589270,
+    "misc:woe_funk":"Grouping neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2441504,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.298291,
+    "mps:longitude":-73.975774,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":13,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "East Long Branch"
+    ],
+    "name:eng_x_variant":[
+        "E Long Br",
+        "E Long Branch",
+        "East Long Br"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:latitude":40.3133,
+    "wk:longitude":-73.9778,
+    "wk:wordcount":121,
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478361,
+        85633793,
+        85975423,
+        102085049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5097433,
+        "gp:id":2395844,
+        "qs:id":895152,
+        "wd:id":"Q5328873",
+        "wk:page":"East Long Branch, New Jersey"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7ff8a09e7416f80daf197d6ee7cbbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478361,
+            "locality_id":85975423,
+            "neighbourhood_id":85816549,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85816549,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1479856932,
+    "wof:name":"East Long Branch",
+    "wof:parent_id":85975423,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        340258058004001,
+        340258058004000
+    ],
+    "zs:housing10":0,
+    "zs:pop10":0
+},
+  "bbox": [
+    -73.979039,
+    40.294211,
+    -73.97336,
+    40.30208
+],
+  "geometry": {"coordinates":[[[-73.97657,40.302027],[-73.97336,40.30208],[-73.973681,40.298711],[-73.974181,40.295711],[-73.978781,40.294211],[-73.977881,40.297611],[-73.977481,40.299311],[-73.977442,40.299373],[-73.979039,40.299163],[-73.978973,40.299484],[-73.97891799999999,40.299749],[-73.978831,40.300182],[-73.978748,40.300462],[-73.978714,40.300631],[-73.978629,40.301041],[-73.978596,40.301205],[-73.978472,40.3018],[-73.97845100000001,40.301924],[-73.97657,40.302027]]],"type":"Polygon"}
+}

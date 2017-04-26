@@ -1,0 +1,130 @@
+{
+  "id": 85878435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":166233.364392,
+    "geom:bbox":"-74.043382,40.7177,-74.036427,40.722091",
+    "geom:latitude":40.719941,
+    "geom:longitude":-74.039269,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":40.720217,
+    "lbl:longitude":-74.03873,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5099836,
+    "misc:gn_nam_loc":"Jersey City, Hudson, New Jersey, US",
+    "misc:gn_namadm1":"NJ",
+    "misc:local_max":9375,
+    "misc:local_sum":45436,
+    "misc:localhoods":25,
+    "misc:name":"Waldo",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Hudson",
+    "misc:name_local":"Jersey City",
+    "misc:photo_max":311,
+    "misc:photo_sum":831,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":23,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589266,
+    "misc:woe_funk":"Parented by a neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2429187,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.719856,
+    "mps:longitude":-74.039032,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19,
+    "mz:min_zoom":16,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Waldo"
+    ],
+    "name:eng_x_variant":[
+        "Powerhouse Arts District",
+        "Work and Live Overlay District"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wk:wordcount":659,
+    "wof:belongsto":[
+        102191575,
+        404478139,
+        85633793,
+        85975295,
+        102080719,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55859830,
+        "qs:id":891002,
+        "wd:id":"Q7236724"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db404379dc1f3e03591a35c23b74866b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":85878435,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85878435,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1491425475,
+    "wof:name":"Powerhouse Arts District",
+    "wof:parent_id":85975295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        340170076001017,
+        340170070003012,
+        340170076001018,
+        340170076001019,
+        340170076001010,
+        340170076001011,
+        340170064002000,
+        340170076001015,
+        340170076001007,
+        340170076001021,
+        340170076001012,
+        340170076001016,
+        340170076001008,
+        340170076001020,
+        340170064002001
+    ],
+    "zs:housing10":1325,
+    "zs:pop10":2156
+},
+  "bbox": [
+    -74.043382,
+    40.7177,
+    -74.036427,
+    40.722091
+],
+  "geometry": {"coordinates":[[[-74.036968,40.718837],[-74.037088,40.718203],[-74.037097,40.718155],[-74.03717899999999,40.717723],[-74.037183,40.7177],[-74.038836,40.718218],[-74.0398,40.71852],[-74.041335,40.719002],[-74.041358,40.718796],[-74.041864,40.718469],[-74.04201399999999,40.718372],[-74.04338199999999,40.718794],[-74.04297800000001,40.719491],[-74.042967,40.71951],[-74.04182,40.719153],[-74.041839,40.719175],[-74.04275199999999,40.719891],[-74.042896,40.71996],[-74.04285400000001,40.720236],[-74.041218,40.720084],[-74.041121,40.720794],[-74.041022,40.721518],[-74.039361,40.721389],[-74.03925700000001,40.722091],[-74.038122,40.721958],[-74.03810199999999,40.721958],[-74.03742699999999,40.721857],[-74.036513,40.72172],[-74.036427,40.721707],[-74.036529,40.721159],[-74.036537,40.721115],[-74.036553,40.72103],[-74.03654400000001,40.721022],[-74.036692,40.720261],[-74.036821,40.719597],[-74.036968,40.718837]]],"type":"Polygon"}
+}

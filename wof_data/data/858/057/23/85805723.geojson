@@ -1,0 +1,103 @@
+{
+  "id": 85805723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-74.414129,40.679157,-74.412931,40.680724",
+    "geom:latitude":40.679945,
+    "geom:longitude":-74.413568,
+    "iso:country":"US",
+    "lbl:latitude":40.678555,
+    "lbl:longitude":-74.413147,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5095617,
+    "misc:gn_nam_loc":"Berkeley Heights, Union, New Jersey, US",
+    "misc:gn_namadm1":"NJ",
+    "misc:local_max":195,
+    "misc:local_sum":252,
+    "misc:localhoods":3,
+    "misc:name":"Benders Corner",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Union",
+    "misc:name_local":"Berkeley Heights",
+    "misc:photo_max":18,
+    "misc:photo_sum":18,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589277,
+    "misc:woe_lau":0,
+    "misc:woe_local":2362940,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.67993,
+    "mps:longitude":-74.413565,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Benders Corner"
+    ],
+    "name:eng_x_variant":[
+        "Benders Cor"
+    ],
+    "qs:id":0,
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        102085995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2362508
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45be6e85f3e6c101e9117a8e0f45cc44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085995,
+            "neighbourhood_id":85805723,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85805723,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784232,
+    "wof:name":"Benders Corner",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        340390382012018
+    ],
+    "zs:housing10":6,
+    "zs:pop10":14
+},
+  "bbox": [
+    -74.414129,
+    40.679157,
+    -74.412931,
+    40.680724
+],
+  "geometry": {"coordinates":[[[-74.41365999999999,40.680724],[-74.412931,40.679469],[-74.413443,40.679157],[-74.413712,40.679471],[-74.413809,40.679687],[-74.413906,40.679957],[-74.41395900000001,40.680051],[-74.414118,40.680281],[-74.414129,40.680357],[-74.41412699999999,40.680396],[-74.414106,40.680471],[-74.41406600000001,40.680541],[-74.414007,40.680603],[-74.413971,40.680631],[-74.41388999999999,40.680676],[-74.413798,40.680708],[-74.41372800000001,40.680719],[-74.41369899999999,40.680724],[-74.41365999999999,40.680724]]],"type":"Polygon"}
+}

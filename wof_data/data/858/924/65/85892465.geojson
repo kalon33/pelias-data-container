@@ -1,0 +1,120 @@
+{
+  "id": 85892465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:bbox":"-74.300207,40.514834,-74.290282,40.521148",
+    "geom:latitude":40.517824,
+    "geom:longitude":-74.294742,
+    "gn:elevation":12,
+    "iso:country":"US",
+    "lbl:latitude":40.525581,
+    "lbl:longitude":-74.284256,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPLX",
+    "misc:gn_local":5102578,
+    "misc:gn_nam_loc":"Perth Amboy, Middlesex, New Jersey, US",
+    "misc:gn_namadm1":"NY",
+    "misc:gn_name":"Chinatown",
+    "misc:local_max":562,
+    "misc:local_sum":753,
+    "misc:localhoods":5,
+    "misc:name":"Chickentown",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Middlesex",
+    "misc:name_local":"Perth Amboy",
+    "misc:photo_max":2,
+    "misc:photo_sum":7,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":6,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589269,
+    "misc:woe_lau":0,
+    "misc:woe_local":2470835,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.517823,
+    "mps:longitude":-74.294742,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Chickentown"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688607,
+        85975737,
+        85633793,
+        102087417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5112540,
+        "gp:id":55991706,
+        "qs:id":489349,
+        "wd:id":"Q866332",
+        "wk:page":"Chinatown, Manhattan"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caf6c68a65fd9568cab0185cd8cf0b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087417,
+            "locality_id":85975737,
+            "neighbourhood_id":85892465,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85892465,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466785108,
+    "wof:name":"Chickentown",
+    "wof:parent_id":85975737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        340230033003007,
+        340230033003009,
+        340230033003003,
+        340230033003010,
+        340230033003012,
+        340230033003005,
+        340230033003004,
+        340230033003002,
+        340230033003008,
+        340230033003006,
+        340230033003011,
+        340230033003000,
+        340230033003001,
+        340230033003013
+    ],
+    "zs:housing10":629,
+    "zs:pop10":1874
+},
+  "bbox": [
+    -74.300207,
+    40.514834,
+    -74.290282,
+    40.521148
+],
+  "geometry": {"coordinates":[[[-74.294027,40.515307],[-74.295029,40.515312],[-74.29542499999999,40.515335],[-74.29609000000001,40.515375],[-74.29685600000001,40.51542],[-74.29688899999999,40.515478],[-74.29703600000001,40.515575],[-74.29711500000001,40.515582],[-74.298463,40.515625],[-74.298778,40.515634],[-74.299066,40.515642],[-74.299362,40.515636],[-74.29958999999999,40.515631],[-74.299893,40.515618],[-74.29987,40.516007],[-74.299853,40.516294],[-74.29995700000001,40.517803],[-74.299972,40.518026],[-74.300061,40.518485],[-74.300207,40.519244],[-74.300102,40.51924],[-74.299181,40.519274],[-74.298755,40.519296],[-74.298179,40.519326],[-74.29700200000001,40.519531],[-74.296955,40.519539],[-74.296283,40.519771],[-74.29542499999999,40.520067],[-74.29385499999999,40.520686],[-74.29332100000001,40.520964],[-74.292967,40.521148],[-74.292743,40.521092],[-74.292356,40.521007],[-74.29179000000001,40.520892],[-74.29053,40.520616],[-74.290282,40.520543],[-74.29033099999999,40.520102],[-74.29042,40.519299],[-74.290426,40.519249],[-74.290469,40.518929],[-74.290336,40.51838],[-74.290341,40.517792],[-74.290634,40.516489],[-74.29065300000001,40.514834],[-74.292185,40.515239],[-74.29279,40.515301],[-74.29339400000001,40.515304],[-74.294027,40.515307]]],"type":"Polygon"}
+}

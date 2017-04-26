@@ -1,0 +1,125 @@
+{
+  "id": 85892477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:bbox":"-74.420948,40.594837,-74.415855,40.597863",
+    "geom:latitude":40.597297,
+    "geom:longitude":-74.419628,
+    "gn:id":"",
+    "iso:country":"US",
+    "lbl:latitude":40.604867,
+    "lbl:longitude":-74.418663,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5102720,
+    "misc:gn_nam_loc":"Plainfield, Union, New Jersey, US",
+    "misc:gn_namadm1":"NJ",
+    "misc:local_max":246,
+    "misc:local_sum":483,
+    "misc:localhoods":3,
+    "misc:name":"Van Wyck Brooks",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Union",
+    "misc:name_local":"Plainfield",
+    "misc:photo_max":202,
+    "misc:photo_sum":246,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":17,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589277,
+    "misc:woe_lau":0,
+    "misc:woe_local":2473352,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.597342,
+    "mps:longitude":-74.419699,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":14,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Van Wyck Brooks"
+    ],
+    "name:eng_x_preferred":[
+        "Van Wyck Brooks"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0646 \u0648\u0627\u06cc\u06a9 \u0628\u0631\u0648\u06a9\u0633"
+    ],
+    "name:ita_x_preferred":[
+        "Van Wyck Brooks"
+    ],
+    "name:spa_x_preferred":[
+        "Van Wyck Brooks"
+    ],
+    "name:swe_x_preferred":[
+        "Van Wyck Brooks"
+    ],
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":801,
+    "wof:belongsto":[
+        102191575,
+        404478213,
+        85633793,
+        85975729,
+        102087417,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55991722,
+        "qs:id":899500,
+        "wd:id":"Q647006"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f04c2aa4fcebf7fcd5437943e700d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087417,
+            "localadmin_id":404478213,
+            "locality_id":85975729,
+            "neighbourhood_id":85892477,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85892477,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467244386,
+    "wof:name":"Van Wyck Brooks",
+    "wof:parent_id":85975729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        340230009011006,
+        340230009011015
+    ],
+    "zs:housing10":16,
+    "zs:pop10":40
+},
+  "bbox": [
+    -74.420948,
+    40.594837,
+    -74.415855,
+    40.597863
+],
+  "geometry": {"coordinates":[[[[-74.41585499999999,40.594933],[-74.41586100000001,40.594911],[-74.415873,40.594891],[-74.41589,40.594873],[-74.41591200000001,40.594858],[-74.415937,40.594847],[-74.415965,40.59484],[-74.415994,40.594837],[-74.416023,40.59484],[-74.416051,40.594847],[-74.416077,40.594858],[-74.416099,40.594873],[-74.416116,40.594891],[-74.416128,40.594911],[-74.416134,40.594933],[-74.416134,40.594956],[-74.416128,40.594978],[-74.416116,40.594998],[-74.41609800000001,40.595016],[-74.416077,40.595031],[-74.416051,40.595042],[-74.416023,40.595049],[-74.415994,40.595051],[-74.415965,40.595049],[-74.415938,40.595042],[-74.41591200000001,40.595031],[-74.41589,40.595016],[-74.415873,40.594998],[-74.41586100000001,40.594977],[-74.41585499999999,40.594955],[-74.41585499999999,40.594933]]],[[[-74.420895,40.596825],[-74.420948,40.5978],[-74.41850100000001,40.597863],[-74.418458,40.596882],[-74.42087600000001,40.596825],[-74.420895,40.596825]]]],"type":"MultiPolygon"}
+}

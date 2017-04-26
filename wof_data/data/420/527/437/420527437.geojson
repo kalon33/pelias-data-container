@@ -1,0 +1,71 @@
+{
+  "id": 420527437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:bbox":"-74.14717,39.950159,-74.145494,39.951284",
+    "geom:latitude":39.950703,
+    "geom:longitude":-74.146326,
+    "iso:country":"US",
+    "lbl:latitude":39.950708,
+    "lbl:longitude":-74.146326,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Gilford Park"
+    ],
+    "src:geom":"zetashapes",
+    "src:lbl":"mapshaper",
+    "src:lbl:centroid":"mapshaper",
+    "wk:wordcount":58,
+    "wof:belongsto":[
+        102191575,
+        404477803,
+        85633793,
+        85976323,
+        102081485,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2410214,
+        "wd:id":"Q5561766"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4289d92a0d9d0a78938143dc5aa98aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477803,
+            "locality_id":85976323,
+            "neighbourhood_id":420527437,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":420527437,
+    "wof:lastmodified":1473199907,
+    "wof:name":"Gilford Park",
+    "wof:parent_id":85976323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:area_m":14398.437449,
+    "zs:blockids":"340297235001009",
+    "zs:housing10":8,
+    "zs:id":2410214,
+    "zs:label":"Gilford Park",
+    "zs:pop10":17
+},
+  "bbox": [
+    -74.14717,
+    39.950159,
+    -74.145494,
+    39.951284
+],
+  "geometry": {"coordinates":[[[[-74.14717,39.950277],[-74.147041,39.951109],[-74.147014,39.951284],[-74.145494,39.951091],[-74.145582,39.950159],[-74.14663,39.950245],[-74.14717,39.950277]]]],"type":"MultiPolygon"}
+}

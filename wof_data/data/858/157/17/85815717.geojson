@@ -1,0 +1,96 @@
+{
+  "id": 85815717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:bbox":"-74.5769555664,39.7542140052,-74.5569555664,39.7742140052",
+    "geom:latitude":39.764214,
+    "geom:longitude":-74.566956,
+    "gn:elevation":25,
+    "iso:country":"US",
+    "lbl:latitude":39.764214,
+    "lbl:longitude":-74.566956,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":4504728,
+    "misc:gn_nam_loc":"washington",
+    "misc:gn_namadm1":"NJ",
+    "misc:gn_name":"Eagle",
+    "misc:local_max":90,
+    "misc:local_sum":132,
+    "misc:localhoods":4,
+    "misc:name":"Eagle",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Burlington",
+    "misc:name_local":"Washington",
+    "misc:photo_max":3,
+    "misc:photo_sum":3,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589260,
+    "misc:woe_lau":0,
+    "misc:woe_local":2514592,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":39.764214,
+    "mps:longitude":-74.566956,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Eagle"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        102087415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4501594,
+        "gp:id":2394995,
+        "qs:id":1160742
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75b689b8a4fed359425bf8149e9929dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087415,
+            "neighbourhood_id":85815717,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85815717,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784345,
+    "wof:name":"Eagle",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.57695556639993,
+    39.75421400515013,
+    -74.55695556639972,
+    39.77421400515018
+],
+  "geometry": {"coordinates":[[[-74.56500466317965,39.75440615234616],[-74.56695556639988,39.75421400515013],[-74.56890646962,39.75440615234616],[-74.57078240072371,39.75497520982499],[-74.57251126873024,39.75589930902713],[-74.57402663421169,39.75714293733822],[-74.57527026252296,39.75865830281984],[-74.57619436172502,39.76038717082646],[-74.57676341920401,39.76226310193007],[-74.57695556639993,39.76421400515002],[-74.57676341920401,39.76616490837033],[-74.57619436172502,39.76804083947367],[-74.57527026252296,39.76976970748039],[-74.57402663421169,39.77128507296202],[-74.57251126873024,39.7725287012731],[-74.57078240072371,39.77345280047516],[-74.56890646962,39.77402185795425],[-74.56695556639988,39.77421400515018],[-74.56500466317965,39.77402185795425],[-74.56312873207622,39.77345280047516],[-74.5613998640697,39.7725287012731],[-74.55988449858796,39.77128507296202],[-74.55864087027697,39.76976970748039],[-74.55771677107484,39.76804083947367],[-74.55714771359601,39.76616490837033],[-74.55695556639972,39.76421400515002],[-74.55714771359601,39.76226310193007],[-74.55771677107484,39.76038717082646],[-74.55864087027697,39.75865830281984],[-74.55988449858796,39.75714293733822],[-74.5613998640697,39.75589930902713],[-74.56312873207622,39.75497520982499],[-74.56500466317965,39.75440615234616]]],"type":"Polygon"}
+}

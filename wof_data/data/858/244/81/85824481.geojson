@@ -1,0 +1,106 @@
+{
+  "id": 85824481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"-74.76778,40.266151,-74.764562,40.269182",
+    "geom:latitude":40.267589,
+    "geom:longitude":-74.766103,
+    "iso:country":"US",
+    "lbl:latitude":40.260666,
+    "lbl:longitude":-74.753723,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5097751,
+    "misc:gn_nam_loc":"Ewing, Mercer, New Jersey, US",
+    "misc:gn_namadm1":"NJ",
+    "misc:local_max":985,
+    "misc:local_sum":2024,
+    "misc:localhoods":10,
+    "misc:name":"Heath Manor",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Mercer",
+    "misc:name_local":"Ewing",
+    "misc:photo_max":1,
+    "misc:photo_sum":1,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589268,
+    "misc:woe_funk":"Parented by a neighborhood",
+    "misc:woe_lau":0,
+    "misc:woe_local":2401020,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.266831,
+    "mps:longitude":-74.766796,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19,
+    "mz:min_zoom":16,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Heath Manor"
+    ],
+    "name:eng_x_variant":[
+        "Heath Mnr"
+    ],
+    "qs:id":0,
+    "src:geom":"zetashapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":42,
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        102081129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2419423,
+        "wd:id":"Q19462259"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b48a1f0605419cf3c68155b4c5dec232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081129,
+            "neighbourhood_id":85824481,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85824481,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467243896,
+    "wof:name":"Heath Manor",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:blockids":[
+        340210035006007
+    ],
+    "zs:housing10":27,
+    "zs:pop10":68
+},
+  "bbox": [
+    -74.76778,
+    40.266151,
+    -74.764562,
+    40.269182
+],
+  "geometry": {"coordinates":[[[-74.76589800000001,40.266321],[-74.766018,40.266256],[-74.766138,40.266209],[-74.766266,40.266175],[-74.766344,40.266162],[-74.766465,40.266151],[-74.766583,40.266152],[-74.766716,40.266166],[-74.766846,40.266194],[-74.766969,40.266236],[-74.76709700000001,40.266299],[-74.76719300000001,40.266362],[-74.767347,40.26648],[-74.76749,40.266606],[-74.767622,40.266739],[-74.76778,40.266914],[-74.76743500000001,40.267107],[-74.76732800000001,40.267187],[-74.767239,40.267278],[-74.766852,40.267719],[-74.766678,40.267884],[-74.766493,40.268036],[-74.765833,40.268499],[-74.765748,40.268584],[-74.765682,40.268679],[-74.765636,40.268781],[-74.765614,40.268866],[-74.76559399999999,40.269014],[-74.76546399999999,40.269004],[-74.76532899999999,40.269009],[-74.765196,40.269027],[-74.765068,40.26906],[-74.76494700000001,40.269106],[-74.76480599999999,40.269166],[-74.76476,40.269182],[-74.764588,40.268876],[-74.764565,40.268789],[-74.764562,40.268691],[-74.764588,40.268567],[-74.764633,40.268436],[-74.764709,40.268289],[-74.764792,40.268169],[-74.76489100000001,40.268057],[-74.765005,40.267953],[-74.76589800000001,40.267307],[-74.765989,40.267233],[-74.766063,40.26715],[-74.766124,40.267048],[-74.766159,40.266951],[-74.76617299999999,40.26685],[-74.766167,40.266749],[-74.766136,40.26664],[-74.766087,40.266546],[-74.76589800000001,40.266321]]],"type":"Polygon"}
+}

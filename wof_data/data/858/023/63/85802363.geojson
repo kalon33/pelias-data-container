@@ -1,0 +1,101 @@
+{
+  "id": 85802363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000249,
+    "geom:bbox":"-74.1754743226,41.0234267219,-74.1559545898,41.0403578653",
+    "geom:latitude":41.030911,
+    "geom:longitude":-74.165827,
+    "gn:elevation":96,
+    "iso:country":"US",
+    "lbl:latitude":41.031715,
+    "lbl:longitude":-74.165955,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_fcode":"PPL",
+    "misc:gn_local":5100776,
+    "misc:gn_nam_loc":"mahwah",
+    "misc:gn_namadm1":"NJ",
+    "misc:gn_name":"Ackermans Mills",
+    "misc:local_max":279,
+    "misc:local_sum":619,
+    "misc:localhoods":4,
+    "misc:name":"Ackermans Mills",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Bergen",
+    "misc:name_local":"Mahwah",
+    "misc:photo_max":1,
+    "misc:photo_sum":1,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589259,
+    "misc:woe_lau":0,
+    "misc:woe_local":2444298,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":41.030741,
+    "mps:longitude":-74.166009,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Ackermans Mills"
+    ],
+    "name:eng_x_variant":[
+        "Ackermans Mls"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":37,
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        102086773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5095091,
+        "gp:id":2351733,
+        "qs:id":960703,
+        "wd:id":"Q19460090"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"579275a37a8d5ad7095ee4ce9eaaebdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086773,
+            "neighbourhood_id":85802363,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85802363,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1467242693,
+    "wof:name":"Ackermans Mills",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.17547432264956,
+    41.02342672190032,
+    -74.15595458984984,
+    41.04035786526852
+],
+  "geometry": {"coordinates":[[[-74.15651292423027,41.03497156884613],[-74.15653856904339,41.03495786140783],[-74.15614673704587,41.03366616442032],[-74.15595458984984,41.03171526119993],[-74.15614673704587,41.0297643579798],[-74.1567157945247,41.02788842687646],[-74.15763989372684,41.02615955886975],[-74.15888352203802,41.02464419338811],[-74.16036701533858,41.02342672190032],[-74.17022946528809,41.02342672190032],[-74.17144775389977,41.02371168870336],[-74.17232316564287,41.02405296427348],[-74.17230279861019,41.02405095829587],[-74.17302565766181,41.02464419338811],[-74.174269285973,41.02615955886975],[-74.17519338517513,41.02788842687646],[-74.17544564054327,41.0287200013819],[-74.17547432264956,41.02869646258556],[-74.17363968629235,41.03599295519105],[-74.16870117184988,41.04035786526852],[-74.15651292423027,41.03497156884613]]],"type":"Polygon"}
+}

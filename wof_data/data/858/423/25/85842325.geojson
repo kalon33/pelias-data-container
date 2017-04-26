@@ -1,0 +1,96 @@
+{
+  "id": 85842325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:bbox":"-74.637322342,40.7476601175,-74.6174384002,40.7636338986",
+    "geom:latitude":40.755024,
+    "geom:longitude":-74.62738,
+    "iso:country":"US",
+    "lbl:latitude":40.75766,
+    "lbl:longitude":-74.62738,
+    "misc:gn_adm0_cc":"US",
+    "misc:gn_id":0,
+    "misc:gn_local":5101073,
+    "misc:gn_nam_loc":"mendham",
+    "misc:gn_namadm1":"NJ",
+    "misc:local_max":143,
+    "misc:local_sum":144,
+    "misc:localhoods":2,
+    "misc:name":"Pleasant Valley",
+    "misc:name_adm0":"United States",
+    "misc:name_adm1":"New Jersey",
+    "misc:name_adm2":"Morris",
+    "misc:name_local":"Mendham",
+    "misc:photo_max":1,
+    "misc:photo_sum":1,
+    "misc:placetype":"Suburb",
+    "misc:quad_count":1,
+    "misc:woe_adm0":23424977,
+    "misc:woe_adm1":2347589,
+    "misc:woe_adm2":12589271,
+    "misc:woe_lau":0,
+    "misc:woe_local":2449394,
+    "misc:woe_ver":"7.10.0",
+    "mps:latitude":40.755026,
+    "mps:longitude":-74.627191,
+    "mz:hierarchy_label":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18,
+    "mz:min_zoom":15,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Pleasant Valley"
+    ],
+    "name:eng_x_variant":[
+        "Pleasant Vly"
+    ],
+    "qs:id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        102087413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2474070
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d875d4817ded9f857372cdb5a0905ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087413,
+            "neighbourhood_id":85842325,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":85842325,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466784688,
+    "wof:name":"Pleasant Valley",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63732234195248,
+    40.74766011745028,
+    -74.61743840024715,
+    40.763633898577
+],
+  "geometry": {"coordinates":[[[-74.61743840024715,40.75707093762978],[-74.61757251829573,40.75570921422995],[-74.61814157577481,40.75383328312653],[-74.61906567497687,40.7521044151198],[-74.62030930328814,40.75058904963826],[-74.62182466876976,40.74934542132691],[-74.6235535367764,40.74842132212504],[-74.62542946787983,40.74785226464594],[-74.62738037109995,40.74766011745028],[-74.62933127432018,40.74785226464594],[-74.63120720542361,40.74842132212504],[-74.63293607343013,40.74934542132691],[-74.63445143891187,40.75058904963826],[-74.63569506722285,40.7521044151198],[-74.63661916642508,40.75383328312653],[-74.63718822390382,40.75570921422995],[-74.63732234195248,40.75707093762978],[-74.62738037109978,40.763633898577],[-74.61743840024715,40.75707093762978]]],"type":"Polygon"}
+}
