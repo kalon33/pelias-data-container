@@ -53,5 +53,5 @@ sleep 3
 rm -r $DATA
 rm -r $TOOLS
 dpkg -r nodejs
-apt-get purge -y git unzip python python-pip python-dev build-essential gdal-bin rlwrap
+apt-get purge -y git unzip zip python python-pip python-dev build-essential gdal-bin rlwrap
 apt-get clean
