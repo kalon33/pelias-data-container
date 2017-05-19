@@ -36,6 +36,7 @@
     "openaddresses": {
       "datapath": "/mnt/data/openaddresses/",
       "adminLookup": true,
+      "files": ["us/ny/city_of_new_york.csv"]
       "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
     },
     "geonames": {
