@@ -23,7 +23,8 @@
   "imports": {
     "defaultAdminLayers": ["localadmin", "locality", "neighbourhood", "region", "postalcode"],
     "adminLookup": {
-      "maxConcurrentReqs": 4
+      "maxConcurrentReqs": 4,
+      "enabled": true
     },
     "openstreetmap": {
       "datapath": "/mnt/data/openstreetmap/",
@@ -40,7 +41,7 @@
       "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
     },
     "geonames": {
-      "adminLookup": true
+      "datapath": "/mnt/data/geonames/US.txt"
     },
     "polyline": {
       "datapath": "/mnt/data/",

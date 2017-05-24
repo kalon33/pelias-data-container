@@ -3,8 +3,6 @@ MAINTAINER Reittiopas version: 0.1
 
 RUN apt-get update -q && \
     apt-get install -yq --no-install-recommends git unzip zip python python-pip python-dev build-essential gdal-bin rlwrap && \
-    curl -sL https://deb.nodesource.com/setup_4.x | bash - && \
-    apt-get install -yq --no-install-recommends nodejs && \
     apt-get clean autoclean && \
     rm -rf /var/lib/apt/lists/*
 
@@ -20,7 +18,7 @@ RUN /usr/share/elasticsearch/bin/plugin install mobz/elasticsearch-head && \
 RUN mkdir -p /var/lib/elasticsearch/pelias_data \
   && chown -R elasticsearch:elasticsearch /var/lib/elasticsearch/pelias_data
 
-ENV ES_HEAP_SIZE 4g
+ENV ES_HEAP_SIZE 12g
 
 #fewer layers
 RUN mkdir -p /mnt/tools/install && \
@@ -28,6 +26,19 @@ RUN mkdir -p /mnt/tools/install && \
     mkdir -p /mnt/data && \
     mkdir -p /mnt/data/openstreetmap && \
     mkdir -p /mnt/data/whosonfirst
+
+ENV NVM_DIR /usr/local/nvm
+ENV NODE_VERSION 4.8.3
+
+RUN curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash \
+    && . $NVM_DIR/nvm.sh \
+    && nvm install $NODE_VERSION \
+    && nvm alias default $NODE_VERSION \
+    && nvm use default \ 
+    && which npm
+
+ENV NODE_PATH $NVM_DIR/v$NODE_VERSION/lib/node_modules
+ENV PATH      $NVM_DIR/v$NODE_VERSION/bin:$PATH
 
 #moved install script to its own directory for caching
 ADD install/*.sh /mnt/tools/install/

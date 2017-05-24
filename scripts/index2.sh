@@ -11,6 +11,12 @@ function import_gtfs {
     node $TOOLS/pelias-gtfs/import -d $DATA/gtfs --prefix=$prefix
 }
 
+pushd $TOOLS/geonames
+echo '###### starting geonames import'
+npm start
+popd
+
+
 cd $DATA/gtfs
 
 targets=(`ls *.zip`)

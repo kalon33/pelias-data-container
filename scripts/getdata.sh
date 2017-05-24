@@ -13,6 +13,7 @@ SCRIPTS=$TOOLS/scripts
 $SCRIPTS/oa-loader.sh &
 $SCRIPTS/osm-loader.sh &
 $SCRIPTS/gtfs-loader.sh &
+$SCRIPTS/geonames-loader.sh &
 
 #launch also Elasticsearch at this point
 $SCRIPTS/start-ES.sh &
@@ -21,7 +22,7 @@ $SCRIPTS/start-ES.sh &
 wait
 
 ok_count=$(cat /tmp/loadresults | grep 'OK' | wc -l )
-if [ $ok_count -ne 4 ]; then
+if [ $ok_count -ne 5 ]; then
     echo 'Data loading failed'
     exit 1;
 fi

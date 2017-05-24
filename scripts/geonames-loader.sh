@@ -3,8 +3,10 @@
 # errors should break the execution
 set -e
 
-cd $TOOLS/geonames
-./bin/pelias-geonames -m
-./bin/pelias-geonames -d fi
+echo '##### downloading US geonames'
+mkdir -p $DATA/geonames
+cd $DATA/geonames
+curl -sS -O http://download.geonames.org/export/dump/US.zip
+unzip -c US.zip US.txt | grep -e 'US[[:space:]]*N[Y|J]' > US.txt
 
 echo 'OK' >> /tmp/loadresults

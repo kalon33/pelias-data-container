@@ -22,16 +22,19 @@ function install_node_project {
     if [ -n "$3" ]; then
         git checkout $3
     fi
-    npm install -q
+    #pelias-geonames needs to run a postinstall command, so unsafe-perm
+    npm install -q --unsafe-perm
 
     #make the package locally available
     npm link
 }
 
-set -x
 set -e
-echo 'APT::Acquire::Retries "20";' >> /etc/apt/apt.conf
-rm -rf /var/lib/apt/lists/*
+
+export NVM_DIR="/usr/local/nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion" 
+nvm use default
 
 mkdir -p $TOOLS
 
@@ -59,3 +62,8 @@ npm link pelias-wof-admin-lookup
 install_node_project laidig pelias-gtfs
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
+
+install_node_project pelias geonames
+npm link pelias-dbclient
+npm link pelias-wof-admin-lookup
+

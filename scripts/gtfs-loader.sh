@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # errors should break the execution
-set -e -x
+set -e 
 
 mkdir -p $DATA/gtfs
 
@@ -29,7 +29,7 @@ for f in "${gtfsFiles[@]}"
         IFS='/' read -r -a urlarray <<< "$f"
         #disambiguate google_transit.zip to google_transit_X.zip
         outfile="${urlarray[-1]%.zip}_${urlarray[-2]}.zip"
-        wget -nv -NS $f -O $outfile
+        wget --quiet -NS $f -O $outfile
 done
 
 #empty translations.txt 
