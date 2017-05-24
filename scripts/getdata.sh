@@ -9,6 +9,7 @@ SCRIPTS=$TOOLS/scripts
 # Download data
 #==============
 
+echo $PATH
 #run multiple downloads in parallel to save time
 $SCRIPTS/oa-loader.sh &
 $SCRIPTS/osm-loader.sh &
