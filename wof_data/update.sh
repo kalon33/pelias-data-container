@@ -16,7 +16,7 @@ mkdir -p $DATADIR
 
 cd $METADIR
 
-admins=( country localadmin locality neighbourhood region )
+admins=( country localadmin locality neighbourhood region borough county)
 
 for target in "${admins[@]}"
 do
@@ -30,7 +30,7 @@ do
     fi
 done
 
-empty_admins=( continent borough county dependency disputed macrocounty macroregion )
+empty_admins=( continent dependency disputed macrocounty macroregion )
 
 for target in "${empty_admins[@]}"
 do
