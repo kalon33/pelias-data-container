@@ -39,7 +39,8 @@
       "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
     },
     "geonames": {
-      "datapath": "/mnt/data/geonames/US.txt"
+      "datapath": "/mnt/data/geonames/US.txt",
+      "countryCode": "US" 
     },
     "polyline": {
       "datapath": "/mnt/data/",
