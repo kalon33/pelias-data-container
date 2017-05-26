@@ -15,7 +15,7 @@ pushd $TOOLS/geonames
 echo '###### starting geonames import'
 npm start
 popd
-
+echo '###### geonames done'
 
 cd $DATA/gtfs
 

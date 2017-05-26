@@ -37,10 +37,7 @@ install_node_project HSLdevcom dbclient
 
 install_node_project pelias schema 1aa457cb0b520bdcf4bd93d57125bf1bf4c74bfa
 
-install_node_project HSLdevcom wof-pip-service
-
 install_node_project pelias wof-admin-lookup
-npm link pelias-wof-pip-service
 
 install_node_project HSLdevcom openstreetmap
 npm link pelias-dbclient
@@ -54,11 +51,10 @@ install_node_project pelias polylines
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
 
-install_node_project laidig pelias-gtfs
+install_node_project laidig pelias-gtfs 
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
 
 install_node_project laidig geonames
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
-

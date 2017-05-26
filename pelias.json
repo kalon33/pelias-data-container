@@ -17,7 +17,7 @@
     }]
   },
   "logger": {
-    "level": "info",
+    "level": "warn",
     "suspectFile": false
   },
   "imports": {
@@ -39,7 +39,7 @@
       "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
     },
     "geonames": {
-      "datapath": "/mnt/data/geonames/US.txt",
+      "datapath": "/mnt/data/geonames/",
       "countryCode": "US" 
     },
     "polyline": {

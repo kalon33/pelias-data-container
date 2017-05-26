@@ -43,5 +43,5 @@ for target in "${admins[@]}"
 do
     echo getting $target data
     echo $PWD
-    ./wof-clone/bin/wof-clone-metafiles -dest $DATADIR $METADIR/wof-$target-latest.csv
+    ./wof-clone/bin/wof-clone-metafiles -loglevel warn -dest $DATADIR $METADIR/wof-$target-latest.csv
 done
