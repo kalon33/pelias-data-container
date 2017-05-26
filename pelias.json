@@ -21,7 +21,7 @@
     "suspectFile": false
   },
   "imports": {
-    "defaultAdminLayers": ["localadmin", "locality", "neighbourhood", "region", "postalcode"],
+    "defaultAdminLayers": ["localadmin", "locality", "neighbourhood", "region", "postalcode", "borough", "county"],
     "adminLookup": {
       "maxConcurrentReqs": 4,
       "enabled": true
@@ -29,14 +29,12 @@
     "openstreetmap": {
       "datapath": "/mnt/data/openstreetmap/",
       "leveldbpath": "/tmp",
-      "adminLookup": true,
       "import": [{
         "filename": "osm.pbf"
       }]
     },
     "openaddresses": {
       "datapath": "/mnt/data/openaddresses/",
-      "adminLookup": true,
       "files": ["us/ny/city_of_new_york.csv","us/nj/statewide.csv"],
       "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
     },
@@ -45,7 +43,6 @@
     },
     "polyline": {
       "datapath": "/mnt/data/",
-      "adminLookup": true,
       "files": [
         "new_york.polylines"
       ]
