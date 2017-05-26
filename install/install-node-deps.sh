@@ -5,7 +5,6 @@ export TOOLS=/mnt/tools
 export DATA=/mnt/data
 SCRIPTS=$TOOLS/scripts
 
-
 #=========================================
 # Install importers and their dependencies
 #=========================================
@@ -37,7 +36,7 @@ install_node_project HSLdevcom dbclient
 
 install_node_project pelias schema 1aa457cb0b520bdcf4bd93d57125bf1bf4c74bfa
 
-install_node_project pelias wof-admin-lookup
+install_node_project laidig wof-admin-lookup
 
 install_node_project HSLdevcom openstreetmap
 npm link pelias-dbclient
