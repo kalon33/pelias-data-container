@@ -19,6 +19,7 @@ echo '###### geonames done'
 
 cd $DATA/gtfs
 
+echo '###### indexing GTFS'
 targets=(`ls *.zip`)
 for target in "${targets[@]}"
 do
@@ -26,6 +27,7 @@ do
 done
 echo '###### gtfs done'
 
+echo '###### indexing openaddresses'
 #import openaddresses data
 cd  $TOOLS/openaddresses
 

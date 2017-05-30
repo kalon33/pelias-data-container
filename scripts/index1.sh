@@ -8,6 +8,7 @@ set -e
 node $TOOLS/polylines/bin/cli.js --config --db
 echo '###### polylines done'
 
+echo '###### indexing OSM'
 node $TOOLS/openstreetmap/index
 echo '###### openstreetmap done'
 
