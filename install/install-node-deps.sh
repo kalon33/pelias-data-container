@@ -38,11 +38,12 @@ install_node_project pelias schema 1aa457cb0b520bdcf4bd93d57125bf1bf4c74bfa
 
 install_node_project laidig wof-admin-lookup
 
-install_node_project HSLdevcom openstreetmap
+
+install_node_project pelias openstreetmap
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
 
-install_node_project HSLdevcom openaddresses
+install_node_project pelias openaddresses
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
 
