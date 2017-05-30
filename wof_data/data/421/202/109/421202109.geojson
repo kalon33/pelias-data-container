@@ -1,0 +1,74 @@
+{
+  "id": 421202109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-03-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.45979,43.942729,12.45979,43.942729",
+    "geom:latitude":43.942729,
+    "geom:longitude":12.45979,
+    "iso:country":"SM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"deprecated because it should never have been imported (20160329); quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":null,
+    "qs:gn_pop":null,
+    "qs:name":"San Marino",
+    "qs:name_adm0":"San Marino",
+    "qs:name_adm1":null,
+    "qs:photos":378,
+    "qs:photos_1k":77.0,
+    "qs:photos_9k":47.0,
+    "qs:photos_9r":16,
+    "qs:photos_all":10692,
+    "qs:photos_sr":6,
+    "qs:placetype":"Country",
+    "qs:pop_sr":0,
+    "qs:qs_id":219371,
+    "qs:woe_adm0":23424947,
+    "qs:woe_id":23424947,
+    "src:geom":"quattroshapes",
+    "wk:latitude":43.933333,
+    "wk:longitude":12.466667,
+    "wk:population":31595,
+    "wk:wordcount":6480,
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23424947,
+        "qs:id":219371,
+        "wd:id":"Q238"
+    },
+    "wof:country":"SM",
+    "wof:created":1459010105,
+    "wof:geomhash":"c77ff1d56f21e23b88f3450ee9f69265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":421202109
+        }
+    ],
+    "wof:id":421202109,
+    "wof:lastmodified":1467182935,
+    "wof:name":"San Marino",
+    "wof:parent_id":102191581,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45979,
+    43.942729,
+    12.45979,
+    43.942729
+],
+  "geometry": {"coordinates":[12.45979,43.942729],"type":"Point"}
+}

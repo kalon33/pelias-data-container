@@ -1,0 +1,401 @@
+{
+  "id": 85632185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003211,
+    "geom:bbox":"-63.13794412,18.006999969,-63.0135803121,18.064170659",
+    "geom:latitude":18.039175,
+    "geom:longitude":-63.063334,
+    "gn:population":37429,
+    "gp:id":0,
+    "iso:country":"SX",
+    "lbl:latitude":18.042123,
+    "lbl:longitude":-63.058205,
+    "mps:latitude":18.042123,
+    "mps:longitude":-63.058205,
+    "mz:hierarchy_label":1,
+    "name:afr_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:als_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u043d\u0442-\u041c\u0430\u0440\u0442\u044d\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0456\u043d\u0442-\u041c\u0430\u0430\u0440\u0442\u044d\u043d"
+    ],
+    "name:bos_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:bre_x_preferred":[
+        "Sint Maarten (stad)",
+        "Sint Maarten"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043d\u0442 \u041c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:ces_x_preferred":[
+        "Svat\u00fd Martin (nizozemsk\u00e1 \u010d\u00e1st)",
+        "Svat\u00fd Martin"
+    ],
+    "name:chy_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:dan_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:deu_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:dut_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:dut_x_variant":[
+        "Eilandgebied Sint Maarten",
+        "Sint Maarten Eiland",
+        "St Maarten",
+        "St. Maarten",
+        "Stmaarten"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bd\u03bf\u03c2 (\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1)",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_unknown":[
+        "SX",
+        "SXM"
+    ],
+    "name:epo_x_preferred":[
+        "Sint-Maarten"
+    ],
+    "name:est_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:eus_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:fao_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Sint Maarten (Alankomaat)",
+        "Sint Maarten"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Martin (Royaume des Pays-Bas)",
+        "Saint-Martin"
+    ],
+    "name:fre_x_preferred":[
+        "\u00cele de Saint-Martin"
+    ],
+    "name:frr_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:fry_x_preferred":[
+        "Sint-Marten (l\u00e2n)",
+        "Sint-Marten"
+    ],
+    "name:gag_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:glg_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:gom_x_preferred":[
+        "\u0938\u093f\u0902\u091f \u092e\u093e\u0930\u094d\u091f\u0947\u0928"
+    ],
+    "name:hbs_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05de\u05d0\u05e8\u05d8\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u057f \u0544\u0561\u0561\u0580\u057f\u0565\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:isl_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:ita_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:jam_x_preferred":[
+        "Sin Maatn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30f3\u30c8\u30fb\u30de\u30fc\u30eb\u30c6\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10e2-\u10db\u10d0\u10e0\u10e2\u10d4\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ud2b8\ub9c8\ub974\ud134"
+    ],
+    "name:lad_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:lav_x_preferred":[
+        "Sintm\u0101rtena"
+    ],
+    "name:lim_x_preferred":[
+        "Sint Maarten (Nederlands)",
+        "Sint Maarten"
+    ],
+    "name:lit_x_preferred":[
+        "Sint Martenas"
+    ],
+    "name:lmo_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3f\u0d28\u0d4d\u0d31\u0d4d \u0d2e\u0d3e\u0d7c\u0d1f\u0d4d\u0d1f\u0d7b"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u0902\u091f \u092e\u093e\u0930\u094d\u091f\u0947\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d (\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430)",
+        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Maarten (land)",
+        "Sint Maarten"
+    ],
+    "name:nno_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:nor_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:oci_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a3f\u0a70\u0a1f \u0a2e\u0a3e\u0a30\u0a1f\u0a28"
+    ],
+    "name:pms_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Sint Maarten (terytorium)",
+        "Sint Maarten"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Martinho (Pa\u00edses Baixos)",
+        "S\u00e3o Martinho"
+    ],
+    "name:ron_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:spa_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:srn_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d (\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430)",
+        "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:swa_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:swe_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0ba9\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e34\u0e19\u0e15\u0e4c\u0e21\u0e32\u0e23\u0e4c\u0e40\u0e15\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646 (\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632)",
+        "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:war_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:zho_x_preferred":[
+        "\u8377\u5c6c\u8056\u99ac\u4e01"
+    ],
+    "ne:abbrev":"St. M.",
+    "ne:abbrev_len":6,
+    "ne:adm0_a3":"SXM",
+    "ne:adm0_a3_is":"SXM",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"SXM",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":1,
+    "ne:admin":"Sint Maarten",
+    "ne:brk_a3":"SXM",
+    "ne:brk_diff":0,
+    "ne:brk_group":null,
+    "ne:brk_name":"Sint Maarten",
+    "ne:continent":"North America",
+    "ne:economy":"6. Developing region",
+    "ne:featurecla":"Admin-0 country",
+    "ne:fips_10_":"NT",
+    "ne:formal_en":"Sint Maarten (Dutch part)",
+    "ne:formal_fr":null,
+    "ne:gdp_md_est":400,
+    "ne:gdp_year":-99,
+    "ne:geou_dif":0,
+    "ne:geounit":"Sint Maarten",
+    "ne:gu_a3":"SXM",
+    "ne:homepart":-99,
+    "ne:income_grp":"2. High income: nonOECD",
+    "ne:iso_a2":"SX",
+    "ne:iso_a3":"SXM",
+    "ne:iso_n3":"534",
+    "ne:labelrank":6,
+    "ne:lastcensus":-99,
+    "ne:level":2,
+    "ne:long_len":12,
+    "ne:mapcolor13":9,
+    "ne:mapcolor7":4,
+    "ne:mapcolor8":2,
+    "ne:mapcolor9":2,
+    "ne:name":"Sint Maarten",
+    "ne:name_alt":null,
+    "ne:name_len":12,
+    "ne:name_long":"Sint Maarten",
+    "ne:name_sort":"St. Maarten (Dutch part)",
+    "ne:note_adm0":"Neth.",
+    "ne:note_brk":null,
+    "ne:pop_est":37429,
+    "ne:pop_year":-99,
+    "ne:postal":"SX",
+    "ne:region_un":"Americas",
+    "ne:region_wb":"Latin America & Caribbean",
+    "ne:scalerank":3,
+    "ne:sov_a3":"NL1",
+    "ne:sovereignt":"Netherlands",
+    "ne:su_a3":"SXM",
+    "ne:su_dif":0,
+    "ne:subregion":"Caribbean",
+    "ne:subunit":"Sint Maarten",
+    "ne:tiny":4,
+    "ne:type":"Country",
+    "ne:un_a3":"534",
+    "ne:wb_a2":"SX",
+    "ne:wb_a3":"SXM",
+    "ne:wikipedia":-99,
+    "ne:woe_id":-90,
+    "ne:woe_id_eh":23425000,
+    "ne:woe_note":"Expired subunits of Netherlands Antilles (23424914).",
+    "qs:a0":"Sint Maarten",
+    "qs:a0_alt":"Sint Maarten",
+    "qs:adm0":"Sint Maarten",
+    "qs:adm0_a3":"SXM",
+    "qs:id":0,
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wk:wordcount":3357,
+    "wof:belongsto":[
+        102191575,
+        "136253051"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7609695,
+        "gp:id":56558058,
+        "hasc:id":"SX",
+        "qs:id":693867,
+        "wd:id":"Q26273"
+    },
+    "wof:country":"SX",
+    "wof:country_alpha3":"SXM",
+    "wof:geomhash":"df364030ec9d454032d13d4060897ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "empire_id":"136253051"
+        }
+    ],
+    "wof:id":85632185,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "nld"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "nld"
+    ],
+    "wof:lastmodified":1493229865,
+    "wof:name":"Sint Maarten",
+    "wof:parent_id":102191575,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.13794411999993,
+    18.00699996900005,
+    -63.01358031207337,
+    18.06417065900007
+],
+  "geometry": {"coordinates":[[[[-63.01924896199995,18.01786041300005],[-63.02002716099997,18.01786041300005],[-63.02130508399995,18.01911163300002],[-63.02094268799993,18.01952743500004],[-63.01800155599994,18.01911163300002],[-63.01924896199995,18.01786041300005]]],[[[-63.02380371099991,18.03827858000017],[-63.02330398599997,18.03725051900011],[-63.02052688599997,18.03155517600004],[-63.04008483899992,18.00699996900005],[-63.04630660999993,18.00744438200013],[-63.04672241199995,18.02363967900015],[-63.05758285499991,18.02363967900015],[-63.06011199999989,18.01363945000003],[-63.06341552699996,18.01950073200004],[-63.08086013799993,18.01950073200004],[-63.08261108399995,18.0244998930001],[-63.09383392299998,18.02494430500008],[-63.09719467199994,18.02908325200013],[-63.0946655269999,18.0332775120001],[-63.10258483899997,18.04033279400011],[-63.11255645799991,18.03949928300017],[-63.11800003099989,18.03325080900009],[-63.12714004499998,18.04661178600008],[-63.13787779599988,18.05226851300012],[-63.13794411999993,18.05281780199999],[-63.13739868899995,18.0532793210001],[-63.13507405599989,18.05426944300012],[-63.13313686099991,18.05435554000007],[-63.1123577859999,18.053712109],[-63.09844195099993,18.04743847100013],[-63.09653912999988,18.04663083300011],[-63.09476881099994,18.04628819100003],[-63.08836614199998,18.04656371300007],[-63.08307114299993,18.04811346900004],[-63.07975638799991,18.0483287130001],[-63.07860751199991,18.04897222200015],[-63.07699573999997,18.04950060600015],[-63.07603769399992,18.05074254100015],[-63.07558065799992,18.05237529700008],[-63.0746766339999,18.05487212500009],[-63.07256724399991,18.05655102700007],[-63.06787492799998,18.05715371000014],[-63.0667556599999,18.05779944200009],[-63.06589468499993,18.05952139200008],[-63.06481846599996,18.06120029400006],[-63.06473236799991,18.06184602600007],[-63.06387139299994,18.06386931800012],[-63.06270907599998,18.06378322000012],[-63.0595665159999,18.06305139100004],[-63.05603651699994,18.06309444000016],[-63.05401322499995,18.06417065900007],[-63.04880432399995,18.0628791960001],[-63.04531737399998,18.06008102600003],[-63.0441981059999,18.05857431900017],[-63.04015152199997,18.05569005200016],[-63.03687981499996,18.05779944200009],[-63.03020725599998,18.05482907700008],[-63.02883660699996,18.05449257600003],[-63.02755409499991,18.05489204700012],[-63.02362245999996,18.05758321900004],[-63.02076308899996,18.05667915400011],[-63.01898830223263,18.05644947538548],[-63.01900548316672,18.0563841878357],[-63.01919525640926,18.0559730124769],[-63.01919540205466,18.05597269691191],[-63.01934812555152,18.05564179600185],[-63.01866498221665,18.05475370966633],[-63.01706384298592,18.05267222866655],[-63.01637855821627,18.05255801453825],[-63.01586459463897,18.0526151216024],[-63.01557905931827,18.0530148710514],[-63.01512220280512,18.05358594169286],[-63.01477956042032,18.05375726288526],[-63.01403716858647,18.05398569114186],[-63.01358031207337,18.05387147701356],[-63.01363741913752,18.05347172756456],[-63.01415138271483,18.0531861922438],[-63.01523641693348,18.05181562270434],[-63.01552195225412,18.05187272976866],[-63.01592170170312,18.05141587325551],[-63.01615012995978,18.05078769554996],[-63.01643566528043,18.05004530371605],[-63.01647238905662,18.0497147897301],[-63.01654987940861,18.04901737656166],[-63.01660698647277,18.0476468070222],[-63.01626434408792,18.04707573638092],[-63.01597880876727,18.04696152225262],[-63.01593864930061,18.04690529899921],[-63.01569327344663,18.04656177280361],[-63.01563616638248,18.04553384564906],[-63.01649277234446,18.04444881143047],[-63.01717805711422,18.04404906198147],[-63.01826309133287,18.04382063372486],[-63.01897960685,18.04356985329377],[-63.02380371099991,18.03827858000017]]]],"type":"MultiPolygon"}
+}

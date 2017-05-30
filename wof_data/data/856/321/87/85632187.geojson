@@ -1,0 +1,344 @@
+{
+  "id": 85632187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"12.445909,41.900276,12.458336,41.907417",
+    "geom:latitude":41.903395,
+    "geom:longitude":12.452965,
+    "gn:id":"",
+    "gn:population":921,
+    "iso:country":"VA",
+    "lbl:latitude":41.903542,
+    "lbl:longitude":12.453083,
+    "mps:latitude":41.903542,
+    "mps:longitude":12.453083,
+    "mz:hierarchy_label":1,
+    "name:chi_x_preferred":[
+        "\u6559\u5ef7"
+    ],
+    "name:chi_x_variant":[
+        "\u6559\u5ef7",
+        "\u68b5\u8482\u5188"
+    ],
+    "name:cze_x_colloquial":[
+        "Svaty Stolec"
+    ],
+    "name:cze_x_preferred":[
+        "Vatik\u00e1n"
+    ],
+    "name:cze_x_variant":[
+        "Svat\u00fd Stolec"
+    ],
+    "name:dan_x_preferred":[
+        "Vatikanstaten"
+    ],
+    "name:dan_x_variant":[
+        "Pavestolen (Vatikanstaten)",
+        "Vatikanet"
+    ],
+    "name:deu_x_preferred":[
+        "Vatikan"
+    ],
+    "name:dut_x_preferred":[
+        "Vatikaanstad"
+    ],
+    "name:dut_x_variant":[
+        "Heilige stoel",
+        "Vaticaanstad",
+        "Vatikanstaat"
+    ],
+    "name:eng_x_preferred":[
+        "Vatican City"
+    ],
+    "name:eng_x_unknown":[
+        "VA"
+    ],
+    "name:eng_x_variant":[
+        "Holy See",
+        "State of the Vatican City",
+        "Vatican",
+        "Vatican City State",
+        "Vatican Hill",
+        "Vaticancity"
+    ],
+    "name:epo_x_preferred":[
+        "Vatikano (apartigilo)"
+    ],
+    "name:fin_x_preferred":[
+        "Vatikaanivaltio"
+    ],
+    "name:fin_x_variant":[
+        "Pyh\u00e4 istuin (Vatikaani)",
+        "Vatikaani",
+        "Vatikaaniin",
+        "Vatikaanin",
+        "Vatikaanissa",
+        "Vatikaanista"
+    ],
+    "name:fra_x_preferred":[
+        "Vatican (homonymie)"
+    ],
+    "name:fre_x_colloquial":[
+        "Cite du Vatican",
+        "Saint-Siege"
+    ],
+    "name:fre_x_preferred":[
+        "Vatican"
+    ],
+    "name:fre_x_variant":[
+        "Cit\u00e9 du Vatican",
+        "Saint-Si\u00e8ge"
+    ],
+    "name:ger_x_preferred":[
+        "Vatikanstadt"
+    ],
+    "name:ger_x_variant":[
+        "Heiliger Stuhl",
+        "Staat der Vatikanstadt",
+        "Vatikan"
+    ],
+    "name:hun_x_preferred":[
+        "Vatik\u00e1n"
+    ],
+    "name:ita_x_colloquial":[
+        "Citta del Vaticano",
+        "Stato della Citta del Vaticano"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 del Vaticano",
+        "Vaticano (disambigua)"
+    ],
+    "name:ita_x_variant":[
+        "Citt\u00e0 Vaticano",
+        "Colle Vaticano",
+        "Santa Sede",
+        "Stato della Citt\u00e0 del Vaticano",
+        "Vaticano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c1\u30ab\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd",
+        "\u30ed\u30fc\u30de\u6559\u7687\u5e81 (\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd)",
+        "\u30ed\u30fc\u30de\u6cd5\u738b\u5e81 (\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd)",
+        "\u30f4\u30a1\u30c1\u30ab\u30f3\u5e02\u56fd",
+        "\u30f4\u30a1\u30c6\u30a3\u30ab\u30f3\u5e02\u56fd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud2f0\uce78 \uc2dc\uad6d",
+        "\ubc14\ud2f0\uce78 (\ub3d9\uc74c\uc774\uc758)"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ud2f0\uce78",
+        "\ubc14\ud2f0\uce78\uc2dc\ud2f0"
+    ],
+    "name:msa_x_preferred":[
+        "Vatican"
+    ],
+    "name:nld_x_preferred":[
+        "Vaticaan"
+    ],
+    "name:nor_x_preferred":[
+        "Vatikanstaten"
+    ],
+    "name:pol_x_preferred":[
+        "Watykan"
+    ],
+    "name:pol_x_variant":[
+        "Stolica Apostolska"
+    ],
+    "name:por_x_colloquial":[
+        "Santa Se"
+    ],
+    "name:por_x_preferred":[
+        "Vaticano"
+    ],
+    "name:por_x_variant":[
+        "Cidade do Vaticano",
+        "Colina do Vaticano",
+        "Santa S\u00e9",
+        "Santa S\u00e9 (Cidade-Estado do Vaticano)"
+    ],
+    "name:ron_x_preferred":[
+        "Vatican (dezambiguizare)"
+    ],
+    "name:rum_x_preferred":[
+        "Vatican"
+    ],
+    "name:rum_x_variant":[
+        "Ora\u0219ul Vatican",
+        "Sf\u00e2ntul Scaun (Statul Vatican)"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d (\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f)"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad del Vaticano"
+    ],
+    "name:spa_x_variant":[
+        "El Vaticano",
+        "Estado de la Ciudad del Vaticano",
+        "Santa Sede",
+        "Santa Sede (Estado de la Ciudad del Vaticano)"
+    ],
+    "name:swe_x_preferred":[
+        "Vatikanstaten",
+        "Vatikanen"
+    ],
+    "name:swe_x_variant":[
+        "Heliga stolen",
+        "Vatikanen"
+    ],
+    "name:tgl_x_preferred":[
+        "Vaticano"
+    ],
+    "name:und_x_colloquial":[
+        "Agia Edra",
+        "Svaeta stolica",
+        "Svata stolica",
+        "Vatica",
+        "Vatikano"
+    ],
+    "name:und_x_variant":[
+        "Baet'unam",
+        "Holy See",
+        "Santa Seu",
+        "Sv\u00e4t\u00e1 stolica",
+        "Vatic\u00e0",
+        "Vatikan\u00f3",
+        "Vatykan",
+        "\u00c1gia \u00c9dra"
+    ],
+    "name:vie_x_preferred":[
+        "Vatican"
+    ],
+    "ne:abbrev":"Vat.",
+    "ne:abbrev_len":4,
+    "ne:adm0_a3":"VAT",
+    "ne:adm0_a3_is":"VAT",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"VAT",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":0,
+    "ne:admin":"Vatican",
+    "ne:brk_a3":"VAT",
+    "ne:brk_diff":0,
+    "ne:brk_group":null,
+    "ne:brk_name":"Vatican",
+    "ne:continent":"Europe",
+    "ne:economy":"2. Developed region: nonG7",
+    "ne:featurecla":"Admin-0 country",
+    "ne:fips_10_":"VT",
+    "ne:formal_en":"State of the Vatican City",
+    "ne:formal_fr":null,
+    "ne:gdp_md_est":355,
+    "ne:gdp_year":0,
+    "ne:geou_dif":0,
+    "ne:geounit":"Vatican",
+    "ne:gu_a3":"VAT",
+    "ne:homepart":1,
+    "ne:income_grp":"2. High income: nonOECD",
+    "ne:iso_a2":"VA",
+    "ne:iso_a3":"VAT",
+    "ne:iso_n3":"336",
+    "ne:labelrank":6,
+    "ne:lastcensus":-99,
+    "ne:level":2,
+    "ne:long_len":7,
+    "ne:mapcolor13":2,
+    "ne:mapcolor7":1,
+    "ne:mapcolor8":3,
+    "ne:mapcolor9":4,
+    "ne:name":"Vatican",
+    "ne:name_alt":"Holy Sea",
+    "ne:name_len":7,
+    "ne:name_long":"Vatican",
+    "ne:name_sort":"Vatican (Holy Sea)",
+    "ne:note_adm0":null,
+    "ne:note_brk":null,
+    "ne:pop_est":832,
+    "ne:pop_year":0,
+    "ne:postal":"V",
+    "ne:region_un":"Europe",
+    "ne:region_wb":"Europe & Central Asia",
+    "ne:scalerank":0,
+    "ne:sov_a3":"VAT",
+    "ne:sovereignt":"Vatican",
+    "ne:su_a3":"VAT",
+    "ne:su_dif":0,
+    "ne:subregion":"Southern Europe",
+    "ne:subunit":"Vatican",
+    "ne:tiny":4,
+    "ne:type":"Sovereign country",
+    "ne:un_a3":"336",
+    "ne:wb_a2":"-99",
+    "ne:wb_a3":"-99",
+    "ne:wikipedia":0,
+    "ne:woe_id":23424986,
+    "ne:woe_id_eh":23424986,
+    "ne:woe_note":"Exact WOE match as country",
+    "qs:a0":"Vatican",
+    "qs:a0_alt":"Vatican",
+    "qs:adm0":"Vatican",
+    "qs:adm0_a3":"VAT",
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "dbp:id":"Vatican_City",
+        "fb:id":"en.vatican_city",
+        "gn:id":3164670,
+        "gp:id":23424986,
+        "hasc:id":"VA",
+        "loc:id":"n80053295",
+        "mzb:id":"vatican-city",
+        "nyt:id":"N80292730254685317361",
+        "qs:id":581166,
+        "wd:id":"Q237",
+        "wk:page":"Vatican City"
+    },
+    "wof:country":"VA",
+    "wof:country_alpha3":"VAT",
+    "wof:geomhash":"4b393c82c45fd756c3f769c697538955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632187
+        }
+    ],
+    "wof:id":85632187,
+    "wof:lang":[
+        "ita"
+    ],
+    "wof:lang_x_official":[],
+    "wof:lang_x_spoken":[
+        "ita"
+    ],
+    "wof:lastmodified":1493229865,
+    "wof:name":"Vatican",
+    "wof:parent_id":102191581,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.445909,
+    41.900276,
+    12.458336,
+    41.907417
+],
+  "geometry": {"coordinates":[[[12.455466,41.907417],[12.4557,41.906306],[12.457639,41.905821],[12.457701,41.903251],[12.458139,41.902955],[12.458336,41.902374],[12.458282,41.901782],[12.458009,41.901393],[12.457384,41.901149],[12.456688,41.90127],[12.456207,41.901609],[12.456318,41.900535],[12.454547,41.900276],[12.452855,41.900387],[12.451565,41.900381],[12.450843,41.900702],[12.448757,41.900918],[12.447878,41.900846],[12.44659,41.901739],[12.445909,41.901935],[12.446735,41.902284],[12.447749,41.903188],[12.448248,41.903621],[12.448643,41.903635],[12.448997,41.904714],[12.44896,41.905072],[12.449326,41.90515],[12.45036,41.905931],[12.450469,41.906535],[12.451372,41.906535],[12.452034,41.906553],[12.452602,41.906714],[12.453071,41.906708],[12.453781,41.906912],[12.455466,41.907417]]],"type":"Polygon"}
+}

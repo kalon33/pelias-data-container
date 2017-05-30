@@ -1,0 +1,918 @@
+{
+  "id": 85632609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":5.83247,
+    "geom:bbox":"15.716074,42.559212,19.618885,45.284524",
+    "geom:latitude":44.171734,
+    "geom:longitude":17.773408,
+    "gn:id":"",
+    "gn:population":4590000,
+    "iso:country":"BA",
+    "lbl:latitude":44.091039,
+    "lbl:longitude":18.06843,
+    "mps:latitude":44.091039,
+    "mps:longitude":18.06843,
+    "mz:hierarchy_label":1,
+    "name:ace_x_preferred":[
+        "Bosnia H\u00e8rz\u00e8govina"
+    ],
+    "name:afr_x_preferred":[
+        "Bosni\u00eb en Herzegowina"
+    ],
+    "name:als_x_preferred":[
+        "Bosnien und Herzegowina"
+    ],
+    "name:amh_x_preferred":[
+        "\u1266\u1235\u1292\u12eb\u1293 \u1204\u122d\u1338\u130e\u126a\u1293"
+    ],
+    "name:ang_x_preferred":[
+        "Bosnia and Herzegofina"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643"
+    ],
+    "name:arc_x_preferred":[
+        "\u0712\u0718\u0723\u0722\u0710 \u0718\u0717\u072a\u072c\u0723\u0713\u0718\u0712\u071d\u0722\u0710"
+    ],
+    "name:arg_x_preferred":[
+        "Bosnia y Herzegovina"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0633\u0646\u0647 \u0648 \u0627\u0644\u0647\u0631\u0633\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Bosnia y Hercegovina"
+    ],
+    "name:ava_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0432\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u0642\u0648\u0648\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Bosniya v\u0259 Herseqovina"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u04bb\u04d9\u043c \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:bar_x_preferred":[
+        "Bosnien-Herzegowina"
+    ],
+    "name:bcl_x_preferred":[
+        "Bosnya asin Hersegobina"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0456\u044f \u0456 \u0413\u0435\u0440\u0446\u0430\u0433\u0430\u0432\u0456\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u0441\u044c\u043d\u0456\u044f \u0456 \u0413\u0435\u0440\u0446\u0430\u0433\u0430\u0432\u0456\u043d\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09b8\u09a8\u09bf\u09af\u09bc\u09be \u0993 \u09b9\u09be\u09b0\u09cd\u099c\u09c7\u0997\u09cb\u09ad\u09bf\u09a8\u09be"
+    ],
+    "name:bis_x_preferred":[
+        "Bosnia and Herzegovina"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0fb7\u0f7c\u0f66\u0f74\u0f0b\u0f53\u0f72\u0f61\u0f0b\u0f51\u0f44\u0f0b\u0f67\u0f62\u0f0b\u0f5b\u0f7a\u0f0b\u0f42\u0fb7\u0f7c\u0f0b\u0f5d\u0f72\u0f0b\u0f53\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Bosna i Hercegovina"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09b8\u09a8\u09bf\u09af\u09bc\u09be \u09ac\u09be\u09b0\u09cb \u09b9\u09be\u09b0\u09cd\u099c\u09c7\u0997\u09cb\u09ad\u09bf\u09a8\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Bosnia-ha-Herzegovina"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438 \u0431\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00f2snia i Hercegovina"
+    ],
+    "name:cdo_x_preferred":[
+        "Bosnia g\u00e2e\u0324ng Herzegovina"
+    ],
+    "name:ceb_x_preferred":[
+        "Bosnia ug Herzegovina"
+    ],
+    "name:ces_x_preferred":[
+        "Bosna a Hercegovina"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438 \u0430, \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430 \u0430",
+        "\u0411\u043e\u0441\u043d\u0438 \u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u58eb\u5c3c\u4e9e\u548c\u8d6b\u585e\u54e5\u7dad\u7d0d"
+    ],
+    "name:chi_x_variant":[
+        "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
+    ],
+    "name:chr_x_preferred":[
+        "\u13c9\u13cf\u13c2\u13a0 \u13a0\u13b4 \u13b2\u13e4\u13aa\u13eb"
+    ],
+    "name:chu_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0430"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438 \u0442\u0430\u0442\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06c6\u0633\u0646\u06cc\u0627 \u0648 \u06be\u06d5\u0631\u0632\u06d5\u06af\u06c6\u06a4\u06cc\u0646\u0627"
+    ],
+    "name:cor_x_preferred":[
+        "Bosni\u2013Hercegovina"
+    ],
+    "name:cos_x_preferred":[
+        "Bosnia \u00e8 Erzegovina"
+    ],
+    "name:crh_x_preferred":[
+        "Bosna ve Hersek"
+    ],
+    "name:csb_x_preferred":[
+        "B\u00f2snij\u00f4 \u00eb Herceg\u00f2wina"
+    ],
+    "name:cym_x_preferred":[
+        "Bosnia-Hertsegofina"
+    ],
+    "name:cze_x_preferred":[
+        "Bosna a Hercegovina"
+    ],
+    "name:dan_x_preferred":[
+        "Bosnien-Hercegovina"
+    ],
+    "name:dan_x_variant":[
+        "Bosnien og Hercegovina"
+    ],
+    "name:deu_x_preferred":[
+        "Bosnien und Herzegowina"
+    ],
+    "name:diq_x_preferred":[
+        "Bosna u Hersek"
+    ],
+    "name:div_x_preferred":[
+        "\u0784\u07ae\u0790\u07b0\u0782\u07a8\u0794\u07a7 \u0787\u07ac\u0782\u07b0\u0791\u07b0 \u0780\u07ac\u0783\u07b0\u0792\u07a8\u078e\u07ae\u0788\u07a9\u0782\u07a7"
+    ],
+    "name:dsb_x_preferred":[
+        "Bosniska-Hercegowinska"
+    ],
+    "name:dut_x_colloquial":[
+        "Bosnie-Herzegovina"
+    ],
+    "name:dut_x_preferred":[
+        "Bosni\u00eb en Herzegovina"
+    ],
+    "name:dut_x_variant":[
+        "Bosni\u00eb Herzegovina",
+        "Bosni\u00eb-Herzegovina",
+        "Bosn\u00efe-Herzegovina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c3\u03bd\u03af\u03b1 \u03ba\u03b1\u03b9 \u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Bosnia and Herzegovina"
+    ],
+    "name:eng_x_unknown":[
+        "BA",
+        "BIH"
+    ],
+    "name:eng_x_variant":[
+        "Bosnia",
+        "Bosnian",
+        "Federation of Bosnia And Herzegovina"
+    ],
+    "name:epo_x_preferred":[
+        "Bosnio kaj Hercegovino"
+    ],
+    "name:est_x_preferred":[
+        "Bosnia ja Hertsegoviina"
+    ],
+    "name:eus_x_preferred":[
+        "Bosnia-Herzegovina"
+    ],
+    "name:ewe_x_preferred":[
+        "Bosnia and Herzegovina"
+    ],
+    "name:ext_x_preferred":[
+        "B\u00f3snia Ercegovina"
+    ],
+    "name:fao_x_preferred":[
+        "Bosnia og Hersegovina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Bosnia ja Hertsegovina"
+    ],
+    "name:fin_x_variant":[
+        "Bosnia-Hertsegovina"
+    ],
+    "name:fra_x_preferred":[
+        "Bosnie-Herz\u00e9govine"
+    ],
+    "name:fre_x_colloquial":[
+        "Bosnie et Herzegovine",
+        "Bosnie-Herzegovine"
+    ],
+    "name:fre_x_preferred":[
+        "Bosnie et Herz\u00e9govine"
+    ],
+    "name:fre_x_variant":[
+        "Bosnie-Herz\u00e9govine"
+    ],
+    "name:frp_x_preferred":[
+        "Bosnie-H\u00e8rz\u00e8govena"
+    ],
+    "name:frr_x_preferred":[
+        "Bosnien an Herzegowina"
+    ],
+    "name:fry_x_preferred":[
+        "Bosnje"
+    ],
+    "name:ful_x_preferred":[
+        "Bosniya"
+    ],
+    "name:gag_x_preferred":[
+        "Bosniya hem Her\u021begovina"
+    ],
+    "name:ger_x_preferred":[
+        "Bosnien und Herzegowina"
+    ],
+    "name:ger_x_variant":[
+        "Bosnien-Herzegowina"
+    ],
+    "name:gla_x_preferred":[
+        "Bosna agus Hearsagobhana"
+    ],
+    "name:gle_x_preferred":[
+        "An Bhoisnia-Heirseagaiv\u00e9in"
+    ],
+    "name:glg_x_preferred":[
+        "Bosnia e Hercegovina"
+    ],
+    "name:glv_x_preferred":[
+        "Bosnia as Herzegovina"
+    ],
+    "name:gom_x_preferred":[
+        "\u092c\u0949\u0938\u094d\u0928\u093f\u092f\u093e \u0906\u0923\u093f \u0939\u0930\u094d\u091d\u0917\u094b\u0935\u094d\u0939\u093f\u0928\u093e"
+    ],
+    "name:grn_x_preferred":[
+        "Vonia ha Hesegovina"
+    ],
+    "name:hak_x_preferred":[
+        "Bosnia l\u00e2u Herzegovina"
+    ],
+    "name:hat_x_preferred":[
+        "Bosni ak Erzegovin"
+    ],
+    "name:haw_x_preferred":[
+        "Bosenia me Hesegowina"
+    ],
+    "name:hbs_x_preferred":[
+        "Bosna i Hercegovina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1\u05e0\u05d9\u05d4 \u05d5\u05d4\u05e8\u05e6\u05d2\u05d5\u05d1\u05d9\u05e0\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Bosnia and Herzegovina"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0949\u0938\u094d\u0928\u093f\u092f\u093e \u0914\u0930 \u0939\u0930\u094d\u091c\u093c\u0947\u0917\u094b\u0935\u093f\u0928\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Bosna i Hercegovina"
+    ],
+    "name:hsb_x_preferred":[
+        "Bosniska a Hercegowina"
+    ],
+    "name:hun_x_preferred":[
+        "Bosznia-Hercegovina"
+    ],
+    "name:hun_x_variant":[
+        "Bosznia \u00e9s Hercegovina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u057d\u0576\u056b\u0561 \u0587 \u0540\u0565\u0580\u0581\u0565\u0563\u0578\u057e\u056b\u0576\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Bosnia na Herzegovina"
+    ],
+    "name:ido_x_preferred":[
+        "Bosnia e Herzegovina"
+    ],
+    "name:ile_x_preferred":[
+        "Bosnia e Herzegovina"
+    ],
+    "name:ilo_x_preferred":[
+        "Bosnia ken Herzegovina"
+    ],
+    "name:ina_x_preferred":[
+        "Bosnia e Herzegovina"
+    ],
+    "name:ind_x_preferred":[
+        "Bosnia dan Herzegovina"
+    ],
+    "name:isl_x_preferred":[
+        "Bosn\u00eda og Herseg\u00f3v\u00edna"
+    ],
+    "name:ita_x_preferred":[
+        "Bosnia-Erzegovina",
+        "Bosnia ed Erzegovina"
+    ],
+    "name:ita_x_variant":[
+        "Bosnia Erzegovina"
+    ],
+    "name:jam_x_preferred":[
+        "Baznia ah Oerzigoviina"
+    ],
+    "name:jav_x_preferred":[
+        "Bosnia lan H\u00e9rcegovina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
+    ],
+    "name:jpn_x_variant":[
+        "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca\u5171\u548c\u56fd",
+        "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30f4\u30a3\u30ca"
+    ],
+    "name:kaa_x_preferred":[
+        "Bosniya ha'm Gertsegovina"
+    ],
+    "name:kab_x_preferred":[
+        "Busnya ed Hirziguvina"
+    ],
+    "name:kal_x_preferred":[
+        "Bosnia-Hercegovina"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cca\u0cb8\u0ccd\u0ca8\u0cbf\u0caf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb9\u0cc6\u0cb0\u0ccd\u0c9c\u0cc6\u0c97\u0cca\u0cb5\u0cbf\u0ca8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e1\u10dc\u10d8\u10d0 \u10d3\u10d0 \u10f0\u10d4\u10e0\u10ea\u10d4\u10d2\u10dd\u10d5\u10d8\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0436\u04d9\u043d\u0435 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044d\u0440\u044d \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u044d\u0440\u044d"
+    ],
+    "name:kin_x_preferred":[
+        "Bosiniya na Herizegovina"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0436\u0430\u043d\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:koi_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0430-\u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:kom_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0434\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:kon_x_preferred":[
+        "Bosna"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\uc2a4\ub2c8\uc544\ud5e4\ub974\uccb4\uace0\ube44\ub098"
+    ],
+    "name:krc_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0431\u043b\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:ksh_x_preferred":[
+        "Bosnien-Herzegovina"
+    ],
+    "name:kur_x_preferred":[
+        "Bosniya \u00fb Herzegov\u00eena"
+    ],
+    "name:lad_x_preferred":[
+        "Bosnia i Hersegovina"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9a\u0ebb\u0e94\u0eaa\u0eb0\u0e99\u0eb5\u0ec1\u0eae\u0e81\u0ec0\u0e8a\u0ec2\u0e81\u0ea7\u0eb5\u0e99"
+    ],
+    "name:lat_x_preferred":[
+        "Bosnia et Herzegovina"
+    ],
+    "name:lav_x_preferred":[
+        "Bosnija un Hercegovina"
+    ],
+    "name:lij_x_preferred":[
+        "B\u00f2snia-Er\u00e7eg\u00f2vina"
+    ],
+    "name:lim_x_preferred":[
+        "Bosni\u00eb en Herzegovina"
+    ],
+    "name:lin_x_preferred":[
+        "Bosnia na Erzegovina"
+    ],
+    "name:lit_x_preferred":[
+        "Bosnija ir Hercegovina"
+    ],
+    "name:lmo_x_preferred":[
+        "Bosnia e Erzegovina"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06cc \u0648 \u06be\u0626\u0631\u0632\u0626\u06af\u0648\u06a4\u06cc\u0646"
+    ],
+    "name:ltg_x_preferred":[
+        "Bosneja i Hercegovina"
+    ],
+    "name:ltz_x_preferred":[
+        "Bosnien an Herzegowina"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d4b\u0d38\u0d4d\u0d28\u0d3f\u0d2f \u0d39\u0d46\u0d7c\u0d38\u0d46\u0d17\u0d4b\u0d35\u0d3f\u0d28"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0949\u0938\u094d\u0928\u093f\u092f\u093e \u0906\u0923\u093f \u0939\u0930\u094d\u091d\u0917\u094b\u0935\u094d\u0939\u093f\u0928\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0434\u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u0439 \u0434\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Bosnia sy Herzegovina"
+    ],
+    "name:mlt_x_preferred":[
+        "Bo\u017cnija u \u0126er\u017cegovina"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438 \u0431\u0430 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "P\u014dngia-Herek\u014dmina"
+    ],
+    "name:msa_x_preferred":[
+        "Bosnia dan Herzegovina"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u1031\u102c\u1037\u1005\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u103e\u1004\u1037\u103a \u101f\u102c\u1007\u102e\u1002\u102d\u102f\u1017\u102e\u1038\u1014\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0434\u044b \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430 \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646"
+    ],
+    "name:nap_x_preferred":[
+        "Bosnia-Erzegovina"
+    ],
+    "name:nau_x_preferred":[
+        "Boteniya me Erdegobina"
+    ],
+    "name:nav_x_preferred":[
+        "Bosna d\u00f3\u00f3 Hetsog Bik\u00e9yah"
+    ],
+    "name:nds_nld_x_preferred":[
+        "Bosni\u00eb-Herzegovina"
+    ],
+    "name:nds_x_preferred":[
+        "Bosnien-Herzegowina"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u094b\u0938\u094d\u0928\u093f\u092f\u093e \u0930 \u0939\u0930\u094d\u091c\u0917\u094b\u092d\u093f\u0928\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u094b\u0938\u094d\u0928\u093f\u092f\u093e \u0935 \u0939\u0930\u094d\u091c\u0917\u094b\u0935\u093f\u0928\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Bosni\u00eb en Herzegovina"
+    ],
+    "name:nno_x_preferred":[
+        "Bosnia-Hercegovina"
+    ],
+    "name:nor_x_preferred":[
+        "Bosnia-Hercegovina"
+    ],
+    "name:nov_x_preferred":[
+        "Bosnia e Hertsegovina"
+    ],
+    "name:oci_x_preferred":[
+        "B\u00f2snia e Ercegovina"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b4b\u0b38\u0b28\u0b3f\u0b06 \u0b13 \u0b39\u0b30\u0b4d\u0b1c\u0b17\u0b4b\u0b2d\u0b3f\u0b28\u0b3e"
+    ],
+    "name:orm_x_preferred":[
+        "Boosniyaa fi Herzegoviinaa"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438 \u00e6\u043c\u00e6 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u00e6"
+    ],
+    "name:pag_x_preferred":[
+        "Bosnia tan Hersegobina"
+    ],
+    "name:pam_x_preferred":[
+        "Bosnia at Herzegovina"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a4b\u0a38\u0a28\u0a40\u0a06 \u0a05\u0a24\u0a47 \u0a39\u0a30\u0a1c\u0a3c\u0a47\u0a17\u0a4b\u0a35\u0a40\u0a28\u0a3e"
+    ],
+    "name:pap_x_preferred":[
+        "Bosnia Herzogovina"
+    ],
+    "name:pcd_x_preferred":[
+        "Bosnie-\u00c9rz\u00e9govine"
+    ],
+    "name:pih_x_preferred":[
+        "Bosnya a' Hersegowina"
+    ],
+    "name:pli_x_preferred":[
+        "\u092c\u093e\u0938\u094d\u0928\u093f\u092f\u093e"
+    ],
+    "name:pms_x_preferred":[
+        "B\u00f2snia e Erzeg\u00f2vina"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06cc\u0627 \u062a\u06d2 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"
+    ],
+    "name:pnt_x_preferred":[
+        "\u0392\u03bf\u03c3\u03bd\u03af\u03b1 \u03ba\u03b1\u03b9 \u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7"
+    ],
+    "name:pol_x_preferred":[
+        "Bo\u015bnia I Hercegowina",
+        "Bo\u015bnia i Hercegowina"
+    ],
+    "name:por_x_preferred":[
+        "B\u00f3snia e Herzegovina"
+    ],
+    "name:por_x_variant":[
+        "B\u00f3snia-Herzegovina",
+        "B\u00f3snia-Herzeg\u00f3vina"
+    ],
+    "name:que_x_preferred":[
+        "Busna-Hirsiquwina"
+    ],
+    "name:roh_x_preferred":[
+        "Bosnia-Erzegovina"
+    ],
+    "name:ron_x_preferred":[
+        "Bosnia \u0219i Her\u021begovina"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0456\u044f \u0456 \u0413\u0435\u0440\u0446\u0435\u0491\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Bosnia \u015ei Her\u021begovina"
+    ],
+    "name:rum_x_variant":[
+        "Bosnia \u0219i Herzegovina",
+        "Bosnia \u0219i Her\u021begovina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Bosn\u00efi na Herzegov\u00eenni"
+    ],
+    "name:sah_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0443\u043e\u043d\u043d\u0430 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u092c\u093e\u0938\u094d\u0928\u093f\u092f\u093e"
+    ],
+    "name:scn_x_preferred":[
+        "Bosnia-Erzegovina"
+    ],
+    "name:sco_x_preferred":[
+        "Bosnie an Herzegovinae"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0dc3\u0dca\u0db1\u0dd2\u0dba\u0dcf \u0dc3\u0dc4 \u0dc4\u0dbb\u0dca\u0dc3\u0d9c\u0ddd\u0dc0\u0dd2\u0db1\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Bosna a Hercegovina"
+    ],
+    "name:slv_x_preferred":[
+        "Bosna in Hercegovina"
+    ],
+    "name:sme_x_preferred":[
+        "Bosnia ja Hercegovina"
+    ],
+    "name:smo_x_preferred":[
+        "Bosnia ma Herzegovina"
+    ],
+    "name:sna_x_preferred":[
+        "Bosnia and Herzegovina"
+    ],
+    "name:som_x_preferred":[
+        "Bosniya"
+    ],
+    "name:spa_x_preferred":[
+        "Bosnia Y Herzegovina",
+        "Bosnia y Herzegovina"
+    ],
+    "name:spa_x_variant":[
+        "Bosnia-Herzegovina"
+    ],
+    "name:sqi_x_preferred":[
+        "Bosnja dhe Hercegovina"
+    ],
+    "name:srd_x_preferred":[
+        "B\u00f2snia Erzegovina"
+    ],
+    "name:srn_x_preferred":[
+        "Bosnikondre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "IBhosinya ne Hezegovi"
+    ],
+    "name:stq_x_preferred":[
+        "Bosnien un Herzegowina"
+    ],
+    "name:sun_x_preferred":[
+        "Bosnia jeung H\u00e9rz\u00e9govina"
+    ],
+    "name:swa_x_preferred":[
+        "Bosnia na Herzegovina"
+    ],
+    "name:swe_x_preferred":[
+        "Bosnien och Hercegovina"
+    ],
+    "name:swe_x_variant":[
+        "Bosnien-Hercegovina"
+    ],
+    "name:szl_x_preferred":[
+        "Bo\u015b\u0144a a Hercegowina"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bca\u0b9a\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0b8e\u0bb0\u0bcd\u0b9a\u0bc6\u0b95\u0bcb\u0bb5\u0bbf\u0ba9\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u04bb\u04d9\u043c \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c38\u0c4d\u0c28\u0c3f\u0c2f\u0c3e \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c39\u0c46\u0c30\u0c4d\u0c1c\u0c46\u0c17\u0c4a\u0c35\u0c40\u0c28\u0c3e"
+    ],
+    "name:tet_x_preferred":[
+        "B\u00f3znia no Erzegovina"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u0432\u0430 \u04b2\u0435\u0440\u0441\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Bosnia at Herzegovina"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e2d\u0e2a\u0e40\u0e19\u0e35\u0e22\u0e41\u0e25\u0e30\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e42\u0e01\u0e27\u0e35\u0e19\u0e32"
+    ],
+    "name:tpi_x_preferred":[
+        "Bosnia na Hesegovina"
+    ],
+    "name:tso_x_preferred":[
+        "Bosnia and Herzegovina"
+    ],
+    "name:tuk_x_preferred":[
+        "Bosni\u00fda we Gersegowina"
+    ],
+    "name:tum_x_preferred":[
+        "Bosnia na Herzegovina"
+    ],
+    "name:tur_x_preferred":[
+        "Bosna-Hersek"
+    ],
+    "name:udm_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0438\u044f \u043d\u043e \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:uig_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u0649\u064a\u06d5 \u06cb\u06d5 \u06be\u06d0\u0631\u0633\u06d0\u06af\u0648\u06cb\u0649\u0646\u0627"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u043d\u0456\u044f \u0456 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Bosnia-Hersegovina",
+        "Vosnia-Erzegovini"
+    ],
+    "name:und_x_preferred":[
+        "Bosna i Hercegovina",
+        "Bosna in Hercegovina"
+    ],
+    "name:und_x_variant":[
+        "Bosna a Hercegovina",
+        "Bosne i Hercegovine",
+        "Bosnia-Herzegovina",
+        "Bosnia-Herzegowina",
+        "Bosnien-Hercegovina",
+        "Bosnija i Gercegovina",
+        "Bosnija i Hercehovina",
+        "Bosn\u00eda-Herseg\u00f3v\u00edna",
+        "Federacija Bosne i Hercegovine",
+        "Republika Bosna in Hercegovina",
+        "Vosn\u00eda-Erzegov\u00edni"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Bosniya va Gersegovina"
+    ],
+    "name:vec_x_preferred":[
+        "Bosnia e Erzeg\u00f2vina"
+    ],
+    "name:vep_x_preferred":[
+        "Bosnii da Gercegovin"
+    ],
+    "name:vie_x_preferred":[
+        "Bosna v\u00e0 Hercegovina"
+    ],
+    "name:vls_x_preferred":[
+        "Bosni\u00eb-Herzegovina"
+    ],
+    "name:vol_x_preferred":[
+        "Bosn\u00e4n e H\u00e4rzegov\u00e4n"
+    ],
+    "name:war_x_preferred":[
+        "Bosnya ngan Hersegovina"
+    ],
+    "name:wol_x_preferred":[
+        "Bosni"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6ce2\u9ed1"
+    ],
+    "name:xal_x_preferred":[
+        "\u0411\u043e\u0441\u043c\u0443\u0434\u0438\u043d \u0431\u043e\u043b\u043d \u0425\u0435\u0440\u0446\u0435\u0433\u0443\u0434\u0438\u043d \u041e\u0440\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10dd\u10e1\u10dc\u10d8\u10d0 \u10d3\u10dd \u10f0\u10d4\u10e0\u10ea\u10d4\u10d2\u10dd\u10d5\u10d8\u10dc\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d0\u05e1\u05e0\u05d9\u05e2 \u05d0\u05d5\u05df \u05d4\u05e2\u05e8\u05e6\u05e2\u05d2\u05d0\u05d5\u05d5\u05d9\u05e0\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "B\u00f3sn\u00ed\u00e0 \u00e0ti H\u1eb9rj\u1eb9g\u00f2f\u00edn\u00e0"
+    ],
+    "name:zea_x_preferred":[
+        "Bosni\u00eb-Hercegovina"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bosna kap Hercegovina"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u6ce2\u65af\u5c3c\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "IBhosniya neHerzegovina"
+    ],
+    "ne:abbrev":"B.H.",
+    "ne:abbrev_len":4,
+    "ne:adm0_a3":"BIH",
+    "ne:adm0_a3_is":"BIH",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"BIH",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":0,
+    "ne:admin":"Bosnia and Herzegovina",
+    "ne:brk_a3":"BIH",
+    "ne:brk_diff":0,
+    "ne:brk_group":null,
+    "ne:brk_name":"Bosnia and Herz.",
+    "ne:continent":"Europe",
+    "ne:economy":"6. Developing region",
+    "ne:featurecla":"Admin-0 country",
+    "ne:fips_10_":"BK",
+    "ne:formal_en":"Bosnia and Herzegovina",
+    "ne:formal_fr":null,
+    "ne:gdp_md_est":29700,
+    "ne:gdp_year":-99,
+    "ne:geou_dif":0,
+    "ne:geounit":"Bosnia and Herzegovina",
+    "ne:gu_a3":"BIH",
+    "ne:homepart":1,
+    "ne:income_grp":"3. Upper middle income",
+    "ne:iso_a2":"BA",
+    "ne:iso_a3":"BIH",
+    "ne:iso_n3":"070",
+    "ne:labelrank":5,
+    "ne:lastcensus":1991,
+    "ne:level":2,
+    "ne:long_len":22,
+    "ne:mapcolor13":2,
+    "ne:mapcolor7":1,
+    "ne:mapcolor8":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Bosnia and Herz.",
+    "ne:name_alt":null,
+    "ne:name_len":16,
+    "ne:name_long":"Bosnia and Herzegovina",
+    "ne:name_sort":"Bosnia and Herzegovina",
+    "ne:note_adm0":null,
+    "ne:note_brk":null,
+    "ne:pop_est":4613414,
+    "ne:pop_year":-99,
+    "ne:postal":"BiH",
+    "ne:region_un":"Europe",
+    "ne:region_wb":"Europe & Central Asia",
+    "ne:scalerank":0,
+    "ne:sov_a3":"BIH",
+    "ne:sovereignt":"Bosnia and Herzegovina",
+    "ne:su_a3":"BIH",
+    "ne:su_dif":0,
+    "ne:subregion":"Southern Europe",
+    "ne:subunit":"Bosnia and Herzegovina",
+    "ne:tiny":-99,
+    "ne:type":"Sovereign country",
+    "ne:un_a3":"070",
+    "ne:wb_a2":"BA",
+    "ne:wb_a3":"BIH",
+    "ne:wikipedia":-99,
+    "ne:woe_id":23424761,
+    "ne:woe_id_eh":23424761,
+    "ne:woe_note":"Exact WOE match as country",
+    "qs:a0":"Bosnia and Herzegovina",
+    "qs:a0_alt":"Fed. of Bos. & Herz.",
+    "qs:adm0":"Bosnia and Herzegovina",
+    "qs:adm0_a3":"BIH",
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"naturalearth",
+    "src:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wk:latitude":44.0,
+    "wk:longitude":18.0,
+    "wk:wordcount":15826,
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "dbp:id":"Bosnia_and_Herzegovina",
+        "fb:id":"en.bosnia_and_herzegovina",
+        "gn:id":3277605,
+        "gp:id":23424761,
+        "hasc:id":"BA",
+        "mzb:id":"bosnia-and-herzegovina",
+        "nyt:id":"14811489725748903221",
+        "qs:id":224784,
+        "wd:id":"Q225",
+        "wk:page":"Bosnia and Herzegovina"
+    },
+    "wof:country":"BA",
+    "wof:country_alpha3":"BIH",
+    "wof:geomhash":"e14dd12fc1cf65118fa899bc3cdcf22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609
+        }
+    ],
+    "wof:id":85632609,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "bos",
+        "srp",
+        "hrv"
+    ],
+    "wof:lang_x_spoken":[
+        "bos",
+        "srp",
+        "hrv"
+    ],
+    "wof:lastmodified":1493230013,
+    "wof:name":"Bosnia and Herzegovina",
+    "wof:parent_id":102191581,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.716074,
+    42.559212,
+    19.618885,
+    45.284524
+],
+  "geometry": {"coordinates":[[[16.941529,45.241219],[16.947317,45.23569],[16.967987,45.237292],[16.9653,45.244216],[16.961166,45.250934],[16.975945,45.247162],[16.988141,45.236516],[16.998683,45.2314],[17.008295,45.244165],[17.012015,45.236465],[17.013566,45.230574],[17.012532,45.224476],[17.008295,45.216156],[17.014393,45.219773],[17.030206,45.226956],[17.036303,45.23047],[17.055734,45.200446],[17.098418,45.177657],[17.124628,45.169058],[17.187095,45.148563],[17.197844,45.152956],[17.24549,45.155384],[17.249727,45.15988],[17.268951,45.189543],[17.307811,45.171404],[17.326518,45.165926],[17.359384,45.150682],[17.368583,45.145101],[17.382432,45.139623],[17.400829,45.141018],[17.434109,45.148563],[17.436176,45.151922],[17.438759,45.158123],[17.443307,45.162051],[17.451162,45.158485],[17.45695,45.151819],[17.458086,45.146134],[17.454986,45.140605],[17.447751,45.1343],[17.46036,45.131252],[17.472349,45.13275],[17.496224,45.14169],[17.487025,45.120865],[17.481858,45.114405],[17.489299,45.116265],[17.539528,45.120968],[17.561439,45.119366],[17.572395,45.120399],[17.593065,45.129598],[17.629962,45.157348],[17.651563,45.165358],[17.684739,45.163963],[17.714505,45.152025],[17.741377,45.133267],[17.797497,45.081952],[17.815584,45.07017],[17.835738,45.064434],[17.84566,45.065261],[17.875219,45.073994],[17.902607,45.077766],[17.911185,45.081074],[17.927722,45.092029],[17.988493,45.143809],[18.003479,45.149338],[18.019086,45.149442],[18.035002,45.143344],[18.090296,45.107997],[18.112413,45.100607],[18.131844,45.097869],[18.143698,45.0977],[18.143704,45.0977],[18.153651,45.097558],[18.174942,45.100762],[18.192512,45.108514],[18.199333,45.119004],[18.200057,45.131613],[18.20233,45.144067],[18.213286,45.153782],[18.237884,45.157451],[18.261965,45.150682],[18.30744,45.127531],[18.322323,45.12288],[18.392913,45.118642],[18.412033,45.112441],[18.429293,45.102209],[18.45183,45.084959],[18.451842,45.08495],[18.466087,45.074046],[18.481708,45.066921],[18.490788,45.06278],[18.51704,45.055856],[18.541121,45.055287],[18.539261,45.069343],[18.534403,45.081539],[18.534803,45.088412],[18.53492,45.090427],[18.549596,45.094768],[18.557658,45.094406],[18.573781,45.091564],[18.581842,45.091357],[18.58856,45.093218],[18.602513,45.099264],[18.609127,45.100091],[18.616672,45.097662],[18.621116,45.093114],[18.627937,45.08004],[18.633622,45.071979],[18.640547,45.065364],[18.648711,45.062677],[18.658116,45.066294],[18.661217,45.0711],[18.663284,45.077146],[18.666075,45.082986],[18.671346,45.086861],[18.678167,45.087378],[18.684058,45.084794],[18.689019,45.080247],[18.726329,45.026142],[18.738318,45.01591],[18.750101,45.012241],[18.778006,45.010329],[18.78493,45.008468],[18.788961,45.005729],[18.791752,45.001544],[18.794646,44.995446],[18.795162,44.993327],[18.795162,44.988004],[18.795783,44.985059],[18.797953,44.982217],[18.803017,44.977307],[18.804568,44.973845],[18.80157,44.963975],[18.779866,44.952244],[18.772631,44.942478],[18.78338,44.913745],[18.817797,44.887545],[18.842129,44.876239],[18.842144,44.876233],[18.858724,44.868529],[18.889627,44.86119],[18.974916,44.862757],[19.004969,44.863309],[19.015821,44.865635],[19.047757,44.872714],[19.068427,44.874833],[19.08455,44.878967],[19.174261,44.925424],[19.18687,44.927543],[19.193174,44.921549],[19.196895,44.913177],[19.201856,44.908371],[19.211881,44.908371],[19.229554,44.913745],[19.239476,44.915141],[19.283815,44.908371],[19.293013,44.909405],[19.301281,44.91235],[19.31017,44.91235],[19.33022,44.898708],[19.340142,44.896227],[19.350271,44.897002],[19.352958,44.898087],[19.353165,44.899018],[19.356982,44.895877],[19.356993,44.895869],[19.362776,44.891111],[19.368667,44.887132],[19.372802,44.881448],[19.375695,44.873128],[19.376626,44.862999],[19.373112,44.86026],[19.367841,44.859278],[19.363707,44.854628],[19.32836,44.733963],[19.318025,44.715463],[19.308413,44.705128],[19.288259,44.693035],[19.277614,44.684871],[19.270069,44.67562],[19.255703,44.645648],[19.208677,44.588391],[19.20413,44.585135],[19.193278,44.580587],[19.188317,44.57604],[19.18625,44.569322],[19.187283,44.553302],[19.185319,44.546223],[19.179635,44.538264],[19.173124,44.531443],[19.165269,44.526689],[19.129922,44.518317],[19.127339,44.502556],[19.143358,44.458218],[19.141394,44.430829],[19.129612,44.416153],[19.115763,44.403596],[19.107185,44.382718],[19.108942,44.36365],[19.116693,44.343703],[19.138914,44.309338],[19.157001,44.293577],[19.177155,44.286962],[19.220046,44.280244],[19.240717,44.272699],[19.249502,44.270736],[19.263661,44.270167],[19.295907,44.2758],[19.307379,44.274198],[19.324329,44.263966],[19.341589,44.245828],[19.353991,44.22433],[19.356058,44.204021],[19.362363,44.191206],[19.381173,44.177098],[19.424891,44.153792],[19.435537,44.146092],[19.442565,44.143198],[19.448456,44.144438],[19.459721,44.152707],[19.465716,44.15281],[19.474191,44.144903],[19.476361,44.127023],[19.482666,44.120667],[19.498169,44.110229],[19.516189,44.091194],[19.522043,44.08501],[19.554599,44.071265],[19.570929,44.056898],[19.580231,44.051524],[19.583848,44.054315],[19.589946,44.060309],[19.598938,44.062583],[19.611443,44.054521],[19.618885,44.035711],[19.61041,44.019278],[19.593357,44.005584],[19.552222,43.983415],[19.528554,43.977213],[19.50406,43.975663],[19.447112,43.979797],[19.393989,43.977058],[19.379106,43.973854],[19.364637,43.973286],[19.351718,43.979125],[19.325879,43.996592],[19.300558,44.009511],[19.287329,44.013025],[19.272756,44.012405],[19.252085,44.007496],[19.243507,44.002018],[19.238029,43.99251],[19.238133,43.985378],[19.242887,43.972821],[19.240717,43.965741],[19.229348,43.95768],[19.241027,43.952357],[19.275443,43.933263],[19.305932,43.904737],[19.359469,43.842209],[19.461685,43.762136],[19.481735,43.729218],[19.505713,43.67364],[19.507367,43.647182],[19.481735,43.628914],[19.477498,43.616977],[19.475638,43.602559],[19.476878,43.588684],[19.481735,43.578116],[19.48897,43.573181],[19.491761,43.568608],[19.48959,43.564448],[19.481735,43.560831],[19.443908,43.571864],[19.431816,43.57114],[19.41931,43.549255],[19.410732,43.540754],[19.402877,43.549643],[19.394609,43.566463],[19.38045,43.585584],[19.363396,43.601577],[19.34655,43.608838],[19.335801,43.606513],[19.31265,43.593154],[19.300868,43.588297],[19.289189,43.587935],[19.263661,43.590958],[19.252706,43.588633],[19.238856,43.572122],[19.229451,43.549746],[19.217462,43.532796],[19.195345,43.532796],[19.147699,43.538145],[19.122791,43.535948],[19.096023,43.512901],[19.076386,43.507242],[19.054991,43.5067],[19.038145,43.511015],[19.025019,43.523029],[19.01427,43.537783],[19.000214,43.547886],[18.977477,43.546232],[18.962697,43.5383],[18.938926,43.518947],[18.920529,43.512203],[18.911021,43.507268],[18.90513,43.499051],[18.905647,43.490628],[18.915258,43.485383],[18.930658,43.482282],[18.937893,43.478949],[18.951225,43.463808],[18.950708,43.457297],[18.946368,43.44908],[18.946264,43.443938],[18.968278,43.448098],[18.975306,43.444274],[19.00993,43.410995],[19.039592,43.350714],[19.069668,43.30883],[19.062536,43.304386],[19.036285,43.303327],[19.024709,43.298728],[19.022535,43.296546],[19.017164,43.291157],[19.01086,43.28232],[19.002902,43.273949],[18.992463,43.267102],[18.989506,43.272016],[18.988949,43.272941],[18.968589,43.292216],[18.959493,43.303456],[18.957116,43.311828],[18.957943,43.318985],[18.957323,43.325858],[18.950295,43.333067],[18.923423,43.346838],[18.899135,43.351903],[18.839604,43.34782],[18.821207,43.341387],[18.824618,43.337408],[18.830302,43.328157],[18.833506,43.324153],[18.807151,43.318029],[18.679511,43.24948],[18.664318,43.233176],[18.688399,43.224469],[18.645301,43.180182],[18.629074,43.154886],[18.621128,43.124578],[18.620599,43.122563],[18.621116,43.09644],[18.638996,43.020243],[18.598379,43.024455],[18.538951,43.023887],[18.483037,43.014637],[18.452754,42.993398],[18.433531,42.954201],[18.434047,42.936889],[18.443969,42.916865],[18.467637,42.881699],[18.473322,42.862553],[18.465984,42.852812],[18.453478,42.845655],[18.443659,42.834467],[18.444589,42.817078],[18.453891,42.793151],[18.46743,42.769199],[18.502157,42.727445],[18.522518,42.71189],[18.539674,42.695457],[18.550009,42.668069],[18.549596,42.638923],[18.542832,42.626429],[18.538434,42.618304],[18.517247,42.602982],[18.506798,42.59849],[18.486654,42.58983],[18.493682,42.579831],[18.495852,42.570865],[18.492132,42.564767],[18.481797,42.563682],[18.470531,42.569056],[18.458956,42.569728],[18.44769,42.566214],[18.437355,42.559212],[18.421025,42.56363],[18.385265,42.566524],[18.370485,42.57363],[18.369791,42.574384],[18.369783,42.574393],[18.349608,42.59629],[18.338653,42.602517],[18.311574,42.601225],[18.257107,42.614893],[18.224138,42.628071],[18.049368,42.714758],[17.995315,42.740441],[17.971853,42.754962],[17.928859,42.7908],[17.904467,42.804546],[17.869431,42.811807],[17.858475,42.816974],[17.827159,42.853122],[17.825092,42.864542],[17.826229,42.888649],[17.823335,42.898365],[17.81176,42.909863],[17.802665,42.90963],[17.794707,42.904592],[17.786748,42.901388],[17.765458,42.904126],[17.7236,42.916245],[17.701586,42.9195],[17.679468,42.915676],[17.665929,42.90516],[17.653349,42.890928],[17.653331,42.890937],[17.652843,42.891181],[17.556488,42.93476],[17.573985,42.934272],[17.601085,42.925238],[17.617931,42.92178],[17.603038,42.932563],[17.580679,42.942075],[17.63451,42.950403],[17.662725,42.965699],[17.659314,42.993398],[17.659211,42.993449],[17.659108,42.99363],[17.659004,42.993656],[17.628412,43.046573],[17.598026,43.072902],[17.587381,43.082126],[17.450913,43.148152],[17.442067,43.152432],[17.42677,43.165713],[17.415195,43.184962],[17.406823,43.205426],[17.400209,43.216045],[17.389667,43.223099],[17.36941,43.232556],[17.328689,43.260358],[17.289931,43.30343],[17.267607,43.353324],[17.286417,43.437376],[17.270501,43.463214],[17.239495,43.478407],[17.142757,43.489336],[17.084569,43.513237],[17.062314,43.527747],[17.030516,43.54848],[16.98194,43.589692],[16.82381,43.707307],[16.712602,43.771515],[16.698236,43.788078],[16.689761,43.809317],[16.686144,43.826137],[16.678599,43.840684],[16.637361,43.868409],[16.604805,43.901068],[16.555816,43.937474],[16.527447,43.967859],[16.516542,43.979539],[16.501039,43.992716],[16.483469,44.002535],[16.439647,44.014007],[16.431482,44.025789],[16.426935,44.040517],[16.414016,44.055813],[16.403991,44.058759],[16.377946,44.057364],[16.367197,44.058139],[16.357378,44.062169],[16.346113,44.068474],[16.326889,44.082375],[16.312213,44.099997],[16.289992,44.139116],[16.275523,44.157357],[16.232115,44.190999],[16.215785,44.208155],[16.197078,44.25115],[16.18757,44.282414],[16.186639,44.297607],[16.189533,44.308511],[16.199662,44.324686],[16.203176,44.333057],[16.205863,44.349801],[16.205644,44.350531],[16.202866,44.359774],[16.192117,44.367422],[16.171343,44.377086],[16.153153,44.380445],[16.141991,44.380755],[16.13827,44.377602],[16.138787,44.385406],[16.145402,44.389591],[16.153877,44.39357],[16.159871,44.400702],[16.159664,44.416101],[16.152946,44.435067],[16.128348,44.484314],[16.123077,44.5039],[16.116463,44.52147],[16.104887,44.532373],[16.0837,44.534905],[16.04732,44.52333],[16.026649,44.52519],[16.006082,44.541003],[16.013937,44.557023],[16.030473,44.572216],[16.034917,44.585393],[16.043186,44.588442],[16.044736,44.589372],[16.041119,44.602808],[16.036158,44.615314],[16.028303,44.624719],[16.016004,44.628957],[15.991613,44.631437],[15.979107,44.634383],[15.968978,44.63924],[15.955646,44.653193],[15.948101,44.678101],[15.937352,44.688953],[15.929808,44.68947],[15.921539,44.686111],[15.913064,44.684509],[15.905416,44.690142],[15.902006,44.698823],[15.899318,44.70921],[15.895598,44.718564],[15.888776,44.724248],[15.876271,44.724816],[15.869243,44.718564],[15.863868,44.709985],[15.856427,44.703577],[15.847849,44.70151],[15.829969,44.700528],[15.820357,44.698255],[15.805681,44.696653],[15.796999,44.703267],[15.790488,44.713396],[15.78284,44.722594],[15.759275,44.73417],[15.753694,44.739286],[15.728476,44.769103],[15.717314,44.786466],[15.716074,44.80321],[15.730647,44.817007],[15.751214,44.821555],[15.76868,44.827342],[15.773435,44.845016],[15.76403,44.864033],[15.74801,44.882016],[15.734264,44.902118],[15.730853,44.927233],[15.734108,44.93444],[15.738811,44.944855],[15.763616,44.97555],[15.76744,44.993224],[15.755555,45.023558],[15.755968,45.042213],[15.779429,45.085363],[15.78377,45.100917],[15.780049,45.160294],[15.780979,45.167993],[15.792348,45.189801],[15.802569,45.196473],[15.824801,45.210988],[15.878855,45.217241],[15.974559,45.215381],[15.997504,45.218533],[16.008459,45.218171],[16.020448,45.213934],[16.029233,45.205045],[16.028716,45.19626],[16.024996,45.188922],[16.024375,45.184323],[16.033057,45.179724],[16.054968,45.176417],[16.067474,45.169595],[16.08277,45.151612],[16.104061,45.112545],[16.121527,45.096163],[16.212994,45.031464],[16.24121,45.018959],[16.279347,45.007176],[16.316244,45.001234],[16.340635,45.005936],[16.346019,45.02001],[16.346023,45.02002],[16.356965,45.048621],[16.377325,45.075596],[16.381976,45.083709],[16.384043,45.09544],[16.381976,45.101951],[16.38177,45.107584],[16.389211,45.116834],[16.398513,45.121433],[16.424764,45.127272],[16.435513,45.132853],[16.449156,45.148098],[16.481919,45.199516],[16.528944,45.222254],[16.587028,45.220858],[16.786293,45.178846],[16.811718,45.181223],[16.824223,45.189077],[16.825774,45.196364],[16.82505,45.205045],[16.830734,45.216983],[16.84076,45.224011],[16.851922,45.227421],[16.86174,45.232227],[16.867321,45.243389],[16.875383,45.246955],[16.885822,45.255223],[16.893986,45.263543],[16.896984,45.268142],[16.924372,45.284524],[16.93264,45.278788],[16.940702,45.257755],[16.942149,45.249849],[16.941529,45.241219]]],"type":"Polygon"}
+}

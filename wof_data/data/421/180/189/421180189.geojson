@@ -1,0 +1,74 @@
+{
+  "id": 421180189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-03-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"46.200828,5.16158,46.200828,5.16158",
+    "geom:latitude":5.16158,
+    "geom:longitude":46.200828,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"deprecated because it should never have been imported (20160329); quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":null,
+    "qs:gn_pop":null,
+    "qs:name":"Somalia",
+    "qs:name_adm0":"Somalia",
+    "qs:name_adm1":null,
+    "qs:photos":141,
+    "qs:photos_1k":29.0,
+    "qs:photos_9k":20.0,
+    "qs:photos_9r":13,
+    "qs:photos_all":4490,
+    "qs:photos_sr":3,
+    "qs:placetype":"Country",
+    "qs:pop_sr":0,
+    "qs:qs_id":422983,
+    "qs:woe_adm0":23424949,
+    "qs:woe_id":23424949,
+    "src:geom":"quattroshapes",
+    "wk:latitude":8.316667,
+    "wk:longitude":47.3,
+    "wk:population":10495583,
+    "wk:wordcount":21231,
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23424949,
+        "qs:id":422983,
+        "wd:id":"Q1045"
+    },
+    "wof:country":"SO",
+    "wof:created":1459009247,
+    "wof:geomhash":"68062baa38ddd66561a32fbbfd2421d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":421180189
+        }
+    ],
+    "wof:id":421180189,
+    "wof:lastmodified":1467182935,
+    "wof:name":"Somalia",
+    "wof:parent_id":102191573,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.200828,
+    5.16158,
+    46.200828,
+    5.16158
+],
+  "geometry": {"coordinates":[46.200828,5.16158],"type":"Point"}
+}
