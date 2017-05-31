@@ -34,7 +34,7 @@ mkdir -p $TOOLS
 
 install_node_project HSLdevcom dbclient
 
-install_node_project pelias schema 1aa457cb0b520bdcf4bd93d57125bf1bf4c74bfa
+install_node_project pelias schema 6565d7d0b8b686e2e408693c3f4bc4889c3d56af 
 
 install_node_project laidig wof-admin-lookup
 
