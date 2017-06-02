@@ -52,8 +52,10 @@ link_others
 install_node_project pelias polylines 
 link_others
 
-install_node_project laidig pelias-gtfs 
+install_node_project laidig pelias-gtfs  
 link_others
 
 install_node_project laidig geonames
 link_others
+
+npm cache clean

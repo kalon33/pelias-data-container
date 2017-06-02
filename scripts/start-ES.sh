@@ -12,6 +12,6 @@ sleep 20
 
 #schema script runs only from current dir
 cd $TOOLS/schema/
-node scripts/create_index
+node scripts/create_index.js
 
 echo 'OK' >> /tmp/loadresults

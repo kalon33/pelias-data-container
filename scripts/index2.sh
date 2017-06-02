@@ -23,6 +23,7 @@ echo '###### indexing GTFS'
 targets=(`ls *.zip`)
 for target in "${targets[@]}"
 do
+    echo 'importing ' $target
     import_gtfs $target
 done
 echo '###### gtfs done'
@@ -31,7 +32,7 @@ echo '###### indexing openaddresses'
 #import openaddresses data
 cd  $TOOLS/openaddresses
 
-bin/parallel 2 --language=en
+bin/parallel 2 
 echo '###### openaddresses/en done'
 
 echo 'OK' >> /tmp/indexresults
