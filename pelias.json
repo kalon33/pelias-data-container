@@ -13,11 +13,11 @@
     ],
     "log": [{
       "type": "stdio",
-      "level": [ "error", "warning" ]
+      "level": [ "error", "warning","info" ]
     }]
   },
   "logger": {
-    "level": "warn",
+    "level": "info",
     "suspectFile": false
   },
   "imports": {
@@ -35,8 +35,7 @@
     },
     "openaddresses": {
       "datapath": "/mnt/data/openaddresses/",
-      "files": ["us/ny/city_of_new_york.csv","us/nj/statewide.csv"],
-      "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
+      "files": ["us/ny/city_of_new_york.csv","us/nj/statewide.csv"]
     },
     "geonames": {
       "datapath": "/mnt/data/geonames/",
