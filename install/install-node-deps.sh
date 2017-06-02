@@ -28,33 +28,32 @@ function install_node_project {
     npm link
 }
 
+function link_others {
+    npm link pelias-dbclient
+    npm link pelias-wof-admin-lookup
+}
+
 set -e
 
 mkdir -p $TOOLS
 
 install_node_project HSLdevcom dbclient
 
-install_node_project pelias schema 6565d7d0b8b686e2e408693c3f4bc4889c3d56af 
+install_node_project pelias schema 1aa457cb0b520bdcf4bd93d57125bf1bf4c74bfa
 
 install_node_project laidig wof-admin-lookup
 
-
-install_node_project pelias openstreetmap
-npm link pelias-dbclient
-npm link pelias-wof-admin-lookup
+install_node_project laidig openstreetmap
+link_others
 
 install_node_project pelias openaddresses
-npm link pelias-dbclient
-npm link pelias-wof-admin-lookup
+link_others
 
 install_node_project pelias polylines 
-npm link pelias-dbclient
-npm link pelias-wof-admin-lookup
+link_others
 
 install_node_project laidig pelias-gtfs 
-npm link pelias-dbclient
-npm link pelias-wof-admin-lookup
+link_others
 
 install_node_project laidig geonames
-npm link pelias-dbclient
-npm link pelias-wof-admin-lookup
+link_others
