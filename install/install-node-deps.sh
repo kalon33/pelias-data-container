@@ -46,10 +46,10 @@ install_node_project laidig wof-admin-lookup
 install_node_project laidig openstreetmap
 link_others
 
-install_node_project pelias openaddresses
+install_node_project pelias openaddresses e3c69e7ce3f0e4f4bea53270c729ade30c9b626e
 link_others
 
-install_node_project pelias polylines 
+install_node_project pelias polylines 9abed4270149086333266bd8c87e0db0089b8316
 link_others
 
 install_node_project laidig pelias-gtfs  
