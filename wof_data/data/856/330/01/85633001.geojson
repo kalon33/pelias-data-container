@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.196063,
+    "geom:area_square_m":110717101596.578766,
     "geom:bbox":"22.3583785,41.238374,28.605693,44.2156925",
     "geom:latitude":42.758554,
     "geom:longitude":25.236214,
     "gn:population":7148785,
     "iso:country":"BG",
+    "itu:country_code":[
+        "359"
+    ],
     "lbl:latitude":42.501868,
     "lbl:longitude":25.176846,
     "mps:latitude":42.501868,
     "mps:longitude":25.176846,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u0411\u044b\u043b\u0433\u0430\u0440\u0438\u0430"
     ],
@@ -30,11 +37,20 @@
     "name:aka_x_preferred":[
         "Bulgaria"
     ],
+    "name:aka_x_variant":[
+        "B\u0254lgeria"
+    ],
+    "name:alb_x_preferred":[
+        "Bullgaria"
+    ],
     "name:als_x_preferred":[
         "Bulgarien"
     ],
     "name:amh_x_preferred":[
         "\u1261\u120d\u130b\u122a\u12eb"
+    ],
+    "name:amh_x_variant":[
+        "\u1261\u120d\u130c\u122a\u12eb"
     ],
     "name:ang_x_preferred":[
         "Pulgaraland"
@@ -47,6 +63,9 @@
     ],
     "name:arg_x_preferred":[
         "Bulgaria"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u0582\u056c\u0572\u0561\u0580\u056b\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0644\u062c\u0627\u0631\u064a\u0627"
@@ -66,8 +85,17 @@
     "name:aze_x_preferred":[
         "Bolqar\u0131stan"
     ],
+    "name:aze_x_variant":[
+        "Bolqariya"
+    ],
     "name:bak_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
+    ],
+    "name:bam_x_preferred":[
+        "Buligari"
+    ],
+    "name:baq_x_preferred":[
+        "Bulgaria"
     ],
     "name:bar_x_preferred":[
         "Buigarien"
@@ -84,11 +112,23 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u0997\u09c7\u09b0\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c1\u09b2\u0997\u09c7\u09b0\u09bf\u09df\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0628\u0644\u06af\u0627\u0631\u06cc\u0627"
+    ],
+    "name:bho_x_preferred":[
+        "\u092c\u0941\u0932\u094d\u0917\u093e\u0930\u093f\u092f\u093e"
+    ],
     "name:bis_x_preferred":[
         "Bulgaria"
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f74\u0f0b\u0f62\u0f0b\u0f42\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f56\u0f74\u0f63\u0f0b\u0f42\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Bugarska"
@@ -101,6 +141,14 @@
     ],
     "name:bul_x_preferred":[
         "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+        "Republika B\u016dlgariya",
+        "Republika Bulgaria"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u1030\u101c\u103a\u1002\u1031\u1038\u101b\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438"
@@ -124,7 +172,7 @@
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438"
     ],
     "name:chi_x_preferred":[
-        "\u4fdd\u52a0\u5229\u4e9e"
+        "\u4fdd\u52a0\u5229\u4e9a"
     ],
     "name:chr_x_preferred":[
         "\u13ca\u13b5\u13a8\u13b5\u13a0"
@@ -162,6 +210,9 @@
     "name:deu_x_preferred":[
         "Bulgarien"
     ],
+    "name:deu_x_variant":[
+        "Republik Bulgarien"
+    ],
     "name:diq_x_preferred":[
         "Bul\u011far\u0131stan"
     ],
@@ -171,11 +222,17 @@
     "name:dsb_x_preferred":[
         "Bulgarska"
     ],
+    "name:dty_x_preferred":[
+        "\u092c\u0941\u0932\u094d\u0917\u0947\u0930\u093f\u092f\u093e"
+    ],
     "name:dut_x_preferred":[
         "Bulgarije"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Bulgar\u00ee"
     ],
     "name:eng_x_preferred":[
         "Bulgaria"
@@ -192,6 +249,9 @@
     "name:epo_x_preferred":[
         "Bulgario"
     ],
+    "name:epo_x_variant":[
+        "Bulgarujo"
+    ],
     "name:est_x_preferred":[
         "Bulgaaria"
     ],
@@ -200,6 +260,9 @@
     ],
     "name:ewe_x_preferred":[
         "Bulgaria"
+    ],
+    "name:ewe_x_variant":[
+        "Bulgaria nutome"
     ],
     "name:ext_x_preferred":[
         "Bulg\u00e1ria"
@@ -213,17 +276,17 @@
     "name:fin_x_preferred":[
         "Bulgaria"
     ],
+    "name:fra_x_colloquial":[
+        "Republique Bulgarie"
+    ],
     "name:fra_x_preferred":[
         "Bulgarie"
     ],
-    "name:fre_x_colloquial":[
-        "Republique Bulgarie"
+    "name:fra_x_variant":[
+        "R\u00e9publique Bulgarie"
     ],
     "name:fre_x_preferred":[
         "Bulgarie"
-    ],
-    "name:fre_x_variant":[
-        "R\u00e9publique Bulgarie"
     ],
     "name:frp_x_preferred":[
         "Bulgarie"
@@ -237,17 +300,20 @@
     "name:ful_x_preferred":[
         "Bulgariya"
     ],
+    "name:ful_x_variant":[
+        "Bulgarii"
+    ],
     "name:fur_x_preferred":[
         "Bulgarie"
     ],
     "name:gag_x_preferred":[
         "Bulgariya"
     ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10da\u10d2\u10d0\u10e0\u10d4\u10d7\u10d8"
+    ],
     "name:ger_x_preferred":[
         "Bulgarien"
-    ],
-    "name:ger_x_variant":[
-        "Republik Bulgarien"
     ],
     "name:gla_x_preferred":[
         "Bulg\u00e0iria"
@@ -258,6 +324,9 @@
     "name:glg_x_preferred":[
         "Bulgaria"
     ],
+    "name:glg_x_variant":[
+        "Bulgaria - \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+    ],
     "name:glv_x_preferred":[
         "Yn Vulgeyr"
     ],
@@ -267,8 +336,14 @@
     "name:got_x_preferred":[
         "\ud800\udf31\ud800\udf3f\ud800\udf3b\ud800\udf32\ud800\udf30\ud800\udf42\ud800\udf39\ud800\udf30"
     ],
+    "name:gre_x_preferred":[
+        "\u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03af\u03b1"
+    ],
     "name:grn_x_preferred":[
         "Vugaria"
+    ],
+    "name:gsw_x_preferred":[
+        "Bulgarie"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab2\u0acd\u0a97\u0ac7\u0ab0\u0abf\u0aaf\u0abe"
@@ -281,6 +356,9 @@
     ],
     "name:hau_x_preferred":[
         "Bulgairiya"
+    ],
+    "name:hau_x_variant":[
+        "Bulgariya"
     ],
     "name:haw_x_preferred":[
         "Pulukalia"
@@ -297,6 +375,9 @@
     "name:hin_x_preferred":[
         "\u092c\u0941\u0932\u094d\u0917\u093e\u0930\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u092c\u0932\u094d\u0917\u093e\u0930\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Bugarska"
     ],
@@ -308,6 +389,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u056c\u0572\u0561\u0580\u056b\u0561"
+    ],
+    "name:ice_x_preferred":[
+        "B\u00falgar\u00eda"
     ],
     "name:ido_x_preferred":[
         "Bulgaria"
@@ -358,6 +442,10 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cb2\u0ccd\u0c97\u0cc7\u0cb0\u0cbf\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0cac\u0cb2\u0ccd\u0c97\u0cc7\u0cb0\u0cbf\u0caf\u0ca8\u0ccd",
+        "\u0c9d\u0c93\u0c95\u0ccd\u0cb5\u0cbf\u0ca8\u0ccd\u0c97\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10da\u10d2\u10d0\u10e0\u10d4\u10d7\u10d8"
     ],
@@ -366,6 +454,15 @@
     ],
     "name:kbd_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "Puligari"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17ca\u17bb\u179b\u17a0\u17d2\u1782\u17b6\u179a\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Bulgaria"
     ],
     "name:kin_x_preferred":[
         "Bulugariya"
@@ -394,11 +491,17 @@
     "name:kur_x_preferred":[
         "Bulgaristan"
     ],
+    "name:kur_x_variant":[
+        "\u0628\u0648\u0644\u06af\u0627\u0631\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Bulgaria"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9a\u0eb9\u0e99\u0e81\u0eb2\u0ea5\u0eb5"
+    ],
+    "name:lao_x_variant":[
+        "\u0e9a\u0eb1\u0e87\u0e81\u0eb2\u0ec0\u0ea5\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Bulgaria"
@@ -409,6 +512,9 @@
     "name:lbe_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u0430"
     ],
+    "name:lez_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
+    ],
     "name:lij_x_preferred":[
         "Burgaja"
     ],
@@ -418,8 +524,14 @@
     "name:lin_x_preferred":[
         "Bulgaria"
     ],
+    "name:lin_x_variant":[
+        "Biligari"
+    ],
     "name:lit_x_preferred":[
         "Bulgarija"
+    ],
+    "name:liv_x_preferred":[
+        "Bulg\u0101rij"
     ],
     "name:lmo_x_preferred":[
         "B\u00fclgaria"
@@ -433,14 +545,35 @@
     "name:ltz_x_preferred":[
         "Bulgarien"
     ],
+    "name:lub_x_preferred":[
+        "Biligari"
+    ],
+    "name:lug_x_preferred":[
+        "Bulugariya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4fdd\u52a0\u5229\u4e9e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0440\u0438\u0458\u0430"
+    ],
     "name:mai_x_preferred":[
         "\u092c\u0941\u0932\u094d\u0917\u0947\u0930\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d7e\u0d17\u0d47\u0d31\u0d3f\u0d2f"
     ],
+    "name:mal_x_variant":[
+        "\u0d2c\u0d33\u0d4d\u200d\u0d17\u0d47\u0d31\u0d3f\u0d2f"
+    ],
+    "name:mao_x_preferred":[
+        "Puruk\u0101ria"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u0932\u094d\u0917\u0947\u0930\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Bulgaria"
     ],
     "name:mdf_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u0435"
@@ -475,11 +608,20 @@
     "name:mya_x_preferred":[
         "\u1018\u1030\u101c\u103a\u1002\u1031\u1038\u101b\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1018\u1030\u1002\u1031\u1038\u101b\u102e\u1038\u101a\u102c\u1038"
+    ],
     "name:myv_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0648\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "Bulgaria"
+    ],
+    "name:nan_x_preferred":[
+        "Bulgariya"
     ],
     "name:nap_x_preferred":[
         "Bulgaria"
@@ -490,6 +632,9 @@
     "name:nav_x_preferred":[
         "B\u00e1lgaa Bik\u00e9yah"
     ],
+    "name:nde_x_preferred":[
+        "Bhulgariya"
+    ],
     "name:nds_nld_x_preferred":[
         "Bulgarije"
     ],
@@ -499,6 +644,9 @@
     "name:nep_x_preferred":[
         "\u092c\u0941\u0932\u094d\u0917\u0947\u0930\u093f\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u092c\u0932\u094d\u0917\u0947\u0930\u093f\u092f\u093e"
+    ],
     "name:new_x_preferred":[
         "\u092c\u0941\u0932\u094d\u0917\u0947\u0930\u093f\u092f\u093e"
     ],
@@ -506,6 +654,9 @@
         "Bulgarije"
     ],
     "name:nno_x_preferred":[
+        "Bulgaria"
+    ],
+    "name:nob_x_preferred":[
         "Bulgaria"
     ],
     "name:nor_x_preferred":[
@@ -520,8 +671,17 @@
     "name:oci_x_preferred":[
         "Bulgaria"
     ],
+    "name:oci_x_variant":[
+        "Bolg\u00e0ria"
+    ],
+    "name:olo_x_preferred":[
+        "Bolguarii"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b41\u0b32\u0b17\u0b3e\u0b30\u0b3f\u0b06"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2c\u0b41\u0b32\u0b17\u0b47\u0b30\u0b3f\u0b06"
     ],
     "name:orm_x_preferred":[
         "Bulgeeriyaa"
@@ -546,6 +706,9 @@
     ],
     "name:pdc_x_preferred":[
         "Bulgarien"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
     ],
     "name:pfl_x_preferred":[
         "Bulgarije"
@@ -574,8 +737,14 @@
     "name:pus_x_preferred":[
         "\u0628\u0644\u063a\u0627\u0631\u06cc\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0628\u0644\u063a\u0627\u0631\u06cc\u0647"
+    ],
     "name:que_x_preferred":[
         "Bulgarya"
+    ],
+    "name:que_x_variant":[
+        "Bulgariya"
     ],
     "name:rmy_x_preferred":[
         "Bulgariya"
@@ -586,11 +755,23 @@
     "name:ron_x_preferred":[
         "Bulgaria"
     ],
+    "name:ron_x_variant":[
+        "\u0411\u0443\u043b\u0433\u0430\u0440\u0438\u044f"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0443\u043b\u0433\u0430\u0440\u0456\u044f"
     ],
+    "name:rum_x_preferred":[
+        "Bulgaria"
+    ],
     "name:run_x_preferred":[
         "Bulgaria"
+    ],
+    "name:run_x_variant":[
+        "Buligariya"
+    ],
+    "name:rup_x_preferred":[
+        "Vurgaria"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
@@ -610,14 +791,23 @@
     "name:sco_x_preferred":[
         "Bulgarie"
     ],
+    "name:sgs_x_preferred":[
+        "Bulgar\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dbd\u0dca\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Bulharsko"
     ],
+    "name:slo_x_preferred":[
+        "Bulharsko"
+    ],
     "name:slv_x_preferred":[
         "Bolgarija"
+    ],
+    "name:sma_x_preferred":[
+        "Bulgaaria"
     ],
     "name:sme_x_preferred":[
         "Bulg\u00e1ria"
@@ -628,14 +818,23 @@
     "name:sna_x_preferred":[
         "Bulgaria"
     ],
+    "name:snd_x_preferred":[
+        "\u0628\u0644\u063a\u0627\u0631\u064a\u0647"
+    ],
     "name:som_x_preferred":[
         "Bulgaria"
+    ],
+    "name:som_x_variant":[
+        "Bulgaariya"
     ],
     "name:spa_x_preferred":[
         "Bulgaria"
     ],
     "name:sqi_x_preferred":[
         "Bullgaria"
+    ],
+    "name:sqi_x_variant":[
+        "Bullgari"
     ],
     "name:srd_x_preferred":[
         "Bulgaria"
@@ -667,6 +866,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bb2\u0bcd\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bb2\u0bcd\u0b95\u0bc7\u0bb0\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
     ],
@@ -684,6 +886,18 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e31\u0e25\u0e41\u0e01\u0e40\u0e23\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e31\u0e25\u0e41\u0e01\u0e40\u0e23\u0e35\u0e22"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f54\u0f74\u0f0b\u0f62\u0f0b\u0f42\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u1261\u120d\u130c\u122a\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Pokalia"
     ],
     "name:tpi_x_preferred":[
         "Balgeria"
@@ -729,6 +943,9 @@
         "Republika Bulgaria",
         "Voulgar\u00eda"
     ],
+    "name:unk_x_variant":[
+        "Blgariya"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u063a\u0627\u0631\u06cc\u06c1"
     ],
@@ -744,14 +961,27 @@
     "name:vie_x_preferred":[
         "Bulgaria"
     ],
+    "name:vie_x_variant":[
+        "Bun-ga-ri",
+        "Bun-ga-ri (Bulgaria)"
+    ],
     "name:vls_x_preferred":[
         "Bulgareye"
     ],
     "name:vol_x_preferred":[
         "Bulgar\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Bulgaaria"
+    ],
     "name:war_x_preferred":[
         "Bulgaria"
+    ],
+    "name:war_x_variant":[
+        "Bulgarya"
+    ],
+    "name:wel_x_preferred":[
+        "Bwlgaria"
     ],
     "name:wln_x_preferred":[
         "Bulg\u00e5reye"
@@ -774,6 +1004,12 @@
     "name:yor_x_preferred":[
         "B\u00f9lg\u00e1r\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de B\u00f9\u00f9g\u00e1r\u00ed\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u4fdd\u52a0\u5229\u4e9e"
+    ],
     "name:zea_x_preferred":[
         "Bulharije"
     ],
@@ -791,6 +1027,9 @@
     ],
     "name:zul_x_preferred":[
         "IBulgariya"
+    ],
+    "name:zul_x_variant":[
+        "i-Bulgaria"
     ],
     "ne:abbrev":"Bulg.",
     "ne:abbrev_len":5,
@@ -870,6 +1109,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"359",
+    "statoids:ds":"BG",
+    "statoids:fifa":"BUL",
+    "statoids:gaul":"41",
+    "statoids:gec":"BU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"BUL",
+    "statoids:iso_a2":"BG",
+    "statoids:iso_a3":"BGR",
+    "statoids:iso_num":"100",
+    "statoids:itu":"BUL",
+    "statoids:marc":"bu",
+    "statoids:name":"Bulgaria",
+    "statoids:wmo":"BU",
     "wk:latitude":42.75,
     "wk:longitude":25.5,
     "wk:population":7265115,
@@ -881,19 +1135,29 @@
     "wof:concordances":{
         "dbp:id":"Bulgaria",
         "fb:id":"en.bulgaria",
+        "fifa:id":"BUL",
+        "fips:code":"BU",
+        "gaul:id":"41",
         "gn:id":732800,
         "gp:id":23424771,
         "hasc:id":"BG",
+        "ioc:id":"BUL",
+        "itu:id":"BUL",
         "loc:id":"n81032254",
+        "m49:code":"100",
+        "marc:id":"bu",
         "mzb:id":"bulgaria",
+        "ne:adm0_a3":"BGR",
         "nyt:id":"1369224404072545591",
         "qs:id":552755,
+        "uncrt:id":"BG",
         "wd:id":"Q219",
-        "wk:page":"Bulgaria"
+        "wk:page":"Bulgaria",
+        "wmo:id":"BU"
     },
     "wof:country":"BG",
     "wof:country_alpha3":"BGR",
-    "wof:geomhash":"3c9548219da47e56ef14013bc81c1f5a",
+    "wof:geomhash":"a783b9397d459792baa4c1511c0cf7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -910,11 +1174,14 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1493230164,
+    "wof:lastmodified":1514559381,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":7265115,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"BGR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

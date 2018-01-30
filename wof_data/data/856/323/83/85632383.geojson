@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.915836,
+    "geom:area_square_m":119295851164.18692,
     "geom:bbox":"32.678889,-17.135278,35.924166,-9.36718125",
     "geom:latitude":-13.221586,
     "geom:longitude":34.30758,
     "gn:id":"",
     "gn:population":15447500,
     "iso:country":"MW",
+    "itu:country_code":[
+        "265"
+    ],
     "lbl:latitude":-13.404159,
     "lbl:longitude":33.658495,
     "mps:latitude":-13.404159,
     "mps:longitude":33.658495,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Malawi"
     ],
     "name:afr_x_preferred":[
+        "Malawi"
+    ],
+    "name:aka_x_preferred":[
         "Malawi"
     ],
     "name:als_x_preferred":[
@@ -31,14 +41,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0648\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0644\u0627\u0648\u064a"
+    ],
     "name:arg_x_preferred":[
         "Malawi"
+    ],
+    "name:arg_x_variant":[
+        "Malaui"
     ],
     "name:arz_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0648\u0649"
     ],
     "name:ast_x_preferred":[
         "Malawi"
+    ],
+    "name:ast_x_variant":[
+        "Malaui"
     ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0648\u06cc"
@@ -70,6 +89,9 @@
     "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f63\u0f0b\u0f5d\u0f72\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f71\u0f0b\u0f63\u0f71\u0f0b\u0f5d\u0f72\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Malavi"
     ],
@@ -100,12 +122,6 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0432\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62c9\u5a01"
-    ],
-    "name:chi_x_variant":[
-        "\u9a6c\u62c9\u7ef4"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0432\u0438"
     ],
@@ -129,6 +145,9 @@
     ],
     "name:deu_x_preferred":[
         "Malawi"
+    ],
+    "name:deu_x_variant":[
+        "Republik Malawi"
     ],
     "name:diq_x_preferred":[
         "Malawi"
@@ -166,6 +185,9 @@
     "name:ewe_x_preferred":[
         "Malawi"
     ],
+    "name:ewe_x_variant":[
+        "Malawi nutome"
+    ],
     "name:ext_x_preferred":[
         "Malaui"
     ],
@@ -187,11 +209,11 @@
     "name:fry_x_preferred":[
         "Malawy"
     ],
+    "name:ful_x_preferred":[
+        "Malaawi"
+    ],
     "name:gag_x_preferred":[
         "Malavi"
-    ],
-    "name:ger_x_preferred":[
-        "Republik Malawi"
     ],
     "name:gla_x_preferred":[
         "Malabhaidh"
@@ -202,13 +224,22 @@
     "name:glg_x_preferred":[
         "Malaui"
     ],
+    "name:glg_x_variant":[
+        "Malaui - Malawi"
+    ],
     "name:glv_x_preferred":[
         "Malawi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab2\u0abe\u0ab5\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Malawi"
     ],
     "name:hat_x_preferred":[
+        "Malawi"
+    ],
+    "name:hau_x_preferred":[
         "Malawi"
     ],
     "name:hbs_x_preferred":[
@@ -278,8 +309,14 @@
     "name:kab_x_preferred":[
         "Malawi"
     ],
+    "name:kal_x_preferred":[
+        "Malawi"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cb2\u0cbe\u0cb5\u0cbf"
+    ],
+    "name:kas_x_preferred":[
+        "\u092e\u0932\u093e\u0935\u0940"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10da\u10d0\u10d5\u10d8"
@@ -304,6 +341,9 @@
     ],
     "name:kur_x_preferred":[
         "Malaw\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u0627\u0644\u0627\u0648\u06cc"
     ],
     "name:lat_x_preferred":[
         "Malavia"
@@ -332,6 +372,12 @@
     "name:ltz_x_preferred":[
         "Malawi"
     ],
+    "name:lub_x_preferred":[
+        "Malawi"
+    ],
+    "name:lug_x_preferred":[
+        "Malawi"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d32\u0d3e\u0d35\u0d3f"
     ],
@@ -347,6 +393,9 @@
     "name:mlg_x_preferred":[
         "Malawi"
     ],
+    "name:mlg_x_variant":[
+        "Malao\u00ec"
+    ],
     "name:mlt_x_preferred":[
         "Malawi"
     ],
@@ -359,14 +408,23 @@
     "name:mya_x_preferred":[
         "\u1019\u102c\u101c\u101d\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u102c\u101c\u102c\u101d\u102e"
+    ],
     "name:nav_x_preferred":[
         "Mal\u00e1\u00e1wii"
+    ],
+    "name:nde_x_preferred":[
+        "Malawi"
     ],
     "name:nds_x_preferred":[
         "Malawi"
     ],
     "name:nep_x_preferred":[
         "\u092e\u0932\u093e\u0935\u0940"
+    ],
+    "name:nep_x_variant":[
+        "\u092e\u093e\u0932\u093e\u0935\u0940"
     ],
     "name:new_x_preferred":[
         "\u092e\u0932\u093e\u0935\u0940"
@@ -375,6 +433,9 @@
         "Malawi"
     ],
     "name:nno_x_preferred":[
+        "Malawi"
+    ],
+    "name:nob_x_preferred":[
         "Malawi"
     ],
     "name:nor_x_preferred":[
@@ -391,6 +452,9 @@
     ],
     "name:oci_x_preferred":[
         "Malawi"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2e\u0b3e\u0b32\u0b71\u0b3f"
     ],
     "name:orm_x_preferred":[
         "Maalaawwii"
@@ -432,7 +496,13 @@
     "name:que_x_preferred":[
         "Malawi"
     ],
+    "name:roh_x_preferred":[
+        "Malawi"
+    ],
     "name:ron_x_preferred":[
+        "Malawi"
+    ],
+    "name:run_x_preferred":[
         "Malawi"
     ],
     "name:rus_x_preferred":[
@@ -478,6 +548,9 @@
     "name:sqi_x_preferred":[
         "Malavi"
     ],
+    "name:sqi_x_variant":[
+        "Malevia"
+    ],
     "name:srd_x_preferred":[
         "Malawi"
     ],
@@ -505,6 +578,12 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bb2\u0bbe\u0bb5\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbe\u0bb2\u0bb5\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c32\u0c3e\u0c35\u0c3f"
+    ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0432\u0438"
     ],
@@ -514,8 +593,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e32\u0e25\u0e32\u0e27\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e25\u0e32\u0e27\u0e35"
+    ],
     "name:tir_x_preferred":[
         "\u121b\u120b\u12ca"
+    ],
+    "name:ton_x_preferred":[
+        "Malaui"
     ],
     "name:tso_x_preferred":[
         "Malawi"
@@ -538,6 +623,9 @@
     "name:und_x_preferred":[
         "Republika Malavi"
     ],
+    "name:unk_x_variant":[
+        "Nyasaland"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0644\u0627\u0648\u06cc"
     ],
@@ -552,6 +640,10 @@
     ],
     "name:vie_x_preferred":[
         "Malawi"
+    ],
+    "name:vie_x_variant":[
+        "Ma-la-uy",
+        "Ma-la-uy (Malawi)"
     ],
     "name:vol_x_preferred":[
         "Malaviy\u00e4n"
@@ -577,6 +669,9 @@
     "name:yor_x_preferred":[
         "M\u00e0l\u00e1w\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Malawi"
+    ],
     "name:zea_x_preferred":[
         "Malawi"
     ],
@@ -586,11 +681,18 @@
     "name:zho_x_preferred":[
         "\u9a6c\u62c9\u7ef4"
     ],
+    "name:zho_x_variant":[
+        "\u9a6c\u62c9\u7ef4",
+        "\u99ac\u62c9\u5a01"
+    ],
     "name:zho_yue_x_preferred":[
         "\u99ac\u62c9\u7dad"
     ],
     "name:zul_x_preferred":[
         "IMalawi"
+    ],
+    "name:zul_x_variant":[
+        "i-Malawi"
     ],
     "ne:abbrev":"Mal.",
     "ne:abbrev_len":4,
@@ -669,6 +771,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"265",
+    "statoids:ds":"MW",
+    "statoids:fifa":"MWI",
+    "statoids:gaul":"152",
+    "statoids:gec":"MI",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MAW",
+    "statoids:iso_a2":"MW",
+    "statoids:iso_a3":"MWI",
+    "statoids:iso_num":"454",
+    "statoids:itu":"MWI",
+    "statoids:marc":"mw",
+    "statoids:name":"Malawi",
+    "statoids:wmo":"MW",
     "wk:latitude":-13.016667,
     "wk:longitude":33.6,
     "wk:population":16362567,
@@ -680,19 +797,29 @@
     "wof:concordances":{
         "dbp:id":"Malawi",
         "fb:id":"en.malawi",
+        "fifa:id":"MWI",
+        "fips:code":"MI",
+        "gaul:id":"152",
         "gn:id":927384,
         "gp:id":23424889,
         "hasc:id":"MW",
+        "ioc:id":"MAW",
+        "itu:id":"MWI",
         "loc:id":"n80089996",
+        "m49:code":"454",
+        "marc:id":"mw",
         "mzb:id":"malawi",
+        "ne:adm0_a3":"MWI",
         "nyt:id":"62299690897437450241",
         "qs:id":1263242,
+        "uncrt:id":"MW",
         "wd:id":"Q1020",
-        "wk:page":"Malawi"
+        "wk:page":"Malawi",
+        "wmo:id":"MW"
     },
     "wof:country":"MW",
     "wof:country_alpha3":"MWI",
-    "wof:geomhash":"4fe7b3b545f0e23d001dfbc394475d59",
+    "wof:geomhash":"8e34ffe4400307584143030831fb7862",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -711,11 +838,14 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1493229940,
+    "wof:lastmodified":1509142796,
     "wof:name":"Malawi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":16362567,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MWI",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

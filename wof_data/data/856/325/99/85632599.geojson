@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.702597,
+    "geom:area_square_m":129008440099.47142,
     "geom:bbox":"-87.692337036,10.708055,-82.550392151,15.030275",
     "geom:latitude":12.845499,
     "geom:longitude":-85.03852,
     "gn:population":5995928,
     "iso:country":"NI",
+    "itu:country_code":[
+        "505"
+    ],
     "lbl:latitude":12.793313,
     "lbl:longitude":-85.039545,
     "mps:latitude":12.793313,
     "mps:longitude":-85.039545,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Nikaragua"
     ],
@@ -24,6 +31,9 @@
     "name:afr_x_preferred":[
         "Nicaragua"
     ],
+    "name:aka_x_preferred":[
+        "Nekaraguwa"
+    ],
     "name:als_x_preferred":[
         "Nicaragua"
     ],
@@ -32,6 +42,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0627\u0631\u0627\u063a\u0648\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0643\u0627\u0631\u0627\u062c\u0648\u0627"
     ],
     "name:arg_x_preferred":[
         "Nicaragua"
@@ -72,8 +85,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0995\u09be\u09b0\u09be\u0997\u09c1\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09bf\u0995\u09be\u09b0\u09be\u0997\u09cb\u09df\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f53\u0f72\u0f0b\u0f40\u0f0b\u0f62\u0f0b\u0f42\u0f74\u0f0b\u0f5d\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f53\u0f72\u0f0b\u0f40\u0f0b\u0f62\u0f0b\u0f42\u0f74\u0f0b\u0f68\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Nikaragva"
@@ -105,9 +124,6 @@
     "name:che_x_preferred":[
         "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u52a0\u62c9\u74dc"
-    ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
     ],
@@ -129,6 +145,9 @@
     "name:deu_x_preferred":[
         "Nicaragua"
     ],
+    "name:deu_x_variant":[
+        "Nikaragua"
+    ],
     "name:diq_x_preferred":[
         "Nikaragua"
     ],
@@ -141,12 +160,14 @@
     "name:ell_x_preferred":[
         "\u039d\u03b9\u03ba\u03b1\u03c1\u03ac\u03b3\u03bf\u03c5\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "Nicaragua"
+    ],
     "name:eng_x_unknown":[
         "NI",
         "NIC"
     ],
     "name:eng_x_variant":[
-        "Nicaragua",
         "Nicaraguan",
         "Rep. Nicaragua",
         "Republic of Nicaragua"
@@ -157,11 +178,17 @@
     "name:est_x_preferred":[
         "Nicaragua"
     ],
+    "name:est_x_variant":[
+        "Nikaraagua"
+    ],
     "name:eus_x_preferred":[
         "Nikaragua"
     ],
     "name:ewe_x_preferred":[
         "Nicaragua"
+    ],
+    "name:ewe_x_variant":[
+        "Nicaraguaduk\u0254"
     ],
     "name:ext_x_preferred":[
         "Nicar\u00e1gua"
@@ -171,6 +198,10 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0622",
+        "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Nicaragua"
@@ -186,6 +217,9 @@
     ],
     "name:fry_x_preferred":[
         "Nikarag\u00fba"
+    ],
+    "name:ful_x_preferred":[
+        "Nikaraguwaa"
     ],
     "name:gag_x_preferred":[
         "Nikaragua"
@@ -212,17 +246,26 @@
     "name:grn_x_preferred":[
         "Nikar\u00e1gua"
     ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0abf\u0a95\u0abe\u0ab0\u0abe\u0a97\u0ac1\u0a86"
+    ],
     "name:hak_x_preferred":[
         "Nicaragua"
     ],
     "name:hat_x_preferred":[
         "Nikaragwa"
     ],
+    "name:hau_x_preferred":[
+        "Nikaraguwa"
+    ],
     "name:hbs_x_preferred":[
         "Nikaragva"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05e7\u05e8\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d9\u05e7\u05d0\u05e8\u05d0\u05d2\u05d5\u05d0\u05d4"
     ],
     "name:hif_x_preferred":[
         "Nicaragua"
@@ -238,6 +281,9 @@
     ],
     "name:hun_x_preferred":[
         "Nicaragua"
+    ],
+    "name:hun_x_variant":[
+        "Nikaragua"
     ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u056f\u0561\u0580\u0561\u0563\u0578\u0582\u0561"
@@ -257,8 +303,14 @@
     "name:ind_x_preferred":[
         "Nikaragua"
     ],
+    "name:ind_x_variant":[
+        "Nicaragua"
+    ],
     "name:isl_x_preferred":[
         "N\u00edkarag\u00faa"
+    ],
+    "name:isl_x_variant":[
+        "N\u00edkaragva"
     ],
     "name:ita_x_preferred":[
         "Nicaragua"
@@ -281,14 +333,29 @@
     "name:kaa_x_preferred":[
         "Nikaragua"
     ],
+    "name:kal_x_preferred":[
+        "Nicaragua"
+    ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbf\u0c95\u0cb0\u0cbe\u0c97\u0cc1\u0cb5"
+    ],
+    "name:kan_x_variant":[
+        "\u0ca8\u0cbf\u0c95\u0cbe\u0cb0\u0cbe\u0c97\u0cc1\u0cb5\u0cbe"
+    ],
+    "name:kas_x_preferred":[
+        "Nik\u0101raguv\u0101"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
+    ],
+    "name:khm_x_preferred":[
+        "\u1793\u17b8\u1780\u17b6\u179a\u17c9\u17b6\u17a0\u17d2\u1782\u17d0\u179a"
+    ],
+    "name:kik_x_preferred":[
+        "Nikaragwa"
     ],
     "name:kin_x_preferred":[
         "Nikaragwa"
@@ -308,6 +375,12 @@
     "name:kur_x_preferred":[
         "N\u00eekaragua"
     ],
+    "name:kur_x_variant":[
+        "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e99\u0eb4\u0e84\u0eb2\u0ea5\u0eb2\u0e81\u0ebb\u0ea7"
+    ],
     "name:lat_x_preferred":[
         "Nicaragua"
     ],
@@ -323,6 +396,9 @@
     "name:lin_x_preferred":[
         "Nikalagwa"
     ],
+    "name:lin_x_variant":[
+        "Nikaragwa"
+    ],
     "name:lit_x_preferred":[
         "Nikaragva"
     ],
@@ -332,11 +408,23 @@
     "name:ltz_x_preferred":[
         "Nicaragua"
     ],
+    "name:lub_x_preferred":[
+        "Nikaragwa"
+    ],
+    "name:lug_x_preferred":[
+        "Nikaraguwa"
+    ],
     "name:mal_x_preferred":[
         "\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d30\u0d3e\u0d17\u0d4d\u0d35"
     ],
+    "name:mal_x_variant":[
+        "\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d17\u0d4d\u0d35"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0915\u093e\u0930\u093e\u0917\u094d\u0935\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0928\u093f\u0915\u093e\u0930\u093e\u0917\u094d\u0935\u0947"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
@@ -344,8 +432,14 @@
     "name:mkd_x_preferred":[
         "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0432\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u041d\u0438\u043a\u0430\u0440\u0430\u043a\u0432\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Nikaragoa"
+    ],
+    "name:mlg_x_variant":[
+        "Nikarago\u00e0"
     ],
     "name:mlt_x_preferred":[
         "Nikaragwa"
@@ -362,11 +456,20 @@
     "name:mya_x_preferred":[
         "\u1014\u102e\u1000\u102c\u101b\u102c\u1002\u103d\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1014\u102e\u1000\u102c\u101b\u102c\u1002\u103d\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
     ],
+    "name:nah_x_preferred":[
+        "Nicanahuac"
+    ],
     "name:nau_x_preferred":[
         "Nikaragua"
+    ],
+    "name:nde_x_preferred":[
+        "Nicaragua"
     ],
     "name:nds_x_preferred":[
         "Nicaragua"
@@ -374,10 +477,16 @@
     "name:nep_x_preferred":[
         "\u0928\u093f\u0915\u093e\u0930\u093e\u0917\u094d\u0935\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0928\u093f\u0915\u093e\u0930\u093e\u0917\u0941\u0935\u093e"
+    ],
     "name:nld_x_preferred":[
         "Nicaragua"
     ],
     "name:nno_x_preferred":[
+        "Nicaragua"
+    ],
+    "name:nob_x_preferred":[
         "Nicaragua"
     ],
     "name:nor_x_preferred":[
@@ -425,14 +534,26 @@
     "name:pus_x_preferred":[
         "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0646\u06a9\u0627\u0631\u0627\u06ab\u0648\u0627"
+    ],
     "name:que_x_preferred":[
         "Nikarawa"
+    ],
+    "name:roh_x_preferred":[
+        "Nicaragua"
     ],
     "name:ron_x_preferred":[
         "Nicaragua"
     ],
+    "name:run_x_preferred":[
+        "Nikaragwa"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Nikaragua"
     ],
     "name:sah_x_preferred":[
         "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
@@ -445,6 +566,9 @@
     ],
     "name:sco_x_preferred":[
         "Nicaragua"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd2\u0d9a\u0dbb\u0d9c\u0dd4\u0dc0\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Nikaragua"
@@ -461,11 +585,20 @@
     "name:som_x_preferred":[
         "Nikaragua"
     ],
+    "name:som_x_variant":[
+        "Nikaraaguwa"
+    ],
     "name:spa_x_preferred":[
         "Nicaragua"
     ],
+    "name:spa_x_variant":[
+        "Rep\u00fablica de Nicaragua"
+    ],
     "name:sqi_x_preferred":[
         "Nikaraguaja"
+    ],
+    "name:sqi_x_variant":[
+        "Nikaragua"
     ],
     "name:srd_x_preferred":[
         "Nicar\u00e0gua"
@@ -482,6 +615,9 @@
     "name:swa_x_preferred":[
         "Nikaragua"
     ],
+    "name:swa_x_variant":[
+        "Nikaragwa"
+    ],
     "name:swe_x_preferred":[
         "Nicaragua"
     ],
@@ -491,8 +627,14 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bb0\u0bbe\u0b95\u0bc1\u0bb5\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0ba8\u0bbf\u0b95\u0bbe\u0bb0\u0b95\u0bc1\u0bb5\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3f\u0c15\u0c30\u0c3e\u0c17\u0c41\u0c35\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Nikar\u00e1gua"
@@ -506,6 +648,17 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e19\u0e34\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27"
     ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e34\u0e04\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27",
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e19\u0e34\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27",
+        "\u0e19\u0e34\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27"
+    ],
+    "name:tir_x_preferred":[
+        "\u1292\u12ab\u122b\u1313"
+    ],
+    "name:ton_x_preferred":[
+        "Nikalakua"
+    ],
     "name:tur_x_preferred":[
         "Nikaragua"
     ],
@@ -514,6 +667,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0456\u043a\u0430\u0440\u0430\u0491\u0443\u0430"
     ],
     "name:und_x_preferred":[
         "Nikaragva",
@@ -524,6 +680,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0648\u0627"
     ],
     "name:uzb_x_preferred":[
         "Nikaragua"
@@ -536,6 +695,10 @@
     ],
     "name:vie_x_preferred":[
         "Nicaragua"
+    ],
+    "name:vie_x_variant":[
+        "Ni-ca-ra-goa",
+        "Ni-ca-ra-goa (Nicaragua)"
     ],
     "name:vls_x_preferred":[
         "Nicaragua"
@@ -561,6 +724,9 @@
     "name:yor_x_preferred":[
         "Nikar\u00e1g\u00fa\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de NIkaragua"
+    ],
     "name:zea_x_preferred":[
         "Nicaragua"
     ],
@@ -578,6 +744,9 @@
     ],
     "name:zul_x_preferred":[
         "Nicaragua"
+    ],
+    "name:zul_x_variant":[
+        "i-Nicaragua"
     ],
     "ne:abbrev":"Nic.",
     "ne:abbrev_len":4,
@@ -658,6 +827,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"505",
+    "statoids:ds":"NIC",
+    "statoids:fifa":"NCA",
+    "statoids:gaul":"180",
+    "statoids:gec":"NU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"NCA",
+    "statoids:iso_a2":"NI",
+    "statoids:iso_a3":"NIC",
+    "statoids:iso_num":"558",
+    "statoids:itu":"NCG",
+    "statoids:marc":"nq",
+    "statoids:name":"Nicaragua",
+    "statoids:wmo":"NK",
     "wk:latitude":13.0,
     "wk:longitude":-85.0,
     "wk:population":6080478,
@@ -669,19 +853,29 @@
     "wof:concordances":{
         "dbp:id":"Nicaragua",
         "fb:id":"en.nicaragua",
+        "fifa:id":"NCA",
+        "fips:code":"NU",
+        "gaul:id":"180",
         "gn:id":3617476,
         "gp:id":23424915,
         "hasc:id":"NI",
+        "ioc:id":"NCA",
+        "itu:id":"NCG",
         "loc:id":"n80009698",
+        "m49:code":"558",
+        "marc:id":"nq",
         "mzb:id":"nicaragua",
+        "ne:adm0_a3":"NIC",
         "nyt:id":"30264698533144106301",
         "qs:id":584188,
+        "uncrt:id":"NIC",
         "wd:id":"Q811",
-        "wk:page":"Nicaragua"
+        "wk:page":"Nicaragua",
+        "wmo:id":"NK"
     },
     "wof:country":"NI",
     "wof:country_alpha3":"NIC",
-    "wof:geomhash":"6fdfc9bc6f4983e2a657527df8bcc498",
+    "wof:geomhash":"8b04e61db14b5672a4a69c2829c55d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -698,11 +892,14 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1493230011,
+    "wof:lastmodified":1509142975,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":6080478,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"NIC",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

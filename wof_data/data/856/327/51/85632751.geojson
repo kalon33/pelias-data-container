@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":156.497305,
+    "geom:area_square_m":1855601452585.325928,
     "geom:bbox":"21.814939,9.488887,38.842945099,23.188804626",
     "geom:latitude":16.138653,
     "geom:longitude":30.056644,
     "gn:population":35000000,
     "gp:id":0,
     "iso:country":"SD",
+    "itu:country_code":[
+        "249"
+    ],
     "lbl:latitude":16.34997,
     "lbl:longitude":29.381307,
     "mps:latitude":16.34997,
     "mps:longitude":29.381307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Sudan"
     ],
@@ -41,7 +48,9 @@
         "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
     ],
     "name:ara_x_variant":[
-        "As-Sudan"
+        "As-Sudan",
+        "As S\u016bd\u0101n",
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0646"
     ],
     "name:arc_x_preferred":[
         "\u0723\u0718\u0715\u0710\u0722"
@@ -67,6 +76,9 @@
     "name:bam_x_preferred":[
         "Sudan"
     ],
+    "name:bam_x_variant":[
+        "Suda\u014b"
+    ],
     "name:bar_x_preferred":[
         "Sudan"
     ],
@@ -88,6 +100,9 @@
     "name:bod_x_preferred":[
         "\u0f66\u0f74\u0f60\u0f74\u0f0b\u0f4f\u0f53\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f74\u0f0b\u0f51\u0f71\u0f53\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Sudan"
     ],
@@ -106,6 +121,9 @@
     "name:cat_x_preferred":[
         "Sudan"
     ],
+    "name:cat_x_variant":[
+        "El Sudan"
+    ],
     "name:cdo_x_preferred":[
         "Sudan"
     ],
@@ -117,12 +135,6 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u8607\u4e39"
-    ],
-    "name:chi_x_variant":[
-        "\u82cf\u4e39"
     ],
     "name:chv_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043d"
@@ -142,6 +154,9 @@
     "name:cym_x_preferred":[
         "Swdan"
     ],
+    "name:cym_x_variant":[
+        "Y Swdan"
+    ],
     "name:cze_x_preferred":[
         "S\u00fad\u00e1n"
     ],
@@ -159,9 +174,6 @@
     ],
     "name:dsb_x_preferred":[
         "Sudan"
-    ],
-    "name:dut_x_preferred":[
-        "Soedan"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c5\u03b4\u03ac\u03bd"
@@ -191,6 +203,9 @@
     "name:ewe_x_preferred":[
         "Sud\u00e3"
     ],
+    "name:ewe_x_variant":[
+        "Sudan nutome"
+    ],
     "name:ext_x_preferred":[
         "Sud\u00e1n"
     ],
@@ -206,14 +221,14 @@
     "name:fra_x_preferred":[
         "Soudan"
     ],
-    "name:fre_x_preferred":[
-        "Soudan"
-    ],
     "name:frp_x_preferred":[
         "Sodan"
     ],
     "name:fry_x_preferred":[
         "S\u00fbdan"
+    ],
+    "name:ful_x_preferred":[
+        "Sudaan"
     ],
     "name:gag_x_preferred":[
         "Sudan"
@@ -229,6 +244,9 @@
     ],
     "name:glg_x_preferred":[
         "Sud\u00e1n"
+    ],
+    "name:glg_x_variant":[
+        "Sud\u00e1n - \u0627\u0644\u0633\u0648\u062f\u0627\u0646"
     ],
     "name:glv_x_preferred":[
         "Yn Toodaan"
@@ -256,6 +274,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05d3\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d5\u05d3\u05df"
     ],
     "name:hif_x_preferred":[
         "Sudan"
@@ -320,8 +341,14 @@
     "name:kab_x_preferred":[
         "Sudan"
     ],
+    "name:kal_x_preferred":[
+        "Sudan"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc1\u0ca1\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kan_x_variant":[
+        "\u0cb8\u0cc2\u0ca1\u0cbe\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10d3\u10d0\u10dc\u10d8"
@@ -332,8 +359,14 @@
     "name:kbd_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043d"
     ],
+    "name:khm_x_preferred":[
+        "\u179f\u17ca\u17bc\u178a\u1784\u17cb"
+    ],
     "name:kik_x_preferred":[
         "S\u0169dana"
+    ],
+    "name:kik_x_variant":[
+        "Sudani"
     ],
     "name:kin_x_preferred":[
         "Sudani"
@@ -349,6 +382,12 @@
     ],
     "name:kur_x_preferred":[
         "S\u00fbdan"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0648\u0648\u062f\u0627\u0646"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e8a\u0eb9\u0e94\u0eb2\u0e99"
     ],
     "name:lat_x_preferred":[
         "Sudania"
@@ -368,6 +407,9 @@
     "name:lin_x_preferred":[
         "Sudani"
     ],
+    "name:lin_x_variant":[
+        "Sud\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Sudanas"
     ],
@@ -377,8 +419,17 @@
     "name:ltz_x_preferred":[
         "Sudan"
     ],
+    "name:lub_x_preferred":[
+        "Suda"
+    ],
+    "name:lug_x_preferred":[
+        "Sudaani"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d41\u0d21\u0d3e\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d41\u0d21\u0d3e\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0926\u093e\u0928"
@@ -388,6 +439,9 @@
     ],
     "name:mlg_x_preferred":[
         "Sodana"
+    ],
+    "name:mlg_x_variant":[
+        "Sodan"
     ],
     "name:mlt_x_preferred":[
         "Sudan"
@@ -404,6 +458,9 @@
     "name:mya_x_preferred":[
         "\u1006\u1030\u1012\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1006\u1030\u1012\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u062f\u0627\u0646"
     ],
@@ -413,8 +470,14 @@
     "name:nav_x_preferred":[
         "Sood\u0105\u0301\u0105"
     ],
+    "name:nde_x_preferred":[
+        "Sudani"
+    ],
     "name:nds_x_preferred":[
         "Sudan"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0941\u0921\u093e\u0928"
     ],
     "name:new_x_preferred":[
         "\u0938\u0941\u0926\u093e\u0928"
@@ -423,6 +486,9 @@
         "Soedan"
     ],
     "name:nno_x_preferred":[
+        "Sudan"
+    ],
+    "name:nob_x_preferred":[
         "Sudan"
     ],
     "name:nor_x_preferred":[
@@ -442,6 +508,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b38\u0b41\u0b26\u0b3e\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b41\u0b26\u0b3e\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Sudaan"
@@ -494,6 +563,9 @@
     "name:rue_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043d"
     ],
+    "name:run_x_preferred":[
+        "Sudani"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043d"
     ],
@@ -511,6 +583,9 @@
     ],
     "name:sco_x_preferred":[
         "Sudan"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd6\u0da9\u0dcf\u0db1\u0dba"
     ],
     "name:slk_x_preferred":[
         "Sud\u00e1n"
@@ -557,6 +632,9 @@
     "name:swa_x_preferred":[
         "Sudan"
     ],
+    "name:swa_x_variant":[
+        "Sudani"
+    ],
     "name:swe_x_preferred":[
         "Sudan"
     ],
@@ -572,6 +650,9 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c42\u0c21\u0c3e\u0c28\u0c4d"
     ],
+    "name:tel_x_variant":[
+        "\u0c38\u0c41\u0c21\u0c3e\u0c28\u0c4d"
+    ],
     "name:tgk_x_preferred":[
         "\u0421\u0443\u0434\u043e\u043d"
     ],
@@ -581,8 +662,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e0b\u0e39\u0e14\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e39\u0e14\u0e32\u0e19"
+    ],
     "name:tir_x_preferred":[
         "\u1231\u12f3\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "S\u016bteni"
     ],
     "name:tso_x_preferred":[
         "Sudan"
@@ -602,6 +689,9 @@
     "name:und_x_variant":[
         "Republika Sudan"
     ],
+    "name:unk_x_variant":[
+        "Jumh\u016br\u012byat as S\u016bd\u0101n"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0688\u0627\u0646"
     ],
@@ -616,6 +706,10 @@
     ],
     "name:vie_x_preferred":[
         "Sudan"
+    ],
+    "name:vie_x_variant":[
+        "Xu-\u0111\u0103ng",
+        "Xu\u0111\u0103ng (Sudan)"
     ],
     "name:vol_x_preferred":[
         "Sud\u00e4n"
@@ -641,6 +735,9 @@
     "name:yor_x_preferred":[
         "Sudan"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Sudani"
+    ],
     "name:zea_x_preferred":[
         "Soedan"
     ],
@@ -651,6 +748,7 @@
         "\u82cf\u4e39\u5171\u548c\u56fd"
     ],
     "name:zho_x_variant":[
+        "\u82cf\u4e39",
         "\u8607\u4e39"
     ],
     "name:zho_yue_x_preferred":[
@@ -658,6 +756,9 @@
     ],
     "name:zul_x_preferred":[
         "ISudan"
+    ],
+    "name:zul_x_variant":[
+        "i-Sudan"
     ],
     "ne:abbrev":"Sudan",
     "ne:abbrev_len":5,
@@ -738,6 +839,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"249",
+    "statoids:ds":"SUD",
+    "statoids:fifa":"SUD",
+    "statoids:gaul":"40764",
+    "statoids:gec":"SU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SUD",
+    "statoids:iso_a2":"SD",
+    "statoids:iso_a3":"SDN",
+    "statoids:iso_num":"729",
+    "statoids:itu":"SDN",
+    "statoids:marc":"sj",
+    "statoids:name":"Sudan",
+    "statoids:wmo":"SU",
     "wk:latitude":15.0,
     "wk:longitude":32.0,
     "wk:wordcount":11573,
@@ -748,19 +864,28 @@
     "wof:concordances":{
         "dbp:id":"Sudan",
         "fb:id":"en.sudan",
+        "fifa:id":"SUD",
+        "fips:code":"SU",
+        "gaul:id":"40764",
         "gn:id":366755,
         "gp:id":23424952,
         "hasc:id":"SD",
+        "ioc:id":"SUD",
+        "itu:id":"SDN",
         "loc:id":"n79022301",
+        "m49:code":"729",
+        "marc:id":"sj",
         "mzb:id":"sudan",
         "nyt:id":"59436041936127918081",
         "qs:id":80256,
+        "uncrt:id":"SUD",
         "wd:id":"Q1049",
-        "wk:page":"Sudan"
+        "wk:page":"Sudan",
+        "wmo:id":"SU"
     },
     "wof:country":"SD",
     "wof:country_alpha3":"SDN",
-    "wof:geomhash":"0e0e02fd1dcdb45b84d20b682404f42c",
+    "wof:geomhash":"9ba055eee04b5716cb3c8a2e894e1a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -779,11 +904,14 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1493230080,
+    "wof:lastmodified":1509143027,
     "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":35000000,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SDN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

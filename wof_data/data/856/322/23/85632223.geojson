@@ -5,22 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":51.069683,
+    "geom:area_square_m":594793700158.563354,
     "geom:bbox":"43.222911,-25.598565,50.503917,-11.943617",
     "geom:latitude":-19.373168,
     "geom:longitude":46.705998,
     "gn:id":"",
     "gn:population":21281844,
     "iso:country":"MG",
+    "itu:country_code":[
+        "261"
+    ],
     "lbl:latitude":-18.628414,
     "lbl:longitude":46.704055,
     "mps:latitude":-18.628414,
     "mps:longitude":46.704055,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Madagaskar"
     ],
     "name:afr_x_preferred":[
         "Madagaskar"
+    ],
+    "name:aka_x_preferred":[
+        "Madagaska"
     ],
     "name:als_x_preferred":[
         "Madagaskar"
@@ -52,6 +62,9 @@
     "name:bam_x_preferred":[
         "Madagaskar"
     ],
+    "name:bam_x_variant":[
+        "Madagasikari"
+    ],
     "name:bcl_x_preferred":[
         "Madagaskar"
     ],
@@ -72,6 +85,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f51\u0f0b\u0f42\u0f71\u0f0b\u0f66\u0f72\u0f0b\u0f40\u0f62\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f0b\u0f51\u0f71\u0f0b\u0f42\u0fb7\u0f66\u0f90\u0f71\u0f62\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Madagaskar"
@@ -103,12 +119,6 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u9054\u52a0\u65af\u52a0"
-    ],
-    "name:chi_x_variant":[
-        "\u9a6c\u8fbe\u52a0\u65af\u52a0"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
     ],
@@ -127,14 +137,23 @@
     "name:cym_x_preferred":[
         "Madagasgar"
     ],
+    "name:cym_x_variant":[
+        "Madagascar"
+    ],
     "name:cze_x_preferred":[
         "Madagaskar"
     ],
     "name:dan_x_preferred":[
         "Madagaskar"
     ],
+    "name:dan_x_variant":[
+        "Madagascar"
+    ],
     "name:deu_x_preferred":[
         "Madagaskar"
+    ],
+    "name:deu_x_variant":[
+        "Republik Madagaskar"
     ],
     "name:diq_x_preferred":[
         "Madagaskar"
@@ -143,9 +162,6 @@
         "\u0789\u07a6\u0791\u07a6\u078e\u07a6\u0790\u07b0\u0786\u07a6\u0783\u07a6"
     ],
     "name:dsb_x_preferred":[
-        "Madagaskar"
-    ],
-    "name:dut_x_preferred":[
         "Madagaskar"
     ],
     "name:ell_x_preferred":[
@@ -175,6 +191,9 @@
     "name:ewe_x_preferred":[
         "Malagasi"
     ],
+    "name:ewe_x_variant":[
+        "Madagaska nutome"
+    ],
     "name:ext_x_preferred":[
         "Madagascal"
     ],
@@ -193,20 +212,20 @@
     "name:fra_x_preferred":[
         "Madagascar"
     ],
+    "name:fra_x_variant":[
+        "R\u00e9publique de Madagascar"
+    ],
     "name:frp_x_preferred":[
         "Madagasc\u00e2r"
     ],
     "name:fry_x_preferred":[
         "Madagaskar"
     ],
+    "name:ful_x_preferred":[
+        "Madagaskaar"
+    ],
     "name:gag_x_preferred":[
         "Madagaskar"
-    ],
-    "name:ger_x_preferred":[
-        "Madagaskar"
-    ],
-    "name:ger_x_variant":[
-        "Republik Madagaskar"
     ],
     "name:gla_x_preferred":[
         "Madagascar"
@@ -226,10 +245,16 @@
     "name:guj_x_preferred":[
         "\u0aae\u0aa1\u0abe\u0a97\u0abe\u0ab8\u0acd\u0a95\u0ab0"
     ],
+    "name:guj_x_variant":[
+        "\u0aae\u0ac7\u0aa1\u0abe\u0a97\u0abe\u0ab8\u0acd\u0a95\u0ab0"
+    ],
     "name:hak_x_preferred":[
         "Madagascar"
     ],
     "name:hat_x_preferred":[
+        "Madagaskar"
+    ],
+    "name:hau_x_preferred":[
         "Madagaskar"
     ],
     "name:hbs_x_preferred":[
@@ -243,6 +268,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u0926\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
     "name:hrv_x_preferred":[
         "Madagaskar"
@@ -301,8 +329,14 @@
     "name:kal_x_preferred":[
         "Madagascar"
     ],
+    "name:kal_x_variant":[
+        "Madagaskar"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0ca1\u0c97\u0cbe\u0cb8\u0ccd\u0c95\u0cb0\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "\u092e\u0921\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d3\u10d0\u10d2\u10d0\u10e1\u10d9\u10d0\u10e0\u10d8"
@@ -310,8 +344,14 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17b6\u178a\u17b6\u17a0\u17d2\u1780\u17b6\u179f\u17d2\u1780\u17b6\u179a"
+    ],
     "name:kik_x_preferred":[
         "Madagascar"
+    ],
+    "name:kik_x_variant":[
+        "Bukini"
     ],
     "name:kin_x_preferred":[
         "Madagasikari"
@@ -328,8 +368,17 @@
     "name:kor_x_variant":[
         "\ub9c8\ub2e4\uce74\uc2a4\uce74\ub974"
     ],
+    "name:ksh_x_preferred":[
+        "Maddaja\u00dfka"
+    ],
     "name:kur_x_preferred":[
         "Madagaskar"
+    ],
+    "name:kur_x_variant":[
+        "\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0eb2\u0e84\u0eb2\u0e81\u0eb1\u0eaa\u0e81\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Madagascaria"
@@ -358,8 +407,17 @@
     "name:ltz_x_preferred":[
         "Madagaskar"
     ],
+    "name:lub_x_preferred":[
+        "Madagasikari"
+    ],
+    "name:lug_x_preferred":[
+        "Madagasika"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d21\u0d17\u0d3e\u0d38\u0d4d\u0d15\u0d7c"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d21\u0d17\u0d3e\u0d38\u0d4d\u0d15\u0d30\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0926\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
@@ -372,6 +430,9 @@
     ],
     "name:mlg_x_preferred":[
         "Madagasikara"
+    ],
+    "name:mlg_x_variant":[
+        "Repoblikan\u2019i Madagasikara"
     ],
     "name:mlt_x_preferred":[
         "Madagaskar"
@@ -388,14 +449,23 @@
     "name:msa_x_preferred":[
         "Madagaskar"
     ],
+    "name:msa_x_variant":[
+        "Madagascar"
+    ],
     "name:mya_x_preferred":[
         "\u1019\u1012\u102b\u1002\u1010\u103a\u1005\u1000\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1019\u1012\u1002\u1010\u103a\u1005\u1000\u102c"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631"
     ],
     "name:nav_x_preferred":[
         "Mada\u02bcg\u00e9\u00e9sg\u00e1\u00e1"
+    ],
+    "name:nde_x_preferred":[
+        "Madagaska"
     ],
     "name:nds_nld_x_preferred":[
         "Madagaskar"
@@ -406,6 +476,9 @@
     "name:nep_x_preferred":[
         "\u092e\u093e\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
+    "name:nep_x_variant":[
+        "\u092e\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
+    ],
     "name:new_x_preferred":[
         "\u092e\u093e\u0926\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
@@ -413,6 +486,9 @@
         "Madagaskar"
     ],
     "name:nno_x_preferred":[
+        "Madagaskar"
+    ],
+    "name:nob_x_preferred":[
         "Madagaskar"
     ],
     "name:nor_x_preferred":[
@@ -429,6 +505,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b3e\u0b21\u0b3e\u0b17\u0b3e\u0b38\u0b4d\u0b15\u0b30"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b3e\u0b21\u0b3e\u0b17\u0b3e\u0b38\u0b4d\u0b15\u0b30\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Madagaskaar"
@@ -466,17 +545,29 @@
     "name:por_x_preferred":[
         "Madag\u00e1scar"
     ],
+    "name:por_x_variant":[
+        "Madagascar"
+    ],
     "name:pus_x_preferred":[
         "\u0645\u0627\u062f\u063a\u0627\u0633\u06a9\u0631"
     ],
     "name:que_x_preferred":[
         "Madagaskar"
     ],
+    "name:roh_x_preferred":[
+        "Madagascar"
+    ],
     "name:ron_x_preferred":[
         "Madagascar"
     ],
+    "name:run_x_preferred":[
+        "Madagasikari"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
     "name:sag_x_preferred":[
         "Madagask\u00e4ra"
@@ -523,6 +614,10 @@
     "name:sqi_x_preferred":[
         "Madagaskari"
     ],
+    "name:sqi_x_variant":[
+        "Madagaskar",
+        "Madegaskari"
+    ],
     "name:srd_x_preferred":[
         "Madagasc\u00e0r"
     ],
@@ -541,6 +636,9 @@
     "name:swa_x_preferred":[
         "Madagaska"
     ],
+    "name:swa_x_variant":[
+        "Bukini"
+    ],
     "name:swe_x_preferred":[
         "Madagaskar"
     ],
@@ -553,11 +651,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0b9f\u0b95\u0bbe\u0b9a\u0bc1\u0b95\u0bb0\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0b9f\u0b95\u0bbe\u0bb8\u0bcd\u0b95\u0bb0\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c21\u0c17\u0c3e\u0c38\u0c4d\u0c15\u0c30\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2e\u0c3e\u0c21\u0c4d\u0c17\u0c3e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
@@ -568,8 +672,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e32\u0e14\u0e32\u0e01\u0e31\u0e2a\u0e01\u0e32\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e14\u0e32\u0e01\u0e31\u0e2a\u0e01\u0e32\u0e23\u0e4c"
+    ],
     "name:tir_x_preferred":[
         "\u121b\u12f3\u130b\u1235\u12ab\u122d"
+    ],
+    "name:ton_x_preferred":[
+        "Matakasika"
     ],
     "name:tso_x_preferred":[
         "Madagascar"
@@ -586,11 +696,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0434\u0430\u0491\u0430\u0441\u043a\u0430\u0440"
+    ],
     "name:und_x_preferred":[
         "Madagasikara"
     ],
     "name:und_x_variant":[
         "Republika Madagaskar"
+    ],
+    "name:unk_x_variant":[
+        "\u00cele Rouge"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0688\u063a\u0627\u0633\u06a9\u0631"
@@ -606,6 +722,10 @@
     ],
     "name:vie_x_preferred":[
         "Madagascar"
+    ],
+    "name:vie_x_variant":[
+        "Ma-\u0111a-g\u00e1t-xca",
+        "Ma-\u0111a-g\u00e1t-xca (Madagascar)"
     ],
     "name:vol_x_preferred":[
         "Malagase\u00e4n"
@@ -631,6 +751,9 @@
     "name:yor_x_preferred":[
         "Madag\u00e1sk\u00e0r"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Madasika"
+    ],
     "name:zea_x_preferred":[
         "Madahaskar"
     ],
@@ -641,13 +764,17 @@
         "\u9a6c\u8fbe\u52a0\u65af\u52a0"
     ],
     "name:zho_x_variant":[
-        "\u99ac\u9054\u52a0\u65af\u52a0"
+        "\u99ac\u9054\u52a0\u65af\u52a0",
+        "\u9a6c\u8fbe\u52a0\u65af\u52a0"
     ],
     "name:zho_yue_x_preferred":[
         "\u99ac\u9054\u52a0\u65af\u52a0"
     ],
     "name:zul_x_preferred":[
         "IMadagasika"
+    ],
+    "name:zul_x_variant":[
+        "i-Madagascar"
     ],
     "ne:abbrev":"Mad.",
     "ne:abbrev_len":4,
@@ -721,12 +848,29 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "reversegeo:geometry":"85632223-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
         "quattroshapes",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"261",
+    "statoids:ds":"RM",
+    "statoids:fifa":"MAD",
+    "statoids:gaul":"150",
+    "statoids:gec":"MA",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MAD",
+    "statoids:iso_a2":"MG",
+    "statoids:iso_a3":"MDG",
+    "statoids:iso_num":"450",
+    "statoids:itu":"MDG",
+    "statoids:marc":"mg",
+    "statoids:name":"Madagascar",
+    "statoids:wmo":"MG",
     "wk:latitude":-20.0,
     "wk:longitude":47.0,
     "wk:population":22924851,
@@ -738,19 +882,29 @@
     "wof:concordances":{
         "dbp:id":"Madagascar",
         "fb:id":"en.madagascar",
+        "fifa:id":"MAD",
+        "fips:code":"MA",
+        "gaul:id":"150",
         "gn:id":1062947,
         "gp:id":23424883,
         "hasc:id":"MG",
+        "ioc:id":"MAD",
+        "itu:id":"MDG",
         "loc:id":"n80087494",
+        "m49:code":"450",
+        "marc:id":"mg",
         "mzb:id":"madagascar",
+        "ne:adm0_a3":"MDG",
         "nyt:id":"N81600106181805803721",
         "qs:id":555099,
+        "uncrt:id":"RM",
         "wd:id":"Q1019",
-        "wk:page":"Madagascar"
+        "wk:page":"Madagascar",
+        "wmo:id":"MG"
     },
     "wof:country":"MG",
     "wof:country_alpha3":"MDG",
-    "wof:geomhash":"86fb625b083ad14a868e4d1220cd8deb",
+    "wof:geomhash":"470619052ef04337e53e54d0dfe193d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -771,11 +925,14 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1493229885,
+    "wof:lastmodified":1509142796,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":22924851,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MDG",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

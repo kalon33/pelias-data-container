@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.147476,
+    "geom:area_square_m":29683320919.585289,
     "geom:bbox":"43.4472125,38.840244,46.634222,41.300993",
     "geom:latitude":40.294682,
     "geom:longitude":44.938953,
     "gn:id":"",
     "gn:population":2968000,
     "iso:country":"AM",
+    "itu:country_code":[
+        "374"
+    ],
     "lbl:latitude":40.474724,
     "lbl:longitude":44.80561,
     "mps:latitude":40.474724,
     "mps:longitude":44.80561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u0415\u0440\u043c\u0430\u043d\u0442\u04d9\u044b\u043b\u0430"
     ],
@@ -28,7 +35,16 @@
     "name:afr_x_preferred":[
         "Armeni\u00eb"
     ],
+    "name:afr_x_variant":[
+        "Armini\u00eb"
+    ],
     "name:aka_x_preferred":[
+        "Armenia"
+    ],
+    "name:aka_x_variant":[
+        "Aamenia"
+    ],
+    "name:alb_x_preferred":[
         "Armenia"
     ],
     "name:als_x_preferred":[
@@ -37,17 +53,26 @@
     "name:amh_x_preferred":[
         "\u12a0\u122d\u1218\u1292\u12eb"
     ],
+    "name:amh_x_variant":[
+        "\u12a0\u122d\u121c\u1292\u12eb"
+    ],
     "name:ang_x_preferred":[
         "Armenia"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u0645\u064a\u0646\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0631\u0645\u064a\u0646\u064a\u0627"
+    ],
     "name:arc_x_preferred":[
         "\u0710\u072a\u0721\u0722\u071d\u0710"
     ],
     "name:arg_x_preferred":[
         "Armenia"
+    ],
+    "name:arm_x_preferred":[
+        "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0623\u0631\u0645\u064a\u0646\u064a\u0627"
@@ -70,6 +95,12 @@
     "name:bak_x_preferred":[
         "\u04d8\u0440\u043c\u04d9\u043d\u0441\u0442\u0430\u043d"
     ],
+    "name:bam_x_preferred":[
+        "Arimeni"
+    ],
+    "name:baq_x_preferred":[
+        "Armenia"
+    ],
     "name:bar_x_preferred":[
         "Armenien"
     ],
@@ -84,6 +115,15 @@
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09ae\u09c7\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09b0\u09cd\u09ae\u09c7\u09a8\u09bf\u09df\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u0906\u0930\u094d\u092e\u0940\u0928\u093f\u092f\u093e"
     ],
     "name:bis_x_preferred":[
         "Armenia"
@@ -100,14 +140,23 @@
     "name:bre_x_preferred":[
         "Armenia"
     ],
+    "name:brh_x_preferred":[
+        "Armen\u00ed\u00e1"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
+    ],
+    "name:bur_x_preferred":[
+        "\u1021\u102c\u1019\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u0438"
     ],
     "name:cat_x_preferred":[
         "Arm\u00e8nia"
+    ],
+    "name:cat_x_variant":[
+        "Rep\u00fablica d'Arm\u00e8nia"
     ],
     "name:cdo_x_preferred":[
         "Armenia"
@@ -126,9 +175,6 @@
     ],
     "name:chi_x_preferred":[
         "\u4e9e\u7f8e\u5c3c\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u4e9a\u7f8e\u5c3c\u4e9a"
     ],
     "name:chr_x_preferred":[
         "\u13a0\u13b5\u13bb\u13c2\u13a0"
@@ -175,8 +221,8 @@
     "name:dsb_x_preferred":[
         "Arme\u0144ska"
     ],
-    "name:dut_x_colloquial":[
-        "Armenie"
+    "name:dty_x_preferred":[
+        "\u0906\u0930\u094d\u092e\u0947\u0928\u093f\u092f\u093e"
     ],
     "name:dut_x_preferred":[
         "Armeni\u00eb"
@@ -187,6 +233,9 @@
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03bc\u03b5\u03bd\u03af\u03b1"
     ],
+    "name:eml_x_preferred":[
+        "Arm\u00e8gna"
+    ],
     "name:eng_x_preferred":[
         "Armenia"
     ],
@@ -196,10 +245,15 @@
     ],
     "name:eng_x_variant":[
         "Armenian",
-        "Hayastan"
+        "Hayastan",
+        "Republic of Armenia"
     ],
     "name:epo_x_preferred":[
         "Armenio"
+    ],
+    "name:epo_x_variant":[
+        "Armenujo",
+        "Hajio"
     ],
     "name:est_x_preferred":[
         "Armeenia"
@@ -209,6 +263,9 @@
     ],
     "name:ewe_x_preferred":[
         "Armenia"
+    ],
+    "name:ewe_x_variant":[
+        "Armenia nutome"
     ],
     "name:ext_x_preferred":[
         "Arm\u00e9nia"
@@ -222,11 +279,11 @@
     "name:fin_x_preferred":[
         "Armenia"
     ],
+    "name:fra_x_colloquial":[
+        "Armenie"
+    ],
     "name:fra_x_preferred":[
         "Arm\u00e9nie"
-    ],
-    "name:fre_x_colloquial":[
-        "Armenie"
     ],
     "name:fre_x_preferred":[
         "Arm\u00e9nie"
@@ -243,8 +300,14 @@
     "name:ful_x_preferred":[
         "Armaaniya"
     ],
+    "name:ful_x_variant":[
+        "Armenii"
+    ],
     "name:gag_x_preferred":[
         "Armeniya"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10dd\u10db\u10ee\u10d4\u10d7\u10d8"
     ],
     "name:ger_x_preferred":[
         "Armenien"
@@ -258,14 +321,26 @@
     "name:glg_x_preferred":[
         "Armenia"
     ],
+    "name:glg_x_variant":[
+        "Armenia - \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
+    ],
+    "name:glk_x_preferred":[
+        "Arm\u04e9n\u04e9ston"
+    ],
     "name:glv_x_preferred":[
         "Yn Armeain"
     ],
     "name:gom_x_preferred":[
         "\u0905\u0930\u094d\u092e\u0947\u0928\u093f\u092f\u093e"
     ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03bc\u03b5\u03bd\u03af\u03b1"
+    ],
     "name:grn_x_preferred":[
         "Armenia"
+    ],
+    "name:gsw_x_preferred":[
+        "Armenie"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0aae\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
@@ -294,6 +369,9 @@
     "name:hin_x_preferred":[
         "\u0906\u0930\u094d\u092e\u0940\u0928\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0906\u0930\u094d\u092e\u0947\u0928\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Armenija"
     ],
@@ -305,6 +383,13 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Hayastani Hanrapetut\u2019yun",
+        "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u056b\u0582\u0576"
+    ],
+    "name:ice_x_preferred":[
+        "Armen\u00eda"
     ],
     "name:ido_x_preferred":[
         "Armenia"
@@ -345,14 +430,36 @@
     "name:kab_x_preferred":[
         "Arminya"
     ],
+    "name:kal_x_preferred":[
+        "Armenia"
+    ],
     "name:kan_x_preferred":[
         "\u0c86\u0cb0\u0ccd\u0cae\u0cc7\u0ca8\u0cbf\u0caf"
+    ],
+    "name:kan_x_variant":[
+        "\u0c85\u0cb0\u0ccd\u0cae\u0cc7\u0ca8\u0cbf\u0caf\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10db\u10ee\u10d4\u10d7\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10e1\u10dd\u10db\u10ee\u10d4\u10d7\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
+    ],
+    "name:kaz_x_variant":[
+        "\u04d8\u0440\u043c\u0435\u043d\u0441\u0442\u0430\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "Armenii"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17b6\u179a\u1798\u17c1\u1793\u17b8"
+    ],
+    "name:khm_x_variant":[
+        "\u17a2\u17b6\u179a\u1798\u17b8\u1793\u17c0",
+        "\u17a2\u17b6\u1798\u17c1\u1793\u17b8"
     ],
     "name:kik_x_preferred":[
         "Armenia"
@@ -378,11 +485,17 @@
     "name:kur_x_preferred":[
         "Ermenistan"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0631\u0645\u06d5\u0646\u0633\u062a\u0627\u0646"
+    ],
     "name:lad_x_preferred":[
         "Armenia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb2\u0e81\u0ec0\u0ea1\u0e99\u0eb5"
+    ],
+    "name:lao_x_variant":[
+        "\u0ead\u0eb2\u0ea1\u0eb4\u0ec0\u0e99\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Armenia"
@@ -399,6 +512,9 @@
     "name:lim_x_preferred":[
         "Armeni\u00eb"
     ],
+    "name:lin_x_preferred":[
+        "Am\u025bni"
+    ],
     "name:lit_x_preferred":[
         "Arm\u0117nija"
     ],
@@ -414,11 +530,32 @@
     "name:ltz_x_preferred":[
         "Armenien"
     ],
+    "name:lub_x_preferred":[
+        "Ameni"
+    ],
+    "name:lug_x_preferred":[
+        "Arameniya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e9e\u7f8e\u5c3c\u4e9e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0415\u0440\u043c\u0435\u043d\u0438\u0458\u0430"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0930\u094d\u092e\u0947\u0928\u093f\u092f\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d7c\u0d2e\u0d47\u0d28\u0d3f\u0d2f"
     ],
+    "name:mao_x_preferred":[
+        "\u0100menia"
+    ],
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u092e\u0947\u0928\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Armenia"
     ],
     "name:mdf_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u0438\u0435"
@@ -456,11 +593,20 @@
     "name:mya_x_preferred":[
         "\u1021\u102c\u1019\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1021\u102c\u1019\u1031\u1014\u102e\u1038\u101a\u102c\u1038"
+    ],
     "name:myv_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0631\u0645\u0646\u0633\u062a\u0648\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "Armenia"
+    ],
+    "name:nan_x_preferred":[
+        "Hayastan"
     ],
     "name:nap_x_preferred":[
         "Armenia"
@@ -470,6 +616,9 @@
     ],
     "name:nav_x_preferred":[
         "Aoom\u00e9\u00e9nii Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Armenia"
     ],
     "name:nds_nld_x_preferred":[
         "Armeni\u00eb"
@@ -483,10 +632,16 @@
     "name:new_x_preferred":[
         "\u0906\u0930\u094d\u092e\u0947\u0928\u093f\u092f\u093e"
     ],
+    "name:nld_x_colloquial":[
+        "Armenie"
+    ],
     "name:nld_x_preferred":[
         "Armeni\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Armenia"
+    ],
+    "name:nob_x_preferred":[
         "Armenia"
     ],
     "name:nor_x_preferred":[
@@ -497,6 +652,12 @@
     ],
     "name:oci_x_preferred":[
         "Armenia"
+    ],
+    "name:oci_x_variant":[
+        "Arm\u00e8nia"
+    ],
+    "name:olo_x_preferred":[
+        "Armienii"
     ],
     "name:ori_x_preferred":[
         "\u0b06\u0b30\u0b4d\u0b2e\u0b47\u0b28\u0b3f\u0b06"
@@ -516,11 +677,17 @@
     "name:pan_x_preferred":[
         "\u0a06\u0a30\u0a2e\u0a40\u0a28\u0a40\u0a06"
     ],
+    "name:pap_x_preferred":[
+        "Armenia"
+    ],
     "name:pcd_x_preferred":[
         "Arm\u00e9nie"
     ],
     "name:pdc_x_preferred":[
         "Armeni"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
     ],
     "name:pih_x_preferred":[
         "Aarmanya"
@@ -558,8 +725,20 @@
     "name:ron_x_preferred":[
         "Armenia"
     ],
+    "name:ron_x_variant":[
+        "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
+    ],
     "name:rue_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u0456\u044f"
+    ],
+    "name:rum_x_preferred":[
+        "Armenia"
+    ],
+    "name:run_x_preferred":[
+        "Arumeniya"
+    ],
+    "name:rup_x_preferred":[
+        "Ermenia"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
@@ -579,10 +758,16 @@
     "name:sco_x_preferred":[
         "Armenie"
     ],
+    "name:sgs_x_preferred":[
+        "Armien\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0d86\u0dbb\u0dca\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
+        "Arm\u00e9nsko"
+    ],
+    "name:slo_x_preferred":[
         "Arm\u00e9nsko"
     ],
     "name:slv_x_preferred":[
@@ -603,17 +788,26 @@
     "name:som_x_preferred":[
         "Armania"
     ],
+    "name:som_x_variant":[
+        "Armeeniya"
+    ],
     "name:spa_x_preferred":[
         "Armenia"
     ],
     "name:sqi_x_preferred":[
         "Armenia"
     ],
+    "name:sqi_x_variant":[
+        "Armeni"
+    ],
     "name:srd_x_preferred":[
         "Arm\u00e8nia"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0435\u0440\u043c\u0435\u043d\u0438\u0458\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0410\u0440\u043c\u0435\u043d\u0438\u0458\u0430"
     ],
     "name:ssw_x_preferred":[
         "I-Arimeniya"
@@ -639,6 +833,9 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb0\u0bcd\u0bae\u0bc0\u0ba9\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b86\u0bb0\u0bcd\u0bae\u0bc7\u0ba9\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u04d8\u0440\u043c\u04d9\u043d\u0441\u0442\u0430\u043d"
     ],
@@ -654,8 +851,23 @@
     "name:tgl_x_preferred":[
         "Armenia"
     ],
+    "name:tgl_x_variant":[
+        "Armenya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e32\u0e23\u0e4c\u0e21\u0e35\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e21\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f68\u0f62\u0f0b\u0f58\u0f7a\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a0\u122d\u121c\u1292\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bb\u0100minia"
     ],
     "name:tpi_x_preferred":[
         "Armenia"
@@ -691,8 +903,14 @@
     "name:und_x_variant":[
         "Republika Armenija"
     ],
+    "name:unk_x_variant":[
+        "Armenian Soviet Socialist Republic"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0622\u0631 \u0645\u06cc\u0646\u06cc\u0627"
     ],
     "name:uzb_x_preferred":[
         "Armaniston"
@@ -706,14 +924,24 @@
     "name:vie_x_preferred":[
         "Armenia"
     ],
+    "name:vie_x_variant":[
+        "\u00c1c-m\u00ea-ni-a",
+        "\u00c1c-m\u00ea-ni-a (Armenia)"
+    ],
     "name:vls_x_preferred":[
         "Armeni\u00eb"
     ],
     "name:vol_x_preferred":[
         "Larmeniy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Armeeni\u00e4"
+    ],
     "name:war_x_preferred":[
         "Armenya"
+    ],
+    "name:wel_x_preferred":[
+        "Armenia"
     ],
     "name:wol_x_preferred":[
         "Armeeni"
@@ -733,6 +961,12 @@
     "name:yor_x_preferred":[
         "Arm\u00e9n\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Am\u00e9n\u00ed\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e9e\u7f8e\u5c3c\u4e9e"
+    ],
     "name:zea_x_preferred":[
         "Armeni\u00eb"
     ],
@@ -745,8 +979,14 @@
     "name:zho_x_preferred":[
         "\u4e9e\u7f8e\u5c3c\u4e9e"
     ],
+    "name:zho_x_variant":[
+        "\u4e9a\u7f8e\u5c3c\u4e9a"
+    ],
     "name:zho_yue_x_preferred":[
         "\u4e9e\u7f8e\u5c3c\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "i-Armenia"
     ],
     "ne:abbrev":"Arm.",
     "ne:abbrev_len":4,
@@ -825,6 +1065,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"374",
+    "statoids:ds":"AM",
+    "statoids:fifa":"ARM",
+    "statoids:gaul":"13",
+    "statoids:gec":"AM",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ARM",
+    "statoids:iso_a2":"AM",
+    "statoids:iso_a3":"ARM",
+    "statoids:iso_num":"51",
+    "statoids:itu":"ARM",
+    "statoids:marc":"ai",
+    "statoids:name":"Armenia",
+    "statoids:wmo":"AY",
     "wk:latitude":40.383333,
     "wk:longitude":44.95,
     "wk:population":2976566,
@@ -836,18 +1091,28 @@
     "wof:concordances":{
         "dbp:id":"Armenia",
         "fb:id":"en.armenia",
+        "fifa:id":"ARM",
+        "fips:code":"AM",
+        "gaul:id":"13",
         "gn:id":174982,
         "gp:id":23424743,
         "hasc:id":"AM",
+        "ioc:id":"ARM",
+        "itu:id":"ARM",
+        "m49:code":"051",
+        "marc:id":"ai",
         "mzb:id":"armenia",
+        "ne:adm0_a3":"ARM",
         "nyt:id":"66220885916538669281",
         "qs:id":73605,
+        "uncrt:id":"AM",
         "wd:id":"Q399",
-        "wk:page":"Armenia"
+        "wk:page":"Armenia",
+        "wmo:id":"AY"
     },
     "wof:country":"AM",
     "wof:country_alpha3":"ARM",
-    "wof:geomhash":"b9904fb5136afd8b42bc56e63f1c64ef",
+    "wof:geomhash":"41bcce129722b6c9b76440b6c1e3ff2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -864,11 +1129,14 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1493230089,
+    "wof:lastmodified":1514538879,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":2976566,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ARM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

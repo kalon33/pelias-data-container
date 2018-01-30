@@ -5,28 +5,47 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028053,
+    "geom:area_square_m":236871290.305573,
     "geom:bbox":"-56.408611298,46.748416901,-56.082359314,47.142501831",
     "geom:latitude":46.932242,
     "geom:longitude":-56.310215,
     "gn:id":"",
     "gn:population":7012,
     "iso:country":"PM",
+    "itu:country_code":[
+        "508"
+    ],
     "lbl:latitude":47.042405,
     "lbl:longitude":-56.34943,
     "mps:latitude":47.042405,
     "mps:longitude":-56.34943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Saint-Pierre en Miquelon"
     ],
+    "name:afr_x_variant":[
+        "Sint-Pierre en Miquelon"
+    ],
+    "name:aka_x_preferred":[
+        "Saint Pierre ne Miquelon"
+    ],
     "name:als_x_preferred":[
         "Saint-Pierre und Miquelon"
+    ],
+    "name:amh_x_preferred":[
+        "\u1245\u12f1\u1235 \u1352\u12ec\u122d \u12a5\u1293 \u121a\u12a9\u12a4\u120e\u1295"
     ],
     "name:ang_x_preferred":[
         "Halga Petrus and Miquelon"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0628\u064a\u064a\u0631 \u0648\u0645\u064a\u0643\u0644\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646\u062a \u0628\u064a\u064a\u0631 \u0648\u0645\u064a\u0643\u0648\u0644\u0648\u0646"
     ],
     "name:arg_x_preferred":[
         "Saint-Pierre y Miquelon"
@@ -37,6 +56,12 @@
     "name:aze_x_preferred":[
         "Sen-Pyer v\u0259 Mikelon"
     ],
+    "name:aze_x_variant":[
+        "Seynt Piyer v\u0259 Mikelon"
+    ],
+    "name:bam_x_preferred":[
+        "Piy\u025bri-Senu-ni-Mikel\u0254\u014b"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u043d-\u041f'\u0435\u0440 \u0456 \u041c\u0456\u043a\u0435\u043b\u043e\u043d"
     ],
@@ -46,8 +71,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0981 \u09aa\u09bf\u09af\u09bc\u09c7\u09b0 \u0993 \u09ae\u09bf\u0995\u200c\u09b2\u09cb\u0981"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09aa\u09bf\u09af\u09bc\u09c7\u09b0 \u0993 \u09ae\u09bf\u0995\u09c1\u09af\u09bc\u09c7\u09b2\u09a8"
+    ],
     "name:bos_x_preferred":[
         "Sveti Petar i Mikelon"
+    ],
+    "name:bos_x_variant":[
+        "Sen Pjer i Mikelon"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09aa\u09bf\u09af\u09bc\u09c7\u09b0\u09c7 \u09ac\u09be\u09b0\u09cb \u09ae\u09bf\u0995\u09c1\u09af\u09bc\u09c7\u09b2\u09cb\u09a8"
@@ -58,11 +89,20 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d \u041f\u0438\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d"
     ],
+    "name:bul_x_variant":[
+        "\u0421\u0435\u043d \u041f\u0438\u0435\u0440 \u0438 \u041c\u0438\u0433\u0435\u043b\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Saint-Pierre i Miquelon"
     ],
+    "name:cat_x_variant":[
+        "Saint Pierre i Miquelon"
+    ],
     "name:ces_x_preferred":[
         "Saint-Pierre a Miquelon"
+    ],
+    "name:ces_x_variant":[
+        "Svat\u00fd Pierre a Miquelon"
     ],
     "name:cor_x_preferred":[
         "Sen Peder ha Miquelon"
@@ -70,11 +110,20 @@
     "name:cym_x_preferred":[
         "Saint-Pierre-et-Miquelon"
     ],
+    "name:cym_x_variant":[
+        "Saint Pierre a Miquelon"
+    ],
     "name:dan_x_preferred":[
         "Saint-Pierre og Miquelon"
     ],
+    "name:dan_x_variant":[
+        "Saint Pierre og Miquelon"
+    ],
     "name:deu_x_preferred":[
         "Saint-Pierre und Miquelon"
+    ],
+    "name:deu_x_variant":[
+        "St. Pierre und Miquelon"
     ],
     "name:div_x_preferred":[
         "\u0790\u07a6\u0782\u07b0\u078c\u07a8 \u0795\u07a8\u0787\u07ad\u0783\u07ad \u0787\u07a7\u0787\u07a8 \u0789\u07a8\u0786\u07aa\u0787\u07ac\u078d\u07af\u0782\u07b0"
@@ -85,20 +134,41 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03b9\u03bd \u03a0\u03b9\u03b5\u03c1 \u03ba\u03b1\u03b9 \u039c\u03b9\u03ba\u03b5\u03bb\u03cc\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03b9\u03bd\u03c4 \u03a0\u03b9\u03ad\u03c1 \u03ba\u03b1\u03b9 \u039c\u03b9\u03ba\u03b5\u03bb\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Pierre and Miquelon"
+    ],
     "name:epo_x_preferred":[
         "Sankta-Piero kaj Mikelono"
+    ],
+    "name:epo_x_variant":[
+        "Sent-Piero kaj Mikelono"
     ],
     "name:est_x_preferred":[
         "Saint-Pierre ja Miquelon"
     ],
+    "name:est_x_variant":[
+        "Saint Pierre ja Miquelon"
+    ],
     "name:eus_x_preferred":[
         "Saint-Pierre eta Mikelune"
+    ],
+    "name:ewe_x_preferred":[
+        "Saint Pierre kple Mikel\u0254n nutome"
     ],
     "name:fao_x_preferred":[
         "Saint-Pierre og Miquelon"
     ],
+    "name:fao_x_variant":[
+        "Saint Pierre og Miquelon"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646-\u067e\u06cc\u0631-\u0627-\u0645\u06cc\u06a9\u0644\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a \u067e\u06cc\u0631 \u0648 \u0645\u06cc\u06a9\u0644\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Saint-Pierre ja Miquelon"
@@ -106,8 +176,16 @@
     "name:fra_x_preferred":[
         "Saint-Pierre-et-Miquelon"
     ],
+    "name:fra_x_variant":[
+        "Collectivit\u00e9 Territoriale de Saint-Pierre et Miquelon",
+        "Saint-Pierre et Miquelon",
+        "St-Pierre et Miquelon"
+    ],
     "name:fry_x_preferred":[
         "Sint-Pierre en Miquelon"
+    ],
+    "name:ful_x_preferred":[
+        "See Piyeer e Mikeloo"
     ],
     "name:gag_x_preferred":[
         "Sent Pierre hem Miquelon"
@@ -115,8 +193,17 @@
     "name:gle_x_preferred":[
         "Saint-Pierre-et-Miquelon"
     ],
+    "name:gle_x_variant":[
+        "Saint Pierre agus Miquelon"
+    ],
     "name:glg_x_preferred":[
         "San Pedro e Miguel\u00f3n"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0a82\u0a9f \u0aaa\u0ac0\u0a8f\u0ab0\u0ac7 \u0a8f\u0aa8\u0acd\u0aa1 \u0aae\u0abf\u0a95\u0ac0\u0ab2\u0acb\u0aa8"
+    ],
+    "name:hau_x_preferred":[
+        "San Piyar Da Mikelan"
     ],
     "name:hbs_x_preferred":[
         "Saint-Pierre i Miquelon"
@@ -124,14 +211,26 @@
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05e4\u05d9\u05d9\u05e8 \u05d5\u05de\u05d9\u05e7\u05dc\u05d5\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05e0\u05d8 \u05e4\u05d9\u05d9\u05e8 \u05d5\u05de\u05d9\u05e7\u05dc\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0901-\u092a\u094d\u092f\u0947\u0930 \u0914\u0930 \u092e\u0940\u0915\u0947\u0932\u094b\u0902"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u0947\u0902\u091f \u092a\u093f\u090f\u0930\u0947 \u0914\u0930 \u092e\u093f\u0915\u094d\u0935\u0947\u0932\u0928"
     ],
     "name:hrv_x_preferred":[
         "Sveti Petar i Mikelon"
     ],
+    "name:hrv_x_variant":[
+        "Sveti Petar i Miguel"
+    ],
     "name:hun_x_preferred":[
         "Saint-Pierre \u00e9s Miquelon"
+    ],
+    "name:hun_x_variant":[
+        "Saint Pierre \u00e9s Miquelon"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u0576 \u054a\u056b\u0565\u057c \u0587 \u0544\u056b\u0584\u0565\u056c\u0578\u0576"
@@ -148,23 +247,43 @@
     "name:ita_x_preferred":[
         "Saint-Pierre e Miquelon"
     ],
+    "name:ita_x_variant":[
+        "Saint Pierre e Miquelon"
+    ],
     "name:jav_x_preferred":[
         "Saint-Pierre lan Miquelon"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6"
     ],
+    "name:kal_x_preferred":[
+        "Saint Pierre aamma Miquelon"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0caa\u0cbf\u0caf\u0cb0\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cae\u0cbf\u0c95\u0cc6\u0cb2\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10dc-\u10de\u10d8\u10d4\u10e0\u10d8 \u10d3\u10d0 \u10db\u10d8\u10d9\u10d4\u10da\u10dd\u10dc\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d4\u10dc\u10e2-\u10de\u10d8\u10d4\u10e0\u10d8 \u10d3\u10d0 \u10db\u10d8\u10e5\u10d4\u10da\u10dd\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440 \u0436\u04d9\u043d\u0435 \u041c\u0438\u043a\u0435\u043b\u043e\u043d"
+    ],
+    "name:kik_x_preferred":[
+        "Santapieri na Mikeloni"
     ],
     "name:kin_x_preferred":[
         "Mutagatifu Petero na Mikeloni"
     ],
     "name:kor_x_preferred":[
         "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871"
+    ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud53c\uc5d0\ub974-\ubbf8\ucf00\ub871",
+        "\uc0dd\ud53c\uc5d0\ub974\uc5d0 \ubbf8\ud074\ub871",
+        "\uc0dd\ud53c\uc5d0\ub974\uc564\ub4dc\ubbf8\ud074\ub871"
     ],
     "name:kur_x_preferred":[
         "Saint-Pierre \u00fb Miquelon"
@@ -184,6 +303,9 @@
     "name:lin_x_preferred":[
         "S\u00e1ntu Petelo mp\u00e9 Miquelon"
     ],
+    "name:lin_x_variant":[
+        "S\u00e1ntu p\u00e9t\u00e9to mp\u00e9 Mikel\u0254"
+    ],
     "name:lit_x_preferred":[
         "Sen Pjeras ir Mikelonas"
     ],
@@ -193,20 +315,59 @@
     "name:ltz_x_preferred":[
         "Saint-Pierre a Miquelon"
     ],
+    "name:lub_x_preferred":[
+        "Santu p\u00e9t\u00e9to ne Mikelu"
+    ],
+    "name:lug_x_preferred":[
+        "Senti Piyere ne Mikeloni"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d46\u0d28\u0d4d\u200d\u0d31\u0d4d \u0d2a\u0d3f\u0d31\u0d47\u0d2f\u0d41\u0d02 \u0d2e\u0d3f\u0d15\u0d4d\u0d35\u0d32\u0d23\u0d41\u0d02"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u092a\u093f\u092f\u0947\u0930 \u0935 \u092e\u093f\u0915\u0947\u0932\u094b"
+    ],
+    "name:mar_x_variant":[
+        "\u0938\u0947\u0902\u091f \u092a\u093f\u092f\u0930\u0947 \u0906\u0923\u093f \u092e\u093f\u0915\u094d\u0935\u0947\u0932\u094b\u0928"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u041f\u0458\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d"
     ],
+    "name:mkd_x_variant":[
+        "\u0421\u0435\u043d\u0442 \u041f\u0458\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u0430\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Saint-Pierre-et-Miquelon"
+    ],
+    "name:mlt_x_preferred":[
+        "Saint Pierre and Miquelon"
+    ],
     "name:msa_x_preferred":[
         "Saint Pierre dan Miquelon"
+    ],
+    "name:msa_x_variant":[
+        "Saint Pierre and Miquelon"
+    ],
+    "name:nde_x_preferred":[
+        "Saint Pierre and Miquelon"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0947\u0928\u094d\u091f \u092a\u093f\u0930\u094d\u0930\u0947 \u0930 \u092e\u093f\u0915\u094d\u0915\u0947\u0932\u094b\u0928"
     ],
     "name:nld_x_preferred":[
         "Saint-Pierre en Miquelon"
     ],
+    "name:nld_x_variant":[
+        "Saint Pierre en Miquelon"
+    ],
     "name:nno_x_preferred":[
         "Saint-Pierre-et-Miquelon"
+    ],
+    "name:nno_x_variant":[
+        "St. Pierre og Miquelon"
+    ],
+    "name:nob_x_preferred":[
+        "St. Pierre og Miquelon"
     ],
     "name:nor_x_preferred":[
         "Saint-Pierre og Miquelon"
@@ -216,6 +377,9 @@
     ],
     "name:oci_x_preferred":[
         "Sant P\u00e8ire e Miquelon"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b2a\u0b3f\u0b0f\u0b30\u0b47 \u0b0f\u0b2c\u0b02 \u0b2e\u0b3f\u0b15\u0b4d\u0b2c\u0b3e\u0b32\u0b4b\u0b28\u0b4d"
     ],
     "name:oss_x_preferred":[
         "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440 \u00e6\u043c\u00e6 \u041c\u0438\u043a\u0435\u043b\u043e\u043d"
@@ -232,11 +396,26 @@
     "name:por_x_preferred":[
         "Saint-Pierre e Miquelon"
     ],
+    "name:por_x_variant":[
+        "Saint Pierre e Miquelon"
+    ],
+    "name:roh_x_preferred":[
+        "Saint Pierre e Miquelon"
+    ],
     "name:ron_x_preferred":[
         "Saint Pierre \u0219i Miquelon"
     ],
+    "name:ron_x_variant":[
+        "Sf\u00e2ntul Pierre \u0219i Miquelon"
+    ],
+    "name:run_x_preferred":[
+        "Sempiyeri na Mikeloni"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "S\u00ean-Py\u00eare na Mikel\u00f6on"
     ],
     "name:scn_x_preferred":[
         "Saint-Pierre e Miquelon"
@@ -246,6 +425,15 @@
     ],
     "name:slv_x_preferred":[
         "Saint Pierre in Miquelon"
+    ],
+    "name:sme_x_preferred":[
+        "Saint Pierre ja Miquelon"
+    ],
+    "name:sna_x_preferred":[
+        "Saint Pierre and Miquelon"
+    ],
+    "name:som_x_preferred":[
+        "Saint Pierre and Miquelon"
     ],
     "name:spa_x_preferred":[
         "San Pedro y Miquel\u00f3n"
@@ -262,20 +450,41 @@
     "name:swa_x_preferred":[
         "Saint-Pierre na Miquelon"
     ],
+    "name:swa_x_variant":[
+        "Santapieri na Mikeloni"
+    ],
     "name:swe_x_preferred":[
         "Saint-Pierre och Miquelon"
+    ],
+    "name:swe_x_variant":[
+        "S:t Pierre och Miquelon"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bcd\u0baf\u0bc7\u0bb0\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0bae\u0bc0\u0b95\u0bc7\u0bb2\u0bcb\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0baa\u0bbf\u0baf\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0b95\u0bcd\u0bb5\u0bc7\u0bb2\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440 \u04bb\u04d9\u043c \u041c\u0438\u043a\u0435\u043b\u043e\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c02\u0c1f\u0c4d \u0c2a\u0c3f\u0c2f\u0c46\u0c30\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2e\u0c3f\u0c15\u0c46\u0c32\u0c3e\u0c28\u0c4d"
     ],
     "name:tgl_x_preferred":[
         "Saint-Pierre at Miquelon"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e0b\u0e47\u0e07\u0e1b\u0e35\u0e41\u0e22\u0e23\u0e4c\u0e41\u0e25\u0e30\u0e21\u0e35\u0e40\u0e01\u0e2d\u0e25\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e0b\u0e07\u0e1b\u0e35\u0e41\u0e22\u0e23\u0e4c\u0e41\u0e25\u0e30\u0e21\u0e35\u0e40\u0e01\u0e2d\u0e25\u0e07"
+    ],
+    "name:tir_x_preferred":[
+        "\u1245\u12f1\u1235 \u1352\u12ec\u122d \u12a5\u1293 \u121a\u12a9\u12a4\u120e\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Seini Piea mo Mikaloni"
     ],
     "name:tur_x_preferred":[
         "Saint Pierre ve Miquelon"
@@ -286,14 +495,26 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d-\u041f'\u0454\u0440 \u0456 \u041c\u0456\u043a\u0435\u043b\u043e\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u043d-\u041f\u02bc\u0454\u0440 \u0456 \u041c\u0456\u043a\u0435\u043b\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Territoire des \u00celes Saint-Pierre et Miquelon"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0627\u0648\u0631 \u0645\u06cc\u06a9\u0644\u06cc\u0626\u0648\u0646"
     ],
     "name:uzb_x_preferred":[
         "Sen-Pyer va Mikelon"
     ],
     "name:vie_x_preferred":[
         "Saint-Pierre v\u00e0 Miquelon"
+    ],
+    "name:vie_x_variant":[
+        "Saint Pierre v\u00e0 Miquelon"
     ],
     "name:war_x_preferred":[
         "Saint Pierre ngan Miquelon"
@@ -304,6 +525,9 @@
     "name:yor_x_preferred":[
         "Saint Pierre \u00e0ti M\u00eck\u1eb9\u0301l\u1ecd\u0300n"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de P\u1eb9\u1eb9ri ati mikuloni"
+    ],
     "name:zho_min_nan_x_preferred":[
         "S\u00e8ng Pierre kap Miquelon"
     ],
@@ -312,6 +536,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u8056\u76ae\u57c3\u723e\u53ca\u5bc6\u514b\u9686\u7fa4\u5cf6"
+    ],
+    "name:zul_x_preferred":[
+        "i-Saint Pierre kanye ne-Miquelon"
     ],
     "ne:abbrev":"St. P.M.",
     "ne:abbrev_len":8,
@@ -389,6 +616,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"508",
+    "statoids:ds":"F",
+    "statoids:fifa":"SPM",
+    "statoids:gaul":"210",
+    "statoids:gec":"SB",
+    "statoids:independent":"Part of FR",
+    "statoids:ioc":"SPM",
+    "statoids:iso_a2":"PM",
+    "statoids:iso_a3":"SPM",
+    "statoids:iso_num":"666",
+    "statoids:itu":"SPM",
+    "statoids:marc":"xl",
+    "statoids:name":"Saint Pierre and Miquelon",
+    "statoids:wmo":"FP",
     "wk:wordcount":4661,
     "wof:belongsto":[
         "102191575",
@@ -398,17 +640,27 @@
     "wof:concordances":{
         "dbp:id":"Saint_Pierre_and_Miquelon",
         "fb:id":"en.saint-pierre_and_miquelon",
+        "fifa:id":"SPM",
+        "fips:code":"SB",
+        "gaul:id":"210",
         "gn:id":3424932,
         "gp:id":23424939,
         "hasc:id":"PM",
+        "ioc:id":"SPM",
+        "itu:id":"SPM",
         "loc:id":"n83017162",
+        "m49:code":"666",
+        "marc:id":"xl",
+        "ne:adm0_a3":"SPM",
         "nyt:id":"N84281606136252993091",
         "qs:id":1109849,
-        "wd:id":"Q34617"
+        "uncrt:id":"F",
+        "wd:id":"Q34617",
+        "wmo:id":"FP"
     },
     "wof:country":"PM",
     "wof:country_alpha3":"SPM",
-    "wof:geomhash":"72a1d27ec84a7894aa337a23ab34f68d",
+    "wof:geomhash":"7679695dd1e959a38eec0fe72784305a",
     "wof:hierarchy":[
         {
             "continent_id":"102191575",
@@ -426,11 +678,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493229938,
+    "wof:lastmodified":1509143018,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"country",
+    "wof:population":7012,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SPM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

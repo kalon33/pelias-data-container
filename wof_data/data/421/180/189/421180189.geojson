@@ -6,6 +6,7 @@
     "edtf:deprecated":"2016-03-29",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.200828,5.16158,46.200828,5.16158",
     "geom:latitude":5.16158,
     "geom:longitude":46.200828,
@@ -13,6 +14,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"deprecated because it should never have been imported (20160329); quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Somalia"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":null,
@@ -32,6 +36,10 @@
     "qs:woe_adm0":23424949,
     "qs:woe_id":23424949,
     "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:population":"wk",
     "wk:latitude":8.316667,
     "wk:longitude":47.3,
     "wk:population":10495583,
@@ -42,12 +50,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23424949,
+        "ne:adm0_a3":"SOM",
         "qs:id":422983,
         "wd:id":"Q1045"
     },
     "wof:country":"SO",
     "wof:created":1459009247,
-    "wof:geomhash":"68062baa38ddd66561a32fbbfd2421d4",
+    "wof:geomhash":"49cad63ec6007fc1a94cc7d047ad7d70",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -55,10 +64,12 @@
         }
     ],
     "wof:id":421180189,
-    "wof:lastmodified":1467182935,
+    "wof:lastmodified":1505340646,
     "wof:name":"Somalia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":10495583,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],
     "wof:supersedes":[],

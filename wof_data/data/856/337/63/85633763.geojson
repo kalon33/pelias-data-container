@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006918,
+    "geom:area_square_m":61596282.471479,
     "geom:bbox":"12.403652,43.8942945,12.515936,43.991993",
     "geom:latitude":43.938316,
     "geom:longitude":12.463208,
     "gn:population":31477,
     "iso:country":"SM",
+    "itu:country_code":[
+        "378"
+    ],
     "lbl:latitude":43.934066,
     "lbl:longitude":12.462139,
     "mps:latitude":43.934066,
     "mps:longitude":12.462139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e"
     ],
@@ -24,11 +31,17 @@
     "name:afr_x_preferred":[
         "San Marino"
     ],
+    "name:aka_x_preferred":[
+        "San Marino"
+    ],
     "name:als_x_preferred":[
         "San Marino"
     ],
     "name:amh_x_preferred":[
         "\u1233\u1295 \u121b\u122a\u1296 (\u12a0\u1308\u122d)"
+    ],
+    "name:amh_x_variant":[
+        "\u1233\u1295 \u121b\u122a\u1296"
     ],
     "name:ang_x_preferred":[
         "San Marino"
@@ -48,14 +61,23 @@
     "name:ast_x_preferred":[
         "San Marino"
     ],
+    "name:ast_x_variant":[
+        "San Mar\u00edn"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
     ],
     "name:aze_x_preferred":[
         "San-Marino"
     ],
+    "name:aze_x_variant":[
+        "San Marino"
+    ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:bam_x_preferred":[
+        "Marini-Senu"
     ],
     "name:bar_x_preferred":[
         "San Marino"
@@ -78,6 +100,9 @@
     "name:bod_x_preferred":[
         "\u0f66\u0f53\u0f0b\u0f58\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f7c\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f53\u0f0b\u0f58\u0f7a\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f7c\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "San Marino"
     ],
@@ -96,6 +121,9 @@
     "name:cat_x_preferred":[
         "San Marino"
     ],
+    "name:cat_x_variant":[
+        "Rep\u00fablica de San Marino"
+    ],
     "name:cdo_x_preferred":[
         "San Marino"
     ],
@@ -107,13 +135,6 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u8056\u99ac\u5229\u8afe"
-    ],
-    "name:chi_x_variant":[
-        "\u5723\u9a6c\u529b\u8bfa",
-        "\u8056\u99ac\u5229\u8afe"
     ],
     "name:chr_x_preferred":[
         "\u13a0\u13e5\u13b8\u13c9\u13d7 \u13b9\u13b5\u13a2\u13c3"
@@ -129,6 +150,9 @@
     ],
     "name:cor_x_preferred":[
         "Sen Marin"
+    ],
+    "name:cor_x_variant":[
+        "San Marino"
     ],
     "name:cos_x_preferred":[
         "San Marinu"
@@ -160,6 +184,9 @@
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03af\u03bd\u03bf\u03c2"
     ],
+    "name:eng_x_preferred":[
+        "San Marino"
+    ],
     "name:eng_x_unknown":[
         "SM",
         "SMR"
@@ -181,6 +208,9 @@
     "name:ewe_x_preferred":[
         "San Marino"
     ],
+    "name:ewe_x_variant":[
+        "San Marino nutome"
+    ],
     "name:ext_x_preferred":[
         "San Marinu"
     ],
@@ -190,13 +220,13 @@
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0646\u200c\u0645\u0627\u0631\u06cc\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "San Marino"
     ],
     "name:fra_x_preferred":[
-        "Saint-Marin"
-    ],
-    "name:fre_x_preferred":[
         "Saint-Marin"
     ],
     "name:frr_x_preferred":[
@@ -207,6 +237,9 @@
     ],
     "name:ful_x_preferred":[
         "San Marino"
+    ],
+    "name:ful_x_variant":[
+        "See Maree"
     ],
     "name:gag_x_preferred":[
         "San Marino"
@@ -223,6 +256,9 @@
     "name:glg_x_preferred":[
         "San Marino"
     ],
+    "name:glg_x_variant":[
+        "San Mari\u00f1o"
+    ],
     "name:glv_x_preferred":[
         "San Marino"
     ],
@@ -234,6 +270,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0aae\u0ac5\u0ab0\u0abf\u0aa8\u0acb"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0ac5\u0aa8 \u0aae\u0ac7\u0ab0\u0abf\u0aa8\u0acb"
     ],
     "name:hak_x_preferred":[
         "S\u1e73n Marino"
@@ -253,11 +292,18 @@
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05de\u05e8\u05d9\u05e0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d0\u05df \u05de\u05d0\u05e8\u05d9\u05e0\u05d5"
+    ],
     "name:hif_x_preferred":[
         "San Marino"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0928 \u092e\u093e\u0930\u093f\u0928\u094b"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u0948\u0928 \u092e\u0947\u0930\u0940\u0928\u094b",
+        "\u0938\u0948\u0928 \u092e\u0930\u093f\u0928\u094b"
     ],
     "name:hrv_x_preferred":[
         "San Marino"
@@ -317,6 +363,9 @@
     "name:kal_x_preferred":[
         "San Marino"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cae\u0cc6\u0cb0\u0cbf\u0ca8\u0ccb"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10db\u10d0\u10e0\u10d8\u10dc\u10dd"
     ],
@@ -328,6 +377,9 @@
     ],
     "name:kik_x_preferred":[
         "Canimarino"
+    ],
+    "name:kik_x_variant":[
+        "Samarino"
     ],
     "name:kin_x_preferred":[
         "Mutagatifu Marino"
@@ -353,6 +405,9 @@
     "name:kur_x_preferred":[
         "San Mar\u00eeno"
     ],
+    "name:kur_x_variant":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u06c6"
+    ],
     "name:lad_x_preferred":[
         "San Marino"
     ],
@@ -374,6 +429,9 @@
     "name:lin_x_preferred":[
         "Santu Marino"
     ],
+    "name:lin_x_variant":[
+        "S\u00e1ntu Marin\u025b"
+    ],
     "name:lit_x_preferred":[
         "San Marinas"
     ],
@@ -386,11 +444,23 @@
     "name:ltz_x_preferred":[
         "San Marino"
     ],
+    "name:lub_x_preferred":[
+        "Santu Marine"
+    ],
+    "name:lug_x_preferred":[
+        "Sanimarino"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3e\u0d7b \u0d2e\u0d30\u0d40\u0d28\u0d4b"
     ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d3e\u0d28\u0d4d\u200d \u0d2e\u0d31\u0d3f\u0d28\u0d4b"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928 \u092e\u093e\u0930\u093f\u0928\u094b"
+    ],
+    "name:mar_x_variant":[
+        "\u0938\u0945\u0928 \u092e\u0930\u0940\u0928\u094b"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
@@ -400,6 +470,9 @@
     ],
     "name:mlg_x_preferred":[
         "San Marino"
+    ],
+    "name:mlg_x_variant":[
+        "Saint-Marin"
     ],
     "name:mlt_x_preferred":[
         "San Marino"
@@ -431,6 +504,9 @@
     "name:nav_x_preferred":[
         "San Maw\u00ednoo Bik\u00e9yah"
     ],
+    "name:nde_x_preferred":[
+        "San Marino"
+    ],
     "name:nds_nld_x_preferred":[
         "San Marino"
     ],
@@ -440,6 +516,9 @@
     "name:nep_x_preferred":[
         "\u0938\u093e\u0928 \u092e\u093e\u0930\u093f\u0928\u094b"
     ],
+    "name:nep_x_variant":[
+        "\u0938\u093e\u0928\u094d \u092e\u093e\u0930\u093f\u0928\u094b"
+    ],
     "name:new_x_preferred":[
         "\u0938\u093e\u0928 \u092e\u0930\u093f\u0928\u094b"
     ],
@@ -447,6 +526,9 @@
         "San Marino"
     ],
     "name:nno_x_preferred":[
+        "San Marino"
+    ],
+    "name:nob_x_preferred":[
         "San Marino"
     ],
     "name:nor_x_preferred":[
@@ -464,8 +546,14 @@
     "name:oci_x_preferred":[
         "Sant Marin"
     ],
+    "name:oci_x_variant":[
+        "San Marino"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b3e\u0b28 \u0b2e\u0b3e\u0b30\u0b3f\u0b28\u0b4b"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b3e\u0b28\u0b4d \u0b2e\u0b3e\u0b30\u0b3f\u0b28\u0b4b"
     ],
     "name:orm_x_preferred":[
         "Saan Maariinoo"
@@ -518,6 +606,9 @@
     "name:que_x_preferred":[
         "San Marino"
     ],
+    "name:rgn_x_preferred":[
+        "San Marein"
+    ],
     "name:roh_x_preferred":[
         "San Marino"
     ],
@@ -527,8 +618,14 @@
     "name:run_x_preferred":[
         "Saint-Marin"
     ],
+    "name:run_x_variant":[
+        "Sanimarino"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:sag_x_preferred":[
+        "S\u00ean-Mar\u00eben"
     ],
     "name:sah_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e"
@@ -584,6 +681,9 @@
     "name:swa_x_preferred":[
         "San Marino"
     ],
+    "name:swa_x_variant":[
+        "Samarino"
+    ],
     "name:swe_x_preferred":[
         "San Marino"
     ],
@@ -592,6 +692,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0bae\u0bb0\u0bc0\u0ba9\u0bcb"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bae\u0bc6\u0bb0\u0bbf\u0ba9\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c2e\u0c3e\u0c30\u0c3f\u0c28\u0c4b"
     ],
     "name:tet_x_preferred":[
         "Saun Mari\u00f1u"
@@ -604,6 +710,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e0b\u0e32\u0e19\u0e21\u0e32\u0e23\u0e35\u0e42\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e21\u0e32\u0e23\u0e35\u0e42\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u1233\u1295 \u121b\u122a\u1296"
+    ],
+    "name:ton_x_preferred":[
+        "Seni Malino"
     ],
     "name:tpi_x_preferred":[
         "San Marino"
@@ -626,12 +741,18 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0456\u043d\u043e"
+    ],
     "name:und_x_colloquial":[
         "Agios Marinos"
     ],
     "name:und_x_variant":[
         "Republika San Marino",
         "\u00c1gios Mar\u00ednos"
+    ],
+    "name:unk_x_variant":[
+        "Most Serene Republic of San Marino"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
@@ -647,6 +768,10 @@
     ],
     "name:vie_x_preferred":[
         "San Marino"
+    ],
+    "name:vie_x_variant":[
+        "Xan Ma-ri-n\u00f4",
+        "Xan Ma-ri-n\u00f4 (San Marino)"
     ],
     "name:vls_x_preferred":[
         "San Marino"
@@ -675,6 +800,9 @@
     "name:yor_x_preferred":[
         "San M\u00e0r\u00edn\u00f2"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Sani Marino"
+    ],
     "name:zea_x_preferred":[
         "San Marino"
     ],
@@ -684,11 +812,18 @@
     "name:zho_x_preferred":[
         "\u5723\u9a6c\u529b\u8bfa"
     ],
+    "name:zho_x_variant":[
+        "\u5723\u9a6c\u529b\u8bfa",
+        "\u8056\u99ac\u5229\u8afe"
+    ],
     "name:zho_yue_x_preferred":[
         "\u8056\u99ac\u9023\u5974"
     ],
     "name:zul_x_preferred":[
         "USanti Marino"
+    ],
+    "name:zul_x_variant":[
+        "i-San Marino"
     ],
     "ne:abbrev":"S.M.",
     "ne:abbrev_len":4,
@@ -766,6 +901,21 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"378",
+    "statoids:ds":"RSM",
+    "statoids:fifa":"SMR",
+    "statoids:gaul":"213",
+    "statoids:gec":"SM",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SMR",
+    "statoids:iso_a2":"SM",
+    "statoids:iso_a3":"SMR",
+    "statoids:iso_num":"674",
+    "statoids:itu":"SMR",
+    "statoids:marc":"sm",
+    "statoids:name":"San Marino",
+    "statoids:wmo":"",
     "wk:latitude":43.933333,
     "wk:longitude":12.466667,
     "wk:population":31595,
@@ -775,18 +925,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fifa:id":"SMR",
+        "fips:code":"SM",
+        "gaul:id":"213",
         "gn:id":3168068,
         "gp:id":23424947,
         "hasc:id":"SM",
+        "ioc:id":"SMR",
+        "itu:id":"SMR",
         "loc:id":"n81117285",
+        "m49:code":"674",
+        "marc:id":"sm",
         "mzb:id":"san-marino",
         "qs:id":94816,
+        "uncrt:id":"RSM",
         "wd:id":"Q238",
         "wk:page":"San Marino"
     },
     "wof:country":"SM",
     "wof:country_alpha3":"SMR",
-    "wof:geomhash":"7c4727b88152ce561130c7a1b1451c2b",
+    "wof:geomhash":"0e3d3e115910843912d45425aa2c2af3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -803,11 +961,14 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1493230362,
+    "wof:lastmodified":1509143019,
     "wof:name":"San Marino",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":31595,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SMR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

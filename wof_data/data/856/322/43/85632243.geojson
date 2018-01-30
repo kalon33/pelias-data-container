@@ -5,25 +5,38 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.537572,
+    "geom:area_square_m":391951775043.192322,
     "geom:bbox":"25.237368,-22.421999,33.068163857,-15.609319",
     "geom:latitude":-19.0,
     "geom:longitude":29.872164,
     "gn:id":"",
     "gn:population":11651858,
     "iso:country":"ZW",
+    "itu:country_code":[
+        "263"
+    ],
     "lbl:latitude":-18.919508,
     "lbl:longitude":29.946601,
     "mps:latitude":-18.919508,
     "mps:longitude":29.946601,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:afr_x_preferred":[
         "Zimbabwe"
+    ],
+    "name:aka_x_preferred":[
+        "Zembabwe"
     ],
     "name:als_x_preferred":[
         "Simbabwe"
     ],
     "name:amh_x_preferred":[
         "\u12da\u121d\u1263\u1265\u12cc"
+    ],
+    "name:amh_x_variant":[
+        "\u12da\u121d\u1267\u1264"
     ],
     "name:ang_x_preferred":[
         "Simbabwe"
@@ -49,6 +62,9 @@
     "name:bam_x_preferred":[
         "Zimbabwe"
     ],
+    "name:bam_x_variant":[
+        "Zimbabuwe"
+    ],
     "name:bar_x_preferred":[
         "Simbabwe"
     ],
@@ -69,6 +85,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f5b\u0f72\u0f58\u0f0b\u0f56\u0f56\u0f0b\u0f5d\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f5b\u0f72\u0f58\u0f0b\u0f56\u0fb7\u0f71\u0f0b\u0f56\u0f7a\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Zimbabve"
@@ -100,13 +119,6 @@
     "name:che_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u8f9b\u5df4\u5a01"
-    ],
-    "name:chi_x_variant":[
-        "\u6d25\u5df4\u5e03\u97e6",
-        "\u8f9b\u5df4\u5a01"
-    ],
     "name:chv_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
     ],
@@ -128,8 +140,15 @@
     "name:dan_x_preferred":[
         "Zimbabwe"
     ],
+    "name:deu_x_historical":[
+        "S\u00fcdrhodesien"
+    ],
     "name:deu_x_preferred":[
         "Simbabwe"
+    ],
+    "name:deu_x_variant":[
+        "Republik Simbabwe",
+        "S\u00fcdrhodesien"
     ],
     "name:diq_x_preferred":[
         "Zimbabwe"
@@ -143,8 +162,14 @@
     "name:dzo_x_preferred":[
         "\u0f5b\u0f72\u0f58\u0f0b\u0f56\u0f56\u0f0b\u0f5d\u0f7a\u0f0b"
     ],
+    "name:dzo_x_variant":[
+        "\u0f5b\u0f72\u0f58\u0f0b\u0f56\u0f56\u0f0b\u0f5d\u0f7a"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03b9\u03bc\u03c0\u03ac\u03bc\u03c0\u03bf\u03c5\u03b5"
+    ],
+    "name:eng_x_historical":[
+        "Southern Rhodesia"
     ],
     "name:eng_x_preferred":[
         "Zimbabwe"
@@ -171,6 +196,9 @@
     "name:ewe_x_preferred":[
         "Zimbabwe"
     ],
+    "name:ewe_x_variant":[
+        "Zimbabwe nutome"
+    ],
     "name:ext_x_preferred":[
         "Zimbag\u00fci"
     ],
@@ -179,6 +207,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0648\u062f\u0632\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
     ],
     "name:fin_x_preferred":[
         "Zimbabwe"
@@ -192,15 +223,11 @@
     "name:fry_x_preferred":[
         "Simbabwe"
     ],
+    "name:ful_x_preferred":[
+        "Simbaabuwe"
+    ],
     "name:gag_x_preferred":[
         "Zimbabve"
-    ],
-    "name:ger_x_preferred":[
-        "Simbabwe"
-    ],
-    "name:ger_x_variant":[
-        "Republik Simbabwe",
-        "S\u00fcdrhodesien"
     ],
     "name:gla_x_preferred":[
         "Siombabue"
@@ -214,11 +241,17 @@
     "name:glv_x_preferred":[
         "Yn \u00c7himbabwe"
     ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0abf\u0aae\u0acd\u0aac\u0abe\u0aac\u0acd\u0ab5\u0ac7"
+    ],
     "name:hak_x_preferred":[
         "Zimbabwe"
     ],
     "name:hat_x_preferred":[
         "Zimbabwe"
+    ],
+    "name:hau_x_preferred":[
+        "Zimbabuwe"
     ],
     "name:hbs_x_preferred":[
         "Zimbabve"
@@ -226,11 +259,17 @@
     "name:heb_x_preferred":[
         "\u05d6\u05d9\u05de\u05d1\u05d1\u05d5\u05d0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d6\u05d9\u05de\u05d1\u05d0\u05d1\u05d5\u05d5\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Zimbabwe"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u093f\u092e\u094d\u092c\u093e\u092c\u094d\u0935\u0947"
+    ],
+    "name:hin_x_variant":[
+        "\u091c\u093f\u092e\u094d\u092c\u093e\u092c\u094d\u0935\u0947"
     ],
     "name:hrv_x_preferred":[
         "Zimbabve"
@@ -254,6 +293,9 @@
         "Zimbabwe"
     ],
     "name:ilo_x_preferred":[
+        "Zimbabwe"
+    ],
+    "name:ina_x_preferred":[
         "Zimbabwe"
     ],
     "name:ind_x_preferred":[
@@ -285,6 +327,9 @@
     "name:kab_x_preferred":[
         "Zimbabwe"
     ],
+    "name:kal_x_preferred":[
+        "Zimbabwe"
+    ],
     "name:kan_x_preferred":[
         "\u0c9c\u0cbf\u0c82\u0cac\u0cbe\u0cac\u0ccd\u0cb5\u0cc6"
     ],
@@ -293,6 +338,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u179f\u17ca\u17b8\u1798\u1794\u17b6\u1794\u179c\u17c9\u17c1"
     ],
     "name:kik_x_preferred":[
         "Zimbabwe"
@@ -314,6 +362,12 @@
     ],
     "name:kur_x_preferred":[
         "Z\u00eembabwe"
+    ],
+    "name:kur_x_variant":[
+        "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u06cc"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e8a\u0eb4\u0ea1\u0e9a\u0eb1\u0e9a\u0ec0\u0ea7"
     ],
     "name:lat_x_preferred":[
         "Zimbabua"
@@ -348,17 +402,29 @@
     "name:ltz_x_preferred":[
         "Simbabwe"
     ],
+    "name:lub_x_preferred":[
+        "Zimbabwe"
+    ],
     "name:lug_x_preferred":[
         "Zimbabwe"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d02\u0d2c\u0d3e\u0d2c\u0d4d\u200c\u0d35\u0d46"
     ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d3f\u0d02\u0d2c\u0d3e\u0d2c\u0d4d\u0d35\u0d47"
+    ],
     "name:mar_x_preferred":[
         "\u091d\u093f\u0902\u092c\u093e\u092c\u094d\u0935\u0947"
     ],
+    "name:mar_x_variant":[
+        "\u091d\u093f\u092e\u094d\u092c\u093e\u092c\u094d\u0935\u0947"
+    ],
     "name:mkd_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
+    ],
+    "name:mlg_x_preferred":[
+        "Zimbaboe"
     ],
     "name:mlt_x_preferred":[
         "\u017bimbabwe"
@@ -375,17 +441,26 @@
     "name:mya_x_preferred":[
         "\u1007\u1004\u103a\u1018\u102c\u1018\u103d\u1031\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1007\u1004\u103a\u1018\u102c\u1018\u103d\u1031"
+    ],
     "name:mzn_x_preferred":[
         "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647"
     ],
     "name:nav_x_preferred":[
         "Hooghan Ts\u00e9 Bee \u00c1daalyaa\u00ed Bik\u00e9yah"
     ],
+    "name:nde_x_preferred":[
+        "Zimbabwe"
+    ],
     "name:nds_x_preferred":[
         "Simbabwe"
     ],
     "name:nep_x_preferred":[
         "\u091c\u093f\u092e\u094d\u092c\u093e\u092c\u094d\u0935\u0947"
+    ],
+    "name:nep_x_variant":[
+        "\u091c\u093f\u092e\u094d\u092c\u093e\u092c\u0947"
     ],
     "name:new_x_preferred":[
         "\u091c\u093f\u092e\u094d\u092c\u093e\u092c\u094d\u0935\u0947"
@@ -394,6 +469,9 @@
         "Zimbabwe"
     ],
     "name:nno_x_preferred":[
+        "Zimbabwe"
+    ],
+    "name:nob_x_preferred":[
         "Zimbabwe"
     ],
     "name:nor_x_preferred":[
@@ -449,7 +527,8 @@
     ],
     "name:por_x_variant":[
         "Zimbabu\u00e9",
-        "Zimb\u00e1bwe"
+        "Zimb\u00e1bwe",
+        "Zimb\u00e1bue"
     ],
     "name:pus_x_preferred":[
         "\u0632\u06d0\u0645\u0628\u0627\u0628\u0648\u06d0"
@@ -457,11 +536,17 @@
     "name:que_x_preferred":[
         "Simbabwi"
     ],
+    "name:roh_x_preferred":[
+        "Simbabwe"
+    ],
     "name:ron_x_preferred":[
         "Zimbabwe"
     ],
     "name:rue_x_preferred":[
         "\u0417\u0456\u043c\u0431\u0430\u0431\u0432\u0435"
+    ],
+    "name:run_x_preferred":[
+        "Zimbabwe"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
@@ -502,6 +587,9 @@
     "name:som_x_preferred":[
         "Simbaabwi"
     ],
+    "name:som_x_variant":[
+        "Simbaabwe"
+    ],
     "name:sot_x_preferred":[
         "Zimbabwe"
     ],
@@ -513,6 +601,9 @@
     ],
     "name:sqi_x_preferred":[
         "Zimbabveja"
+    ],
+    "name:sqi_x_variant":[
+        "Zimbabve"
     ],
     "name:srd_x_preferred":[
         "Zimbabwe"
@@ -541,6 +632,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bae\u0bcd\u0baa\u0bbe\u0baa\u0bcd\u0bb5\u0bc7"
     ],
+    "name:tam_x_variant":[
+        "\u0b9c\u0bbf\u0bae\u0bcd\u0baa\u0bbe\u0baa\u0bcd\u0bb5\u0bc7"
+    ],
     "name:tat_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
     ],
@@ -556,8 +650,17 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e0b\u0e34\u0e21\u0e1a\u0e31\u0e1a\u0e40\u0e27"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e34\u0e21\u0e1a\u0e31\u0e1a\u0e40\u0e27"
+    ],
     "name:tir_x_preferred":[
         "\u12da\u121d\u1263\u1265\u12cc"
+    ],
+    "name:tir_x_variant":[
+        "\u12da\u121d\u1267\u1264"
+    ],
+    "name:ton_x_preferred":[
+        "Simipapuei"
     ],
     "name:tsn_x_preferred":[
         "Zimbabwe"
@@ -584,6 +687,9 @@
     "name:und_x_variant":[
         "Republika Zimbabve"
     ],
+    "name:unk_x_variant":[
+        "Republic of Rhodesia"
+    ],
     "name:urd_x_preferred":[
         "\u0632\u0645\u0628\u0627\u0628\u0648\u06d2"
     ],
@@ -601,6 +707,10 @@
     ],
     "name:vie_x_preferred":[
         "Zimbabwe"
+    ],
+    "name:vie_x_variant":[
+        "Dim-ba-bu-\u00ea",
+        "Dim-ba-bu-\u00ea (Zimbabwe)"
     ],
     "name:vol_x_preferred":[
         "Zimbabiy\u00e4n"
@@ -626,6 +736,9 @@
     "name:yor_x_preferred":[
         "S\u00ecmb\u00e1b\u00fa\u00e8"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u1e63imibabe"
+    ],
     "name:zea_x_preferred":[
         "Zimbabwe"
     ],
@@ -636,13 +749,18 @@
         "\u8f9b\u5df4\u5a01"
     ],
     "name:zho_x_variant":[
-        "\u6d25\u5df4\u5e03\u97cb"
+        "\u6d25\u5df4\u5e03\u97cb",
+        "\u6d25\u5df4\u5e03\u97e6",
+        "\u8f9b\u5df4\u5a01"
     ],
     "name:zho_yue_x_preferred":[
         "\u6d25\u5df4\u5e03\u97cb"
     ],
     "name:zul_x_preferred":[
         "IZimbabwe"
+    ],
+    "name:zul_x_variant":[
+        "i-Zimbabwe"
     ],
     "ne:abbrev":"Zimb.",
     "ne:abbrev_len":5,
@@ -722,6 +840,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"263",
+    "statoids:ds":"ZW",
+    "statoids:fifa":"ZIM",
+    "statoids:gaul":"271",
+    "statoids:gec":"ZI",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ZIM",
+    "statoids:iso_a2":"ZW",
+    "statoids:iso_a3":"ZWE",
+    "statoids:iso_num":"716",
+    "statoids:itu":"ZWE",
+    "statoids:marc":"rh",
+    "statoids:name":"Zimbabwe",
+    "statoids:wmo":"ZW",
     "wk:latitude":-19.016667,
     "wk:longitude":30.016667,
     "wk:population":14149648,
@@ -733,18 +866,28 @@
     "wof:concordances":{
         "dbp:id":"Zimbabwe",
         "fb:id":"en.zimbabwe",
+        "fifa:id":"ZIM",
+        "fips:code":"ZI",
+        "gaul:id":"271",
         "gn:id":878675,
         "gp:id":23425004,
         "hasc:id":"ZW",
+        "ioc:id":"ZIM",
+        "itu:id":"ZWE",
+        "m49:code":"716",
+        "marc:id":"rh",
         "mzb:id":"zimbabwe",
+        "ne:adm0_a3":"ZWE",
         "nyt:id":"N23629019078217793831",
         "qs:id":930809,
+        "uncrt:id":"ZW",
         "wd:id":"Q954",
-        "wk:page":"Zimbabwe"
+        "wk:page":"Zimbabwe",
+        "wmo:id":"ZW"
     },
     "wof:country":"ZW",
     "wof:country_alpha3":"ZWE",
-    "wof:geomhash":"8bfe8fffff92084c70460faa6f85487a",
+    "wof:geomhash":"69206d7e141365e4238d9d815c61fcaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -765,11 +908,14 @@
         "sna",
         "nde"
     ],
-    "wof:lastmodified":1493229897,
+    "wof:lastmodified":1509143056,
     "wof:name":"Zimbabwe",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":14149648,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ZWE",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

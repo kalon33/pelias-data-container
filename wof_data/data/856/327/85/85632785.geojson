@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.033457,
+    "geom:area_square_m":83674200419.839508,
     "geom:bbox":"9.5299595,46.372299,17.1607035,49.020336",
     "geom:latitude":47.586911,
     "geom:longitude":14.141446,
     "gn:population":8205000,
     "iso:country":"AT",
+    "itu:country_code":[
+        "43"
+    ],
     "lbl:latitude":47.522617,
     "lbl:longitude":14.143702,
     "mps:latitude":47.522617,
     "mps:longitude":14.143702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:abk_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u0430"
     ],
@@ -26,6 +33,12 @@
     ],
     "name:afr_x_preferred":[
         "Oostenryk"
+    ],
+    "name:aka_x_preferred":[
+        "\u0186stria"
+    ],
+    "name:alb_x_preferred":[
+        "Austria"
     ],
     "name:als_x_preferred":[
         "\u00d6sterreich"
@@ -44,6 +57,12 @@
     ],
     "name:arg_x_preferred":[
         "Austria"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u057e\u057d\u057f\u0580\u056b\u0561"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u0648\u0637\u0631\u064a\u0634"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0646\u0645\u0633\u0627"
@@ -69,6 +88,12 @@
     "name:bak_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Otirisi"
+    ],
+    "name:baq_x_preferred":[
+        "Austria"
+    ],
     "name:bar_x_preferred":[
         "\u00d6stareich"
     ],
@@ -78,17 +103,26 @@
     "name:bel_x_preferred":[
         "\u0410\u045e\u0441\u0442\u0440\u044b\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u0410\u045e\u0441\u0442\u0440\u044b\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09df\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0627\u062a\u0631\u06cc\u0634"
+    ],
+    "name:bho_x_preferred":[
+        "\u0911\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
     "name:bis_x_preferred":[
         "Austria"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f7c\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0fb2\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f66\u0f9f\u0fb2\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Austrija"
@@ -105,11 +139,17 @@
     "name:bul_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
     ],
+    "name:bur_x_preferred":[
+        "\u101e\u103c\u1005\u1010\u103c\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
     "name:bxr_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438"
     ],
     "name:cat_x_preferred":[
         "\u00c0ustria"
+    ],
+    "name:cat_x_variant":[
+        "Rep\u00fablica d'\u00c0ustria"
     ],
     "name:cbk_zam_x_preferred":[
         "Austria"
@@ -123,13 +163,13 @@
     "name:ces_x_preferred":[
         "Rakousko"
     ],
+    "name:cha_x_preferred":[
+        "Austria"
+    ],
     "name:che_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438"
     ],
     "name:chi_x_preferred":[
-        "\u5967\u5730\u5229"
-    ],
-    "name:chi_x_variant":[
         "\u5965\u5730\u5229"
     ],
     "name:chr_x_preferred":[
@@ -173,8 +213,16 @@
     "name:dan_x_preferred":[
         "\u00d8strig"
     ],
+    "name:deu_x_colloquial":[
+        "Osterreich",
+        "Republik Oesterreich",
+        "Republik Osterreich"
+    ],
     "name:deu_x_preferred":[
         "\u00d6sterreich"
+    ],
+    "name:deu_x_variant":[
+        "Republik \u00d6sterreich"
     ],
     "name:diq_x_preferred":[
         "Aw\u0131st\u0131rya"
@@ -185,6 +233,9 @@
     "name:dsb_x_preferred":[
         "Awstriska"
     ],
+    "name:dty_x_preferred":[
+        "\u0905\u0937\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
+    ],
     "name:dut_x_preferred":[
         "Oostenrijk"
     ],
@@ -193,6 +244,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c5\u03c3\u03c4\u03c1\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "\u00c0ustria"
     ],
     "name:eng_x_preferred":[
         "Austria"
@@ -210,6 +264,9 @@
     "name:epo_x_preferred":[
         "A\u016dstrio"
     ],
+    "name:epo_x_variant":[
+        "A\u016dstrujo"
+    ],
     "name:est_x_preferred":[
         "Austria"
     ],
@@ -219,6 +276,9 @@
     "name:ewe_x_preferred":[
         "Austria"
     ],
+    "name:ewe_x_variant":[
+        "Austria nutome"
+    ],
     "name:ext_x_preferred":[
         "\u00c1ustria"
     ],
@@ -227,6 +287,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u062a\u0631\u06cc\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u062a\u0631\u064a\u0634"
     ],
     "name:fin_x_colloquial":[
         "Itaevalta",
@@ -253,22 +316,20 @@
     "name:ful_x_preferred":[
         "Otiris"
     ],
+    "name:ful_x_variant":[
+        "Otiriis"
+    ],
     "name:fur_x_preferred":[
         "Austrie"
     ],
     "name:gag_x_preferred":[
         "Avstriya"
     ],
-    "name:ger_x_colloquial":[
-        "Osterreich",
-        "Republik Oesterreich",
-        "Republik Osterreich"
+    "name:geo_x_preferred":[
+        "\u10d0\u10d5\u10e1\u10e2\u10e0\u10d8\u10d0"
     ],
     "name:ger_x_preferred":[
         "\u00d6sterreich"
-    ],
-    "name:ger_x_variant":[
-        "Republik \u00d6sterreich"
     ],
     "name:gla_x_preferred":[
         "An Ostair"
@@ -288,8 +349,14 @@
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf3f\ud800\udf43\ud800\udf44\ud800\udf42\ud800\udf30\ud800\udf42\ud800\udf34\ud800\udf39\ud800\udf3a\ud800\udf39"
     ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c5\u03c3\u03c4\u03c1\u03af\u03b1"
+    ],
     "name:grn_x_preferred":[
         "Auteria"
+    ],
+    "name:gsw_x_preferred":[
+        "\u00d6schtriich"
     ],
     "name:guj_x_preferred":[
         "\u0a91\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abf\u0aaf\u0abe"
@@ -302,6 +369,9 @@
     ],
     "name:hau_x_preferred":[
         "Austriya"
+    ],
+    "name:hau_x_variant":[
+        "Ostiriya"
     ],
     "name:haw_x_preferred":[
         "\u02bbAukekulia"
@@ -332,6 +402,9 @@
     ],
     "name:ibo_x_preferred":[
         "Austria"
+    ],
+    "name:ice_x_preferred":[
+        "Austurr\u00edki"
     ],
     "name:ido_x_preferred":[
         "Austria"
@@ -381,14 +454,30 @@
     "name:kan_x_preferred":[
         "\u0c86\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0c86\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10d5\u10e1\u10e2\u10e0\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0443\u0441\u0442\u0440\u0438\u044f"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+        "\u0410\u0443\u0441\u0442\u0440\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
+    ],
     "name:kbd_x_preferred":[
         "\u0410\u0443\u0441\u0442\u0440\u0438\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "Otirisi"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17bc\u1791\u17d2\u179a\u17b8\u179f"
+    ],
+    "name:kik_x_preferred":[
+        "Austria"
     ],
     "name:kin_x_preferred":[
         "Ositiriya"
@@ -417,11 +506,17 @@
     "name:kur_x_preferred":[
         "Awistriya"
     ],
+    "name:kur_x_variant":[
+        "\u0646\u06d5\u0645\u0633\u0627"
+    ],
     "name:lad_x_preferred":[
         "Ostria"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec2\u0ead\u0e95\u0eb0\u0ea5\u0eb4\u0e94"
+    ],
+    "name:lao_x_variant":[
+        "\u0ead\u0ebb\u0ead\u0e94\u0eaa\u0eb0\u0ec0\u0e95\u0ebc\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Austria"
@@ -444,8 +539,14 @@
     "name:lin_x_preferred":[
         "Otrish"
     ],
+    "name:lin_x_variant":[
+        "Otilisi"
+    ],
     "name:lit_x_preferred":[
         "Austrija"
+    ],
+    "name:liv_x_preferred":[
+        "Austrij"
     ],
     "name:lmo_x_preferred":[
         "Austria"
@@ -459,20 +560,41 @@
     "name:ltz_x_preferred":[
         "\u00c9istr\u00e4ich"
     ],
+    "name:lub_x_preferred":[
+        "Otilisi"
+    ],
+    "name:lug_x_preferred":[
+        "Awusituriya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5967\u5730\u5229"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0432\u0441\u0442\u0440\u0438\u0458\u0430"
+    ],
     "name:mai_x_preferred":[
         "\u0905\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d13\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d3f\u0d2f"
     ],
+    "name:mao_x_preferred":[
+        "Ateria"
+    ],
     "name:mar_x_preferred":[
         "\u0911\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Austria"
     ],
     "name:mdf_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u0435"
     ],
     "name:mhr_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Austria"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u0458\u0430"
@@ -501,11 +623,20 @@
     "name:mya_x_preferred":[
         "\u1029\u1005\u1010\u103c\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1029\u1005\u1010\u103c\u102e\u1038\u101a\u102c\u1038"
+    ],
     "name:myv_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u062a\u0631\u06cc\u0634"
+    ],
+    "name:nah_x_preferred":[
+        "Austria"
+    ],
+    "name:nan_x_preferred":[
+        "\u00d2-t\u0113-l\u012b"
     ],
     "name:nap_x_preferred":[
         "Austria"
@@ -516,6 +647,9 @@
     "name:nav_x_preferred":[
         "\u00d3\u00f3swiya"
     ],
+    "name:nde_x_preferred":[
+        "Austria"
+    ],
     "name:nds_nld_x_preferred":[
         "Oostnriek"
     ],
@@ -525,6 +659,9 @@
     "name:nep_x_preferred":[
         "\u0905\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0905\u0937\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
+    ],
     "name:new_x_preferred":[
         "\u0905\u0938\u094d\u0924\u094d\u0930\u093f\u092f\u093e"
     ],
@@ -533,6 +670,12 @@
     ],
     "name:nno_x_preferred":[
         "Austerrike"
+    ],
+    "name:nno_x_variant":[
+        "\u00d8sterrike"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8sterrike"
     ],
     "name:nor_x_colloquial":[
         "Oesterrike",
@@ -551,8 +694,14 @@
     "name:nrm_x_preferred":[
         "Autriche"
     ],
+    "name:nso_x_preferred":[
+        "Austria"
+    ],
     "name:oci_x_preferred":[
         "\u00c0ustria"
+    ],
+    "name:olo_x_preferred":[
+        "Avstrii"
     ],
     "name:ori_x_preferred":[
         "\u0b05\u0b37\u0b4d\u0b1f\u0b4d\u0b30\u0b3f\u0b06"
@@ -581,6 +730,9 @@
     "name:pdc_x_preferred":[
         "Eestereich"
     ],
+    "name:per_x_preferred":[
+        "\u0627\u062a\u0631\u06cc\u0634"
+    ],
     "name:pfl_x_preferred":[
         "\u00d6sterreich"
     ],
@@ -608,6 +760,9 @@
     "name:pus_x_preferred":[
         "\u0627\u062a\u0631\u064a\u0634"
     ],
+    "name:pus_x_variant":[
+        "\u0627\u062a\u0631\u06cc\u0634"
+    ],
     "name:que_x_preferred":[
         "Awstiriya"
     ],
@@ -626,8 +781,17 @@
     "name:rum_x_preferred":[
         "Austria"
     ],
+    "name:run_x_preferred":[
+        "Otirishe"
+    ],
+    "name:rup_x_preferred":[
+        "Austria"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Otr\u00eesi"
     ],
     "name:sah_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
@@ -641,14 +805,23 @@
     "name:sco_x_preferred":[
         "Austrick"
     ],
+    "name:sgs_x_preferred":[
+        "Austr\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Rak\u00fasko"
     ],
+    "name:slo_x_preferred":[
+        "Rak\u00fasko"
+    ],
     "name:slv_x_preferred":[
         "Avstrija"
+    ],
+    "name:sma_x_preferred":[
+        "Luvlieriike"
     ],
     "name:sme_x_preferred":[
         "Nuortariika"
@@ -665,6 +838,9 @@
     "name:som_x_preferred":[
         "Austriya"
     ],
+    "name:som_x_variant":[
+        "Awsteriya"
+    ],
     "name:sot_x_preferred":[
         "Austria"
     ],
@@ -673,6 +849,9 @@
     ],
     "name:sqi_x_preferred":[
         "Austria"
+    ],
+    "name:sqi_x_variant":[
+        "Austri"
     ],
     "name:srd_x_preferred":[
         "\u00c0ustria"
@@ -705,6 +884,9 @@
     "name:szl_x_preferred":[
         "Austrijo"
     ],
+    "name:tah_x_preferred":[
+        "Auteteria"
+    ],
     "name:tam_x_preferred":[
         "\u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
     ],
@@ -725,6 +907,18 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f68\u0f7c\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0fb2\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a6\u1235\u1275\u122a\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbAositulia"
     ],
     "name:tpi_x_preferred":[
         "Ostria"
@@ -770,6 +964,9 @@
         "Rak\u00fasko",
         "Republika Avstrija"
     ],
+    "name:unk_x_variant":[
+        "\u00d6sterreich"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u0633\u0679\u0631\u06cc\u0627"
     ],
@@ -791,8 +988,14 @@
     "name:vol_x_preferred":[
         "L\u00f6ster\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Austria"
+    ],
     "name:war_x_preferred":[
         "Austrya"
+    ],
+    "name:wel_x_preferred":[
+        "Awstria"
     ],
     "name:wln_x_preferred":[
         "Otriche"
@@ -815,6 +1018,12 @@
     "name:yor_x_preferred":[
         "Austr\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de As\u00edt\u00edr\u00ed\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u5967\u5730\u5229"
+    ],
     "name:zea_x_preferred":[
         "Oesteriek"
     ],
@@ -825,13 +1034,17 @@
         "\u5965\u5730\u5229"
     ],
     "name:zho_x_variant":[
-        "\u5967\u5730\u5229"
+        "\u5967\u5730\u5229",
+        "\u5965\u5730\u5229"
     ],
     "name:zho_yue_x_preferred":[
         "\u5967\u5730\u5229"
     ],
     "name:zul_x_preferred":[
         "I-Ostriya"
+    ],
+    "name:zul_x_variant":[
+        "i-Austria"
     ],
     "ne:abbrev":"Aust.",
     "ne:abbrev_len":5,
@@ -911,6 +1124,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"43",
+    "statoids:ds":"A",
+    "statoids:fifa":"AUT",
+    "statoids:gaul":"18",
+    "statoids:gec":"AU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"AUT",
+    "statoids:iso_a2":"AT",
+    "statoids:iso_a3":"AUT",
+    "statoids:iso_num":"40",
+    "statoids:itu":"AUT",
+    "statoids:marc":"au",
+    "statoids:name":"Austria",
+    "statoids:wmo":"OS",
     "wk:area":83858.0,
     "wk:latitude":48.0,
     "wk:longitude":14.0,
@@ -923,19 +1151,29 @@
     "wof:concordances":{
         "dbp:id":"Austria",
         "fb:id":"m.0bmjldk",
+        "fifa:id":"AUT",
+        "fips:code":"AU",
+        "gaul:id":"18",
         "gn:id":2782113,
         "gp:id":23424750,
         "hasc:id":"AT",
+        "ioc:id":"AUT",
+        "itu:id":"AUT",
         "loc:id":"n79040121",
+        "m49:code":"040",
+        "marc:id":"au",
         "mzb:id":"austria",
+        "ne:adm0_a3":"AUT",
         "nyt:id":"66221058161318373601",
         "qs:id":1029112,
+        "uncrt:id":"A",
         "wd:id":"Q40",
-        "wk:page":"Austria"
+        "wk:page":"Austria",
+        "wmo:id":"OS"
     },
     "wof:country":"AT",
     "wof:country_alpha3":"AUT",
-    "wof:geomhash":"ea294dbd140ddb36fb0aa7ae8240c2f3",
+    "wof:geomhash":"cf2a484097d4609038081f78b4b09645",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -955,11 +1193,14 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1493230091,
+    "wof:lastmodified":1514540189,
     "wof:name":"Austria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":8572895,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"AUT",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

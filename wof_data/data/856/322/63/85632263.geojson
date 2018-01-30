@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.057113,
+    "geom:area_square_m":12547939195.650087,
     "geom:bbox":"166.522079468,-20.251249313,170.213745117,-13.071249962",
     "geom:latitude":-16.204628,
     "geom:longitude":167.703777,
     "gn:id":"",
     "gn:population":221552,
     "iso:country":"VU",
+    "itu:country_code":[
+        "678"
+    ],
     "lbl:latitude":-15.388977,
     "lbl:longitude":166.885687,
     "mps:latitude":-15.388977,
     "mps:longitude":166.885687,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
     ],
@@ -23,6 +30,9 @@
         "Vanuatu"
     ],
     "name:afr_x_preferred":[
+        "Vanuatu"
+    ],
+    "name:aka_x_preferred":[
         "Vanuatu"
     ],
     "name:als_x_preferred":[
@@ -33,6 +43,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u0648\u0627\u062a\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0627\u0646\u0648\u0622\u062a\u0648"
     ],
     "name:arg_x_preferred":[
         "Vanuatu"
@@ -49,6 +62,9 @@
     "name:bak_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
     ],
+    "name:bam_x_preferred":[
+        "Vanuwatu"
+    ],
     "name:bcl_x_preferred":[
         "Banuatu"
     ],
@@ -64,11 +80,17 @@
     "name:bis_x_preferred":[
         "Ripablik blong Vanuatu"
     ],
+    "name:bis_x_variant":[
+        "Vanuatu"
+    ],
     "name:bjn_x_preferred":[
         "Vanuatu"
     ],
     "name:bod_x_preferred":[
         "\u0f5d\u0f0b\u0f53\u0f74\u0f60\u0f0b\u0f4f\u0f74\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f5d\u0f0b\u0f53\u0f74\u0f0b\u0f68\u0f0b\u0f50\u0f74\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Vanuatu"
@@ -100,13 +122,6 @@
     "name:che_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u842c\u90a3\u675c"
-    ],
-    "name:chi_x_variant":[
-        "\u74e6\u52aa\u963f\u56fe",
-        "\u842c\u90a3\u675c"
-    ],
     "name:ckb_x_preferred":[
         "\u06a4\u0627\u0646\u0648\u0627\u062a\u0648\u0648"
     ],
@@ -118,6 +133,9 @@
     ],
     "name:cym_x_preferred":[
         "Fanwatw"
+    ],
+    "name:cym_x_variant":[
+        "Vanuatu"
     ],
     "name:dan_x_preferred":[
         "Vanuatu"
@@ -158,6 +176,9 @@
     "name:eus_x_preferred":[
         "Vanuatu"
     ],
+    "name:ewe_x_preferred":[
+        "Vanuatu nutome"
+    ],
     "name:ext_x_preferred":[
         "Vanuatu"
     ],
@@ -173,6 +194,9 @@
     "name:fra_x_preferred":[
         "Vanuatu"
     ],
+    "name:fra_x_variant":[
+        "R\u00e9publique de Vanuatu"
+    ],
     "name:fre_x_colloquial":[
         "Iles Vanuatu"
     ],
@@ -185,6 +209,9 @@
     ],
     "name:fry_x_preferred":[
         "Fan\u00fbat\u00fb"
+    ],
+    "name:ful_x_preferred":[
+        "Wanuwaatuu"
     ],
     "name:gag_x_preferred":[
         "Vanuatu"
@@ -204,11 +231,17 @@
     "name:gom_x_preferred":[
         "\u0935\u0928\u0941\u0906\u091f\u0941"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0aa8\u0ac1\u0a86\u0aa4\u0ac1"
+    ],
     "name:hak_x_preferred":[
         "Vanuatu"
     ],
     "name:hat_x_preferred":[
         "Vanwatou"
+    ],
+    "name:hau_x_preferred":[
+        "Banuwatu"
     ],
     "name:hbs_x_preferred":[
         "Vanuatu"
@@ -216,11 +249,19 @@
     "name:heb_x_preferred":[
         "\u05d5\u05e0\u05d5\u05d0\u05d8\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05d5\u05d0\u05e0\u05d5\u05d0\u05d8\u05d5",
+        "\u05d5\u05d0\u05de\u05d5\u05d8\u05d5"
+    ],
     "name:hif_x_preferred":[
         "Vanuatu"
     ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0928\u0942\u0906\u0924\u0942"
+    ],
+    "name:hin_x_variant":[
+        "\u0935\u093e\u0928\u0941\u0905\u0924\u0941",
+        "\u0935\u0928\u094d\u0935\u093e\u0924\u0941"
     ],
     "name:hrv_x_preferred":[
         "Vanuatu"
@@ -252,6 +293,9 @@
     "name:isl_x_preferred":[
         "Van\u00faat\u00fa"
     ],
+    "name:isl_x_variant":[
+        "Vanat\u00fa"
+    ],
     "name:ita_x_preferred":[
         "Vanuatu"
     ],
@@ -271,14 +315,23 @@
     "name:kaa_x_preferred":[
         "Vanuatu"
     ],
+    "name:kal_x_preferred":[
+        "Vanuatu"
+    ],
     "name:kan_x_preferred":[
         "\u0cb5\u0ca8\u0cc1\u0cb5\u0cbe\u0c9f\u0cc1"
+    ],
+    "name:kan_x_variant":[
+        "\u0cb5\u0ca8\u0ccc\u0c9f\u0cc1"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10dc\u10e3\u10d0\u10e2\u10e3"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
+    ],
+    "name:kik_x_preferred":[
+        "Vanuatu"
     ],
     "name:kin_x_preferred":[
         "Vanuwatu"
@@ -292,6 +345,12 @@
     "name:kur_x_preferred":[
         "Van\u00fbat\u00fb"
     ],
+    "name:kur_x_variant":[
+        "\u06a4\u0627\u0646\u0648\u0648\u0627\u062a\u0648\u0648"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea7\u0eb2\u0e99\u0ebb\u0ea7\u0e95\u0eb9"
+    ],
     "name:lat_x_preferred":[
         "Vanuatu"
     ],
@@ -304,6 +363,9 @@
     "name:lim_x_preferred":[
         "Vanuatu"
     ],
+    "name:lin_x_preferred":[
+        "Vanuatu"
+    ],
     "name:lit_x_preferred":[
         "Vanuatu"
     ],
@@ -313,17 +375,35 @@
     "name:ltz_x_preferred":[
         "Vanuatu"
     ],
+    "name:lub_x_preferred":[
+        "Vanuatu"
+    ],
+    "name:lug_x_preferred":[
+        "Vanawuwatu"
+    ],
     "name:mal_x_preferred":[
         "\u0d35\u0d3e\u0d28\u0d41\u0d35\u0d3e\u0d1f\u0d41"
+    ],
+    "name:mal_x_variant":[
+        "\u0d35\u0d28\u0d4d\u0d35\u0d3e\u0d24\u0d4d\u0d24\u0d41"
     ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093e\u0928\u0941\u0906\u0924\u0942"
     ],
+    "name:mar_x_variant":[
+        "\u0935\u093e\u0928\u094c\u091f\u0941"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
     ],
+    "name:mkd_x_variant":[
+        "\u0412\u0430\u043d\u0430\u0442\u0443"
+    ],
     "name:mlg_x_preferred":[
         "Vanoato"
+    ],
+    "name:mlg_x_variant":[
+        "Vanoat\u00f2"
     ],
     "name:mlt_x_preferred":[
         "Vanwatu"
@@ -346,16 +426,25 @@
     "name:nav_x_preferred":[
         "Bano\u02bc\u00e1\u00e1t\u02bcoo"
     ],
+    "name:nde_x_preferred":[
+        "Vhanuatu"
+    ],
     "name:nds_x_preferred":[
         "Vanuatu"
     ],
     "name:nep_x_preferred":[
         "\u092d\u093e\u0928\u0941\u0905\u091f\u0941"
     ],
+    "name:nep_x_variant":[
+        "\u092d\u093e\u0928\u0941\u0906\u0924\u0941"
+    ],
     "name:nld_x_preferred":[
         "Vanuatu"
     ],
     "name:nno_x_preferred":[
+        "Vanuatu"
+    ],
+    "name:nob_x_preferred":[
         "Vanuatu"
     ],
     "name:nor_x_preferred":[
@@ -366,6 +455,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2d\u0b3e\u0b28\u0b41\u0b06\u0b1f\u0b41"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2d\u0b3e\u0b28\u0b41\u0b06\u0b24\u0b41"
     ],
     "name:oss_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
@@ -394,6 +486,9 @@
     "name:por_x_preferred":[
         "Vanuatu"
     ],
+    "name:pus_x_preferred":[
+        "\u0648\u0646\u0648\u0627\u062a\u0648"
+    ],
     "name:que_x_preferred":[
         "Wanwatu"
     ],
@@ -403,8 +498,14 @@
     "name:ron_x_preferred":[
         "Vanuatu"
     ],
+    "name:run_x_preferred":[
+        "Vanuwatu"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
+    ],
+    "name:sag_x_preferred":[
+        "Vanuat\u00fc"
     ],
     "name:sah_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
@@ -417,6 +518,9 @@
     ],
     "name:sco_x_preferred":[
         "Vanuatu"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0db1\u0dd4\u0dc0\u0dcf\u0da7\u0dd4"
     ],
     "name:slk_x_preferred":[
         "Vanuatu"
@@ -433,6 +537,9 @@
     "name:sna_x_preferred":[
         "Vanuatu"
     ],
+    "name:som_x_preferred":[
+        "Vanuatu"
+    ],
     "name:spa_x_preferred":[
         "Vanuatu"
     ],
@@ -444,6 +551,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0430\u043d\u0430\u0442\u0443"
     ],
     "name:sun_x_preferred":[
         "Vanuatu"
@@ -469,6 +579,9 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c28\u0c3e\u0c1f\u0c41"
     ],
+    "name:tel_x_variant":[
+        "\u0c35\u0c28\u0c4c\u0c1f\u0c41"
+    ],
     "name:tgk_x_preferred":[
         "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
     ],
@@ -478,11 +591,23 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e27\u0e32\u0e19\u0e39\u0e2d\u0e32\u0e15\u0e39"
     ],
+    "name:tha_x_variant":[
+        "\u0e27\u0e32\u0e19\u0e39\u0e2d\u0e32\u0e15\u0e39"
+    ],
+    "name:tir_x_preferred":[
+        "\u126b\u1291\u12a0\u1271"
+    ],
+    "name:ton_x_preferred":[
+        "Vanuatu"
+    ],
     "name:tpi_x_preferred":[
         "Vanuatu"
     ],
     "name:tur_x_preferred":[
         "Vanuatu"
+    ],
+    "name:tur_x_variant":[
+        "Vanuatu Cumhuriyeti"
     ],
     "name:uig_x_preferred":[
         "\u06cb\u0627\u0646\u06c7\u0626\u0627\u062a\u06c7"
@@ -493,8 +618,14 @@
     "name:und_x_variant":[
         "Republika Vanuatu"
     ],
+    "name:unk_x_variant":[
+        "Condominium des Nouvelles-H\u00e9brides"
+    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06cc\u0646\u0648\u0622\u0679\u0648"
     ],
     "name:uzb_x_preferred":[
         "Vanuatu"
@@ -504,6 +635,9 @@
     ],
     "name:vie_x_preferred":[
         "Vanuatu"
+    ],
+    "name:vie_x_variant":[
+        "Va-nu-a-tu"
     ],
     "name:vol_x_preferred":[
         "Vanuatu\u00e4ns"
@@ -526,6 +660,9 @@
     "name:yor_x_preferred":[
         "Fanuatu"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Faniatu"
+    ],
     "name:zea_x_preferred":[
         "Vanuatu"
     ],
@@ -535,8 +672,15 @@
     "name:zho_x_preferred":[
         "\u74e6\u52aa\u963f\u56fe"
     ],
+    "name:zho_x_variant":[
+        "\u842c\u90a3\u675c",
+        "\u74e6\u52aa\u963f\u56fe"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6eab\u7d0d\u5716"
+    ],
+    "name:zul_x_preferred":[
+        "i-Vanuatu"
     ],
     "ne:abbrev":"Van.",
     "ne:abbrev_len":4,
@@ -615,6 +759,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"678",
+    "statoids:ds":"VU",
+    "statoids:fifa":"VAN",
+    "statoids:gaul":"262",
+    "statoids:gec":"NH",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"VAN",
+    "statoids:iso_a2":"VU",
+    "statoids:iso_a3":"VUT",
+    "statoids:iso_num":"548",
+    "statoids:itu":"VUT",
+    "statoids:marc":"nn",
+    "statoids:name":"Vanuatu",
+    "statoids:wmo":"NV",
     "wk:latitude":-16.633333,
     "wk:longitude":168.016667,
     "wk:population":252763,
@@ -627,19 +786,29 @@
     "wof:concordances":{
         "dbp:id":"Vanuatu",
         "fb:id":"en.vanuatu",
+        "fifa:id":"VAN",
+        "fips:code":"NH",
+        "gaul:id":"262",
         "gn:id":2134431,
         "gp:id":23424907,
         "hasc:id":"VU",
+        "ioc:id":"VAN",
+        "itu:id":"VUT",
         "loc:id":"n81088147",
+        "m49:code":"548",
+        "marc:id":"nn",
         "mzb:id":"vanuatu",
+        "ne:adm0_a3":"VUT",
         "nyt:id":"50596841878168377921",
         "qs:id":897039,
+        "uncrt:id":"VU",
         "wd:id":"Q686",
-        "wk:page":"Vanuatu"
+        "wk:page":"Vanuatu",
+        "wmo:id":"NV"
     },
     "wof:country":"VU",
     "wof:country_alpha3":"VUT",
-    "wof:geomhash":"c3f4f0557dbc4d49cd4b913c61fe1b3b",
+    "wof:geomhash":"7ef9c2584cf73eecb4ec2c7875c633d6",
     "wof:hierarchy":[
         {
             "continent_id":"102191583",
@@ -660,11 +829,14 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1493229904,
+    "wof:lastmodified":1509143049,
     "wof:name":"Vanuatu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":252763,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"VUT",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

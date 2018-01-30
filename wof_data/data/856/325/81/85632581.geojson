@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":88.980263,
+    "geom:area_square_m":982967118816.772217,
     "geom:bbox":"24.696775,22.0,36.24955368,31.67099",
     "geom:latitude":26.569487,
     "geom:longitude":29.77332,
     "gn:id":"",
     "gn:population":80471869,
     "iso:country":"EG",
+    "itu:country_code":[
+        "20"
+    ],
     "lbl:latitude":26.42231,
     "lbl:longitude":29.227089,
     "mps:latitude":26.42231,
     "mps:longitude":29.227089,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":6.7,
+    "mz:min_zoom":1.7,
     "name:abk_x_preferred":[
         "\u041c\u044b\u0441\u0440\u044b"
     ],
@@ -31,11 +38,17 @@
     "name:aka_x_preferred":[
         "Igyipt"
     ],
+    "name:aka_x_variant":[
+        "Nisrim"
+    ],
     "name:als_x_preferred":[
         "\u00c4gypten"
     ],
     "name:amh_x_preferred":[
         "\u130d\u1265\u1345"
+    ],
+    "name:amh_x_variant":[
+        "\u130d\u1265\u133d"
     ],
     "name:ang_x_preferred":[
         "\u00c6gypt"
@@ -43,8 +56,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0635\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0635\u0631 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "Mi\u015fr"
+    ],
     "name:arc_x_preferred":[
         "\u0721\u0728\u072a\u071d\u0722"
+    ],
+    "name:arc_x_variant":[
+        "\u0721\u0728\u072a\u0722"
     ],
     "name:arg_x_preferred":[
         "Echipto"
@@ -70,6 +90,9 @@
     "name:bam_x_preferred":[
         "Misra"
     ],
+    "name:bam_x_variant":[
+        "Eziputi"
+    ],
     "name:bar_x_preferred":[
         "Egyptn"
     ],
@@ -90,6 +113,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f60\u0f72\u0f0b\u0f45\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f72\u0f0b\u0f47\u0f72\u0f56\u0f9a\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Egipat"
@@ -124,9 +150,6 @@
     "name:che_x_preferred":[
         "\u041c\u0438\u0441\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u53ca"
-    ],
     "name:chr_x_preferred":[
         "\u13a2\u13e5\u13c8\u13a2"
     ],
@@ -157,8 +180,16 @@
     "name:dan_x_variant":[
         "\u00c6gypten"
     ],
+    "name:deu_x_colloquial":[
+        "Agypten",
+        "Arabische Republik Aegypten",
+        "Arabische Republik Agypten"
+    ],
     "name:deu_x_preferred":[
         "\u00c4gypten"
+    ],
+    "name:deu_x_variant":[
+        "Arabische Republik \u00c4gypten"
     ],
     "name:diq_x_preferred":[
         "M\u0131s\u0131r"
@@ -169,8 +200,8 @@
     "name:dsb_x_preferred":[
         "Egyptojska"
     ],
-    "name:dut_x_preferred":[
-        "Egypte"
+    "name:dzo_x_preferred":[
+        "\u0f68\u0f72\u0f0b\u0f47\u0f72\u0f54\u0f4a"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03af\u03b3\u03c5\u03c0\u03c4\u03bf\u03c2"
@@ -192,6 +223,10 @@
     "name:epo_x_preferred":[
         "Egiptio"
     ],
+    "name:epo_x_variant":[
+        "Egipto",
+        "Egiptujo"
+    ],
     "name:est_x_preferred":[
         "Egiptus"
     ],
@@ -200,6 +235,9 @@
     ],
     "name:ewe_x_preferred":[
         "Egipte"
+    ],
+    "name:ewe_x_variant":[
+        "Egypte nutome"
     ],
     "name:ext_x_preferred":[
         "Egitu"
@@ -225,9 +263,6 @@
     "name:fra_x_preferred":[
         "\u00c9gypte"
     ],
-    "name:fre_x_preferred":[
-        "\u00c9gypte"
-    ],
     "name:frp_x_preferred":[
         "\u00c8g\u00b7ipte"
     ],
@@ -236,6 +271,9 @@
     ],
     "name:fry_x_preferred":[
         "Egypte"
+    ],
+    "name:ful_x_preferred":[
+        "Ejipt"
     ],
     "name:fur_x_preferred":[
         "Egjit"
@@ -246,17 +284,6 @@
     "name:gan_x_preferred":[
         "\u57c3\u53ca"
     ],
-    "name:ger_x_colloquial":[
-        "Agypten",
-        "Arabische Republik Aegypten",
-        "Arabische Republik Agypten"
-    ],
-    "name:ger_x_preferred":[
-        "\u00c4gypten"
-    ],
-    "name:ger_x_variant":[
-        "Arabische Republik \u00c4gypten"
-    ],
     "name:gla_x_preferred":[
         "An \u00c8ipheit"
     ],
@@ -265,6 +292,9 @@
     ],
     "name:glg_x_preferred":[
         "Exipto"
+    ],
+    "name:glg_x_variant":[
+        "Exipto - \u0645\u0635\u0631"
     ],
     "name:glv_x_preferred":[
         "Yn Egypt"
@@ -287,6 +317,9 @@
     "name:hau_x_preferred":[
         "Misra"
     ],
+    "name:hau_x_variant":[
+        "Masar, Misira"
+    ],
     "name:haw_x_preferred":[
         "\u2018Aikupika"
     ],
@@ -301,6 +334,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u0938\u094d\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u093f\u0938\u094d\u0924\u094d\u0930"
     ],
     "name:hrv_x_preferred":[
         "Egipat"
@@ -325,6 +361,9 @@
     ],
     "name:ilo_x_preferred":[
         "Ehipto"
+    ],
+    "name:ilo_x_variant":[
+        "Eh\u00edpto"
     ],
     "name:ina_x_preferred":[
         "Egypto"
@@ -362,6 +401,9 @@
     "name:kal_x_preferred":[
         "Egypt"
     ],
+    "name:kal_x_variant":[
+        "Egypten"
+    ],
     "name:kan_x_preferred":[
         "\u0c88\u0c9c\u0cbf\u0caa\u0ccd\u0c9f\u0ccd"
     ],
@@ -377,8 +419,14 @@
     "name:khm_x_preferred":[
         "\u17a2\u17c1\u17a0\u17ca\u17d2\u179f\u17b8\u1794"
     ],
+    "name:khm_x_variant":[
+        "\u17a2\u17c1\u17a0\u17d2\u179f\u17c9\u17b8\u1794"
+    ],
     "name:kik_x_preferred":[
         "Egypt"
+    ],
+    "name:kik_x_variant":[
+        "Misri"
     ],
     "name:kir_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442"
@@ -395,8 +443,14 @@
     "name:kur_x_preferred":[
         "Misir"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06cc\u0633\u0631"
+    ],
     "name:lad_x_preferred":[
         "Ayifto"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0eb5\u0ea2\u0eb4\u0e9a"
     ],
     "name:lat_x_preferred":[
         "Aegyptus"
@@ -419,6 +473,9 @@
     "name:lin_x_preferred":[
         "Ejipte"
     ],
+    "name:lin_x_variant":[
+        "Ez\u00edpite"
+    ],
     "name:lit_x_preferred":[
         "Egiptas"
     ],
@@ -428,8 +485,17 @@
     "name:ltz_x_preferred":[
         "Egypten"
     ],
+    "name:lub_x_preferred":[
+        "Mushidi"
+    ],
+    "name:lug_x_preferred":[
+        "Misiri"
+    ],
     "name:mal_x_preferred":[
         "\u0d08\u0d1c\u0d3f\u0d2a\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u200c"
+    ],
+    "name:mal_x_variant":[
+        "\u0d08\u0d1c\u0d3f\u0d2a\u0d4d\u0d24\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0907\u091c\u093f\u092a\u094d\u0924"
@@ -446,6 +512,9 @@
     "name:mlg_x_preferred":[
         "Ejipta"
     ],
+    "name:mlg_x_variant":[
+        "Ejypta"
+    ],
     "name:mlt_x_preferred":[
         "E\u0121ittu"
     ],
@@ -460,6 +529,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1021\u102e\u1002\u103b\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1021\u102e\u1002\u103b\u1005\u103a"
     ],
     "name:myv_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442 \u041c\u0430\u0441\u0442\u043e\u0440"
@@ -476,6 +548,9 @@
     "name:nav_x_preferred":[
         "\u00cd\u00edjip"
     ],
+    "name:nde_x_preferred":[
+        "Egypt"
+    ],
     "name:nds_nld_x_preferred":[
         "Egypte (laand)"
     ],
@@ -485,13 +560,22 @@
     "name:nep_x_preferred":[
         "\u092e\u093f\u0936\u094d\u0930"
     ],
+    "name:nep_x_variant":[
+        "\u0907\u091c\u093f\u092a\u094d\u091f"
+    ],
     "name:new_x_preferred":[
         "\u092e\u093f\u0938\u094d\u0930"
     ],
     "name:nld_x_preferred":[
         "Egypte (land)"
     ],
+    "name:nld_x_variant":[
+        "Egypte"
+    ],
     "name:nno_x_preferred":[
+        "Egypt"
+    ],
+    "name:nob_x_preferred":[
         "Egypt"
     ],
     "name:nor_x_preferred":[
@@ -508,6 +592,9 @@
     ],
     "name:oci_x_preferred":[
         "Egipte"
+    ],
+    "name:olo_x_preferred":[
+        "Jegiptu"
     ],
     "name:ori_x_preferred":[
         "\u0b07\u0b1c\u0b3f\u0b2a\u0b4d\u0b1f"
@@ -623,6 +710,9 @@
     "name:sqi_x_preferred":[
         "Egjipti"
     ],
+    "name:sqi_x_variant":[
+        "Egjipt"
+    ],
     "name:srd_x_preferred":[
         "Egitu"
     ],
@@ -662,6 +752,9 @@
     "name:tel_x_preferred":[
         "\u0c08\u0c1c\u0c3f\u0c2a\u0c4d\u0c1f\u0c41"
     ],
+    "name:tel_x_variant":[
+        "\u0c08\u0c1c\u0c3f\u0c2a\u0c4d\u0c1f\u0c4d"
+    ],
     "name:tet_x_preferred":[
         "Ejitu"
     ],
@@ -673,6 +766,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e35\u0e22\u0e34\u0e1b\u0e15\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e35\u0e22\u0e34\u0e1b\u0e15\u0e4c"
+    ],
+    "name:tir_x_preferred":[
+        "\u130d\u1265\u133d"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbIsipite"
     ],
     "name:tpi_x_preferred":[
         "Ijip"
@@ -708,6 +810,9 @@
     "name:und_x_variant":[
         "Egipt",
         "Egyptaland"
+    ],
+    "name:unk_x_variant":[
+        "Jumh\u016br\u012byat Mi\u015fr al \u2018Arab\u012byah"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0635\u0631"
@@ -754,6 +859,9 @@
     "name:yor_x_preferred":[
         "\u1eb8\u0301g\u00edpt\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u00c9g\u00edp\u00edt\u00ec"
+    ],
     "name:zea_x_preferred":[
         "Ehypte"
     ],
@@ -774,6 +882,9 @@
     ],
     "name:zul_x_preferred":[
         "IGibhithe"
+    ],
+    "name:zul_x_variant":[
+        "i-Egypt"
     ],
     "ne:abbrev":"Egypt",
     "ne:abbrev_len":5,
@@ -853,6 +964,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"20",
+    "statoids:ds":"ET",
+    "statoids:fifa":"EGY",
+    "statoids:gaul":"40765",
+    "statoids:gec":"EG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"EGY",
+    "statoids:iso_a2":"EG",
+    "statoids:iso_a3":"EGY",
+    "statoids:iso_num":"818",
+    "statoids:itu":"EGY",
+    "statoids:marc":"ua",
+    "statoids:name":"Egypt",
+    "statoids:wmo":"EG",
     "wk:latitude":26.0,
     "wk:longitude":29.0,
     "wk:population":82056378,
@@ -864,19 +990,29 @@
     "wof:concordances":{
         "dbp:id":"Egypt",
         "fb:id":"en.egypt",
+        "fifa:id":"EGY",
+        "fips:code":"EG",
+        "gaul:id":"40765",
         "gn:id":357994,
         "gp:id":23424802,
         "hasc:id":"EG",
+        "ioc:id":"EGY",
+        "itu:id":"EGY",
         "loc:id":"n80061791",
+        "m49:code":"818",
+        "marc:id":"ua",
         "mzb:id":"egypt",
+        "ne:adm0_a3":"EGY",
         "nyt:id":"51524845856012369921",
         "qs:id":206271,
+        "uncrt:id":"ET",
         "wd:id":"Q79",
-        "wk:page":"Egypt"
+        "wk:page":"Egypt",
+        "wmo:id":"EG"
     },
     "wof:country":"EG",
     "wof:country_alpha3":"EGY",
-    "wof:geomhash":"be32e2dd3046b4ea47ae81e5a7b6ae27",
+    "wof:geomhash":"f3e4a70bcd760e047d32b127faade2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -893,11 +1029,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1493230007,
+    "wof:lastmodified":1509142720,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":82056378,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"EGY",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

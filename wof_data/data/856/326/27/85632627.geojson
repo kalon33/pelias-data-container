@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":147.10162,
+    "geom:area_square_m":1617750967354.115967,
     "geom:bbox":"9.391466,19.5,25.14937068,33.166110996",
     "geom:latitude":27.044044,
     "geom:longitude":18.029402,
     "gn:id":"",
     "gn:population":6461454,
     "iso:country":"LY",
+    "itu:country_code":[
+        "218"
+    ],
     "lbl:latitude":26.666955,
     "lbl:longitude":18.030248,
     "mps:latitude":26.666955,
     "mps:longitude":18.030248,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Libya"
     ],
@@ -24,6 +31,9 @@
     ],
     "name:afr_x_preferred":[
         "Libi\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Libya"
     ],
     "name:als_x_preferred":[
         "Libyen"
@@ -37,8 +47,15 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u064e\u0644\u0652\u062c\u064e\u0645\u064e\u0627\u0647\u0650\u064a\u0631\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u0652\u0639\u064e\u0631\u064e\u0628\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u0644\u0650\u0651\u064a\u0628\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u0634\u064e\u0651\u0639\u0652\u0628\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u0625\u0650\u0634\u0652\u062a\u0650\u0631\u064e\u0627\u0643\u0650\u064a\u064e\u0651\u0629",
+        "L\u012bbiy\u0101"
+    ],
     "name:arc_x_preferred":[
         "\u0720\u0718\u0712\u0710"
+    ],
+    "name:arc_x_variant":[
+        "\u0720\u071d\u0712\u071d\u0710"
     ],
     "name:arg_x_preferred":[
         "Libia"
@@ -55,11 +72,17 @@
     "name:aze_x_preferred":[
         "Liviya"
     ],
+    "name:aze_x_variant":[
+        "Libya"
+    ],
     "name:bak_x_preferred":[
         "\u041b\u0438\u0432\u0438\u044f"
     ],
     "name:bam_x_preferred":[
         "Libya"
+    ],
+    "name:bam_x_variant":[
+        "Libi"
     ],
     "name:bar_x_preferred":[
         "Libyen"
@@ -71,16 +94,23 @@
         "\u041b\u0456\u0432\u0456\u044f"
     ],
     "name:bel_x_variant":[
-        "\u041b\u0456\u0431\u0456\u044f"
+        "\u041b\u0456\u0431\u0456\u044f",
+        "\u041b\u0456\u0432\u0456\u0439\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0414\u0436\u0430\u043c\u0430\u0445\u0456\u0440\u044b\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ac\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09bf\u09ac\u09bf\u09df\u09be"
     ],
     "name:bjn_x_preferred":[
         "Libya"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f72\u0f0b\u0f54\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f63\u0f72\u0f0b\u0f56\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Libija"
@@ -96,6 +126,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u0438\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u041b\u0438\u0431\u0438\u0439\u0441\u043a\u0430 \u0410\u0440\u0430\u0431\u0441\u043a\u0430 \u0414\u0436\u0430\u043c\u0430\u0445\u0438\u0440\u0438\u044f"
     ],
     "name:bxr_x_preferred":[
         "\u041b\u0438\u0432\u0438"
@@ -117,12 +150,6 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u0438\u0432\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u5229\u6bd4\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u5229\u6bd4\u4e9a"
     ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u0432\u0438"
@@ -151,6 +178,11 @@
     "name:deu_x_preferred":[
         "Libyen"
     ],
+    "name:deu_x_variant":[
+        "Libysch-Arabische Dschamahirija",
+        "Libysche Dschamahirija",
+        "Sozialistische Libysch-Arabische Volks-Dschamahirija"
+    ],
     "name:diq_x_preferred":[
         "Libya"
     ],
@@ -160,17 +192,14 @@
     "name:dsb_x_preferred":[
         "Libyska"
     ],
-    "name:dut_x_colloquial":[
-        "Libie"
-    ],
-    "name:dut_x_preferred":[
-        "Libi\u00eb"
-    ],
-    "name:dut_x_variant":[
-        "Libische Arabische Republiek"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03b2\u03cd\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b2\u03c5\u03ba\u03ae \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ae \u03a4\u03b6\u03b1\u03bc\u03b1\u03c7\u03b9\u03c1\u03af\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Great Socialist People\u2019s Libyan Arab Jamahiriya"
     ],
     "name:eng_x_preferred":[
         "Libya"
@@ -182,7 +211,8 @@
     "name:eng_x_variant":[
         "Great Socialist People's Libyan Arab Jamahirya",
         "Libyan",
-        "Libyan Arab Jamahiriya"
+        "Libyan Arab Jamahiriya",
+        "Great Socialist People\u2019s Libyan Arab Jamahiriya"
     ],
     "name:epo_x_preferred":[
         "Libio"
@@ -196,6 +226,9 @@
     "name:ewe_x_preferred":[
         "Libia"
     ],
+    "name:ewe_x_variant":[
+        "Libya nutome"
+    ],
     "name:ext_x_preferred":[
         "L\u00edbia"
     ],
@@ -205,16 +238,22 @@
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0628\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u0628\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Libya"
+    ],
+    "name:fin_x_variant":[
+        "Libyan Arab Jamahiriya"
+    ],
+    "name:fra_x_historical":[
+        "Jamahiriya arabe libyenne"
     ],
     "name:fra_x_preferred":[
         "Libye"
     ],
-    "name:fre_x_preferred":[
-        "Libye"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Jamahiriya arabe libyenne"
     ],
     "name:frp_x_preferred":[
@@ -226,16 +265,11 @@
     "name:fry_x_preferred":[
         "Lybje"
     ],
+    "name:ful_x_preferred":[
+        "Libi"
+    ],
     "name:gag_x_preferred":[
         "Liviya"
-    ],
-    "name:ger_x_preferred":[
-        "Libyen"
-    ],
-    "name:ger_x_variant":[
-        "Libysch-Arabische Dschamahirija",
-        "Libysche Dschamahirija",
-        "Sozialistische Libysch-Arabische Volks-Dschamahirija"
     ],
     "name:gla_x_preferred":[
         "Libia"
@@ -246,6 +280,9 @@
     "name:glg_x_preferred":[
         "Libia"
     ],
+    "name:glg_x_variant":[
+        "Libia - \u0644\u064a\u0628\u064a\u0627"
+    ],
     "name:glv_x_preferred":[
         "Yn Leeb"
     ],
@@ -255,6 +292,9 @@
     "name:grn_x_preferred":[
         "L\u00edvia"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abf\u0aac\u0abf\u0aaf\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Libya"
     ],
@@ -263,6 +303,9 @@
     ],
     "name:hau_x_preferred":[
         "Libya"
+    ],
+    "name:hau_x_variant":[
+        "Libiya"
     ],
     "name:hbs_x_preferred":[
         "Libija"
@@ -279,6 +322,9 @@
     "name:hrv_x_preferred":[
         "Libija"
     ],
+    "name:hrv_x_variant":[
+        "Libijska Arapska D\u017eamahirija"
+    ],
     "name:hsb_x_preferred":[
         "Libyska"
     ],
@@ -293,6 +339,9 @@
     ],
     "name:ibo_x_preferred":[
         "Libya"
+    ],
+    "name:ibo_x_variant":[
+        "Libyia"
     ],
     "name:ido_x_preferred":[
         "Libia"
@@ -309,8 +358,14 @@
     "name:ind_x_preferred":[
         "Libya"
     ],
+    "name:ind_x_variant":[
+        "Libia"
+    ],
     "name:isl_x_preferred":[
         "L\u00edb\u00fda"
+    ],
+    "name:isl_x_variant":[
+        "L\u00edb\u00eda"
     ],
     "name:ita_x_preferred":[
         "Libia"
@@ -352,6 +407,9 @@
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0432\u0438\u044f"
     ],
+    "name:khm_x_preferred":[
+        "\u179b\u17b8\u1794\u17ca\u17b8"
+    ],
     "name:kik_x_preferred":[
         "Libya"
     ],
@@ -370,8 +428,14 @@
     "name:kur_x_preferred":[
         "L\u00eebya"
     ],
+    "name:kur_x_variant":[
+        "\u0644\u06cc\u0628\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Libya"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea5\u0eb4\u0ec0\u0e9a\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Libya"
@@ -388,8 +452,14 @@
     "name:lin_x_preferred":[
         "Lib\u00eeya"
     ],
+    "name:lin_x_variant":[
+        "Lib\u00ed"
+    ],
     "name:lit_x_preferred":[
         "Libija"
+    ],
+    "name:lit_x_variant":[
+        "Libijos Did\u017eioji Liaudies Socialistin\u0117 Arab\u0173 Respublika"
     ],
     "name:lmo_x_preferred":[
         "Libia"
@@ -400,6 +470,9 @@
     "name:ltz_x_preferred":[
         "Libyen"
     ],
+    "name:lub_x_preferred":[
+        "Libi"
+    ],
     "name:lug_x_preferred":[
         "Libya"
     ],
@@ -408,6 +481,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u0940\u092c\u093f\u092f\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0932\u093f\u092c\u093f\u092f\u093e"
     ],
     "name:mdf_x_preferred":[
         "\u041b\u0438\u0432\u0438\u0435"
@@ -420,6 +496,9 @@
     ],
     "name:mlg_x_preferred":[
         "Libia"
+    ],
+    "name:mlg_x_variant":[
+        "Libya"
     ],
     "name:mlt_x_preferred":[
         "Libja"
@@ -445,6 +524,9 @@
     "name:nav_x_preferred":[
         "\u0141\u00edbya"
     ],
+    "name:nde_x_preferred":[
+        "Libhiya"
+    ],
     "name:nds_nld_x_preferred":[
         "Libi\u00eb"
     ],
@@ -457,11 +539,23 @@
     "name:new_x_preferred":[
         "\u0932\u093f\u092c\u094d\u092f\u093e"
     ],
+    "name:nld_x_colloquial":[
+        "Libie"
+    ],
     "name:nld_x_preferred":[
         "Libi\u00eb"
     ],
+    "name:nld_x_variant":[
+        "Libische Arabische Republiek"
+    ],
     "name:nno_x_preferred":[
         "Libya"
+    ],
+    "name:nob_x_preferred":[
+        "Libya"
+    ],
+    "name:nob_x_variant":[
+        "Den sosialistiske arabiske folkerepublikken Libya"
     ],
     "name:nor_x_preferred":[
         "Libya"
@@ -526,11 +620,20 @@
     "name:pus_x_preferred":[
         "\u0644\u06d0\u0628\u064a\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0644\u06cc\u0628\u06cc\u0627"
+    ],
     "name:que_x_preferred":[
         "Libya"
     ],
+    "name:roh_x_preferred":[
+        "Libia"
+    ],
     "name:ron_x_preferred":[
         "Libia"
+    ],
+    "name:ron_x_variant":[
+        "Libia, Jamahiriya Arab\u0103"
     ],
     "name:rue_x_preferred":[
         "\u041b\u0456\u0431\u0456\u044f"
@@ -540,6 +643,9 @@
     ],
     "name:rum_x_variant":[
         "Libia, Jamahiriya Arab\u0103"
+    ],
+    "name:run_x_preferred":[
+        "Libiya"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0432\u0438\u044f"
@@ -565,8 +671,14 @@
     "name:slk_x_preferred":[
         "L\u00edbya"
     ],
+    "name:slk_x_variant":[
+        "L\u00fdbijsk\u00e1 arabsk\u00e1 d\u017eamah\u00edrija"
+    ],
     "name:slv_x_preferred":[
         "Libija"
+    ],
+    "name:slv_x_variant":[
+        "Libijska arabska Jamahiriya"
     ],
     "name:sme_x_preferred":[
         "Libya"
@@ -583,6 +695,9 @@
     "name:som_x_preferred":[
         "Libiya"
     ],
+    "name:som_x_variant":[
+        "Liibiya"
+    ],
     "name:sot_x_preferred":[
         "Libya"
     ],
@@ -596,6 +711,9 @@
     ],
     "name:sqi_x_preferred":[
         "Libia"
+    ],
+    "name:sqi_x_variant":[
+        "Libi"
     ],
     "name:srd_x_preferred":[
         "L\u00ecbia"
@@ -639,8 +757,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e34\u0e40\u0e1a\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e34\u0e40\u0e1a\u0e35\u0e22"
+    ],
     "name:tir_x_preferred":[
         "\u120a\u1262\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Lipia"
     ],
     "name:tso_x_preferred":[
         "Libiya"
@@ -660,9 +784,15 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0432\u0456\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u0432\u0456\u0439\u0441\u044c\u043a\u0430 \u0410\u0440\u0430\u0431\u0441\u044c\u043a\u0430 \u0414\u0436\u0430\u043c\u0430\u0445\u0456\u0440\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Libyan Arab Jamahiria",
         "Libyan Arab Jamahirya"
+    ],
+    "name:unk_x_variant":[
+        "Al Jam\u0101h\u012br\u012byah al \u2018Arab\u012byah al L\u012bb\u012byah ash Sha\u2018b\u012byah al Ishtir\u0101k\u012byah"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0628\u06cc\u0627"
@@ -678,6 +808,10 @@
     ],
     "name:vie_x_preferred":[
         "Libya"
+    ],
+    "name:vie_x_variant":[
+        "Li-bi",
+        "Libyan Arab Jamahiriya"
     ],
     "name:vls_x_preferred":[
         "Libi\u00eb"
@@ -709,6 +843,9 @@
     "name:yor_x_preferred":[
         "L\u00edby\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Libiya"
+    ],
     "name:zea_x_preferred":[
         "Libi\u00eb"
     ],
@@ -722,13 +859,18 @@
         "\u5229\u6bd4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u5229\u6bd4\u4e9e"
+        "\u5229\u6bd4\u4e9e",
+        "\u5229\u6bd4\u4e9a",
+        "\u963f\u62c9\u4f2f\u5229\u6bd4\u4e9a\u6c11\u4f17\u56fd"
     ],
     "name:zho_yue_x_preferred":[
         "\u5229\u6bd4\u4e9e"
     ],
     "name:zul_x_preferred":[
         "ILibiya"
+    ],
+    "name:zul_x_variant":[
+        "i-Libya"
     ],
     "ne:abbrev":"Libya",
     "ne:abbrev_len":5,
@@ -808,6 +950,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"218",
+    "statoids:ds":"LAR",
+    "statoids:fifa":"LBY",
+    "statoids:gaul":"145",
+    "statoids:gec":"LY",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"LBA",
+    "statoids:iso_a2":"LY",
+    "statoids:iso_a3":"LBY",
+    "statoids:iso_num":"434",
+    "statoids:itu":"LBY",
+    "statoids:marc":"ly",
+    "statoids:name":"Libya",
+    "statoids:wmo":"LY",
     "wk:latitude":27.0,
     "wk:longitude":17.0,
     "wk:population":6201521,
@@ -819,19 +976,29 @@
     "wof:concordances":{
         "dbp:id":"Libya",
         "fb:id":"en.libya",
+        "fifa:id":"LBY",
+        "fips:code":"LY",
+        "gaul:id":"145",
         "gn:id":2215636,
         "gp:id":23424882,
         "hasc:id":"LY",
+        "ioc:id":"LBA",
+        "itu:id":"LBY",
         "loc:id":"n79066419",
+        "m49:code":"434",
+        "marc:id":"ly",
         "mzb:id":"libya",
+        "ne:adm0_a3":"LBY",
         "nyt:id":"66285699086722007041",
         "qs:id":1289465,
+        "uncrt:id":"LAR",
         "wd:id":"Q1016",
-        "wk:page":"Libya"
+        "wk:page":"Libya",
+        "wmo:id":"LY"
     },
     "wof:country":"LY",
     "wof:country_alpha3":"LBY",
-    "wof:geomhash":"73429d41428fce4407c161166848734f",
+    "wof:geomhash":"1a9ce0de6f2496d064df5c141583dbff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -848,11 +1015,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1493230015,
+    "wof:lastmodified":1509142796,
     "wof:name":"Libya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":6201521,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"LBY",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

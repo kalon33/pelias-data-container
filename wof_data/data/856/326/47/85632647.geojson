@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.669362,
+    "geom:area_square_m":57082979981.718597,
     "geom:bbox":"-0.144042,6.11228345355,1.80905,11.139552264",
     "geom:latitude":8.53181,
     "geom:longitude":0.978788,
     "gn:id":"",
     "gn:population":6587239,
     "iso:country":"TG",
+    "itu:country_code":[
+        "228"
+    ],
     "lbl:latitude":8.846267,
     "lbl:longitude":1.073832,
     "mps:latitude":8.846267,
     "mps:longitude":1.073832,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Togo"
     ],
@@ -34,8 +41,14 @@
     "name:amh_x_preferred":[
         "\u1276\u130e"
     ],
+    "name:amh_x_variant":[
+        "\u1276\u1310"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u063a\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u062c\u0648"
     ],
     "name:arg_x_preferred":[
         "Togo"
@@ -45,6 +58,9 @@
     ],
     "name:ast_x_preferred":[
         "Togo"
+    ],
+    "name:ast_x_variant":[
+        "Togu"
     ],
     "name:aze_x_preferred":[
         "Toqo"
@@ -103,9 +119,6 @@
     "name:che_x_preferred":[
         "\u0422\u043e\u0433\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u54e5"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u043e\u0433\u043e"
     ],
@@ -139,16 +152,22 @@
     "name:ell_x_preferred":[
         "\u03a4\u03cc\u03b3\u03ba\u03bf"
     ],
+    "name:eng_x_preferred":[
+        "Togo"
+    ],
     "name:eng_x_unknown":[
         "TG",
         "TGO"
     ],
     "name:eng_x_variant":[
-        "Togo",
-        "Togolese"
+        "Togolese",
+        "Togolese Republic"
     ],
     "name:epo_x_preferred":[
         "Togolando"
+    ],
+    "name:epo_x_variant":[
+        "Togolo"
     ],
     "name:est_x_preferred":[
         "Togo"
@@ -158,6 +177,9 @@
     ],
     "name:ewe_x_preferred":[
         "Togo"
+    ],
+    "name:ewe_x_variant":[
+        "Togo nutome"
     ],
     "name:ext_x_preferred":[
         "Togu"
@@ -174,8 +196,8 @@
     "name:fra_x_preferred":[
         "Togo"
     ],
-    "name:fre_x_preferred":[
-        "Togo"
+    "name:fra_x_variant":[
+        "R\u00e9publique Togolaise"
     ],
     "name:frp_x_preferred":[
         "Tog\u00f4"
@@ -185,6 +207,9 @@
     ],
     "name:ful_x_preferred":[
         "Togo"
+    ],
+    "name:ful_x_variant":[
+        "Togoo"
     ],
     "name:gag_x_preferred":[
         "Togo"
@@ -252,6 +277,9 @@
     "name:ilo_x_preferred":[
         "Togo"
     ],
+    "name:ina_x_preferred":[
+        "Togo"
+    ],
     "name:ind_x_preferred":[
         "Togo"
     ],
@@ -279,14 +307,29 @@
     "name:kab_x_preferred":[
         "Togo"
     ],
+    "name:kal_x_preferred":[
+        "Togo"
+    ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cca\u0c97\u0cca"
+    ],
+    "name:kan_x_variant":[
+        "\u0c9f\u0ccb\u0c97\u0ccb"
+    ],
+    "name:kas_x_preferred":[
+        "\u091f\u094b\u0917\u094b"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10d2\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u043e\u0433\u043e"
+    ],
+    "name:khm_x_preferred":[
+        "\u178f\u17bc\u17a0\u17d2\u1782\u17bc"
+    ],
+    "name:kik_x_preferred":[
+        "Togo"
     ],
     "name:kin_x_preferred":[
         "Togo"
@@ -300,8 +343,14 @@
     "name:kur_x_preferred":[
         "Togo"
     ],
+    "name:kur_x_variant":[
+        "\u062a\u06c6\u06af\u06c6"
+    ],
     "name:lad_x_preferred":[
         "Togo"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec2\u0e95\u0ec2\u0e81"
     ],
     "name:lat_x_preferred":[
         "Togum"
@@ -326,6 +375,9 @@
     ],
     "name:ltz_x_preferred":[
         "Togo"
+    ],
+    "name:lub_x_preferred":[
+        "Togu"
     ],
     "name:lug_x_preferred":[
         "Togo"
@@ -363,6 +415,9 @@
     "name:nav_x_preferred":[
         "T\u02bc\u00f3ogo"
     ],
+    "name:nde_x_preferred":[
+        "Thogo"
+    ],
     "name:nds_nld_x_preferred":[
         "Togo"
     ],
@@ -379,6 +434,9 @@
         "Togo"
     ],
     "name:nno_x_preferred":[
+        "Togo"
+    ],
+    "name:nob_x_preferred":[
         "Togo"
     ],
     "name:nor_x_preferred":[
@@ -435,6 +493,9 @@
     "name:ron_x_preferred":[
         "Togo"
     ],
+    "name:run_x_preferred":[
+        "Togo"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0433\u043e"
     ],
@@ -465,6 +526,9 @@
     "name:sme_x_preferred":[
         "Togo"
     ],
+    "name:sme_x_variant":[
+        "Toge"
+    ],
     "name:sna_x_preferred":[
         "Togo"
     ],
@@ -473,6 +537,9 @@
     ],
     "name:som_x_preferred":[
         "Togo"
+    ],
+    "name:som_x_variant":[
+        "Toogo"
     ],
     "name:sot_x_preferred":[
         "Togo"
@@ -513,6 +580,9 @@
     "name:tat_x_preferred":[
         "\u0422\u043e\u0433\u043e"
     ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4b\u0c17\u0c4b"
+    ],
     "name:tgk_x_preferred":[
         "\u0422\u043e\u0433\u043e"
     ],
@@ -522,8 +592,18 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e15\u0e42\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e15\u0e42\u0e01",
+        "\u0e42\u0e17\u0e42\u0e01"
+    ],
     "name:tir_x_preferred":[
         "\u1276\u130e"
+    ],
+    "name:tir_x_variant":[
+        "\u1276\u1310"
+    ],
+    "name:ton_x_preferred":[
+        "Toko"
     ],
     "name:tso_x_preferred":[
         "Togo"
@@ -543,8 +623,14 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0433\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u0491\u043e"
+    ],
     "name:und_x_preferred":[
         "Togolese Republic"
+    ],
+    "name:unk_x_variant":[
+        "Republic of Togo"
     ],
     "name:urd_x_preferred":[
         "\u0679\u0648\u06af\u0648"
@@ -560,6 +646,9 @@
     ],
     "name:vie_x_preferred":[
         "Togo"
+    ],
+    "name:vie_x_variant":[
+        "T\u00f4-g\u00f4"
     ],
     "name:vol_x_preferred":[
         "Togo\u00e4n"
@@ -582,6 +671,9 @@
     "name:yor_x_preferred":[
         "T\u00f3g\u00f2"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Togo"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Togo"
     ],
@@ -593,6 +685,9 @@
     ],
     "name:zul_x_preferred":[
         "ITogo"
+    ],
+    "name:zul_x_variant":[
+        "i-Togo"
     ],
     "ne:abbrev":"Togo",
     "ne:abbrev_len":4,
@@ -672,6 +767,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"228",
+    "statoids:ds":"TG",
+    "statoids:fifa":"TOG",
+    "statoids:gaul":"243",
+    "statoids:gec":"TO",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"TOG",
+    "statoids:iso_a2":"TG",
+    "statoids:iso_a3":"TGO",
+    "statoids:iso_num":"768",
+    "statoids:itu":"TGO",
+    "statoids:marc":"tg",
+    "statoids:name":"Togo",
+    "statoids:wmo":"TG",
     "wk:area":56785.0,
     "wk:latitude":8.25,
     "wk:longitude":1.183333,
@@ -684,19 +794,29 @@
     "wof:concordances":{
         "dbp:id":"Togo",
         "fb:id":"en.togo",
+        "fifa:id":"TOG",
+        "fips:code":"TO",
+        "gaul:id":"243",
         "gn:id":2363686,
         "gp:id":23424965,
         "hasc:id":"TG",
+        "ioc:id":"TOG",
+        "itu:id":"TGO",
         "loc:id":"n80061115",
+        "m49:code":"768",
+        "marc:id":"tg",
         "mzb:id":"togo",
+        "ne:adm0_a3":"TGO",
         "nyt:id":"60388387872183418881",
         "qs:id":1136120,
+        "uncrt:id":"TG",
         "wd:id":"Q945",
-        "wk:page":"Togo"
+        "wk:page":"Togo",
+        "wmo:id":"TG"
     },
     "wof:country":"TG",
     "wof:country_alpha3":"TGO",
-    "wof:geomhash":"7e19b6c64d9b4fe927fdfefc2ce50cb0",
+    "wof:geomhash":"7cf9d426abac5e47c65c89f6aa48e2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -713,11 +833,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493230021,
+    "wof:lastmodified":1509143037,
     "wof:name":"Togo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":6816982,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"TGO",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

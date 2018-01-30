@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":174.202021,
+    "geom:area_square_m":1962377743910.086914,
     "geom:bbox":"-118.368804,14.546283,-86.700592,32.712836",
     "geom:latitude":23.949171,
     "geom:longitude":-102.530308,
     "gn:population":112468855,
     "iso:country":"MX",
+    "itu:country_code":[
+        "52"
+    ],
     "lbl:latitude":23.920061,
     "lbl:longitude":-102.289691,
     "mps:latitude":23.920061,
     "mps:longitude":-102.289691,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":6.7,
+    "mz:min_zoom":1.7,
     "name:ace_x_preferred":[
         "Meksiko"
     ],
@@ -23,6 +30,9 @@
     ],
     "name:afr_x_preferred":[
         "Meksiko"
+    ],
+    "name:aka_x_preferred":[
+        "M\u025bksiko"
     ],
     "name:als_x_preferred":[
         "Mexiko"
@@ -63,6 +73,9 @@
     "name:bam_x_preferred":[
         "M\u025bkisiki"
     ],
+    "name:bam_x_variant":[
+        "Meksiki"
+    ],
     "name:bar_x_preferred":[
         "Mexiko"
     ],
@@ -78,11 +91,20 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u0995\u09cd\u09b8\u09bf\u0995\u09cb"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u0995\u09cd\u09b8\u09bf\u0995\u09cb"
+    ],
+    "name:bih_x_preferred":[
+        "\u092e\u0948\u0915\u094d\u0938\u093f\u0915\u094b"
+    ],
     "name:bis_x_preferred":[
         "Mexico"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f7a\u0f42\u0f0b\u0f66\u0f72\u0f0b\u0f40\u0f7c\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f7a\u0f40\u0f0b\u0f66\u0f72\u0f0b\u0f40\u0f7c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Meksiko"
@@ -93,11 +115,18 @@
     "name:bre_x_preferred":[
         "Mec'hiko"
     ],
+    "name:bre_x_variant":[
+        "Mechiko",
+        "Mec\u02bchiko"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u043e"
     ],
     "name:bxr_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u044d"
+    ],
+    "name:bxr_x_variant":[
+        "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
     ],
     "name:cat_x_preferred":[
         "M\u00e8xic"
@@ -117,14 +146,17 @@
     "name:che_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u58a8\u897f\u54e5"
+    "name:chr_x_preferred":[
+        "\u13ba\u13cf\u13aa"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
     ],
     "name:chy_x_preferred":[
         "M\u00e9'\u0161ees\u00e9ve'ho'\u00e9ven\u00f3"
+    ],
+    "name:chy_x_variant":[
+        "M\u00e9\u0161ees\u00e9veho\u00e9ven\u00f3"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u06a9\u0633\u06cc\u06a9"
@@ -144,6 +176,9 @@
     "name:cym_x_preferred":[
         "Mecsico"
     ],
+    "name:cym_x_variant":[
+        "M\u00e9xico"
+    ],
     "name:cze_x_preferred":[
         "Mexiko"
     ],
@@ -152,6 +187,9 @@
     ],
     "name:deu_x_preferred":[
         "Mexiko"
+    ],
+    "name:deu_x_variant":[
+        "Vereinigte Mexikanische Staaten"
     ],
     "name:diq_x_preferred":[
         "Meksika"
@@ -162,11 +200,11 @@
     "name:dsb_x_preferred":[
         "Mexiko"
     ],
-    "name:dut_x_preferred":[
-        "Mexico"
-    ],
     "name:dzo_x_preferred":[
         "\u0f58\u0f7a\u0f40\u0f0b\u0f66\u0f72\u0f0b\u0f40\u0f7c"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f58\u0f7a\u0f40\u0f66\u0f72\u0f0b\u0f40\u0f7c"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03be\u03b9\u03ba\u03cc"
@@ -195,6 +233,9 @@
     "name:ewe_x_preferred":[
         "Mexico"
     ],
+    "name:ewe_x_variant":[
+        "Meksico nutome"
+    ],
     "name:ext_x_preferred":[
         "M\u00e9jicu"
     ],
@@ -210,9 +251,6 @@
     "name:fra_x_preferred":[
         "Mexique"
     ],
-    "name:fre_x_preferred":[
-        "Mexique"
-    ],
     "name:frp_x_preferred":[
         "Mexique"
     ],
@@ -222,6 +260,9 @@
     "name:fry_x_preferred":[
         "Meksiko"
     ],
+    "name:ful_x_preferred":[
+        "Meksik"
+    ],
     "name:fur_x_preferred":[
         "Messic"
     ],
@@ -230,12 +271,6 @@
     ],
     "name:gan_x_preferred":[
         "\u58a8\u897f\u54e5"
-    ],
-    "name:ger_x_preferred":[
-        "Mexiko"
-    ],
-    "name:ger_x_variant":[
-        "Vereinigte Mexikanische Staaten"
     ],
     "name:gla_x_preferred":[
         "Meagsago"
@@ -266,6 +301,9 @@
     ],
     "name:hat_x_preferred":[
         "Meksik"
+    ],
+    "name:hau_x_preferred":[
+        "Makasiko"
     ],
     "name:haw_x_preferred":[
         "Mekiko"
@@ -312,6 +350,9 @@
     "name:ind_x_preferred":[
         "Meksiko"
     ],
+    "name:ind_x_variant":[
+        "Mexico"
+    ],
     "name:ipk_x_preferred":[
         "Mexiqo"
     ],
@@ -330,6 +371,9 @@
     "name:jbo_x_preferred":[
         "mexygu'e"
     ],
+    "name:jbo_x_variant":[
+        "mexygue"
+    ],
     "name:jpn_x_preferred":[
         "\u30e1\u30ad\u30b7\u30b3"
     ],
@@ -345,8 +389,14 @@
     "name:kal_x_preferred":[
         "Mexico"
     ],
+    "name:kal_x_variant":[
+        "Mexiko"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc6\u0c95\u0ccd\u0cb8\u0cbf\u0c95\u0ccb"
+    ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cc6\u0c95\u0ccd\u0cb8\u0cbf\u0c95\u0cca"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e5\u10e1\u10d8\u10d9\u10d0"
@@ -359,6 +409,12 @@
     ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17b7\u1780\u179f\u17ca\u17b7\u1780"
+    ],
+    "name:khm_x_variant":[
+        "\u1798\u17c9\u17b7\u1785\u179f\u17b7\u1780"
+    ],
+    "name:kik_x_preferred":[
+        "Meksiko"
     ],
     "name:kin_x_preferred":[
         "Megizike"
@@ -378,11 +434,17 @@
     "name:kur_x_preferred":[
         "Meks\u00eek"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06d5\u06a9\u0633\u06cc\u06a9"
+    ],
     "name:lad_x_preferred":[
         "Meshiko"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec0\u0ea1\u0eb1\u0e81\u0e8a\u0eb4\u0e81"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec1\u0ea1\u0eb1\u0e81\u0e8a\u0eb4\u0ec2\u0e81"
     ],
     "name:lat_x_preferred":[
         "Mexicum"
@@ -402,6 +464,9 @@
     "name:lin_x_preferred":[
         "Mexiko"
     ],
+    "name:lin_x_variant":[
+        "Meksike"
+    ],
     "name:lit_x_preferred":[
         "Meksika"
     ],
@@ -417,8 +482,20 @@
     "name:ltz_x_preferred":[
         "Mexiko"
     ],
+    "name:lub_x_preferred":[
+        "Meksike"
+    ],
+    "name:lug_x_preferred":[
+        "Mekisiko"
+    ],
+    "name:lzh_x_preferred":[
+        "\u58a8\u897f\u54e5"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d46\u0d15\u0d4d\u0d38\u0d3f\u0d15\u0d4d\u0d15\u0d4b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d47\u0d15\u0d4d\u0d38\u0d3f\u0d15\u0d4d\u0d15\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b"
@@ -453,14 +530,26 @@
     "name:msa_x_preferred":[
         "Mexico"
     ],
+    "name:msa_x_variant":[
+        "Meksiko"
+    ],
     "name:mwl_x_preferred":[
         "M\u00e9xico"
     ],
     "name:mya_x_preferred":[
         "\u1019\u1000\u1039\u1000\u1006\u102e\u1000\u102d\u102f\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u1000\u1039\u1000\u1006\u102e\u1000\u102d\u102f"
+    ],
     "name:mzn_x_preferred":[
         "\u0645\u06a9\u0632\u06cc\u06a9"
+    ],
+    "name:nah_x_preferred":[
+        "Mexihco"
+    ],
+    "name:nan_x_preferred":[
+        "Be\u030dk-se-ko"
     ],
     "name:nap_x_preferred":[
         "Messeco"
@@ -470,6 +559,9 @@
     ],
     "name:nav_x_preferred":[
         "M\u00e9higo"
+    ],
+    "name:nde_x_preferred":[
+        "Meksikho"
     ],
     "name:nds_nld_x_preferred":[
         "Mexico (laand)"
@@ -486,7 +578,13 @@
     "name:nld_x_preferred":[
         "Mexico (land)"
     ],
+    "name:nld_x_variant":[
+        "Mexico"
+    ],
     "name:nno_x_preferred":[
+        "Mexico"
+    ],
+    "name:nob_x_preferred":[
         "Mexico"
     ],
     "name:nor_x_preferred":[
@@ -570,8 +668,14 @@
     "name:rum_x_preferred":[
         "Mexic"
     ],
+    "name:run_x_preferred":[
+        "Migizike"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Mekis\u00eeki"
     ],
     "name:sah_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
@@ -585,8 +689,17 @@
     "name:sco_x_preferred":[
         "Mexico"
     ],
+    "name:sgs_x_preferred":[
+        "Meks\u0117ka"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd9\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0ddd\u0dc0"
+    ],
     "name:slk_x_preferred":[
         "Mexiko"
+    ],
+    "name:slk_x_variant":[
+        "Maxiko"
     ],
     "name:slv_x_preferred":[
         "Mehika"
@@ -616,6 +729,9 @@
     "name:sqi_x_preferred":[
         "Meksika"
     ],
+    "name:sqi_x_variant":[
+        "Meksik\u00eb"
+    ],
     "name:srd_x_preferred":[
         "Messicu"
     ],
@@ -637,6 +753,9 @@
     "name:swa_x_preferred":[
         "Mexiko"
     ],
+    "name:swa_x_variant":[
+        "Meksiko"
+    ],
     "name:swe_x_preferred":[
         "Mexiko"
     ],
@@ -645,6 +764,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc6\u0b95\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc6\u0b95\u0bcd\u0b9a\u0bbf\u0b95\u0bcb"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
@@ -663,6 +785,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01"
+    ],
+    "name:tir_x_preferred":[
+        "\u121c\u12ad\u1232\u12ae"
+    ],
+    "name:ton_x_preferred":[
+        "Mekisikou"
     ],
     "name:tpi_x_preferred":[
         "Meksiko"
@@ -694,6 +825,9 @@
         "Meksiko",
         "United Mexican States"
     ],
+    "name:unk_x_variant":[
+        "Mexiko"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"
     ],
@@ -708,6 +842,10 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e9xico"
+    ],
+    "name:vie_x_variant":[
+        "M\u00ea-hi-c\u00f4",
+        "M\u1ec5 T\u00e2y C\u01a1 (M\u00ea-hi-c\u00f4)"
     ],
     "name:vls_x_preferred":[
         "Mexico"
@@ -736,6 +874,12 @@
     "name:yor_x_preferred":[
         "M\u1eb9\u0301ks\u00edk\u00f2"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Mesiko"
+    ],
+    "name:yue_x_preferred":[
+        "\u58a8\u897f\u54e5"
+    ],
     "name:zea_x_preferred":[
         "Mexico"
     ],
@@ -756,6 +900,9 @@
     ],
     "name:zul_x_preferred":[
         "IMekisiko"
+    ],
+    "name:zul_x_variant":[
+        "i-Mexico"
     ],
     "ne:abbrev":"Mex.",
     "ne:abbrev_len":4,
@@ -828,11 +975,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"Mexico IGN",
+    "reversegeo:geometry":"85633293-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"52",
+    "statoids:ds":"MEX",
+    "statoids:fifa":"MEX",
+    "statoids:gaul":"162",
+    "statoids:gec":"MX",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MEX",
+    "statoids:iso_a2":"MX",
+    "statoids:iso_a3":"MEX",
+    "statoids:iso_num":"484",
+    "statoids:itu":"MEX",
+    "statoids:marc":"mx",
+    "statoids:name":"Mexico",
+    "statoids:wmo":"MX",
     "wk:latitude":23.316667,
     "wk:longitude":-102.366667,
     "wk:population":120286655,
@@ -844,19 +1008,29 @@
     "wof:concordances":{
         "dbp:id":"Mexico",
         "fb:id":"en.mexico",
+        "fifa:id":"MEX",
+        "fips:code":"MX",
+        "gaul:id":"162",
         "gn:id":3996063,
         "gp:id":23424900,
         "hasc:id":"MX",
+        "ioc:id":"MEX",
+        "itu:id":"MEX",
         "loc:id":"n81013960",
+        "m49:code":"484",
+        "marc:id":"mx",
         "mzb:id":"mexico",
+        "ne:adm0_a3":"MEX",
         "nyt:id":"60372231713334845441",
         "qs:id":1032367,
+        "uncrt:id":"MEX",
         "wd:id":"Q96",
-        "wk:page":"Mexico"
+        "wk:page":"Mexico",
+        "wmo:id":"MX"
     },
     "wof:country":"MX",
     "wof:country_alpha3":"MEX",
-    "wof:geomhash":"30c43eb4561d42e3ecd394cee5dd7a96",
+    "wof:geomhash":"f38baabdac176aa7291d4a836f40eb4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -873,11 +1047,14 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1493230205,
+    "wof:lastmodified":1509142802,
     "wof:name":"Mexico",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":120286655,
+    "wof:population_rank":17,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MEX",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

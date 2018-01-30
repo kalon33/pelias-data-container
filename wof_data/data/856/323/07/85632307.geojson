@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":329.333981,
+    "geom:area_square_m":2712265276514.634766,
     "geom:bbox":"46.493672,40.568584,87.3153995,55.441984",
     "geom:latitude":48.164713,
     "geom:longitude":67.270657,
     "gn:population":15340000,
     "gp:id":0,
     "iso:country":"KZ",
+    "itu:country_code":[
+        "7"
+    ],
     "lbl:latitude":48.401963,
     "lbl:longitude":69.258345,
     "mps:latitude":48.401963,
     "mps:longitude":69.258345,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:abk_x_preferred":[
         "\u049e\u0430\u0437\u0430\u049f\u0441\u04ad\u0430\u043d"
     ],
@@ -28,14 +35,23 @@
     "name:afr_x_preferred":[
         "Kasakstan"
     ],
+    "name:aka_x_preferred":[
+        "Kazakstan"
+    ],
     "name:als_x_preferred":[
         "Kasachstan"
     ],
     "name:amh_x_preferred":[
         "\u12ab\u12db\u12ad\u1235\u1273\u1295"
     ],
+    "name:amh_x_variant":[
+        "\u12ab\u12db\u12aa\u1235\u1273\u1295"
+    ],
     "name:ang_x_preferred":[
         "Casahstan"
+    ],
+    "name:ang_x_variant":[
+        "Casacstan"
     ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646"
@@ -46,6 +62,9 @@
     "name:arg_x_preferred":[
         "Cazaquist\u00e1n"
     ],
+    "name:arg_x_variant":[
+        "Kasajst\u00e1n"
+    ],
     "name:arz_x_preferred":[
         "\u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646"
     ],
@@ -54,6 +73,9 @@
     ],
     "name:ast_x_preferred":[
         "Kazakhst\u00e1n"
+    ],
+    "name:ast_x_variant":[
+        "Kazakhist\u00e1n"
     ],
     "name:ava_x_preferred":[
         "\u0425\u044a\u0430\u0437\u0430\u0445\u044a\u0438\u0441\u0442\u0430\u043d"
@@ -64,8 +86,14 @@
     "name:aze_x_preferred":[
         "Qazax\u0131stan"
     ],
+    "name:aze_x_variant":[
+        "Kazaxstan"
+    ],
     "name:bak_x_preferred":[
         "\u04a0\u0430\u0499\u0430\u0493\u0441\u0442\u0430\u043d"
+    ],
+    "name:bam_x_preferred":[
+        "Kazakista\u014b"
     ],
     "name:bar_x_preferred":[
         "Kasachstan"
@@ -82,6 +110,10 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u099c\u09be\u0996\u09b8\u09cd\u09a4\u09be\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09be\u099c\u09be\u0995\u09b8\u09cd\u09a5\u09be\u09a8",
+        "\u0995\u09be\u099c\u09be\u0996\u09be\u09b8\u09cd\u09a4\u09be\u09a8"
+    ],
     "name:bis_x_preferred":[
         "Kazakhstan"
     ],
@@ -91,6 +123,9 @@
     "name:bod_x_preferred":[
         "\u0f40\u0f5b\u0f0b\u0f40\u0f72\u0f66\u0f74\u0f0b\u0f42\u0f4f\u0f53\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f41\u0f0b\u0f5b\u0f71\u0f42\u0f0b\u0f66\u0f9f\u0f71\u0f53\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Kazahstan"
     ],
@@ -99,6 +134,9 @@
     ],
     "name:bre_x_preferred":[
         "Kazakstan"
+    ],
+    "name:bre_x_variant":[
+        "Kazac'hstan"
     ],
     "name:bug_x_preferred":[
         "Kazakhstan"
@@ -124,12 +162,6 @@
     "name:che_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u85a9\u514b"
-    ],
-    "name:chi_x_variant":[
-        "\u54c8\u8428\u514b\u65af\u5766"
-    ],
     "name:chr_x_preferred":[
         "\u13a7\u13ce\u13a7\u13cd\u13d5\u13c2"
     ],
@@ -145,6 +177,9 @@
     "name:cor_x_preferred":[
         "Pow Kazagh"
     ],
+    "name:cor_x_variant":[
+        "Pow Kasagh"
+    ],
     "name:crh_x_preferred":[
         "Qazahistan"
     ],
@@ -153,6 +188,10 @@
     ],
     "name:cym_x_preferred":[
         "Casachstan"
+    ],
+    "name:cym_x_variant":[
+        "Kazakhstan",
+        "Kazakstan"
     ],
     "name:cze_x_preferred":[
         "Kazachst\u00e1n"
@@ -163,6 +202,9 @@
     "name:deu_x_preferred":[
         "Kasachstan"
     ],
+    "name:deu_x_variant":[
+        "Republik Kasachstan"
+    ],
     "name:diq_x_preferred":[
         "Qazax\u0131stan"
     ],
@@ -170,9 +212,6 @@
         "\u0786\u07a6\u0792\u07a6\u0786\u07a8\u0790\u07b0\u078c\u07a7\u0782\u07b0"
     ],
     "name:dsb_x_preferred":[
-        "Kazachstan"
-    ],
-    "name:dut_x_preferred":[
         "Kazachstan"
     ],
     "name:ell_x_preferred":[
@@ -193,6 +232,9 @@
     "name:epo_x_preferred":[
         "Kaza\u0125io"
     ],
+    "name:epo_x_variant":[
+        "Kaza\u0125stano"
+    ],
     "name:est_x_preferred":[
         "Kasahstan"
     ],
@@ -201,6 +243,9 @@
     ],
     "name:ewe_x_preferred":[
         "Kazakhstan"
+    ],
+    "name:ewe_x_variant":[
+        "Kazakstan nutome"
     ],
     "name:ext_x_preferred":[
         "Cazast\u00e1n"
@@ -226,23 +271,30 @@
     "name:fry_x_preferred":[
         "Kazachstan"
     ],
+    "name:fry_x_variant":[
+        "Kazakstan"
+    ],
+    "name:ful_x_preferred":[
+        "Kasakstaan"
+    ],
     "name:gag_x_preferred":[
         "Kazahstan"
     ],
-    "name:ger_x_preferred":[
-        "Kasachstan"
-    ],
-    "name:ger_x_variant":[
-        "Republik Kasachstan"
-    ],
     "name:gla_x_preferred":[
         "Casachst\u00e0n"
+    ],
+    "name:gla_x_variant":[
+        "Kazakhstan"
     ],
     "name:gle_x_preferred":[
         "An Chasacst\u00e1in"
     ],
     "name:glg_x_preferred":[
         "Casaquist\u00e1n"
+    ],
+    "name:glg_x_variant":[
+        "Casaquist\u00e1n - \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+        "Kazakhstan"
     ],
     "name:glv_x_preferred":[
         "Yn Chassaghstaan"
@@ -265,6 +317,9 @@
     "name:hau_x_preferred":[
         "Kazakystan"
     ],
+    "name:hau_x_variant":[
+        "Kazakistan"
+    ],
     "name:haw_x_preferred":[
         "Kasakana"
     ],
@@ -274,14 +329,26 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d6\u05d7\u05e1\u05d8\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d6\u05d0\u05d7\u05e1\u05d8\u05d0\u05df",
+        "\u05e7\u05d6\u05d7\u05e1\u05d8\u05d0\u05df"
+    ],
     "name:hif_x_preferred":[
         "Kazakhstan"
     ],
     "name:hin_x_preferred":[
         "\u0915\u091c\u093c\u093e\u0916\u093c\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
+    "name:hin_x_variant":[
+        "\u0915\u091c\u093e\u0916\u0938\u094d\u0924\u093e\u0928",
+        "\u0915\u0938\u093c\u093e\u0916\u093c\u093f\u0938\u094d\u0924\u093e\u0928",
+        "\u0915\u091c\u093c\u093e\u0915\u0938\u094d\u0924\u093e\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Kazahstan"
+    ],
+    "name:hrv_x_variant":[
+        "Kazakstan"
     ],
     "name:hsb_x_preferred":[
         "Kazachstan"
@@ -304,11 +371,17 @@
     "name:ilo_x_preferred":[
         "Kazakhstan"
     ],
+    "name:ilo_x_variant":[
+        "Kazakstan"
+    ],
     "name:ina_x_preferred":[
         "Kazakhstan"
     ],
     "name:ind_x_preferred":[
         "Kazakhstan"
+    ],
+    "name:ind_x_variant":[
+        "Kazakstan"
     ],
     "name:isl_x_preferred":[
         "Kasakstan"
@@ -340,11 +413,19 @@
     "name:kan_x_preferred":[
         "\u0c95\u0c9c\u0cbe\u0c95\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0c95\u0c9d\u0cbe\u0c95\u0cbf\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e7\u10d0\u10d6\u10d0\u10ee\u10d4\u10d7\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d"
+    ],
+    "name:kaz_x_variant":[
+        "Qazaqstan Resp\u016bbl\u012bkasy",
+        "Qazaqstan",
+        "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
     "name:kbd_x_preferred":[
         "\u041a\u044a\u0430\u0437\u0430\u0445\u044a\u0441\u0442\u044d\u043d"
@@ -352,11 +433,20 @@
     "name:khm_x_preferred":[
         "\u179f\u17b6\u1792\u17b6\u179a\u178e\u179a\u178a\u17d2\u178b\u1780\u17b6\u17a0\u17d2\u179f\u17b6\u1780\u17cb\u179f\u17d2\u1790\u17b6\u1793"
     ],
+    "name:khm_x_variant":[
+        "\u1780\u17b6\u17a0\u17d2\u179f\u17b6\u1780\u17cb\u179f\u17d2\u178f\u17b6\u1784\u17cb\u17cb"
+    ],
+    "name:kik_x_preferred":[
+        "Kazakistani"
+    ],
     "name:kin_x_preferred":[
         "Kazakisitani"
     ],
     "name:kir_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043a\u0441\u0442\u0430\u043d"
+    ],
+    "name:kir_x_variant":[
+        "\u041a\u0430\u0437\u0430\u043a\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
     "name:koi_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
@@ -376,11 +466,21 @@
     "name:kur_x_preferred":[
         "Qazaxistan"
     ],
+    "name:kur_x_variant":[
+        "Qezexistan",
+        "\u06a9\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646"
+    ],
     "name:lad_x_preferred":[
         "Kazakistan"
     ],
+    "name:lao_x_preferred":[
+        "\u0e84\u0eb2\u0e8a\u0eb1\u0e94\u0eaa\u0eb0\u0e96\u0eb2\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Kazachstania"
+    ],
+    "name:lat_x_variant":[
+        "Casachia"
     ],
     "name:lav_x_preferred":[
         "Kazahst\u0101na"
@@ -397,8 +497,14 @@
     "name:lin_x_preferred":[
         "Kazakst\u00e1ni"
     ],
+    "name:lin_x_variant":[
+        "Kazakisit\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Kazachstanas"
+    ],
+    "name:lit_x_variant":[
+        "Kazachija"
     ],
     "name:lmo_x_preferred":[
         "Kazakistan"
@@ -409,8 +515,17 @@
     "name:ltz_x_preferred":[
         "Kasachstan"
     ],
+    "name:lub_x_preferred":[
+        "Kazakusita"
+    ],
+    "name:lug_x_preferred":[
+        "Kazakisitaani"
+    ],
     "name:mal_x_preferred":[
         "\u0d16\u0d38\u0d3e\u0d16\u0d4d\u200c\u0d38\u0d4d\u0d25\u0d3e\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d38\u0d3e\u0d16\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u0915\u091d\u093e\u0915\u0938\u094d\u0924\u093e\u0928"
@@ -427,11 +542,20 @@
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
     ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0437\u0430\u045f\u0441\u0442\u0430\u043d"
+    ],
     "name:mlg_x_preferred":[
         "Kazakst\u00e0na"
     ],
+    "name:mlg_x_variant":[
+        "Kazakhstan"
+    ],
     "name:mlt_x_preferred":[
         "Ka\u017cakistan"
+    ],
+    "name:mlt_x_variant":[
+        "Ka\u017cakstan"
     ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u0441\u0430\u0433 \u0443\u043b\u0441"
@@ -445,6 +569,9 @@
     "name:mya_x_preferred":[
         "\u1000\u102c\u1007\u1000\u103a\u1005\u1010\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1000\u102c\u1007\u1000\u103a\u1005\u1010\u1014\u103a"
+    ],
     "name:myv_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -454,8 +581,14 @@
     "name:nau_x_preferred":[
         "Kadaketan"
     ],
+    "name:nau_x_variant":[
+        "Kazakhstan"
+    ],
     "name:nav_x_preferred":[
         "K\u02bcazah Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Kazakhstan"
     ],
     "name:nds_nld_x_preferred":[
         "Kazakstan"
@@ -466,6 +599,9 @@
     "name:nep_x_preferred":[
         "\u0915\u091c\u093e\u0916\u094d\u0938\u094d\u0924\u093e\u0928"
     ],
+    "name:nep_x_variant":[
+        "\u0915\u093e\u091c\u093e\u0915\u0938\u094d\u0925\u093e\u0928"
+    ],
     "name:new_x_preferred":[
         "\u0915\u091c\u093e\u0916\u094d\u0938\u094d\u0924\u093e\u0928"
     ],
@@ -473,6 +609,9 @@
         "Kazachstan"
     ],
     "name:nno_x_preferred":[
+        "Kasakhstan"
+    ],
+    "name:nob_x_preferred":[
         "Kasakhstan"
     ],
     "name:nor_x_preferred":[
@@ -487,6 +626,9 @@
     "name:ori_x_preferred":[
         "\u0b15\u0b3e\u0b1c\u0b3e\u0b16\u0b38\u0b4d\u0b24\u0b3e\u0b28"
     ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b3e\u0b1c\u0b3e\u0b15\u0b3e\u0b38\u0b4d\u0b25\u0b3e\u0b28\u0b4d"
+    ],
     "name:orm_x_preferred":[
         "Kaazaakistaan"
     ],
@@ -498,6 +640,9 @@
     ],
     "name:pam_x_preferred":[
         "Kazastan"
+    ],
+    "name:pam_x_variant":[
+        "Kazakhstan"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a1c\u0a3c\u0a3e\u0a16\u0a3c\u0a38\u0a24\u0a3e\u0a28"
@@ -541,14 +686,26 @@
     "name:ron_x_preferred":[
         "Kazahstan"
     ],
+    "name:ron_x_variant":[
+        "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
     ],
     "name:rum_x_preferred":[
         "Kazahstan"
     ],
+    "name:run_x_preferred":[
+        "Kazakisitani"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Kazakisit\u00e4an"
     ],
     "name:sah_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u0430\u043d"
@@ -580,6 +737,9 @@
     "name:som_x_preferred":[
         "Kasakhstan"
     ],
+    "name:som_x_variant":[
+        "Kasaakhistaan"
+    ],
     "name:spa_x_colloquial":[
         "Kazajstan"
     ],
@@ -591,6 +751,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kazakistani"
+    ],
+    "name:sqi_x_variant":[
+        "Kazakistan"
     ],
     "name:srd_x_preferred":[
         "Kaz\u00e0chistan"
@@ -613,6 +776,9 @@
     "name:swa_x_preferred":[
         "Kazakhstan"
     ],
+    "name:swa_x_variant":[
+        "Kazakistani"
+    ],
     "name:swe_x_preferred":[
         "Kazakstan"
     ],
@@ -625,11 +791,21 @@
     "name:tam_x_preferred":[
         "\u0b95\u0b9a\u0b95\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bb8\u0b95\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043a\u044a\u0441\u0442\u0430\u043d"
     ],
+    "name:tat_x_variant":[
+        "Qazaqstan"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c1c\u0c15\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c15\u0c1c\u0c15\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d",
+        "\u0c15\u0c1c\u0c3e\u0c16\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Kazakistaun"
@@ -642,6 +818,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:ton_x_preferred":[
+        "Kasakiteni"
     ],
     "name:tso_x_preferred":[
         "Kazakhstan"
@@ -664,6 +846,9 @@
     "name:uig_x_preferred":[
         "\u0642\u0627\u0632\u0627\u0642\u0649\u0633\u062a\u0627\u0646"
     ],
+    "name:uig_x_variant":[
+        "\u0642\u0627\u0632\u0627\u0642\u0633\u0649\u062a\u0627\u0646"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
     ],
@@ -677,8 +862,14 @@
         "Qazaqstan",
         "Republika Kazahstan"
     ],
+    "name:unk_x_variant":[
+        "Respublika Kazakhstan"
+    ],
     "name:urd_x_preferred":[
         "\u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0642\u0632\u0627\u062e\u0633\u062a\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
         "Qozog\u02bbiston"
@@ -692,11 +883,18 @@
     "name:vie_x_preferred":[
         "Kazakhstan"
     ],
+    "name:vie_x_variant":[
+        "Ka-d\u1eafc-xtan",
+        "Ka-d\u1eafc-xtan (Kazakhstan)"
+    ],
     "name:vls_x_preferred":[
         "Kazachstan"
     ],
     "name:vol_x_preferred":[
         "Kazakist\u00e4n"
+    ],
+    "name:vol_x_variant":[
+        "Kasakist\u00e4n"
     ],
     "name:war_x_preferred":[
         "Kasahistan"
@@ -716,8 +914,14 @@
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05d6\u05d0\u05db\u05e1\u05d8\u05d0\u05df"
     ],
+    "name:yid_x_variant":[
+        "\u05e7\u05d0\u05b7\u05d6\u05d0\u05b7\u05e7\u05e1\u05d8\u05d0\u05b7\u05df"
+    ],
     "name:yor_x_preferred":[
         "K\u00e0s\u00e0kst\u00e1n"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Ka\u1e63a\u1e63atani"
     ],
     "name:zea_x_preferred":[
         "Kazachstan"
@@ -732,10 +936,14 @@
         "\u54c8\u8428\u514b\u65af\u5766"
     ],
     "name:zho_x_variant":[
+        "\u54c8\u8428\u514b\u65af\u5766",
         "\u54c8\u85a9\u514b"
     ],
     "name:zho_yue_x_preferred":[
         "\u54c8\u85a9\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "i-Kazakhstan"
     ],
     "ne:abbrev":"Kaz.",
     "ne:abbrev_len":4,
@@ -816,6 +1024,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"7",
+    "statoids:ds":"KZ",
+    "statoids:fifa":"KAZ",
+    "statoids:gaul":"132",
+    "statoids:gec":"KZ",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"KAZ",
+    "statoids:iso_a2":"KZ",
+    "statoids:iso_a3":"KAZ",
+    "statoids:iso_num":"398",
+    "statoids:itu":"KAZ",
+    "statoids:marc":"kz",
+    "statoids:name":"Kazakhstan",
+    "statoids:wmo":"KZ",
     "wk:latitude":48.0,
     "wk:longitude":68.0,
     "wk:population":17948816,
@@ -827,17 +1050,27 @@
     "wof:concordances":{
         "dbp:id":"Kazakhstan",
         "fb:id":"en.kazakhstan",
+        "fifa:id":"KAZ",
+        "fips:code":"KZ",
+        "gaul:id":"132",
         "gn:id":1522867,
         "gp:id":23424871,
         "hasc:id":"KZ",
+        "ioc:id":"KAZ",
+        "itu:id":"KAZ",
+        "m49:code":"398",
+        "marc:id":"kz",
+        "ne:adm0_a3":"KAZ",
         "nyt:id":"N63032621026086062091",
         "qs:id":556602,
+        "uncrt:id":"KZ",
         "wd:id":"Q232",
-        "wk:page":"Kazakhstan"
+        "wk:page":"Kazakhstan",
+        "wmo:id":"KZ"
     },
     "wof:country":"KZ",
     "wof:country_alpha3":"KAZ",
-    "wof:geomhash":"2fd0561ce491c927f22bd40c515481b5",
+    "wof:geomhash":"9b9b4c1a779331268e4b58f811aeb2f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -856,11 +1089,14 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1493229915,
+    "wof:lastmodified":1509142786,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":17948816,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"KAZ",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

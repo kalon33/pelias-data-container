@@ -5,22 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.362715,
+    "geom:area_square_m":264064669331.377106,
     "geom:bbox":"8.697889328,-3.96000897397,14.5268934,2.318109",
     "geom:latitude":-0.605461,
     "geom:longitude":11.788417,
     "gn:id":"",
     "gn:population":1545255,
     "iso:country":"GA",
+    "itu:country_code":[
+        "241"
+    ],
     "lbl:latitude":-0.586328,
     "lbl:longitude":11.547829,
     "mps:latitude":-0.586328,
     "mps:longitude":11.547829,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ady_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
     ],
     "name:afr_x_preferred":[
         "Gaboen"
+    ],
+    "name:aka_x_preferred":[
+        "Gab\u0254n"
     ],
     "name:als_x_preferred":[
         "Gabun"
@@ -33,6 +43,10 @@
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0627\u0628\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0627\u0628\u0648\u0646",
+        "\u0627\u0644\u062c\u0627\u0628\u0648\u0646"
     ],
     "name:arg_x_preferred":[
         "Gab\u00f3n"
@@ -52,6 +66,9 @@
     "name:bam_x_preferred":[
         "Gabon"
     ],
+    "name:bam_x_variant":[
+        "Gab\u0254\u014b"
+    ],
     "name:bcl_x_preferred":[
         "Gabon"
     ],
@@ -69,6 +86,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f42\u0f7a\u0f0b\u0f56\u0f7c\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f42\u0f7a\u0f0b\u0f56\u0f7d\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Gabon"
@@ -88,6 +108,9 @@
     "name:cat_x_preferred":[
         "Gabon"
     ],
+    "name:cat_x_variant":[
+        "El Gabon"
+    ],
     "name:cdo_x_preferred":[
         "Gabon"
     ],
@@ -99,13 +122,6 @@
     ],
     "name:che_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5f6d"
-    ],
-    "name:chi_x_variant":[
-        "\u52a0\u5f6d",
-        "\u52a0\u84ec"
     ],
     "name:chv_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
@@ -127,6 +143,9 @@
     ],
     "name:deu_x_preferred":[
         "Gabun"
+    ],
+    "name:deu_x_variant":[
+        "Gabunische Republik"
     ],
     "name:diq_x_preferred":[
         "Gabon"
@@ -166,6 +185,9 @@
     "name:ewe_x_preferred":[
         "Gab\u0254\u0303"
     ],
+    "name:ewe_x_variant":[
+        "Gab\u0254n nutome"
+    ],
     "name:ext_x_preferred":[
         "Gab\u00f3n"
     ],
@@ -175,14 +197,17 @@
     "name:fas_x_preferred":[
         "\u06af\u0627\u0628\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u06af\u0627\u0628\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Gabon"
     ],
     "name:fra_x_preferred":[
         "Gabon"
     ],
-    "name:fre_x_preferred":[
-        "Gabon"
+    "name:fra_x_variant":[
+        "R\u00e9publique Gabonaise"
     ],
     "name:frp_x_preferred":[
         "Gabon"
@@ -193,14 +218,11 @@
     "name:ful_x_preferred":[
         "Gabon"
     ],
+    "name:ful_x_variant":[
+        "Gaboo"
+    ],
     "name:gag_x_preferred":[
         "Gabon"
-    ],
-    "name:ger_x_preferred":[
-        "Gabun"
-    ],
-    "name:ger_x_variant":[
-        "Gabunische Republik"
     ],
     "name:gla_x_preferred":[
         "Gabon"
@@ -211,13 +233,22 @@
     "name:glg_x_preferred":[
         "Gab\u00f3n"
     ],
+    "name:glg_x_variant":[
+        "Gab\u00f3n - Gabon"
+    ],
     "name:glv_x_preferred":[
         "Gabon"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0ac7\u0aac\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Gabon"
     ],
     "name:hat_x_preferred":[
+        "Gabon"
+    ],
+    "name:hau_x_preferred":[
         "Gabon"
     ],
     "name:hbs_x_preferred":[
@@ -226,11 +257,17 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05d5\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d0\u05d1\u05d5\u05df"
+    ],
     "name:hif_x_preferred":[
         "Gabon"
     ],
     "name:hin_x_preferred":[
         "\u0917\u092c\u094b\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0917\u0948\u092c\u0949\u0928"
     ],
     "name:hrv_x_preferred":[
         "Gabon"
@@ -289,8 +326,14 @@
     "name:kab_x_preferred":[
         "Gabun"
     ],
+    "name:kal_x_preferred":[
+        "Gabon"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0cac\u0cca\u0ca8\u0ccd"
+    ],
+    "name:kan_x_variant":[
+        "\u0c97\u0cc6\u0cac\u0cca\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10d1\u10dd\u10dc\u10d8"
@@ -298,8 +341,14 @@
     "name:kaz_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
     ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u1782\u17b6\u1794\u17bb\u1784"
+    ],
     "name:kik_x_preferred":[
         "Gabon"
+    ],
+    "name:kik_x_variant":[
+        "Gaboni"
     ],
     "name:kin_x_preferred":[
         "Gabon"
@@ -316,8 +365,17 @@
     "name:kur_x_preferred":[
         "Gabon"
     ],
+    "name:kur_x_variant":[
+        "\u06af\u0627\u0628\u06c6\u0646"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e81\u0eb2\u0e9a\u0ead\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Gabon"
+    ],
+    "name:lat_x_variant":[
+        "Gabonia"
     ],
     "name:lav_x_preferred":[
         "Gabona"
@@ -331,6 +389,9 @@
     "name:lin_x_preferred":[
         "Gab\u0254\u0301"
     ],
+    "name:lin_x_variant":[
+        "Gab\u0254"
+    ],
     "name:lit_x_preferred":[
         "Gabonas"
     ],
@@ -343,14 +404,26 @@
     "name:ltz_x_preferred":[
         "Gabun"
     ],
+    "name:lub_x_preferred":[
+        "Ngabu"
+    ],
     "name:lug_x_preferred":[
         "Gabon"
+    ],
+    "name:lug_x_variant":[
+        "Gaboni"
     ],
     "name:mal_x_preferred":[
         "\u0d17\u0d3e\u0d2c\u0d4b\u0d7a"
     ],
+    "name:mal_x_variant":[
+        "\u0d17\u0d3e\u0d2c\u0d4b\u0d23\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0917\u0945\u092c\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0917\u0945\u092c\u0949\u0928"
     ],
     "name:min_x_preferred":[
         "Gabon"
@@ -360,6 +433,9 @@
     ],
     "name:mlg_x_preferred":[
         "Gabona"
+    ],
+    "name:mlg_x_variant":[
+        "Gabon"
     ],
     "name:mlt_x_preferred":[
         "Gabon"
@@ -386,6 +462,9 @@
         "Gab\u01eb\u0301\u01eb\u0301 (K\u00e9yah)",
         "Gab\u01eb\u0301\u01eb\u0301"
     ],
+    "name:nde_x_preferred":[
+        "Gabhoni"
+    ],
     "name:nds_nld_x_preferred":[
         "Gabon"
     ],
@@ -395,6 +474,9 @@
     "name:nep_x_preferred":[
         "\u0917\u093e\u092c\u094b\u0928"
     ],
+    "name:nep_x_variant":[
+        "\u0917\u093e\u0935\u094b\u0928"
+    ],
     "name:new_x_preferred":[
         "\u0917\u093e\u092c\u094b\u0928"
     ],
@@ -402,6 +484,9 @@
         "Gabon"
     ],
     "name:nno_x_preferred":[
+        "Gabon"
+    ],
+    "name:nob_x_preferred":[
         "Gabon"
     ],
     "name:nor_x_preferred":[
@@ -418,6 +503,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b17\u0b3e\u0b2c\u0b4b\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b17\u0b3e\u0b2c\u0b4b\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Gaabon"
@@ -470,6 +558,9 @@
     "name:ron_x_preferred":[
         "Gabon"
     ],
+    "name:run_x_preferred":[
+        "Gabo"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
     ],
@@ -509,6 +600,9 @@
     "name:som_x_preferred":[
         "Gabon"
     ],
+    "name:som_x_variant":[
+        "Gaaboon"
+    ],
     "name:sot_x_preferred":[
         "Gabon"
     ],
@@ -517,6 +611,10 @@
     ],
     "name:sqi_x_preferred":[
         "Gaboni"
+    ],
+    "name:sqi_x_variant":[
+        "Gjabon",
+        "Gabonia"
     ],
     "name:srd_x_preferred":[
         "Gab\u00f2n"
@@ -536,6 +634,9 @@
     "name:swa_x_preferred":[
         "Gabon"
     ],
+    "name:swa_x_variant":[
+        "Gaboni"
+    ],
     "name:swe_x_preferred":[
         "Gabon"
     ],
@@ -545,11 +646,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0baa\u0bcb\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bc7\u0baa\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c2c\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c17\u0c47\u0c2c\u0c28\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
@@ -559,6 +666,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e01\u0e32\u0e1a\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e1a\u0e2d\u0e07"
+    ],
+    "name:tir_x_preferred":[
+        "\u130b\u1266\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Kaponi"
     ],
     "name:tpi_x_preferred":[
         "Gabon"
@@ -578,8 +694,14 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0490\u0430\u0431\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Gabonska republika"
+    ],
+    "name:unk_x_variant":[
+        "Gabun"
     ],
     "name:urd_x_preferred":[
         "\u06af\u06cc\u0628\u0648\u0646"
@@ -595,6 +717,10 @@
     ],
     "name:vie_x_preferred":[
         "Gabon"
+    ],
+    "name:vie_x_variant":[
+        "Ga-b\u00f4ng",
+        "Ga-b\u00f4ng (Gabon)"
     ],
     "name:vol_x_preferred":[
         "Gabun\u00e4n"
@@ -617,6 +743,9 @@
     "name:yor_x_preferred":[
         "G\u00e0b\u1ecd\u0300n"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Gabon"
+    ],
     "name:zea_x_preferred":[
         "Gabon"
     ],
@@ -627,13 +756,17 @@
         "\u52a0\u84ec"
     ],
     "name:zho_x_variant":[
-        "\u52a0\u84ec"
+        "\u52a0\u84ec",
+        "\u52a0\u5f6d"
     ],
     "name:zho_yue_x_preferred":[
         "\u52a0\u84ec"
     ],
     "name:zul_x_preferred":[
         "IGaboni"
+    ],
+    "name:zul_x_variant":[
+        "i-Gabon"
     ],
     "ne:abbrev":"Gabon",
     "ne:abbrev_len":5,
@@ -713,6 +846,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"241",
+    "statoids:ds":"G",
+    "statoids:fifa":"GAB",
+    "statoids:gaul":"89",
+    "statoids:gec":"GB",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GAB",
+    "statoids:iso_a2":"GA",
+    "statoids:iso_a3":"GAB",
+    "statoids:iso_num":"266",
+    "statoids:itu":"GAB",
+    "statoids:marc":"go",
+    "statoids:name":"Gabon",
+    "statoids:wmo":"GO",
     "wk:latitude":-0.683331,
     "wk:longitude":11.5,
     "wk:population":1671711,
@@ -724,19 +872,29 @@
     "wof:concordances":{
         "dbp:id":"Gabon",
         "fb:id":"en.gabon",
+        "fifa:id":"GAB",
+        "fips:code":"GB",
+        "gaul:id":"89",
         "gn:id":2400553,
         "gp:id":23424822,
         "hasc:id":"GA",
+        "ioc:id":"GAB",
+        "itu:id":"GAB",
         "loc:id":"n79063286",
+        "m49:code":"266",
+        "marc:id":"go",
         "mzb:id":"gabon",
+        "ne:adm0_a3":"GAB",
         "nyt:id":"59413135922969968641",
         "qs:id":1289455,
+        "uncrt:id":"G",
         "wd:id":"Q1000",
-        "wk:page":"Gabon"
+        "wk:page":"Gabon",
+        "wmo:id":"GO"
     },
     "wof:country":"GA",
     "wof:country_alpha3":"GAB",
-    "wof:geomhash":"34874fd5b87a674a14e56158692ff804",
+    "wof:geomhash":"2b04cf7ab2e9a899f1ff1821aee9265c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -753,11 +911,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493229950,
+    "wof:lastmodified":1509142728,
     "wof:name":"Gabon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":1671711,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GAB",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

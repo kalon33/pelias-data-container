@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":55.355502,
+    "geom:area_square_m":592469513863.421265,
     "geom:bbox":"-17.013743,21.419971,-1.031999,35.926519",
     "geom:latitude":29.841692,
     "geom:longitude":-8.396435,
     "gn:id":"",
     "gn:population":31627428,
     "iso:country":"MA",
+    "itu:country_code":[
+        "212"
+    ],
     "lbl:latitude":31.649504,
     "lbl:longitude":-7.189711,
     "mps:latitude":31.649504,
     "mps:longitude":-7.189711,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Maghribi"
     ],
@@ -24,6 +31,9 @@
     ],
     "name:afr_x_preferred":[
         "Marokko"
+    ],
+    "name:aka_x_preferred":[
+        "Moroko"
     ],
     "name:als_x_preferred":[
         "Marokko"
@@ -58,11 +68,17 @@
     "name:aze_x_preferred":[
         "M\u0259rake\u015f"
     ],
+    "name:aze_x_variant":[
+        "Morokko"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
     "name:bam_x_preferred":[
         "Maroko"
+    ],
+    "name:bam_x_variant":[
+        "Mar\u0254ku"
     ],
     "name:bar_x_preferred":[
         "Marokko"
@@ -79,11 +95,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09b0\u09cb\u0995\u09cd\u0995\u09cb"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09cb\u09b0\u0995\u09cd\u0995\u09cb"
+    ],
     "name:bjn_x_preferred":[
         "Maroko"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f7c\u0f0b\u0f62\u0f7c\u0f0b\u0f41\u0f7c\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f7c\u0f0b\u0f62\u0f7c\u0f0b\u0f40\u0f90\u0f7c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Maroko"
@@ -115,9 +137,6 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u6469\u6d1b\u54e5"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
@@ -139,8 +158,15 @@
     "name:dan_x_preferred":[
         "Marokko"
     ],
+    "name:deu_x_colloquial":[
+        "Koenigreich Marokko",
+        "Konigreich Marokko"
+    ],
     "name:deu_x_preferred":[
         "Marokko"
+    ],
+    "name:deu_x_variant":[
+        "K\u00f6nigreich Marokko"
     ],
     "name:diq_x_preferred":[
         "Marok"
@@ -149,9 +175,6 @@
         "\u0789\u07a6\u0787\u07aa\u0783\u07a8\u0784\u07aa"
     ],
     "name:dsb_x_preferred":[
-        "Marokko"
-    ],
-    "name:dut_x_preferred":[
         "Marokko"
     ],
     "name:dzo_x_preferred":[
@@ -183,6 +206,9 @@
     "name:ewe_x_preferred":[
         "Moroko"
     ],
+    "name:ewe_x_variant":[
+        "Moroko nutome"
+    ],
     "name:ext_x_preferred":[
         "Marruecus"
     ],
@@ -191,6 +217,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u0627\u06a9\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0631\u0627\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Marokko"
@@ -201,10 +230,10 @@
         "Marokossa",
         "Marokosta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Maroc"
     ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Royaume du Maroc"
     ],
     "name:frp_x_preferred":[
@@ -216,18 +245,11 @@
     "name:fry_x_preferred":[
         "Marokko"
     ],
+    "name:ful_x_preferred":[
+        "Maruk"
+    ],
     "name:gag_x_preferred":[
         "Marokko"
-    ],
-    "name:ger_x_colloquial":[
-        "Koenigreich Marokko",
-        "Konigreich Marokko"
-    ],
-    "name:ger_x_preferred":[
-        "Marokko"
-    ],
-    "name:ger_x_variant":[
-        "K\u00f6nigreich Marokko"
     ],
     "name:gla_x_preferred":[
         "Maroco"
@@ -244,11 +266,17 @@
     "name:gom_x_preferred":[
         "\u092e\u094b\u0930\u094b\u0915\u094d\u0915\u094b"
     ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0ab0\u0acb\u0a95\u0acd\u0a95\u0acb"
+    ],
     "name:hak_x_preferred":[
         "Morocco"
     ],
     "name:hat_x_preferred":[
         "Maw\u00f2k"
+    ],
+    "name:hau_x_preferred":[
+        "Maroko"
     ],
     "name:hbs_x_preferred":[
         "Maroko"
@@ -273,6 +301,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u0578\u056f\u056f\u0578"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0580\u0578\u056f\u0578"
     ],
     "name:ibo_x_preferred":[
         "Morocco"
@@ -319,8 +350,17 @@
     "name:kab_x_preferred":[
         "Ame\u1e5b\u1e5buk"
     ],
+    "name:kal_x_preferred":[
+        "Marocko"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cca\u0cb0\u0cbe\u0c95\u0cca"
+    ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cca\u0cb0\u0cbe\u0c95\u0ccd\u0c95\u0cca"
+    ],
+    "name:kas_x_preferred":[
+        "\u092e\u094b\u0930\u093e\u0915\u094b"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10dd\u10d9\u10dd"
@@ -328,8 +368,14 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17b6\u179a\u17c9\u17bb\u1780"
+    ],
     "name:kik_x_preferred":[
         "Morocco"
+    ],
+    "name:kik_x_variant":[
+        "Moroko"
     ],
     "name:kin_x_preferred":[
         "Maroke"
@@ -346,8 +392,14 @@
     "name:kur_x_preferred":[
         "Maroko"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06d5\u063a\u0631\u06cc\u0628"
+    ],
     "name:lad_x_preferred":[
         "Marroko"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec2\u0ea1\u0ea5\u0eb1\u0ead\u0e81\u0ec2\u0e84"
     ],
     "name:lat_x_preferred":[
         "Marocum"
@@ -364,6 +416,9 @@
     "name:lin_x_preferred":[
         "Mar\u0254k\u025b"
     ],
+    "name:lin_x_variant":[
+        "Marok\u025b"
+    ],
     "name:lit_x_preferred":[
         "Marokas"
     ],
@@ -376,8 +431,14 @@
     "name:ltz_x_preferred":[
         "Marokko"
     ],
+    "name:lub_x_preferred":[
+        "Maroke"
+    ],
     "name:lug_x_preferred":[
         "Morocco"
+    ],
+    "name:lug_x_variant":[
+        "Moroko"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d31\u0d4b\u0d15\u0d4d\u0d15\u0d4a"
@@ -412,17 +473,26 @@
     "name:mya_x_preferred":[
         "\u1019\u1031\u102c\u103a\u101b\u102d\u102f\u1000\u102d\u102f\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u1031\u102c\u103a\u101b\u102d\u102f\u1000\u102d\u102f"
+    ],
     "name:mzn_x_preferred":[
         "\u0645\u0631\u0627\u06a9\u0634"
     ],
     "name:nav_x_preferred":[
         "Moroko"
     ],
+    "name:nde_x_preferred":[
+        "Morokho"
+    ],
     "name:nds_x_preferred":[
         "Marokko"
     ],
     "name:nep_x_preferred":[
         "\u092e\u094b\u0930\u0915\u094d\u0915\u094b"
+    ],
+    "name:nep_x_variant":[
+        "\u092e\u094b\u0930\u094b\u0915\u094d\u0915\u094b"
     ],
     "name:new_x_preferred":[
         "\u092e\u094b\u0930\u0915\u094d\u0915\u094b"
@@ -431,6 +501,9 @@
         "Marokko"
     ],
     "name:nno_x_preferred":[
+        "Marokko"
+    ],
+    "name:nob_x_preferred":[
         "Marokko"
     ],
     "name:nor_x_preferred":[
@@ -484,11 +557,17 @@
     "name:que_x_preferred":[
         "Maruku"
     ],
+    "name:roh_x_preferred":[
+        "Maroc"
+    ],
     "name:ron_x_preferred":[
         "Maroc"
     ],
     "name:rum_x_preferred":[
         "Maroc"
+    ],
+    "name:run_x_preferred":[
+        "Maroke"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
@@ -507,6 +586,9 @@
     ],
     "name:sco_x_preferred":[
         "Morocco"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0dbb\u0ddc\u0d9a\u0dca\u0d9a\u0ddd\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Maroko"
@@ -535,6 +617,9 @@
     "name:sqi_x_preferred":[
         "Maroku"
     ],
+    "name:sqi_x_variant":[
+        "Maroko"
+    ],
     "name:srd_x_preferred":[
         "Marocco"
     ],
@@ -562,11 +647,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bca\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bcb"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4a\u0c30\u0c3e\u0c15\u0c4b"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2e\u0c4a\u0c30\u0c3e\u0c15\u0c4d\u0c15\u0c4b"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u0430\u0448"
@@ -577,8 +668,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e21\u0e23\u0e47\u0e2d\u0e01\u0e42\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e21\u0e23\u0e47\u0e2d\u0e01\u0e42\u0e01"
+    ],
     "name:tir_x_preferred":[
         "\u121e\u122e\u12ae"
+    ],
+    "name:ton_x_preferred":[
+        "Molako"
     ],
     "name:tso_x_preferred":[
         "Morokho"
@@ -598,6 +695,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u0440\u043e\u043a\u043e"
+    ],
     "name:und_x_preferred":[
         "Marokk\u00f3",
         "Maroko"
@@ -605,8 +705,14 @@
     "name:und_x_variant":[
         "Kraljevina Maroko"
     ],
+    "name:unk_x_variant":[
+        "Al Mamlakah al Maghrib\u012byah"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u0627\u06a9\u0634"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0631\u0627\u0642\u0634"
     ],
     "name:uzb_x_preferred":[
         "Marokash"
@@ -619,6 +725,10 @@
     ],
     "name:vie_x_preferred":[
         "Maroc"
+    ],
+    "name:vie_x_variant":[
+        "Ma-r\u1ed1c",
+        "Ma-r\u1ed1c (Morocco)"
     ],
     "name:vls_x_preferred":[
         "Marokko"
@@ -650,6 +760,9 @@
     "name:yor_x_preferred":[
         "M\u00f2r\u00f3k\u00f2"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Moroko"
+    ],
     "name:zea_x_preferred":[
         "Marokko"
     ],
@@ -667,6 +780,9 @@
     ],
     "name:zul_x_preferred":[
         "IMorokho"
+    ],
+    "name:zul_x_variant":[
+        "i-Morocco"
     ],
     "ne:abbrev":"Mor.",
     "ne:abbrev_len":4,
@@ -742,9 +858,25 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"212",
+    "statoids:ds":"MA",
+    "statoids:fifa":"MAR",
+    "statoids:gaul":"169",
+    "statoids:gec":"MO",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MAR",
+    "statoids:iso_a2":"MA",
+    "statoids:iso_a3":"MAR",
+    "statoids:iso_num":"504",
+    "statoids:itu":"MRC",
+    "statoids:marc":"mr",
+    "statoids:name":"Morocco",
+    "statoids:wmo":"MC",
     "wk:latitude":32.0,
     "wk:longitude":-6.0,
     "wk:population":33008150,
@@ -756,19 +888,29 @@
     "wof:concordances":{
         "dbp:id":"Morocco",
         "fb:id":"en.morocco",
+        "fifa:id":"MAR",
+        "fips:code":"MO",
+        "gaul:id":"169",
         "gn:id":2542007,
         "gp:id":23424893,
         "hasc:id":"MA",
+        "ioc:id":"MAR",
+        "itu:id":"MRC",
         "loc:id":"n79069715",
+        "m49:code":"504",
+        "marc:id":"mr",
         "mzb:id":"morocco",
+        "ne:adm0_a3":"MAR",
         "nyt:id":"60372254002388641121",
         "qs:id":1263244,
+        "uncrt:id":"MA",
         "wd:id":"Q1028",
-        "wk:page":"Morocco"
+        "wk:page":"Morocco",
+        "wmo:id":"MC"
     },
     "wof:country":"MA",
     "wof:country_alpha3":"MAR",
-    "wof:geomhash":"691aacbb2d5c61122cbb000fe3a49127",
+    "wof:geomhash":"ce22c482532ff649ee02130006b5e155",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -789,11 +931,14 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1493230056,
+    "wof:lastmodified":1509142804,
     "wof:name":"Morocco",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":33008150,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MAR",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85632209

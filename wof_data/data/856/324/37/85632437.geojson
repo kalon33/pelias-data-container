@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.530982,
+    "geom:area_square_m":5383780568.21519,
     "geom:bbox":"32.267887115,34.632303,34.091220856,35.19455719",
     "geom:latitude":34.916415,
     "geom:longitude":32.988458,
     "gn:population":1102677,
     "gp:id":0,
     "iso:country":"CY",
+    "itu:country_code":[
+        "357"
+    ],
     "lbl:latitude":34.881852,
     "lbl:longitude":33.011051,
     "mps:latitude":34.881852,
     "mps:longitude":33.011051,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.5,
+    "mz:min_zoom":4.5,
     "name:abk_x_preferred":[
         "\u049e\u044b\u0431\u0440\u044b\u0441"
     ],
@@ -25,11 +32,20 @@
     "name:afr_x_preferred":[
         "Siprus"
     ],
+    "name:afr_x_variant":[
+        "Ciprus"
+    ],
+    "name:aka_x_preferred":[
+        "Saepr\u0254s"
+    ],
     "name:als_x_preferred":[
         "Republik Zypern"
     ],
     "name:amh_x_preferred":[
         "\u1246\u1335\u122e\u1235"
+    ],
+    "name:amh_x_variant":[
+        "\u1233\u12ed\u1355\u1228\u1235"
     ],
     "name:ang_x_preferred":[
         "Cipros"
@@ -55,8 +71,14 @@
     "name:aze_x_preferred":[
         "Kipr"
     ],
+    "name:aze_x_variant":[
+        "Kipr Respublikas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u0438\u043f\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
+    ],
+    "name:bam_x_preferred":[
+        "Cipri"
     ],
     "name:bar_x_preferred":[
         "Republik Zypern"
@@ -79,6 +101,9 @@
     "name:bod_x_preferred":[
         "\u0f66\u0f7a\u0f0b\u0f54\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f66\u0f72\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f71\u0f61\u0f7a\u0f0b\u0f54\u0f0b\u0f62\u0f66\u0f84\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Kipar"
     ],
@@ -88,8 +113,14 @@
     "name:bre_x_preferred":[
         "Republik Kiprenez"
     ],
+    "name:bre_x_variant":[
+        "Kiprenez"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043f\u044a\u0440"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u0438\u043f\u044a\u0440"
     ],
     "name:bxr_x_preferred":[
         "\u041a\u0438\u043f\u0440"
@@ -108,13 +139,6 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u0438\u043f\u0440"
-    ],
-    "name:chi_x_preferred":[
-        "\u8cfd\u666e\u52d2\u65af"
-    ],
-    "name:chi_x_variant":[
-        "\u585e\u6d66\u8def\u65af",
-        "\u8cfd\u666e\u52d2\u65af"
     ],
     "name:chr_x_preferred":[
         "\u13cc\u13a2\u13c6\u13cd"
@@ -152,6 +176,10 @@
     "name:deu_x_preferred":[
         "Republik Zypern"
     ],
+    "name:deu_x_variant":[
+        "Republik Zypern",
+        "Zypern"
+    ],
     "name:diq_x_preferred":[
         "Cumhuriyet\u00ea Q\u0131br\u0131si"
     ],
@@ -160,6 +188,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Kypriak\u00ed Dimokrat\u00eda",
+        "Kipriak\u00ed Dhimokrat\u00eda",
+        "K\u00fdpros",
+        "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cyprus"
@@ -179,11 +213,17 @@
     "name:est_x_preferred":[
         "K\u00fcpros"
     ],
+    "name:est_x_variant":[
+        "K\u00fcprus"
+    ],
     "name:eus_x_preferred":[
         "Zipre"
     ],
     "name:ewe_x_preferred":[
         "Cyprus"
+    ],
+    "name:ewe_x_variant":[
+        "Saiprus nutome"
     ],
     "name:ext_x_preferred":[
         "Chipri"
@@ -193,6 +233,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0642\u0628\u0631\u0633"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u06cc\u067e\u0631\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "Kyproksen Tasavalta",
@@ -208,7 +251,7 @@
     "name:fra_x_preferred":[
         "Chypre (pays)"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Chypre"
     ],
     "name:frp_x_preferred":[
@@ -223,17 +266,14 @@
     "name:ful_x_preferred":[
         "Kibris"
     ],
+    "name:ful_x_variant":[
+        "Siipar"
+    ],
     "name:fur_x_preferred":[
         "Cipri"
     ],
     "name:gag_x_preferred":[
         "Kipra Respublikas\u0131"
-    ],
-    "name:ger_x_preferred":[
-        "Zypern"
-    ],
-    "name:ger_x_variant":[
-        "Republik Zypern"
     ],
     "name:gla_x_preferred":[
         "C\u00ecopras"
@@ -243,6 +283,9 @@
     ],
     "name:glg_x_preferred":[
         "Chipre"
+    ],
+    "name:glg_x_variant":[
+        "Chipre - \u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
     ],
     "name:glv_x_preferred":[
         "Yn Cheeprey"
@@ -264,6 +307,9 @@
     ],
     "name:hau_x_preferred":[
         "Cyprus"
+    ],
+    "name:hau_x_variant":[
+        "Sifurus"
     ],
     "name:haw_x_preferred":[
         "Kupelo"
@@ -302,11 +348,17 @@
     "name:ilo_x_preferred":[
         "Cyprus"
     ],
+    "name:ilo_x_variant":[
+        "Kyprus"
+    ],
     "name:ina_x_preferred":[
         "Cypro"
     ],
     "name:ind_x_preferred":[
         "Siprus"
+    ],
+    "name:ind_x_variant":[
+        "Cyprus"
     ],
     "name:isl_x_preferred":[
         "K\u00fdpur"
@@ -336,11 +388,20 @@
     "name:kal_x_preferred":[
         "Cyperni"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc8\u0caa\u0ccd\u0cb0\u0cb8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d5\u10d8\u10de\u10e0\u10dd\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0438\u043f\u0440"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17c9\u17b8\u1796\u179a\u17cd"
+    ],
+    "name:kik_x_preferred":[
+        "Kuprosi"
     ],
     "name:kin_x_preferred":[
         "Shipure"
@@ -366,11 +427,17 @@
     "name:kur_x_preferred":[
         "K\u00eepros"
     ],
+    "name:kur_x_variant":[
+        "\u0642\u06cc\u0628\u0631\u0633"
+    ],
     "name:lad_x_preferred":[
         "Repuvlika Kipriyota"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e8a\u0eb5\u0e9a"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec4\u0e8a\u0e9b\u0eb1\u0ebc\u0e94"
     ],
     "name:lat_x_preferred":[
         "Cyprus"
@@ -387,6 +454,9 @@
     "name:lim_x_preferred":[
         "Cyprus"
     ],
+    "name:lin_x_preferred":[
+        "S\u00edp\u025bl\u025b"
+    ],
     "name:lit_x_preferred":[
         "Kipras"
     ],
@@ -402,8 +472,17 @@
     "name:ltz_x_preferred":[
         "Zypern"
     ],
+    "name:lub_x_preferred":[
+        "Shipele"
+    ],
+    "name:lug_x_preferred":[
+        "Sipuriya"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d48\u0d2a\u0d4d\u0d30\u0d38\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d48\u0d2a\u0d4d\u0d30\u0d38\u0d4d\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u092f\u092a\u094d\u0930\u0938"
@@ -420,6 +499,9 @@
     "name:mlg_x_preferred":[
         "Repoblikan'i Kipra"
     ],
+    "name:mlg_x_variant":[
+        "Sypra"
+    ],
     "name:mlt_x_preferred":[
         "\u010aipru"
     ],
@@ -432,8 +514,14 @@
     "name:msa_x_preferred":[
         "Cyprus"
     ],
+    "name:msa_x_variant":[
+        "Kibris"
+    ],
     "name:mya_x_preferred":[
         "\u1006\u102d\u102f\u1000\u103a\u1015\u101b\u1015\u103a\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1006\u102d\u102f\u1000\u103a\u1015\u101b\u1000\u103a\u1005\u103a"
     ],
     "name:myv_x_preferred":[
         "\u041a\u0438\u043f\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044c"
@@ -449,6 +537,9 @@
     ],
     "name:nav_x_preferred":[
         "B\u00e9\u00e9sh \u0141ich\u00edi\u02bcii Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Cyprus"
     ],
     "name:nds_nld_x_preferred":[
         "Syprus"
@@ -468,6 +559,12 @@
     "name:nno_x_preferred":[
         "Republikken Kypros"
     ],
+    "name:nno_x_variant":[
+        "Kypros"
+    ],
+    "name:nob_x_preferred":[
+        "Kypros"
+    ],
     "name:nor_x_preferred":[
         "Kypros",
         "Republikken Kypros"
@@ -483,6 +580,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b38\u0b3e\u0b07\u0b2a\u0b4d\u0b30\u0b38"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b3e\u0b07\u0b2a\u0b4d\u0b30\u0b38\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Saayippires"
@@ -535,8 +635,17 @@
     "name:rum_x_preferred":[
         "Cipru"
     ],
+    "name:run_x_preferred":[
+        "Izinga rya Shipure"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043f\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u043f\u0440"
+    ],
+    "name:sag_x_preferred":[
+        "S\u00eepri"
     ],
     "name:sah_x_preferred":[
         "\u041a\u0438\u043f\u0440"
@@ -552,6 +661,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dba\u0dd2\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dca"
+    ],
+    "name:sin_x_variant":[
+        "\u0dc3\u0dba\u0dd2\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dba"
     ],
     "name:slk_x_preferred":[
         "Cyprus"
@@ -571,11 +683,17 @@
     "name:som_x_preferred":[
         "Jasiirada Qabrus"
     ],
+    "name:som_x_variant":[
+        "Qubrus"
+    ],
     "name:spa_x_preferred":[
         "Chipre"
     ],
     "name:sqi_x_preferred":[
         "Qiproja"
+    ],
+    "name:sqi_x_variant":[
+        "Qipro"
     ],
     "name:srd_x_preferred":[
         "Cipro"
@@ -598,6 +716,9 @@
     "name:swa_x_preferred":[
         "Kupro"
     ],
+    "name:swa_x_variant":[
+        "Kuprosi"
+    ],
     "name:swe_x_preferred":[
         "Cypern"
     ],
@@ -606,6 +727,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0b9a\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc8\u0baa\u0bcd\u0bb0\u0bb8\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041a\u0438\u043f\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
@@ -625,6 +749,15 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e0b\u0e1b\u0e23\u0e31\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e0b\u0e1b\u0e23\u0e31\u0e2a"
+    ],
+    "name:tir_x_preferred":[
+        "\u1233\u12ed\u1355\u1228\u1235"
+    ],
+    "name:ton_x_preferred":[
+        "Saipalesi"
+    ],
     "name:tpi_x_preferred":[
         "Saipras"
     ],
@@ -636,6 +769,10 @@
     ],
     "name:tur_x_preferred":[
         "K\u0131br\u0131s Cumhuriyeti"
+    ],
+    "name:tur_x_variant":[
+        "K\u0131br\u0131s",
+        "G\u00fcney K\u0131br\u0131s Rum Kesimi"
     ],
     "name:udm_x_preferred":[
         "\u041a\u0438\u043f\u0440"
@@ -656,6 +793,9 @@
         "Kypros",
         "Republika Ciper"
     ],
+    "name:unk_x_variant":[
+        "Republic of Cyprus"
+    ],
     "name:urd_x_preferred":[
         "\u0642\u0628\u0631\u0635"
     ],
@@ -670,6 +810,10 @@
     ],
     "name:vie_x_preferred":[
         "C\u1ed9ng h\u00f2a S\u00edp"
+    ],
+    "name:vie_x_variant":[
+        "S\u00edp",
+        "S\u00edp (Cyprus)"
     ],
     "name:vls_x_preferred":[
         "Cyprus"
@@ -698,6 +842,9 @@
     "name:yor_x_preferred":[
         "K\u00edpr\u00f9"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de K\u00far\u00fas\u00ec"
+    ],
     "name:zea_x_preferred":[
         "Cyprus"
     ],
@@ -707,8 +854,15 @@
     "name:zho_x_preferred":[
         "\u8cfd\u666e\u52d2\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u585e\u6d66\u8def\u65af",
+        "\u8cfd\u666e\u52d2\u65af"
+    ],
     "name:zho_yue_x_preferred":[
         "\u585e\u6d66\u8def\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "i-Cyprus"
     ],
     "ne:abbrev":"Cyp.",
     "ne:abbrev_len":4,
@@ -788,6 +942,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"357",
+    "statoids:ds":"CY",
+    "statoids:fifa":"CYP",
+    "statoids:gaul":"64",
+    "statoids:gec":"CY",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"CYP",
+    "statoids:iso_a2":"CY",
+    "statoids:iso_a3":"CYP",
+    "statoids:iso_num":"196",
+    "statoids:itu":"CYP",
+    "statoids:marc":"cy",
+    "statoids:name":"Cyprus",
+    "statoids:wmo":"CY",
     "wk:latitude":35.0,
     "wk:longitude":33.0,
     "wk:population":1141166,
@@ -799,18 +968,28 @@
     "wof:concordances":{
         "dbp:id":"Cyprus",
         "fb:id":"en.cyprus",
+        "fifa:id":"CYP",
+        "fips:code":"CY",
+        "gaul:id":"64",
         "gn:id":146669,
         "gp:id":26812346,
         "hasc:id":"CY",
+        "ioc:id":"CYP",
+        "itu:id":"CYP",
         "loc:id":"n79055857",
+        "m49:code":"196",
+        "marc:id":"cy",
+        "ne:adm0_a3":"CYP",
         "nyt:id":"48701351656611389441",
         "qs:id":514539,
+        "uncrt:id":"CY",
         "wd:id":"Q229",
-        "wk:page":"Cyprus"
+        "wk:page":"Cyprus",
+        "wmo:id":"CY"
     },
     "wof:country":"CY",
     "wof:country_alpha3":"CYP",
-    "wof:geomhash":"31b36deed97fdd504c99cd5b40fc19a4",
+    "wof:geomhash":"513b91f22a5a88b80103b4a6d5637dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -830,11 +1009,14 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1493229961,
+    "wof:lastmodified":1509142714,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":1141166,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"CYP",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

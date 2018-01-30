@@ -5,17 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003211,
+    "geom:area_square_m":37751469.09725,
     "geom:bbox":"-63.13794412,18.006999969,-63.0135803121,18.064170659",
     "geom:latitude":18.039175,
     "geom:longitude":-63.063334,
     "gn:population":37429,
     "gp:id":0,
     "iso:country":"SX",
+    "itu:country_code":[
+        "1-721"
+    ],
+    "itu:region":"1",
     "lbl:latitude":18.042123,
     "lbl:longitude":-63.058205,
     "mps:latitude":18.042123,
     "mps:longitude":-63.058205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Sint Maarten"
     ],
@@ -24,6 +32,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
     ],
     "name:arg_x_preferred":[
         "Sint Maarten"
@@ -63,23 +74,20 @@
     "name:deu_x_preferred":[
         "Sint Maarten"
     ],
-    "name:dut_x_preferred":[
-        "Sint Maarten"
-    ],
-    "name:dut_x_variant":[
-        "Eilandgebied Sint Maarten",
-        "Sint Maarten Eiland",
-        "St Maarten",
-        "St. Maarten",
-        "Stmaarten"
-    ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bd\u03bf\u03c2 (\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1)",
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bd\u03bf\u03c2"
     ],
+    "name:eng_x_preferred":[
+        "Sint Maarten"
+    ],
     "name:eng_x_unknown":[
         "SX",
         "SXM"
+    ],
+    "name:eng_x_variant":[
+        "Country of Sint Maarten",
+        "Sint Maarten (Dutch Part)"
     ],
     "name:epo_x_preferred":[
         "Sint-Maarten"
@@ -104,8 +112,9 @@
         "Saint-Martin (Royaume des Pays-Bas)",
         "Saint-Martin"
     ],
-    "name:fre_x_preferred":[
-        "\u00cele de Saint-Martin"
+    "name:fra_x_variant":[
+        "\u00cele de Saint-Martin",
+        "\u00c9tat de Saint-Martin"
     ],
     "name:frr_x_preferred":[
         "Sint Maarten"
@@ -156,6 +165,9 @@
     "name:kor_x_preferred":[
         "\uc2e0\ud2b8\ub9c8\ub974\ud134"
     ],
+    "name:kor_x_variant":[
+        "\uc2e0\ud2b8\ub9c8\ub974\ud150"
+    ],
     "name:lad_x_preferred":[
         "Sint Maarten"
     ],
@@ -189,6 +201,15 @@
         "Sint Maarten (land)",
         "Sint Maarten"
     ],
+    "name:nld_x_variant":[
+        "Stmaarten",
+        "St. Maarten",
+        "St Maarten",
+        "Sint Maarten Eiland",
+        "Sint Maarten",
+        "Eilandgebied Sint Maarten",
+        "Land Sint Maarten"
+    ],
     "name:nno_x_preferred":[
         "Sint Maarten"
     ],
@@ -215,6 +236,9 @@
         "S\u00e3o Martinho (Pa\u00edses Baixos)",
         "S\u00e3o Martinho"
     ],
+    "name:por_x_variant":[
+        "Ilha de S\u00e3o Martinho"
+    ],
     "name:ron_x_preferred":[
         "Sint Maarten"
     ],
@@ -226,6 +250,10 @@
     ],
     "name:spa_x_preferred":[
         "Sint Maarten"
+    ],
+    "name:spa_x_variant":[
+        "Isla de San Mart\u00edn",
+        "San Mart\u00edn"
     ],
     "name:srn_x_preferred":[
         "Sint Maarten"
@@ -270,6 +298,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8377\u5c6c\u8056\u99ac\u4e01"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u9a6c\u4e01\u5c9b"
     ],
     "ne:abbrev":"St. M.",
     "ne:abbrev_len":6,
@@ -345,29 +376,48 @@
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "naturalearth"
+    ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"1-721",
+    "statoids:ds":"",
+    "statoids:fifa":"",
+    "statoids:gaul":"",
+    "statoids:gec":"NN",
+    "statoids:independent":"Part of NL",
+    "statoids:ioc":"",
+    "statoids:iso_a2":"SX",
+    "statoids:iso_a3":"SXM",
+    "statoids:iso_num":"534",
+    "statoids:itu":"",
+    "statoids:marc":"sn",
+    "statoids:name":"Sint Maarten",
+    "statoids:wmo":"",
     "wk:wordcount":3357,
     "wof:belongsto":[
-        102191575,
-        "136253051"
+        102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fips:code":"NN",
         "gn:id":7609695,
         "gp:id":56558058,
         "hasc:id":"SX",
+        "m49:code":"534",
+        "marc:id":"sn",
+        "ne:adm0_a3":"SXM",
         "qs:id":693867,
         "wd:id":"Q26273"
     },
     "wof:country":"SX",
     "wof:country_alpha3":"SXM",
-    "wof:geomhash":"df364030ec9d454032d13d4060897ec3",
+    "wof:geomhash":"e84873b787cf6c121a0614f824acb306",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":85632185,
-            "empire_id":"136253051"
+            "country_id":85632185
         }
     ],
     "wof:id":85632185,
@@ -382,11 +432,14 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1493229865,
+    "wof:lastmodified":1509143021,
     "wof:name":"Sint Maarten",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":37429,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SXM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

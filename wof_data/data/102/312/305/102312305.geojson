@@ -141,6 +141,9 @@
     "name:ell_x_preferred":[
         "\u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03c9\u03bd \u0395\u03b8\u03bd\u03ce\u03bd"
     ],
+    "name:eng_x_preferred":[
+        "United Nations"
+    ],
     "name:epo_x_preferred":[
         "Unui\u011dintaj Nacioj"
     ],
@@ -620,7 +623,7 @@
         "wd:id":"Q1065"
     },
     "wof:country":"UN",
-    "wof:geomhash":"7ed71bd71aa9b6c897d0bed6f5ee1f31",
+    "wof:geomhash":"5333563c90846c0af6ee4daf4cd978d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -653,7 +656,7 @@
         "spa",
         "mul"
     ],
-    "wof:lastmodified":1493229856,
+    "wof:lastmodified":1500060334,
     "wof:name":"United Nations",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

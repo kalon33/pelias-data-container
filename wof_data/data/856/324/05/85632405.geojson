@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.075243,
+    "geom:area_square_m":28635558918.958866,
     "geom:bbox":"19.262861252,39.644481996,21.057282,42.661082",
     "geom:latitude":41.13913,
     "geom:longitude":20.066431,
     "gn:id":"",
     "gn:population":2986952,
     "iso:country":"AL",
+    "itu:country_code":[
+        "355"
+    ],
     "lbl:latitude":40.647186,
     "lbl:longitude":20.127352,
     "mps:latitude":40.647186,
     "mps:longitude":20.127352,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u0410\u0440\u043d\u0430\u0443\u044b\u04ad\u0442\u04d9\u044b\u043b\u0430"
     ],
@@ -30,6 +37,12 @@
     ],
     "name:aka_x_preferred":[
         "Albania"
+    ],
+    "name:aka_x_variant":[
+        "Albenia"
+    ],
+    "name:alb_x_preferred":[
+        "Shqip\u00ebria"
     ],
     "name:als_x_preferred":[
         "Albanien"
@@ -48,6 +61,9 @@
     ],
     "name:arg_x_preferred":[
         "Albania"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c\u0562\u0561\u0576\u056b\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0646\u064a\u0627"
@@ -70,6 +86,12 @@
     "name:bak_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Alibani"
+    ],
+    "name:baq_x_preferred":[
+        "Albania"
+    ],
     "name:bar_x_preferred":[
         "Oibanien"
     ],
@@ -85,11 +107,21 @@
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09ac\u09c7\u09a8\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09b2\u09ac\u09cd\u09af\u09be\u09a8\u09bf\u09df\u09be",
+        "\u0986\u09b2\u09ac\u09cd\u09af\u09be\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0905\u0932\u094d\u092c\u093e\u0928\u093f\u092f\u093e"
+    ],
     "name:bis_x_preferred":[
         "Albania"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f63\u0f0b\u0f54\u0f0b\u0f49\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f63\u0f0b\u0f56\u0f71\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Albanija"
@@ -100,8 +132,14 @@
     "name:bre_x_preferred":[
         "Albania"
     ],
+    "name:brh_x_preferred":[
+        "Alb\u00e1n\u00ed\u00e1"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
+    ],
+    "name:bur_x_preferred":[
+        "\u1021\u101a\u103a\u101c\u103a\u1018\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438"
@@ -122,9 +160,6 @@
         "\u0410\u043b\u0431\u0430\u043d\u0438"
     ],
     "name:chi_x_preferred":[
-        "\u963f\u723e\u5df4\u5c3c\u4e9e"
-    ],
-    "name:chi_x_variant":[
         "\u963f\u5c14\u5df4\u5c3c\u4e9a"
     ],
     "name:chr_x_preferred":[
@@ -163,6 +198,9 @@
     "name:deu_x_preferred":[
         "Albanien"
     ],
+    "name:deu_x_variant":[
+        "Republik Albanien"
+    ],
     "name:diq_x_preferred":[
         "Arnawudiye"
     ],
@@ -172,6 +210,9 @@
     "name:dsb_x_preferred":[
         "Alba\u0144ska"
     ],
+    "name:dty_x_preferred":[
+        "\u0905\u0932\u094d\u092c\u093e\u0928\u093f\u092f\u093e"
+    ],
     "name:dut_x_preferred":[
         "Albani\u00eb"
     ],
@@ -180,6 +221,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b2\u03b1\u03bd\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Alban\u00ee"
     ],
     "name:eng_x_preferred":[
         "Albania"
@@ -196,6 +240,9 @@
     "name:epo_x_preferred":[
         "Albanio"
     ],
+    "name:epo_x_variant":[
+        "Albanujo"
+    ],
     "name:est_x_preferred":[
         "Albaania"
     ],
@@ -205,6 +252,9 @@
     "name:ewe_x_preferred":[
         "Albania"
     ],
+    "name:ewe_x_variant":[
+        "Albania nutome"
+    ],
     "name:ext_x_preferred":[
         "Alb\u00e1nia"
     ],
@@ -213,6 +263,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u0628\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0628\u0627\u0646\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Albania"
@@ -235,17 +288,20 @@
     "name:ful_x_preferred":[
         "Albaniya"
     ],
+    "name:ful_x_variant":[
+        "Albanii"
+    ],
     "name:fur_x_preferred":[
         "Albanie"
     ],
     "name:gag_x_preferred":[
         "Albaniya"
     ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da\u10d1\u10d0\u10dc\u10d4\u10d7\u10d8"
+    ],
     "name:ger_x_preferred":[
         "Albanien"
-    ],
-    "name:ger_x_variant":[
-        "Republik Albanien"
     ],
     "name:gla_x_preferred":[
         "Alb\u00e0inia"
@@ -256,6 +312,9 @@
     "name:glg_x_preferred":[
         "Albania"
     ],
+    "name:glg_x_variant":[
+        "Albania - Shqip\u00ebria"
+    ],
     "name:glv_x_preferred":[
         "Yn Albaan"
     ],
@@ -265,11 +324,20 @@
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf3b\ud800\udf31\ud800\udf30\ud800\udf3d\ud800\udf3e\ud800\udf30"
     ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb\u03b2\u03b1\u03bd\u03af\u03b1"
+    ],
     "name:grn_x_preferred":[
         "Ava\u00f1a"
     ],
+    "name:gsw_x_preferred":[
+        "Albanie"
+    ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab2\u0acd\u0aac\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
+    ],
+    "name:guj_x_variant":[
+        "\u0a85\u0ab2\u0acd\u0aac\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
     ],
     "name:hak_x_preferred":[
         "Albania"
@@ -295,6 +363,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0932\u094d\u092c\u093e\u0928\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0905\u0932\u094d\u092c\u0947\u0928\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Albanija"
     ],
@@ -309,6 +380,9 @@
     ],
     "name:ibo_x_preferred":[
         "Albania"
+    ],
+    "name:ice_x_preferred":[
+        "Alban\u00eda"
     ],
     "name:ido_x_preferred":[
         "Albania"
@@ -355,6 +429,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb2\u0ccd\u0cac\u0cc7\u0ca8\u0cbf\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0c85\u0cb2\u0ccd\u0cac\u0cc7\u0ca8\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d1\u10d0\u10dc\u10d4\u10d7\u10d8"
     ],
@@ -366,6 +443,9 @@
     ],
     "name:khm_x_preferred":[
         "\u17a2\u17b6\u179b\u17cb\u1794\u17b6\u1793\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Albania"
     ],
     "name:kin_x_preferred":[
         "Alubaniya"
@@ -394,8 +474,14 @@
     "name:kur_x_preferred":[
         "Albanya"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u06b5\u0628\u0627\u0646\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Albania"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec1\u0ead\u0ea5\u0ec0\u0e9a\u0ec0\u0e99\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Albania"
@@ -412,8 +498,14 @@
     "name:lin_x_preferred":[
         "Albania"
     ],
+    "name:lin_x_variant":[
+        "Alibani"
+    ],
     "name:lit_x_preferred":[
         "Albanija"
+    ],
+    "name:liv_x_preferred":[
+        "Alb\u0101nij"
     ],
     "name:lmo_x_preferred":[
         "Albania"
@@ -427,11 +519,35 @@
     "name:ltz_x_preferred":[
         "Albanien"
     ],
+    "name:lub_x_preferred":[
+        "Alubani"
+    ],
+    "name:lug_x_preferred":[
+        "Alibaniya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u963f\u723e\u5df4\u5c3c\u4e9e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u043b\u0431\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0932\u094d\u092c\u093e\u0928\u093f\u092f\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d7d\u0d2c\u0d47\u0d28\u0d3f\u0d2f"
     ],
+    "name:mao_x_preferred":[
+        "Arapeinia"
+    ],
     "name:mar_x_preferred":[
         "\u0906\u0932\u094d\u092c\u0947\u0928\u093f\u092f\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0905\u0932\u094d\u092c\u093e\u0928\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Albania"
     ],
     "name:mdf_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
@@ -475,6 +591,12 @@
     "name:mzn_x_preferred":[
         "\u0622\u0644\u0628\u0627\u0646\u06cc"
     ],
+    "name:nah_x_preferred":[
+        "Albania"
+    ],
+    "name:nan_x_preferred":[
+        "Shqip\u00ebria"
+    ],
     "name:nap_x_preferred":[
         "Albania"
     ],
@@ -483,6 +605,9 @@
     ],
     "name:nav_x_preferred":[
         "Dzi\u0142igaii Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Albania"
     ],
     "name:nds_nld_x_preferred":[
         "Albani\u00eb"
@@ -502,6 +627,9 @@
     "name:nno_x_preferred":[
         "Albania"
     ],
+    "name:nob_x_preferred":[
+        "Albania"
+    ],
     "name:nor_x_preferred":[
         "Albania"
     ],
@@ -510,6 +638,9 @@
     ],
     "name:oci_x_preferred":[
         "Albania"
+    ],
+    "name:olo_x_preferred":[
+        "Albuanii"
     ],
     "name:ori_x_preferred":[
         "\u0b06\u0b32\u0b2c\u0b3e\u0b28\u0b3f\u0b06"
@@ -538,6 +669,9 @@
     "name:pdc_x_preferred":[
         "Albaani"
     ],
+    "name:per_x_preferred":[
+        "\u0622\u0644\u0628\u0627\u0646\u06cc"
+    ],
     "name:pih_x_preferred":[
         "Elbanya"
     ],
@@ -562,8 +696,14 @@
     "name:pus_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0646\u06cc\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0646\u06cc\u0647"
+    ],
     "name:que_x_preferred":[
         "Albanya"
+    ],
+    "name:que_x_variant":[
+        "Albaniya"
     ],
     "name:rmy_x_preferred":[
         "Shkiperiya"
@@ -579,6 +719,12 @@
     ],
     "name:rum_x_preferred":[
         "Albania"
+    ],
+    "name:run_x_preferred":[
+        "Alubaniya"
+    ],
+    "name:rup_x_preferred":[
+        "Arbinishia"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
@@ -598,10 +744,16 @@
     "name:sco_x_preferred":[
         "Albanie"
     ],
+    "name:sgs_x_preferred":[
+        "Alban\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0d87\u0dbd\u0dca\u0db6\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
+        "Alb\u00e1nsko"
+    ],
+    "name:slo_x_preferred":[
         "Alb\u00e1nsko"
     ],
     "name:slv_x_preferred":[
@@ -616,6 +768,9 @@
     "name:som_x_preferred":[
         "Albania"
     ],
+    "name:som_x_variant":[
+        "Albaaniya"
+    ],
     "name:sot_x_preferred":[
         "Albania"
     ],
@@ -624,6 +779,9 @@
     ],
     "name:sqi_x_preferred":[
         "Shqip\u00ebria"
+    ],
+    "name:sqi_x_variant":[
+        "Republika e Shqip\u00ebris\u00eb"
     ],
     "name:srd_x_preferred":[
         "Albania"
@@ -676,6 +834,18 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e41\u0e2d\u0e25\u0e40\u0e1a\u0e40\u0e19\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e2d\u0e25\u0e40\u0e1a\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f68\u0f63\u0f0b\u0f54\u0f0b\u0f49\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a0\u120d\u1263\u1292\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbAlipania"
+    ],
     "name:tpi_x_preferred":[
         "Albenia"
     ],
@@ -691,8 +861,14 @@
     "name:tur_x_preferred":[
         "Arnavutluk"
     ],
+    "name:tur_x_variant":[
+        "Arnavutluk Cumhuriyeti"
+    ],
     "name:twi_x_preferred":[
         "Albania"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
     ],
     "name:udm_x_preferred":[
         "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
@@ -721,8 +897,14 @@
         "Republika Albanija",
         "Shqiperia"
     ],
+    "name:unk_x_variant":[
+        "Republika Popullore e Shqip\u00ebris\u00eb"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0646\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0646\u06cc\u06c1"
     ],
     "name:uzb_x_preferred":[
         "Albaniya"
@@ -736,14 +918,24 @@
     "name:vie_x_preferred":[
         "Albania"
     ],
+    "name:vie_x_variant":[
+        "An-ba-ni",
+        "An-ba-ni (Albania)"
+    ],
     "name:vls_x_preferred":[
         "Albani\u00eb"
     ],
     "name:vol_x_preferred":[
         "Lalban\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Albaania"
+    ],
     "name:war_x_preferred":[
         "Albanya"
+    ],
+    "name:wel_x_preferred":[
+        "Albania"
     ],
     "name:wol_x_preferred":[
         "Albaani"
@@ -763,6 +955,12 @@
     "name:yor_x_preferred":[
         "Alb\u00e1n\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u00c0l\u00f9b\u00e0n\u00ed\u00e1n\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u723e\u5df4\u5c3c\u4e9e"
+    ],
     "name:zea_x_preferred":[
         "Albani\u00eb"
     ],
@@ -772,11 +970,18 @@
     "name:zho_x_preferred":[
         "\u963f\u5c14\u5df4\u5c3c\u4e9a"
     ],
+    "name:zho_x_variant":[
+        "\u963f\u723e\u5df4\u5c3c\u4e9e",
+        "\u963f\u5c14\u5df4\u5c3c\u4e9a"
+    ],
     "name:zho_yue_x_preferred":[
         "\u963f\u723e\u5df4\u5c3c\u4e9e"
     ],
     "name:zul_x_preferred":[
         "I-Albaniya"
+    ],
+    "name:zul_x_variant":[
+        "i-Albania"
     ],
     "ne:abbrev":"Alb.",
     "ne:abbrev_len":4,
@@ -856,6 +1061,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"355",
+    "statoids:ds":"AL",
+    "statoids:fifa":"ALB",
+    "statoids:gaul":"3",
+    "statoids:gec":"AL",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ALB",
+    "statoids:iso_a2":"AL",
+    "statoids:iso_a3":"ALB",
+    "statoids:iso_num":"8",
+    "statoids:itu":"ALB",
+    "statoids:marc":"aa",
+    "statoids:name":"Albania",
+    "statoids:wmo":"AB",
     "wk:latitude":41.0,
     "wk:longitude":20.0,
     "wk:population":3020209,
@@ -867,19 +1087,29 @@
     "wof:concordances":{
         "dbp:id":"Albania",
         "fb:id":"en.albania",
+        "fifa:id":"ALB",
+        "fips:code":"AL",
+        "gaul:id":"3",
         "gn:id":783754,
         "gp:id":23424742,
         "hasc:id":"AL",
+        "ioc:id":"ALB",
+        "itu:id":"ALB",
         "loc:id":"n83221467",
+        "m49:code":"008",
+        "marc:id":"aa",
         "mzb:id":"albania",
+        "ne:adm0_a3":"ALB",
         "nyt:id":"66220885864277068001",
         "qs:id":553555,
+        "uncrt:id":"AL",
         "wd:id":"Q222",
-        "wk:page":"Albania"
+        "wk:page":"Albania",
+        "wmo:id":"AB"
     },
     "wof:country":"AL",
     "wof:country_alpha3":"ALB",
-    "wof:geomhash":"7edebf8496859961b4000f6cc8b713c0",
+    "wof:geomhash":"43ababe5967dfc80ce4cb8846cdb45e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -896,11 +1126,14 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1493229949,
+    "wof:lastmodified":1514538750,
     "wof:name":"Albania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":3020209,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ALB",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

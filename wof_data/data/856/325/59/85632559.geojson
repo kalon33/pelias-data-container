@@ -5,22 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.745302,
+    "geom:area_square_m":753957103372.132935,
     "geom:bbox":"21.996388,-18.077418,33.702222,-8.203284",
     "geom:latitude":-13.454028,
     "geom:longitude":27.797599,
     "gn:id":"",
     "gn:population":13460305,
     "iso:country":"ZM",
+    "itu:country_code":[
+        "260"
+    ],
     "lbl:latitude":-14.936526,
     "lbl:longitude":25.940824,
     "mps:latitude":-14.936526,
     "mps:longitude":25.940824,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Zambia"
     ],
     "name:afr_x_preferred":[
         "Zambi\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Zambia"
     ],
     "name:als_x_preferred":[
         "Sambia"
@@ -48,6 +58,9 @@
     ],
     "name:bam_x_preferred":[
         "Zanbia"
+    ],
+    "name:bam_x_variant":[
+        "Zanbi"
     ],
     "name:bcl_x_preferred":[
         "Sambya"
@@ -97,13 +110,6 @@
     "name:che_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5c1a\u6bd4\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u5c1a\u6bd4\u4e9e",
-        "\u8d5e\u6bd4\u4e9a"
-    ],
     "name:chv_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0438"
     ],
@@ -131,6 +137,9 @@
     "name:deu_x_preferred":[
         "Sambia"
     ],
+    "name:deu_x_variant":[
+        "Nordrhodesien"
+    ],
     "name:diq_x_preferred":[
         "Zambiya"
     ],
@@ -140,8 +149,14 @@
     "name:dsb_x_preferred":[
         "Sambija"
     ],
+    "name:dzo_x_preferred":[
+        "\u0f5b\u0f58\u0f0b\u0f56\u0f72\u0f0b\u0f61"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03ac\u03bc\u03c0\u03b9\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Northern Rhodesia"
     ],
     "name:eng_x_preferred":[
         "Zambia"
@@ -162,11 +177,17 @@
     "name:est_x_preferred":[
         "Sambia"
     ],
+    "name:est_x_variant":[
+        "Zambia"
+    ],
     "name:eus_x_preferred":[
         "Zambia"
     ],
     "name:ewe_x_preferred":[
         "Zambia"
+    ],
+    "name:ewe_x_variant":[
+        "Zambia nutome"
     ],
     "name:ext_x_preferred":[
         "Z\u00e1mbia"
@@ -183,23 +204,17 @@
     "name:fra_x_preferred":[
         "Zambie"
     ],
-    "name:fre_x_preferred":[
-        "Zambie"
-    ],
     "name:frp_x_preferred":[
         "Zambie"
     ],
     "name:fry_x_preferred":[
         "Sambia"
     ],
+    "name:ful_x_preferred":[
+        "Sammbi"
+    ],
     "name:gag_x_preferred":[
         "Zambiya"
-    ],
-    "name:ger_x_preferred":[
-        "Sambia"
-    ],
-    "name:ger_x_variant":[
-        "Nordrhodesien"
     ],
     "name:gla_x_preferred":[
         "Saimbia"
@@ -213,11 +228,17 @@
     "name:glv_x_preferred":[
         "Yn Tambia"
     ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0abe\u0aae\u0acd\u0aac\u0abf\u0aaf\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Zambia"
     ],
     "name:hat_x_preferred":[
         "Zanbi"
+    ],
+    "name:hau_x_preferred":[
+        "Zambiya"
     ],
     "name:hbs_x_preferred":[
         "Zambija"
@@ -230,6 +251,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u091c\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "Zambija"
@@ -264,6 +288,9 @@
     "name:isl_x_preferred":[
         "Samb\u00eda"
     ],
+    "name:isl_x_variant":[
+        "Nor\u00f0ur-R\u00f3des\u00eda"
+    ],
     "name:ita_x_preferred":[
         "Zambia"
     ],
@@ -289,6 +316,12 @@
     "name:kab_x_preferred":[
         "Zambya"
     ],
+    "name:kal_x_preferred":[
+        "Zambia"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9d\u0cbe\u0c82\u0cac\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10d6\u10d0\u10db\u10d1\u10d8\u10d0"
     ],
@@ -297,6 +330,9 @@
     ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a0\u17d2\u179f\u17c6\u1794\u17ca\u17b8"
+    ],
+    "name:khm_x_variant":[
+        "\u17a0\u17d2\u179f\u17b6\u17c6\u1794\u17ca\u17b8"
     ],
     "name:kik_x_preferred":[
         "Zambia"
@@ -316,6 +352,12 @@
     "name:kur_x_preferred":[
         "Zambiya"
     ],
+    "name:kur_x_variant":[
+        "\u0632\u0627\u0645\u0628\u06cc\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec1\u0e8a\u0ea1\u0ec0\u0e9a\u0e8d"
+    ],
     "name:lat_x_preferred":[
         "Zambia"
     ],
@@ -331,6 +373,9 @@
     "name:lin_x_preferred":[
         "Zambia"
     ],
+    "name:lin_x_variant":[
+        "Zambi"
+    ],
     "name:lit_x_preferred":[
         "Zambija"
     ],
@@ -343,8 +388,14 @@
     "name:ltz_x_preferred":[
         "Sambia"
     ],
+    "name:lub_x_preferred":[
+        "Zambi"
+    ],
     "name:lug_x_preferred":[
         "Zambia"
+    ],
+    "name:lug_x_variant":[
+        "Zambya"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3e\u0d02\u0d2c\u0d3f\u0d2f"
@@ -352,8 +403,14 @@
     "name:mar_x_preferred":[
         "\u091d\u093e\u0902\u092c\u093f\u092f\u093e"
     ],
+    "name:mar_x_variant":[
+        "\u091d\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
     "name:mkd_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0438\u0458\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Zambia"
     ],
     "name:mlt_x_preferred":[
         "\u017bambja"
@@ -370,11 +427,20 @@
     "name:mya_x_preferred":[
         "\u1007\u1019\u103a\u1018\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1007\u1019\u103a\u1018\u102e\u101a\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u0632\u0627\u0645\u0628\u06cc\u0627"
     ],
+    "name:nde_x_preferred":[
+        "Zambiya"
+    ],
     "name:nds_x_preferred":[
         "Sambia"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
     ],
     "name:new_x_preferred":[
         "\u091c\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
@@ -383,6 +449,9 @@
         "Zambia"
     ],
     "name:nno_x_preferred":[
+        "Zambia"
+    ],
+    "name:nob_x_preferred":[
         "Zambia"
     ],
     "name:nor_x_preferred":[
@@ -430,6 +499,9 @@
     "name:pol_x_preferred":[
         "Zambia"
     ],
+    "name:pol_x_variant":[
+        "Rodezja P\u00f3\u0142nocna"
+    ],
     "name:por_x_preferred":[
         "Z\u00e2mbia"
     ],
@@ -439,11 +511,17 @@
     "name:que_x_preferred":[
         "Sambya"
     ],
+    "name:roh_x_preferred":[
+        "Sambia"
+    ],
     "name:ron_x_preferred":[
         "Zambia"
     ],
     "name:rue_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0456\u044f"
+    ],
+    "name:run_x_preferred":[
+        "Zambiya"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0438\u044f"
@@ -466,6 +544,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf"
     ],
+    "name:sin_x_variant":[
+        "\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
     "name:slk_x_preferred":[
         "Zambia"
     ],
@@ -474,6 +555,9 @@
     ],
     "name:sme_x_preferred":[
         "Z\u00e1mbia"
+    ],
+    "name:sme_x_variant":[
+        "Zambia"
     ],
     "name:sna_x_preferred":[
         "Zambia (nyika)",
@@ -493,6 +577,9 @@
     ],
     "name:sqi_x_preferred":[
         "Zambia"
+    ],
+    "name:sqi_x_variant":[
+        "Zambi"
     ],
     "name:srd_x_preferred":[
         "Z\u00e0mbia"
@@ -536,8 +623,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e41\u0e0b\u0e21\u0e40\u0e1a\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e0b\u0e21\u0e40\u0e1a\u0e35\u0e22"
+    ],
     "name:tir_x_preferred":[
         "\u12db\u121d\u1262\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Semipia"
     ],
     "name:tsn_x_preferred":[
         "Zambia"
@@ -567,8 +660,14 @@
     "name:und_x_variant":[
         "Republika Zambija"
     ],
+    "name:unk_x_variant":[
+        "Northern Rhodesia"
+    ],
     "name:urd_x_preferred":[
         "\u0632\u06cc\u0645\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0632\u0627\u0645\u0628\u06cc\u0627"
     ],
     "name:uzb_x_preferred":[
         "Zambiya"
@@ -581,6 +680,10 @@
     ],
     "name:vie_x_preferred":[
         "Zambia"
+    ],
+    "name:vie_x_variant":[
+        "D\u0103m-bi-a",
+        "D\u0103m-bi-a (Zambia)"
     ],
     "name:vol_x_preferred":[
         "Zambiy\u00e4n"
@@ -606,6 +709,9 @@
     "name:yor_x_preferred":[
         "S\u00e1mb\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u1e63amibia"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Zambia"
     ],
@@ -613,13 +719,17 @@
         "\u8d5e\u6bd4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u5c1a\u6bd4\u4e9e"
+        "\u5c1a\u6bd4\u4e9e",
+        "\u8d5e\u6bd4\u4e9a"
     ],
     "name:zho_yue_x_preferred":[
         "\u8d0a\u6bd4\u4e9e"
     ],
     "name:zul_x_preferred":[
         "IZambiya"
+    ],
+    "name:zul_x_variant":[
+        "i-Zambia"
     ],
     "ne:abbrev":"Zambia",
     "ne:abbrev_len":6,
@@ -699,6 +809,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"260",
+    "statoids:ds":"Z",
+    "statoids:fifa":"ZAM",
+    "statoids:gaul":"270",
+    "statoids:gec":"ZA",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ZAM",
+    "statoids:iso_a2":"ZM",
+    "statoids:iso_a3":"ZMB",
+    "statoids:iso_num":"894",
+    "statoids:itu":"ZMB",
+    "statoids:marc":"za",
+    "statoids:name":"Zambia",
+    "statoids:wmo":"ZB",
     "wk:area":752618.0,
     "wk:latitude":-14.116667,
     "wk:longitude":27.633333,
@@ -711,19 +836,29 @@
     "wof:concordances":{
         "dbp:id":"Zambia",
         "fb:id":"en.zambia",
+        "fifa:id":"ZAM",
+        "fips:code":"ZA",
+        "gaul:id":"270",
         "gn:id":895949,
         "gp:id":23425003,
         "hasc:id":"ZM",
+        "ioc:id":"ZAM",
+        "itu:id":"ZMB",
         "loc:id":"n80089997",
+        "m49:code":"894",
+        "marc:id":"za",
         "mzb:id":"zambia",
+        "ne:adm0_a3":"ZMB",
         "nyt:id":"66220959598563737601",
         "qs:id":1174108,
+        "uncrt:id":"Z",
         "wd:id":"Q953",
-        "wk:page":"Zambia"
+        "wk:page":"Zambia",
+        "wmo:id":"ZB"
     },
     "wof:country":"ZM",
     "wof:country_alpha3":"ZMB",
-    "wof:geomhash":"7816f1915238b3cafaebe144b014a174",
+    "wof:geomhash":"f8e389b6b3040d88444cec22442f759b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -740,11 +875,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1493230003,
+    "wof:lastmodified":1509143055,
     "wof:name":"Zambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":14309466,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ZMB",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

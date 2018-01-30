@@ -5,22 +5,38 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":190.044462,
+    "geom:area_square_m":2340087702826.265625,
     "geom:bbox":"12.201992072,-13.459035,31.314611,5.392003",
     "geom:latitude":-2.877746,
     "geom:longitude":23.655647,
     "gn:id":"",
     "gn:population":70916439,
     "iso:country":"CD",
+    "itu:country_code":[
+        "243"
+    ],
     "lbl:latitude":-2.271721,
     "lbl:longitude":23.513592,
     "mps:latitude":-2.271721,
     "mps:longitude":23.513592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Republik Demokratik Kongo"
     ],
     "name:afr_x_preferred":[
         "Demokratiese Republiek van die Kongo"
+    ],
+    "name:afr_x_variant":[
+        "Kongo (DRK)"
+    ],
+    "name:aka_x_preferred":[
+        "Kongo (Zair)"
+    ],
+    "name:alb_x_preferred":[
+        "Republika Demokratike e Kongos"
     ],
     "name:als_x_preferred":[
         "Demokratische Republik Kongo"
@@ -28,11 +44,17 @@
     "name:amh_x_preferred":[
         "\u12ae\u1295\u130e \u12f2\u121e\u12ad\u122b\u1232\u12eb\u12ca \u122a\u1350\u1265\u120a\u12ad"
     ],
+    "name:amh_x_variant":[
+        "\u12ae\u1295\u130e"
+    ],
     "name:ang_x_preferred":[
         "Folcr\u012bcelicu Cynew\u012bse \u00fe\u00e6s Congwes"
     ],
     "name:ara_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0648\u0646\u063a\u0648 - \u0643\u064a\u0646\u0634\u0627\u0633\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0729\u0718\u071b\u0722\u071d\u0718\u072c\u0710 \u0715\u0729\u0718\u0722\u0713\u0718 \u0715\u071d\u0721\u0718\u0729\u072a\u071b\u071d\u072c\u0710"
@@ -40,11 +62,21 @@
     "name:arg_x_preferred":[
         "Republica Democratica d'o Congo"
     ],
+    "name:arg_x_variant":[
+        "Republica Democratica do Congo"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0576\u0563\u0578\u0575\u056b \u0534\u0565\u0574\u0578\u056f\u0580\u0561\u057f\u0561\u056f\u0561\u0576 \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
     "name:arz_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0646\u062c\u0648 \u0627\u0644\u062f\u064a\u0645\u0648\u0642\u0631\u0627\u0637\u064a\u0647"
     ],
     "name:ast_x_preferred":[
         "Rep\u00fablica Democr\u00e1tica d'El Congo"
+    ],
+    "name:ast_x_variant":[
+        "Rep\u00fablica Democr\u00e1tica dEl Congo",
+        "Rep\u00fablica Democr\u00e1tica d'El Congu"
     ],
     "name:azb_x_preferred":[
         "\u06a9\u0646\u0642\u0648 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062c\u0648\u0645\u0647\u0648\u0631\u06cc\u062a\u06cc"
@@ -52,11 +84,20 @@
     "name:aze_x_preferred":[
         "Konqo Demokratik Respublikas\u0131"
     ],
+    "name:aze_x_variant":[
+        "Konqo - Kin\u015fasa"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u043a \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
     ],
     "name:bam_x_preferred":[
         "Kongo ka B\u025bj\u025bfanga Fasojamana"
+    ],
+    "name:bam_x_variant":[
+        "Kongo ka republiki dem\u0254kratiki"
+    ],
+    "name:baq_x_preferred":[
+        "Kongoko Errepublika Demokratikoa"
     ],
     "name:bcl_x_preferred":[
         "Demokratikong Republika kan Kongo"
@@ -65,10 +106,23 @@
         "\u0414\u044d\u043c\u0430\u043a\u0440\u0430\u0442\u044b\u0447\u043d\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0414\u044d\u043c\u0430\u043a\u0440\u0430\u0442\u044b\u0447\u043d\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u0430"
+        "\u0414\u044d\u043c\u0430\u043a\u0440\u0430\u0442\u044b\u0447\u043d\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u0430",
+        "\u041a\u043e\u043d\u0433\u0430, \u0414\u044d\u043c\u0430\u043a\u0440\u0430\u0442\u044b\u0447\u043d\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09a3\u09a4\u09be\u09a8\u09cd\u09a4\u09cd\u09b0\u09bf\u0995 \u0995\u0999\u09cd\u0997\u09cb \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u0999\u09cd\u0997\u09cb[DRC]"
+    ],
+    "name:bgn_x_preferred":[
+        "\u06a9\u0627\u0646\u06af\u0648 \u0626\u06cc \u062f\u06cc\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9\u06cc\u0646 \u062c\u0645\u0647\u0648\u0631\u06cc\u062a"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u093e\u0902\u0917\u094b \u0921\u0947\u092e\u094b\u0915\u094d\u0930\u0947\u091f\u093f\u0915 \u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915"
+    ],
+    "name:bih_x_preferred":[
+        "\u0915\u093e\u0902\u0917\u094b \u0921\u0947\u092e\u094b\u0915\u094d\u0930\u0947\u091f\u093f\u0915 \u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915"
     ],
     "name:bjn_x_preferred":[
         "Ripublik Demokratik Kongo"
@@ -79,20 +133,35 @@
     "name:bos_x_preferred":[
         "Demokratska Republika Kongo"
     ],
+    "name:bos_x_variant":[
+        "Kongo [DRC]"
+    ],
     "name:bpy_x_preferred":[
         "\u0997\u09a8\u09a4\u09be\u09a8\u09cd\u09a4\u09cd\u09b0\u09bf\u0995 \u0995\u0999\u09cd\u0997\u09cb \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0"
     ],
     "name:bre_x_preferred":[
         "Republik Demokratel Kongo"
     ],
+    "name:bre_x_variant":[
+        "Kongo [RDK]"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u043e\u043d\u0433\u043e [\u0414\u0420\u041a]"
+    ],
+    "name:bur_x_preferred":[
+        "\u1000\u103d\u1014\u103a\u1002\u102d\u102f\u1012\u102e\u1019\u102d\u102f\u1000\u101b\u1000\u103a\u1010\u1005\u103a\u101e\u1019\u1039\u1019\u1010\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0411\u04af\u0433\u044d\u0434\u044d \u041d\u0430\u0439\u0440\u0430\u043c\u0434\u0430\u0445\u0430 \u0410\u0440\u0430\u0434\u0448\u0430\u043b\u04bb\u0430\u043d \u041a\u043e\u043d\u0433\u043e \u0423\u043b\u0430\u0441"
     ],
     "name:cat_x_preferred":[
         "Rep\u00fablica Democr\u00e0tica del Congo"
+    ],
+    "name:cat_x_variant":[
+        "Congo - Kinshasa"
     ],
     "name:cdo_x_preferred":[
         "Congo M\u00ecng-ci\u014d G\u00ea\u0324\u1e73ng-hu\u00f2-gu\u00f3k"
@@ -103,11 +172,14 @@
     "name:ces_x_preferred":[
         "Demokratick\u00e1 republika Kongo"
     ],
+    "name:ces_x_variant":[
+        "Kongo - DRK"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
     ],
     "name:chi_x_preferred":[
-        "\u6c11\u4e3b\u525b\u679c"
+        "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd"
     ],
     "name:chr_x_preferred":[
         "\u13cd\u13a6\u13da\u13a9 \u13be\u13cd\u13a9 \u13a4\u13c2\u13e3\u13d8 \u13a4\u13be\u13d3\u13c5\u13d6\u13d7 \u13a7\u13c2\u13aa"
@@ -131,11 +203,18 @@
     "name:cym_x_preferred":[
         "Gweriniaeth Ddemocrataidd y Congo"
     ],
+    "name:cym_x_variant":[
+        "Y Congo - Kinshasa"
+    ],
     "name:cze_x_preferred":[
         "Demokratick\u00e1 Republika Kongo"
     ],
     "name:cze_x_variant":[
-        "Kongo, demokratick\u00e1 republika"
+        "Kongo, demokratick\u00e1 republika",
+        "Demokratick\u00e1 republika Kongo"
+    ],
+    "name:dan_x_historical":[
+        "Zaire"
     ],
     "name:dan_x_preferred":[
         "Demokratiske Republik Congo"
@@ -144,8 +223,23 @@
         "Den Demokratiske Republik Congo",
         "Zaire"
     ],
+    "name:deu_x_historical":[
+        "Belgisch Congo",
+        "Belgisch Kongo",
+        "Zaire"
+    ],
     "name:deu_x_preferred":[
         "Demokratische Republik Kongo"
+    ],
+    "name:deu_x_variant":[
+        "Kongo, Demokratische Republik",
+        "Zaire",
+        "Belgisch Congo",
+        "Belgisch Kongo",
+        "Kongo"
+    ],
+    "name:din_x_preferred":[
+        "Miir Pan Ko\u014bgo"
     ],
     "name:diq_x_preferred":[
         "Cumhuriyet\u00ea Kongoy\u00ea Demokratiki"
@@ -157,14 +251,25 @@
     "name:dsb_x_preferred":[
         "Demokratiska republika Kongo"
     ],
+    "name:dty_x_preferred":[
+        "\u0932\u094b\u0915\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0915\u0902\u0917\u094b"
+    ],
     "name:dut_x_preferred":[
         "Congo-Kinshasa"
     ],
-    "name:dut_x_variant":[
-        "Congo, Democratische Republiek"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03ca\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bd\u03b3\u03ba\u03cc, \u039b\u03b1\u03ca\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5",
+        "\u039a\u03bf\u03bd\u03b3\u03ba\u03cc, \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5"
+    ],
+    "name:eng_x_colloquial":[
+        "Congo"
+    ],
+    "name:eng_x_historical":[
+        "Belgian Congo",
+        "Republic of Zaire"
     ],
     "name:eng_x_preferred":[
         "Democratic Republic of Congo"
@@ -186,7 +291,13 @@
         "Rep. Congo",
         "Republic of Congo",
         "The Democratic Republic of the Congo",
-        "Zaire"
+        "Zaire",
+        "Belgian Congo",
+        "Congo [DRC]",
+        "Republic of Zaire",
+        "Congo",
+        "Congo, The Democratic Republic Of",
+        "Congo (Kinshasa)"
     ],
     "name:epo_x_preferred":[
         "Demokratia Respubliko Kongo"
@@ -194,8 +305,18 @@
     "name:est_x_preferred":[
         "Kongo Demokraatlik Vabariik"
     ],
+    "name:est_x_variant":[
+        "Kongo DV",
+        "Kongo-Kinshasa"
+    ],
     "name:eus_x_preferred":[
         "Kongoko Errepublika Demokratikoa"
+    ],
+    "name:eus_x_variant":[
+        "Kongo [KED]"
+    ],
+    "name:ewe_x_preferred":[
+        "Kongo Kinshasa nutome"
     ],
     "name:ext_x_preferred":[
         "Rep\u00fabrica Democr\u00e1tica del Congu"
@@ -203,8 +324,17 @@
     "name:fao_x_preferred":[
         "F\u00f3lkar\u00e6\u00f0iliga L\u00fd\u00f0veldi\u00f0 Kongo"
     ],
+    "name:fao_x_variant":[
+        "Kongo-Kinshasa"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u06a9\u0646\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0646\u06af\u0648 - \u06a9\u06cc\u0646\u0634\u0627\u0633\u0627"
+    ],
+    "name:fin_x_historical":[
+        "Zaire"
     ],
     "name:fin_x_preferred":[
         "Kongon demokraattinen tasavalta"
@@ -212,29 +342,45 @@
     "name:fin_x_variant":[
         "Kongo Kinshasa",
         "Kongo-Kinshasa",
-        "Zaire"
+        "Zaire",
+        "Kongo (Kinshasa)",
+        "Kinshasan Kongo"
+    ],
+    "name:fra_x_colloquial":[
+        "Rep. Dem. du Congo",
+        "Republique Democratique du Congo"
+    ],
+    "name:fra_x_historical":[
+        "Congo Belge",
+        "R\u00e9publique du Za\u00efre"
     ],
     "name:fra_x_preferred":[
         "R\u00e9publique d\u00e9mocratique du Congo"
     ],
-    "name:fre_x_colloquial":[
-        "Rep. Dem. du Congo",
-        "Republique Democratique du Congo"
+    "name:fra_x_variant":[
+        "R\u00e9publique Democratique du Congo",
+        "R\u00e9p. D\u00e9m. du Congo",
+        "R\u00e9publique D\u00e9mocratique du Congo",
+        "Congo-Kinshasa",
+        "Za\u00efre",
+        "Congo Belge",
+        "R\u00e9publique du Za\u00efre",
+        "RDC"
     ],
     "name:fre_x_preferred":[
-        "R\u00e9publique D\u00e9mocratique du Congo"
-    ],
-    "name:fre_x_variant":[
-        "Congo-Kinshasa",
-        "R\u00e9p. D\u00e9m. du Congo",
-        "R\u00e9publique Democratique du Congo",
-        "Za\u00efre"
+        "R\u00e9publique d\u00e9mocratique du Congo"
     ],
     "name:frp_x_preferred":[
         "R\u00e8publica d\u00e8mocratica du Cong\u00f4"
     ],
+    "name:frr_x_preferred":[
+        "Demokraatisk Republiik Kongo"
+    ],
     "name:fry_x_preferred":[
         "Demokratyske Republyk Kongo"
+    ],
+    "name:ful_x_preferred":[
+        "Ndenndaandi Demokaraasiire Konngo"
     ],
     "name:gag_x_preferred":[
         "Kongo Demokratik Respublikas\u0131"
@@ -242,12 +388,11 @@
     "name:gan_x_preferred":[
         "\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b"
     ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10d2\u10dd\u10e1 \u10d3\u10d4\u10db\u10dd\u10d9\u10e0\u10d0\u10e2\u10d8\u10e3\u10da\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
+    ],
     "name:ger_x_preferred":[
         "Demokratische Republik Kongo"
-    ],
-    "name:ger_x_variant":[
-        "Kongo, Demokratische Republik",
-        "Zaire"
     ],
     "name:gla_x_preferred":[
         "Poblachd Dheamocrach na Congo"
@@ -258,11 +403,23 @@
     "name:glg_x_preferred":[
         "Rep\u00fablica Democr\u00e1tica do Congo"
     ],
+    "name:glg_x_variant":[
+        "Rep\u00fablica Democr\u00e1tica do Congo - R\u00e9publique D\u00e9mocratique du Congo"
+    ],
     "name:glv_x_preferred":[
         "Pobblaght Gheynlagh ny Congo"
     ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03ca\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc"
+    ],
     "name:grn_x_preferred":[
         "Tet\u00e3 Jekopytyjoja Kongo"
+    ],
+    "name:gsw_x_preferred":[
+        "Demokratischi Republik Kongo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0a82\u0a97\u0acb [\u0aa1\u0ac0\u0a86\u0ab0\u0ab8\u0ac0]"
     ],
     "name:hak_x_preferred":[
         "Congo M\u00ecn-ch\u00fa Khiung-f\u00f2-koet"
@@ -274,11 +431,17 @@
     "name:hau_x_preferred":[
         "Jamhuriyar dimokuradiyya Kwango"
     ],
+    "name:hau_x_variant":[
+        "Jamhuriyar Dimokura\u0257iyyar Kongo"
+    ],
     "name:hbs_x_preferred":[
         "Demokratska Republika Kongo"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d4\u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc \u05e7\u05d5\u05e0\u05d2\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d5\u05e0\u05d2\u05d5 - \u05e7\u05d9\u05e0\u05e9\u05d0\u05e1\u05d4"
     ],
     "name:hif_x_preferred":[
         "Democratic Republic of the Congo"
@@ -286,8 +449,14 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0902\u0917\u094b \u0932\u094b\u0915\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
     ],
+    "name:hin_x_variant":[
+        "\u0915\u094b\u0902\u0917\u094b [\u0921\u0940\u0906\u0930\u0938\u0940]"
+    ],
     "name:hrv_x_preferred":[
         "Demokratska Republika Kongo"
+    ],
+    "name:hrv_x_variant":[
+        "Kongo, Demokratska Republika"
     ],
     "name:hsb_x_preferred":[
         "Demokratiska republika Kongo"
@@ -305,6 +474,9 @@
     "name:ibo_x_preferred":[
         "Democratic Republic of the Congo"
     ],
+    "name:ice_x_preferred":[
+        "Austur-Kong\u00f3"
+    ],
     "name:ido_x_preferred":[
         "Demokratial Republiko Kongo"
     ],
@@ -320,8 +492,17 @@
     "name:ind_x_preferred":[
         "Republik Demokratik Kongo"
     ],
+    "name:ind_x_variant":[
+        "Kongo - Kinshasa"
+    ],
     "name:isl_x_preferred":[
         "Austur-Kong\u00f3"
+    ],
+    "name:isl_x_variant":[
+        "Kong\u00f3, l\u00fd\u00f0veldi\u00f0"
+    ],
+    "name:ita_x_historical":[
+        "Zaire"
     ],
     "name:ita_x_preferred":[
         "Repubblica Democratica del Congo"
@@ -338,6 +519,10 @@
     "name:jbo_x_preferred":[
         "roltrusi'o zei.kongos"
     ],
+    "name:jbo_x_variant":[
+        "roltrusio zei.kongos",
+        "lo gugdecugu"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd"
     ],
@@ -347,17 +532,32 @@
     "name:kab_x_preferred":[
         "Tagduda Tamegdayt n Kungu"
     ],
+    "name:kal_x_preferred":[
+        "Kongo-Kinshasa"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cbe\u0c82\u0c97\u0ccb \u0caa\u0ccd\u0cb0\u0c9c\u0cbe\u0cb8\u0ca4\u0ccd\u0ca4\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0c97\u0ca3\u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
+    "name:kan_x_variant":[
+        "\u0c95\u0cbe\u0c82\u0c97\u0ccb [DRC]"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10dc\u10d2\u10dd\u10e1 \u10d3\u10d4\u10db\u10dd\u10d9\u10e0\u10d0\u10e2\u10d8\u10e3\u10da\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10dd\u10dc\u10d2\u10dd - \u10d9\u10d8\u10dc\u10e8\u10d0\u10e1\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u044f\u043b\u044b\u049b \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
+    "name:kbp_x_preferred":[
+        "K\u0254\u014bgo Kinsasa"
+    ],
     "name:kik_x_preferred":[
         "Democratic Republic of the Congo"
+    ],
+    "name:kik_x_variant":[
+        "Jamhuri ya Kidemokrasia ya Kongo"
     ],
     "name:kin_x_preferred":[
         "Repubulika Iharanira Demokarasi ya Kongo"
@@ -374,13 +574,17 @@
     ],
     "name:kor_x_variant":[
         "\ucf69\uace0",
-        "\ucf69\uace0\ubbfc\uc8fc\uacf5\ud654\uad6d"
+        "\ucf69\uace0\ubbfc\uc8fc\uacf5\ud654\uad6d",
+        "\ucf69\uace0-\ud0a8\uc0e4\uc0ac"
     ],
     "name:ksh_x_preferred":[
         "Demokratische Republek Kongo"
     ],
     "name:kur_x_preferred":[
         "Kongoya Demokrat\u00eek"
+    ],
+    "name:kur_x_variant":[
+        "\u06a9\u06c6\u0646\u06af\u06c6 \u06a9\u06cc\u0646\u0634\u0627\u0633\u0627"
     ],
     "name:lad_x_preferred":[
         "Repuvlika Demokratika del Kongo"
@@ -390,6 +594,10 @@
     ],
     "name:lav_x_preferred":[
         "Kongo Demokr\u0101tisk\u0101 Republika"
+    ],
+    "name:lav_x_variant":[
+        "Kongo DR",
+        "Kongo-Kinshasa"
     ],
     "name:lez_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u044f\u0434\u0438\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
@@ -404,8 +612,14 @@
     "name:lin_x_preferred":[
         "Kong\u00f3-Kins\u00e1s\u00e1"
     ],
+    "name:lin_x_variant":[
+        "Repibiki demokratiki ya Kong\u00f3"
+    ],
     "name:lit_x_preferred":[
         "Kongo Demokratin\u0117 Respublika"
+    ],
+    "name:lit_x_variant":[
+        "Kongo-Kinshasa"
     ],
     "name:lmo_x_preferred":[
         "Rep\u00fcblica Demucratica del Congo"
@@ -413,20 +627,44 @@
     "name:lrc_x_preferred":[
         "\u06a9\u0648\u0659\u0645\u0623\u0631\u06d5 \u06a4\u0648\u0644\u0627\u062a \u0645\u0623\u0631\u062f\u0648\u0645 \u06a9\u06cc\u062e\u0627 \u06a9\u0648\u0646\u06af\u0648"
     ],
+    "name:lrc_x_variant":[
+        "\u06a9\u0648\u0645\u0631\u0647 \u0648\u0644\u0627\u062a \u0645\u0631\u062f\u0645 \u06a9\u06cc\u062e\u0627 \u06a9\u0646\u06af\u0648"
+    ],
     "name:ltg_x_preferred":[
         "Konga Demokratiskuo Republika"
     ],
     "name:ltz_x_preferred":[
         "Demokratesch Republik Kongo"
     ],
+    "name:lub_x_preferred":[
+        "Ditunga wa Kongu"
+    ],
     "name:lug_x_preferred":[
         "Democratic Republic of Congo"
+    ],
+    "name:lug_x_variant":[
+        "Kongo - Zayire"
+    ],
+    "name:lzh_x_preferred":[
+        "\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
     ],
     "name:mal_x_preferred":[
         "\u0d21\u0d46\u0d2e\u0d4b\u0d15\u0d4d\u0d30\u0d3e\u0d31\u0d4d\u0d31\u0d3f\u0d15\u0d4d \u0d31\u0d3f\u0d2a\u0d2c\u0d4d\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4d \u0d13\u0d2b\u0d4d \u0d15\u0d4b\u0d02\u0d17\u0d4b"
     ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d4b\u0d02\u0d17\u0d4b [DRC]"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0901\u0917\u094b\u091a\u0947 \u0932\u094b\u0915\u0936\u093e\u0939\u0940 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
+    ],
+    "name:mar_x_variant":[
+        "\u0915\u093e\u0901\u0917\u094b [\u0919\u0940\u0906\u0930\u0938\u0940]"
+    ],
+    "name:may_x_preferred":[
+        "Republik Demokratik Congo"
     ],
     "name:min_x_preferred":[
         "Republik Demokratik Kongo"
@@ -434,11 +672,21 @@
     "name:mkd_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
     ],
+    "name:mkd_x_variant":[
+        "\u041a\u043e\u043d\u0433\u043e - \u041a\u0438\u043d\u0448\u0430\u0441\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Repoblika Demokratikan'i Kongo"
     ],
+    "name:mlg_x_variant":[
+        "Repoblikan'i Kongo",
+        "Repoblika Demokratikani Kongo"
+    ],
     "name:mlt_x_preferred":[
         "Repubblika Demokratika tal-Kongo"
+    ],
+    "name:mlt_x_variant":[
+        "Democratic Republic of the Congo"
     ],
     "name:mon_x_preferred":[
         "\u0411\u04af\u0433\u0434 \u041d\u0430\u0439\u0440\u0430\u043c\u0434\u0430\u0445 \u0410\u0440\u0434\u0447\u0438\u043b\u0441\u0430\u043d \u041a\u043e\u043d\u0433\u043e \u0423\u043b\u0441"
@@ -449,11 +697,20 @@
     "name:msa_x_preferred":[
         "Republik Demokratik Congo"
     ],
+    "name:msa_x_variant":[
+        "Congo [DRC]"
+    ],
     "name:mya_x_preferred":[
         "\u1000\u103d\u1014\u103a\u1002\u102d\u102f\u1012\u102e\u1019\u102d\u102f\u1000\u101b\u1000\u103a\u1010\u1005\u103a\u101e\u1019\u1039\u1019\u1010\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:mzn_x_preferred":[
         "\u0632\u0626\u06cc\u0631"
+    ],
+    "name:nah_x_preferred":[
+        "Tl\u0101catlahtohc\u0101y\u014dtl Tl\u0101cat\u0113pacholiztli in Congo"
+    ],
+    "name:nan_x_preferred":[
+        "Congo B\u00een-ch\u00fa Ki\u014dng-h\u00f4-kok"
     ],
     "name:nau_x_preferred":[
         "Ripubrikit Engame Kongo"
@@ -461,14 +718,24 @@
     "name:nav_x_preferred":[
         "K\u00e9yah K\u00e1ango Sh\u00e1di\u02bc\u00e1\u00e1hj\u00ed Si\u02bc\u00e1n\u00edg\u00ed\u00ed"
     ],
+    "name:nde_x_preferred":[
+        "Democratic Republic of the Congo"
+    ],
     "name:nds_nld_x_preferred":[
         "Demokratiese Republiek van de Kongo"
     ],
     "name:nds_x_preferred":[
         "Demokraatsche Republiek Kongo"
     ],
+    "name:nds_x_variant":[
+        "Demokraatsche Republik Kongo"
+    ],
     "name:nep_x_preferred":[
         "\u092a\u094d\u0930\u091c\u093e\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0915\u0919\u094d\u0917\u094b"
+    ],
+    "name:nep_x_variant":[
+        "\u0915\u094b\u0919\u094d\u0917\u094b-\u0915\u093f\u0928\u094d\u0936\u093e\u0938\u093e",
+        "\u092a\u094d\u0930\u091c\u093e\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0915\u0902\u0917\u094b"
     ],
     "name:new_x_preferred":[
         "\u092a\u094d\u0930\u091c\u093e\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0915\u0919\u094d\u0917\u094b"
@@ -476,7 +743,22 @@
     "name:nld_x_preferred":[
         "Congo-Kinshasa"
     ],
+    "name:nld_x_variant":[
+        "Congo, Democratische Republiek",
+        "Congo [DRC]"
+    ],
     "name:nno_x_preferred":[
+        "Den demokratiske republikken Kongo"
+    ],
+    "name:nno_x_variant":[
+        "Kongo-Kinshasa",
+        "Kongo"
+    ],
+    "name:nob_x_preferred":[
+        "Kongo-Kinshasa"
+    ],
+    "name:nob_x_variant":[
+        "Kongo",
         "Den demokratiske republikken Kongo"
     ],
     "name:nor_x_preferred":[
@@ -491,8 +773,18 @@
     "name:oci_x_preferred":[
         "Republica Democratica de C\u00f2ngo"
     ],
+    "name:oci_x_variant":[
+        "C\u00f2ngo - Kinshasa"
+    ],
+    "name:olo_x_preferred":[
+        "Kongon Demokruatilline Tazavaldu"
+    ],
     "name:ori_x_preferred":[
         "\u0b21\u0b47\u0b2e\u0b4b\u0b15\u0b4d\u0b30\u0b47\u0b1f\u0b3f\u0b15 \u0b30\u0b3f\u0b2a\u0b2c\u0b4d\u0b32\u0b3f\u0b15 \u0b05\u0b2b \u0b15\u0b19\u0b4d\u0b17\u0b4b"
+    ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b19\u0b4d\u0b17\u0b4b-\u0b15\u0b3f\u0b28\u0b38\u0b3e\u0b38\u0b3e",
+        "\u0b15\u0b19\u0b4d\u0b17\u0b4b"
     ],
     "name:orm_x_preferred":[
         "Riippabiliika Dimookiraatawaa Koongoo"
@@ -509,8 +801,14 @@
     "name:pap_x_preferred":[
         "Republika demokratika di Kongo"
     ],
+    "name:per_x_preferred":[
+        "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u06a9\u0646\u06af\u0648"
+    ],
     "name:pih_x_preferred":[
         "Demokratik Repablik o' t' Kongo"
+    ],
+    "name:pih_x_variant":[
+        "Demokratik Repablik o t Kongo"
     ],
     "name:pms_x_preferred":[
         "Rep\u00f9blica Democr\u00e0tica d\u00ebl C\u00f2ngo"
@@ -531,13 +829,24 @@
         "Rep\u00fablica Democr\u00e1tica do Congo"
     ],
     "name:por_x_variant":[
-        "Congo, Rep\u00fablica Democr\u00e1tica do"
+        "Congo, Rep\u00fablica Democr\u00e1tica do",
+        "Congo-Kinshasa"
     ],
     "name:que_x_preferred":[
         "Kungu Runakamaq Ripuwlika"
     ],
+    "name:roh_x_preferred":[
+        "Republica Democratica dal Congo"
+    ],
+    "name:ron_x_historical":[
+        "Zair"
+    ],
     "name:ron_x_preferred":[
         "Republica Democrat\u0103 Congo"
+    ],
+    "name:ron_x_variant":[
+        "Congo, Republica Democratic\u0103",
+        "Zair"
     ],
     "name:rue_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0456\u0447\u043d\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0491\u043e"
@@ -549,11 +858,21 @@
         "Congo, Republica Democratic\u0103",
         "Zair"
     ],
+    "name:run_x_preferred":[
+        "Repubulika Iharanira Demokarasi ya Kongo"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043d\u0433\u043e, \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "\u0417\u0430\u0438\u0440"
+    ],
     "name:sag_x_preferred":[
         "K\u00f9od\u00f9or\u00f9os\u00ease t\u00ee Ngunuhal\u00ebzo t\u00ee Kong\u00f6"
+    ],
+    "name:sag_x_variant":[
+        "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee Ngunuhal\u00ebzo t\u00ee kong\u00f6"
     ],
     "name:sah_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442 \u04e8\u0440\u04e9\u0441\u043f\u04af\u04af\u0431\u04af\u043b\u04af\u043a\u044d\u0442\u044d"
@@ -567,17 +886,38 @@
     "name:sco_x_preferred":[
         "Democratic Republic o the Congo"
     ],
+    "name:sgs_x_preferred":[
+        "Kuonga Demuokrat\u0117n\u0117 Respobl\u0117ka"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0db1\u0dca\u0d9c\u0ddd \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dd3 \u0da2\u0db1\u0dbb\u0da2\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0d9a\u0ddc\u0db1\u0dca\u0d9c\u0ddd\u0dc0",
+        "\u0d9a\u0ddc\u0d82\u0d9c\u0ddd \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dd3 \u0da2\u0db1\u0dbb\u0da2\u0dba"
     ],
     "name:slk_x_preferred":[
         "Kon\u017esk\u00e1 demokratick\u00e1 republika"
     ],
+    "name:slk_x_variant":[
+        "Kongo",
+        "Kongo, demokratick\u00e1 republika"
+    ],
+    "name:slo_x_preferred":[
+        "Kongo"
+    ],
     "name:slv_x_preferred":[
         "Vzhodni Kongo"
     ],
+    "name:slv_x_variant":[
+        "Demokrati\u010dna republika Kongo",
+        "Kongo, demokrati\u010dna republika"
+    ],
     "name:sme_x_preferred":[
         "Kongo demokr\u00e1htala\u0161 d\u00e1ssev\u00e1ldi"
+    ],
+    "name:sme_x_variant":[
+        "Kongo-Kinshasa"
     ],
     "name:sna_x_preferred":[
         "Democratic Republic of the Congo"
@@ -585,17 +925,25 @@
     "name:som_x_preferred":[
         "Jamhuuriyada Dimuqaraadiga Kongo"
     ],
+    "name:som_x_variant":[
+        "Jamhuuriyadda Dimuquraadiga Kongo"
+    ],
     "name:sot_x_preferred":[
         "Rephabliki ya Demokrasi ya Kongo"
     ],
     "name:spa_x_colloquial":[
         "Republica Democratica del Congo"
     ],
+    "name:spa_x_historical":[
+        "Zaire"
+    ],
     "name:spa_x_preferred":[
         "Rep\u00fablica Democr\u00e1tica del Congo"
     ],
     "name:spa_x_variant":[
-        "Zaire"
+        "Zaire",
+        "Congo Democr\u00e1tico",
+        "RDC"
     ],
     "name:sqi_x_preferred":[
         "Republika Demokratike e Kongos"
@@ -605,6 +953,10 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0441\u043a\u0430 \u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e",
+        "\u041a\u043e\u043d\u0433\u043e, \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
     "name:ssw_x_preferred":[
         "IKhongo"
@@ -617,6 +969,12 @@
     ],
     "name:swa_x_preferred":[
         "Jamhuri ya Kidemokrasia ya Kongo"
+    ],
+    "name:swa_x_variant":[
+        "Kongo [Jamhuri ya Kidemokrasia]"
+    ],
+    "name:swe_x_historical":[
+        "Zaire"
     ],
     "name:swe_x_preferred":[
         "Kongo-Kinshasa"
@@ -631,14 +989,35 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bcb \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bcb [\u0b9f\u0bbf\u0b9a\u0bbf\u0b86\u0bb0\u0bcd]"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u043a \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c02\u0c17\u0c4b- \u0c15\u0c3f\u0c28\u0c4d\u0c37\u0c3e\u0c38\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0438 \u041a\u043e\u043d\u0433\u043e"
     ],
     "name:tgl_x_preferred":[
         "Demokratikong Republika ng Congo"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e18\u0e34\u0e1b\u0e44\u0e15\u0e22\u0e04\u0e2d\u0e07\u0e42\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e2d\u0e07\u0e42\u0e01-\u0e01\u0e34\u0e19\u0e0a\u0e32\u0e0b\u0e32"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f40\u0f7c\u0f44\u0f0b\u0f42\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f51\u0f58\u0f44\u0f66\u0f0b\u0f51\u0f58\u0f44\u0f66\u0f0b\u0f42\u0f59\u0f7c\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12ae\u1295\u130e"
+    ],
+    "name:ton_x_preferred":[
+        "Kongo [DRC]"
     ],
     "name:tso_x_preferred":[
         "Democratic Republic of the Congo"
@@ -649,11 +1028,22 @@
     "name:tur_x_preferred":[
         "Demokratik Kongo Cumhuriyeti"
     ],
+    "name:tur_x_variant":[
+        "Kongo Demokratik Cumhuriyeti",
+        "Kongo Cumhuriyeti"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u043e\u043d\u0433\u043e \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
     "name:uig_x_preferred":[
         "\u0643\u0648\u0646\u06af\u0648 \u062f\u06d0\u0645\u0648\u0643\u0631\u0627\u062a\u0649\u0643 \u062c\u06c7\u0645\u06be\u06c7\u0631\u0649\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043d\u0433\u043e, \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+        "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
     ],
     "name:und_x_variant":[
         "Congo, Demokratiske Republik",
@@ -662,8 +1052,14 @@
         "Republika Zair",
         "Zair"
     ],
+    "name:unk_x_variant":[
+        "Congo Free State"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0627\u0646\u06af\u0648 [DRC]"
     ],
     "name:uzb_x_preferred":[
         "Kongo Demokratik Respublikasi"
@@ -677,6 +1073,9 @@
     "name:vie_x_preferred":[
         "C\u1ed9ng h\u00f2a D\u00e2n ch\u1ee7 Congo"
     ],
+    "name:vie_x_variant":[
+        "C\u00f4ng-g\u00f4 (DRC)"
+    ],
     "name:vls_x_preferred":[
         "Congo-Kinshasa"
     ],
@@ -684,8 +1083,14 @@
         "Kongo\u00e4n (Rep\u00fcblik\u00e4n Demokratik)",
         "Kongo\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Kongo Demokraatlik Vabariik"
+    ],
     "name:war_x_preferred":[
         "Republika Demokratika han Congo"
+    ],
+    "name:wel_x_preferred":[
+        "Gweriniaeth Ddemocrataidd y Congo"
     ],
     "name:wln_x_preferred":[
         "Congo-Kinchassa"
@@ -708,6 +1113,12 @@
     "name:yor_x_preferred":[
         "Or\u00edl\u1eb9\u0300-\u00e8d\u00e8 Ol\u00f3m\u00ecnira Ol\u00f3\u1e63\u00e8l\u00fa il\u1eb9\u0300 K\u00f3ng\u00f2"
     ],
+    "name:yor_x_variant":[
+        "Oril\u1eb9\u0301\u00e8de K\u00f3ng\u00f2"
+    ],
+    "name:yue_x_preferred":[
+        "\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b"
+    ],
     "name:zha_x_preferred":[
         "Ganggoj Minzcuj Gunghozgoz"
     ],
@@ -718,13 +1129,18 @@
         "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd"
     ],
     "name:zho_x_variant":[
-        "\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b"
+        "\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b",
+        "\u6c11\u4e3b\u525b\u679c",
+        "\u624e\u4f0a\u5c14"
     ],
     "name:zho_yue_x_preferred":[
         "\u525b\u679c\u6c11\u4e3b\u5171\u548c\u570b"
     ],
     "name:zul_x_preferred":[
         "IRiphabliki Labantu weKongo"
+    ],
+    "name:zul_x_variant":[
+        "e-Congo [DRC]"
     ],
     "ne:abbrev":"D.R.C.",
     "ne:abbrev_len":6,
@@ -804,6 +1220,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"243",
+    "statoids:ds":"ZRE",
+    "statoids:fifa":"COD",
+    "statoids:gaul":"68",
+    "statoids:gec":"CG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"COD",
+    "statoids:iso_a2":"CD",
+    "statoids:iso_a3":"COD",
+    "statoids:iso_num":"180",
+    "statoids:itu":"COD",
+    "statoids:marc":"cg",
+    "statoids:name":"Congo (Kinshasa)",
+    "statoids:wmo":"ZR",
     "wk:latitude":-2.88,
     "wk:longitude":23.656,
     "wk:population":67513677,
@@ -813,18 +1244,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fifa:id":"COD",
+        "fips:code":"CG",
+        "gaul:id":"68",
         "gn:id":203312,
         "gp:id":23424780,
         "hasc:id":"CD",
+        "ioc:id":"COD",
+        "itu:id":"COD",
         "loc:id":"n80061022",
+        "m49:code":"180",
+        "marc:id":"cg",
         "mzb:id":"congo-kinshasa",
+        "ne:adm0_a3":"COD",
         "qs:id":546266,
+        "uncrt:id":"ZRE",
         "wd:id":"Q974",
-        "wk:page":"Democratic Republic of the Congo"
+        "wk:page":"Democratic Republic of the Congo",
+        "wmo:id":"ZR"
     },
     "wof:country":"CD",
     "wof:country_alpha3":"COD",
-    "wof:geomhash":"3fe23e461d0cf70f8e43f01afddb9cd6",
+    "wof:geomhash":"232bd92415de430d732dcb6207c8e3e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -845,11 +1286,14 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1493230018,
+    "wof:lastmodified":1514563957,
     "wof:name":"Democratic Republic of the Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":67513677,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"COD",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

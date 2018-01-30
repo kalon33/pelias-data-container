@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031511,
+    "geom:area_square_m":315535605.682637,
     "geom:bbox":"14.183606,35.806459,14.576155,36.0824385",
     "geom:latitude":35.922645,
     "geom:longitude":14.399911,
     "gn:population":403000,
     "iso:country":"MT",
+    "itu:country_code":[
+        "356"
+    ],
     "lbl:latitude":35.888972,
     "lbl:longitude":14.431432,
     "mps:latitude":35.888972,
     "mps:longitude":14.431432,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Malta"
     ],
     "name:afr_x_preferred":[
         "Malta"
+    ],
+    "name:aka_x_preferred":[
+        "M\u0254lta"
     ],
     "name:als_x_preferred":[
         "Malta"
@@ -32,6 +42,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0637\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0644\u0637\u0629"
     ],
     "name:arc_x_preferred":[
         "\u0721\u071d\u0720\u071b\u0710"
@@ -54,6 +67,9 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442\u0430"
     ],
+    "name:bam_x_preferred":[
+        "Malti"
+    ],
     "name:bar_x_preferred":[
         "Malta"
     ],
@@ -75,6 +91,9 @@
     "name:bod_x_preferred":[
         "\u0f58\u0f63\u0f0b\u0f4f\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f63\u0f0b\u0f4a\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Malta"
     ],
@@ -90,6 +109,9 @@
     "name:cat_x_preferred":[
         "Rep\u00fablica de Malta"
     ],
+    "name:cat_x_variant":[
+        "Malta"
+    ],
     "name:cdo_x_preferred":[
         "Malta"
     ],
@@ -101,13 +123,6 @@
     ],
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u4ed6"
-    ],
-    "name:chi_x_variant":[
-        "\u99ac\u723e\u4ed6",
-        "\u9a6c\u8033\u4ed6"
     ],
     "name:chr_x_preferred":[
         "\u13b9\u13b5\u13d4"
@@ -173,11 +188,17 @@
     "name:est_x_preferred":[
         "Malta"
     ],
+    "name:est_x_variant":[
+        "Malta saar"
+    ],
     "name:eus_x_preferred":[
         "Malta"
     ],
     "name:ewe_x_preferred":[
         "Malta"
+    ],
+    "name:ewe_x_variant":[
+        "Malta nutome"
     ],
     "name:ext_x_preferred":[
         "Malta"
@@ -194,9 +215,6 @@
     "name:fra_x_preferred":[
         "Malte"
     ],
-    "name:fre_x_preferred":[
-        "Malte"
-    ],
     "name:frp_x_preferred":[
         "Malta"
     ],
@@ -208,6 +226,9 @@
     ],
     "name:ful_x_preferred":[
         "Malta"
+    ],
+    "name:ful_x_variant":[
+        "Malte"
     ],
     "name:fur_x_preferred":[
         "Malte"
@@ -290,6 +311,9 @@
     "name:ind_x_preferred":[
         "Malta"
     ],
+    "name:ind_x_variant":[
+        "Pulau Malta"
+    ],
     "name:isl_x_preferred":[
         "Malta"
     ],
@@ -324,6 +348,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb2\u0ccd\u0c9f"
     ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cbe\u0cb2\u0ccd\u0c9f\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10da\u10e2\u10d0"
     ],
@@ -332,6 +359,12 @@
     ],
     "name:kbd_x_preferred":[
         "\u041c\u0430\u043b\u0442\u044d"
+    ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17b6\u179b\u17cb\u178f\u17b6"
+    ],
+    "name:kik_x_preferred":[
+        "Malta"
     ],
     "name:kin_x_preferred":[
         "Malita"
@@ -357,11 +390,17 @@
     "name:kur_x_preferred":[
         "Malta"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u0627\u06b5\u062a\u0627"
+    ],
     "name:lad_x_preferred":[
         "Malta"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea1\u0eb2\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0ea1\u0eb1\u0e99\u0e95\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Melita (res publica)"
@@ -381,6 +420,9 @@
     "name:lin_x_preferred":[
         "Malta"
     ],
+    "name:lin_x_variant":[
+        "Malit\u025b"
+    ],
     "name:lit_x_preferred":[
         "Malta"
     ],
@@ -396,8 +438,17 @@
     "name:ltz_x_preferred":[
         "Malta"
     ],
+    "name:lub_x_preferred":[
+        "Malite"
+    ],
+    "name:lug_x_preferred":[
+        "Malita"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d3e\u0d7e\u0d1f\u0d4d\u0d1f"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d3e\u0d33\u0d4d\u200d\u0d1f\u0d4d\u0d1f"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u094d\u091f\u093e"
@@ -438,11 +489,17 @@
     "name:nau_x_preferred":[
         "Marta"
     ],
+    "name:nde_x_preferred":[
+        "Malta"
+    ],
     "name:nds_nld_x_preferred":[
         "Malta (laand)"
     ],
     "name:nds_x_preferred":[
         "Malta"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0932\u094d\u091f\u093e"
     ],
     "name:new_x_preferred":[
         "\u092e\u093e\u0932\u094d\u091f\u093e"
@@ -450,7 +507,13 @@
     "name:nld_x_preferred":[
         "Malta (land)"
     ],
+    "name:nld_x_variant":[
+        "Malta"
+    ],
     "name:nno_x_preferred":[
+        "Malta"
+    ],
+    "name:nob_x_preferred":[
         "Malta"
     ],
     "name:nor_x_preferred":[
@@ -467,6 +530,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b3e\u0b32\u0b1f\u0b3e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b3e\u0b32\u0b4d\u0b1f\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Mooltaa"
@@ -522,11 +588,20 @@
     "name:ron_x_preferred":[
         "Malta"
     ],
+    "name:ron_x_variant":[
+        "Insula Malta"
+    ],
     "name:rue_x_preferred":[
         "\u041c\u0430\u043b\u0442\u0430"
     ],
+    "name:run_x_preferred":[
+        "Malita"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "M\u00e2lta"
     ],
     "name:sah_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442\u0430"
@@ -552,6 +627,9 @@
     "name:sme_x_preferred":[
         "Malta"
     ],
+    "name:sme_x_variant":[
+        "M\u00e1lta"
+    ],
     "name:smo_x_preferred":[
         "Melita"
     ],
@@ -561,11 +639,20 @@
     "name:som_x_preferred":[
         "Malta"
     ],
+    "name:som_x_variant":[
+        "Maalda"
+    ],
     "name:spa_x_preferred":[
         "Malta"
     ],
+    "name:spa_x_variant":[
+        "Isla de Malta"
+    ],
     "name:sqi_x_preferred":[
         "Malta"
+    ],
+    "name:sqi_x_variant":[
+        "Malt\u00eb"
     ],
     "name:srd_x_preferred":[
         "Malta"
@@ -597,8 +684,14 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c32\u0c4d\u0c1f\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Malta"
@@ -611,6 +704,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e2d\u0e25\u0e15\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e25\u0e15\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u121b\u120d\u1273"
+    ],
+    "name:ton_x_preferred":[
+        "Malita"
     ],
     "name:tuk_x_preferred":[
         "Malta"
@@ -640,6 +742,9 @@
         "M\u00e1lta",
         "Republika Malta"
     ],
+    "name:unk_x_variant":[
+        "State of Malta"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644\u0679\u0627"
     ],
@@ -654,6 +759,9 @@
     ],
     "name:vie_x_preferred":[
         "Malta"
+    ],
+    "name:vie_x_variant":[
+        "Man-ta"
     ],
     "name:vls_x_preferred":[
         "Malta"
@@ -685,6 +793,9 @@
     "name:yor_x_preferred":[
         "M\u00e1lt\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Malata"
+    ],
     "name:zea_x_preferred":[
         "Malta"
     ],
@@ -694,11 +805,18 @@
     "name:zho_x_preferred":[
         "\u9a6c\u8033\u4ed6"
     ],
+    "name:zho_x_variant":[
+        "\u9a6c\u8033\u4ed6",
+        "\u99ac\u723e\u4ed6"
+    ],
     "name:zho_yue_x_preferred":[
         "\u99ac\u8033\u4ed6"
     ],
     "name:zul_x_preferred":[
         "IMalta"
+    ],
+    "name:zul_x_variant":[
+        "i-Malta"
     ],
     "ne:abbrev":"Malta",
     "ne:abbrev_len":5,
@@ -778,6 +896,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"356",
+    "statoids:ds":"M",
+    "statoids:fifa":"MLT",
+    "statoids:gaul":"156",
+    "statoids:gec":"MT",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MLT",
+    "statoids:iso_a2":"MT",
+    "statoids:iso_a3":"MLT",
+    "statoids:iso_num":"470",
+    "statoids:itu":"MLT",
+    "statoids:marc":"mm",
+    "statoids:name":"Malta",
+    "statoids:wmo":"ML",
     "wk:latitude":35.883333,
     "wk:longitude":14.5,
     "wk:population":423374,
@@ -789,18 +922,28 @@
     "wof:concordances":{
         "dbp:id":"Malta",
         "fb:id":"en.malta",
+        "fifa:id":"MLT",
+        "fips:code":"MT",
+        "gaul:id":"156",
         "gn:id":2562770,
         "gp:id":23424897,
         "hasc:id":"MT",
+        "ioc:id":"MLT",
+        "itu:id":"MLT",
+        "m49:code":"470",
+        "marc:id":"mm",
         "mzb:id":"malta",
+        "ne:adm0_a3":"MLT",
         "nyt:id":"66269249254551715841",
         "qs:id":91866,
+        "uncrt:id":"M",
         "wd:id":"Q233",
-        "wk:page":"Malta"
+        "wk:page":"Malta",
+        "wmo:id":"ML"
     },
     "wof:country":"MT",
     "wof:country_alpha3":"MLT",
-    "wof:geomhash":"304a87ee826f4f3aa13ac8a460d75024",
+    "wof:geomhash":"6f0c796cc68173072005ca366672273b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -819,11 +962,14 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1493230206,
+    "wof:lastmodified":1509142801,
     "wof:name":"Malta",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":423374,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MLT",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

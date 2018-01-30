@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.02938,
+    "geom:area_square_m":197365850591.956757,
     "geom:bbox":"-61.414728,1.164724,-57.133470372,8.52589858981",
     "geom:latitude":4.972835,
     "geom:longitude":-59.08882,
     "gn:id":"",
     "gn:population":748486,
     "iso:country":"GY",
+    "itu:country_code":[
+        "592"
+    ],
     "lbl:latitude":5.121996,
     "lbl:longitude":-58.912352,
     "mps:latitude":5.121996,
     "mps:longitude":-58.912352,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Guyana"
     ],
@@ -25,14 +32,23 @@
     "name:afr_x_preferred":[
         "Guyana"
     ],
+    "name:aka_x_preferred":[
+        "Gayana"
+    ],
     "name:als_x_preferred":[
         "Guyana"
     ],
     "name:amh_x_preferred":[
         "\u130b\u12eb\u1293"
     ],
+    "name:amh_x_variant":[
+        "\u1309\u12eb\u1293"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u064a\u0627\u0646\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0648\u0627\u064a\u0627\u0646\u0627"
     ],
     "name:arg_x_preferred":[
         "Guyana"
@@ -49,8 +65,14 @@
     "name:aze_x_preferred":[
         "Qayana"
     ],
+    "name:aze_x_variant":[
+        "Quyana"
+    ],
     "name:bak_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
+    ],
+    "name:bam_x_preferred":[
+        "Gwiyana"
     ],
     "name:bar_x_preferred":[
         "Guyana"
@@ -67,8 +89,15 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u09af\u09bc\u09be\u09a8\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09bf\u09df\u09be\u09a8\u09be",
+        "\u0997\u09bf\u09af\u09bc\u09be\u09a8\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f42\u0f74\u0f0b\u0f61\u0f0b\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f42\u0fb7\u0f74\u0f0b\u0f61\u0f71\u0f0b\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Gvajana"
@@ -100,13 +129,6 @@
     "name:che_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u84cb\u4e9e\u90a3"
-    ],
-    "name:chi_x_variant":[
-        "\u572d\u4e9a\u90a3",
-        "\u84cb\u4e9e\u90a3"
-    ],
     "name:chv_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
     ],
@@ -121,6 +143,9 @@
     ],
     "name:cym_x_preferred":[
         "Gaiana"
+    ],
+    "name:cym_x_variant":[
+        "Guyana"
     ],
     "name:dan_x_preferred":[
         "Guyana"
@@ -160,8 +185,14 @@
     "name:eus_x_preferred":[
         "Guyana"
     ],
+    "name:eus_x_variant":[
+        "Guiana"
+    ],
     "name:ewe_x_preferred":[
         "Guyana"
+    ],
+    "name:ewe_x_variant":[
+        "Guyanadu"
     ],
     "name:ext_x_preferred":[
         "Guyana"
@@ -178,6 +209,9 @@
     "name:fra_x_preferred":[
         "Guyana"
     ],
+    "name:fra_x_variant":[
+        "Guyane britannique"
+    ],
     "name:frp_x_preferred":[
         "Guyana"
     ],
@@ -186,6 +220,9 @@
     ],
     "name:fry_x_preferred":[
         "Guyana"
+    ],
+    "name:ful_x_preferred":[
+        "Giyaan"
     ],
     "name:gag_x_preferred":[
         "Gayana"
@@ -202,6 +239,9 @@
     "name:glg_x_preferred":[
         "G\u00fciana"
     ],
+    "name:glg_x_variant":[
+        "G\u00fciana - Guyana"
+    ],
     "name:glv_x_preferred":[
         "Geeaaney"
     ],
@@ -214,11 +254,17 @@
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0aaf\u0abe\u0aa8\u0abe"
     ],
+    "name:guj_x_variant":[
+        "\u0a97\u0aaf\u0abe\u0aa8\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Guyana"
     ],
     "name:hat_x_preferred":[
         "Giy\u00e0n"
+    ],
+    "name:hau_x_preferred":[
+        "Guyana"
     ],
     "name:hbs_x_preferred":[
         "Gvajana"
@@ -231,6 +277,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u092f\u093e\u0928\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0917\u0941\u092f\u093e\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Gvajana"
@@ -292,11 +341,17 @@
     "name:kan_x_preferred":[
         "\u0c97\u0caf\u0cbe\u0ca8"
     ],
+    "name:kan_x_variant":[
+        "\u0c97\u0caf\u0cbe\u0ca8\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10d8\u10d0\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u1782\u17b8\u1799\u17c9\u17b6\u178e\u17b6"
     ],
     "name:kik_x_preferred":[
         "Guyana"
@@ -322,8 +377,14 @@
     "name:kur_x_preferred":[
         "Guyana"
     ],
+    "name:kur_x_variant":[
+        "\u06af\u0648\u06cc\u0627\u0646\u0627"
+    ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e81\u0eb8\u0e8d\u0ea2\u0eb2\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0e81\u0eb9\u0ea2\u0eb2\u0e99\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Guiana"
@@ -340,6 +401,9 @@
     "name:lin_x_preferred":[
         "Gwiana"
     ],
+    "name:lin_x_variant":[
+        "Giyane"
+    ],
     "name:lit_x_preferred":[
         "Gajana"
     ],
@@ -351,6 +415,12 @@
     ],
     "name:ltz_x_preferred":[
         "Guyana"
+    ],
+    "name:lub_x_preferred":[
+        "Ngiyane"
+    ],
+    "name:lug_x_preferred":[
+        "Gayana"
     ],
     "name:mal_x_preferred":[
         "\u0d17\u0d2f\u0d3e\u0d28"
@@ -366,6 +436,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0432\u0430\u0458\u0430\u043d\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Guyana"
     ],
     "name:mlt_x_preferred":[
         "Gujana"
@@ -388,16 +461,25 @@
     "name:nau_x_preferred":[
         "Guyana"
     ],
+    "name:nde_x_preferred":[
+        "Guyana"
+    ],
     "name:nds_x_preferred":[
         "Guyana"
     ],
     "name:nep_x_preferred":[
         "\u0917\u0941\u092f\u0928\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0917\u0941\u092f\u093e\u0928\u093e"
+    ],
     "name:nld_x_preferred":[
         "Guyana"
     ],
     "name:nno_x_preferred":[
+        "Guyana"
+    ],
+    "name:nob_x_preferred":[
         "Guyana"
     ],
     "name:nor_x_preferred":[
@@ -411,6 +493,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b17\u0b3e\u0b5f\u0b28\u0b3e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b17\u0b41\u0b07\u0b28\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Gayaanaa"
@@ -448,14 +533,29 @@
     "name:pus_x_preferred":[
         "\u06af\u0648\u064a\u0627\u0646\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u06ab\u064a\u0627\u0646\u0627"
+    ],
     "name:que_x_preferred":[
         "Wayana"
+    ],
+    "name:roh_x_preferred":[
+        "Guyana"
     ],
     "name:ron_x_preferred":[
         "Guyana"
     ],
+    "name:ron_x_variant":[
+        "Guiana"
+    ],
+    "name:run_x_preferred":[
+        "Guyane"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Gay\u00e2na"
     ],
     "name:sah_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
@@ -472,6 +572,9 @@
     "name:slk_x_preferred":[
         "Guyana (\u0161t\u00e1t)",
         "Guyana"
+    ],
+    "name:slk_x_variant":[
+        "Guayana"
     ],
     "name:slv_x_preferred":[
         "Gvajana"
@@ -493,6 +596,9 @@
     ],
     "name:sqi_x_preferred":[
         "Guajana"
+    ],
+    "name:sqi_x_variant":[
+        "Guiana"
     ],
     "name:srd_x_preferred":[
         "Guyana"
@@ -533,20 +639,40 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e01\u0e32\u0e22\u0e2d\u0e32\u0e19\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e22\u0e32\u0e19\u0e32",
+        "\u0e01\u0e32\u0e22\u0e2d\u0e32\u0e19\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u1309\u12eb\u1293"
+    ],
+    "name:ton_x_preferred":[
+        "Kuiana"
+    ],
     "name:tur_x_preferred":[
         "Guyana"
     ],
     "name:uig_x_preferred":[
         "\u06af\u0627\u064a\u0627\u0646\u0627"
     ],
+    "name:uig_x_variant":[
+        "\u06af\u06cb\u0649\u0626\u0627\u0646\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u044f\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0439\u0430\u043d\u0430",
+        "\u0490\u0430\u0439\u0430\u043d\u0430"
     ],
     "name:und_x_preferred":[
         "Gvajana"
     ],
     "name:und_x_variant":[
         "Republika Gvajana"
+    ],
+    "name:unk_x_variant":[
+        "British Guiana"
     ],
     "name:urd_x_preferred":[
         "\u06af\u06cc\u0627\u0646\u0627"
@@ -562,6 +688,9 @@
     ],
     "name:vie_x_preferred":[
         "Guyana"
+    ],
+    "name:vie_x_variant":[
+        "Guy-a-na"
     ],
     "name:vol_x_preferred":[
         "Gvay\u00e4n"
@@ -587,8 +716,14 @@
     "name:yid_x_preferred":[
         "\u05d2\u05d9\u05d9\u05d0\u05e0\u05e2"
     ],
+    "name:yid_x_variant":[
+        "\u05d2\u05d5\u05d9\u05d0\u05e0\u05e2"
+    ],
     "name:yor_x_preferred":[
         "G\u00f9y\u00e1n\u00e0"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Guyana"
     ],
     "name:zea_x_preferred":[
         "Huyana"
@@ -602,8 +737,15 @@
     "name:zho_x_preferred":[
         "\u572d\u4e9a\u90a3"
     ],
+    "name:zho_x_variant":[
+        "\u84cb\u4e9e\u90a3",
+        "\u572d\u4e9a\u90a3"
+    ],
     "name:zho_yue_x_preferred":[
         "\u572d\u4e9e\u90a3"
+    ],
+    "name:zul_x_preferred":[
+        "i-Guyana"
     ],
     "ne:abbrev":"Guy.",
     "ne:abbrev_len":4,
@@ -683,6 +825,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"592",
+    "statoids:ds":"GUY",
+    "statoids:fifa":"GUY",
+    "statoids:gaul":"107",
+    "statoids:gec":"GY",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GUY",
+    "statoids:iso_a2":"GY",
+    "statoids:iso_a3":"GUY",
+    "statoids:iso_num":"328",
+    "statoids:itu":"GUY",
+    "statoids:marc":"gy",
+    "statoids:name":"Guyana",
+    "statoids:wmo":"GY",
     "wk:latitude":5.733333,
     "wk:longitude":-59.316667,
     "wk:population":799613,
@@ -694,19 +851,29 @@
     "wof:concordances":{
         "dbp:id":"Guyana",
         "fb:id":"en.guyana",
+        "fifa:id":"GUY",
+        "fips:code":"GY",
+        "gaul:id":"107",
         "gn:id":3378535,
         "gp:id":23424836,
         "hasc:id":"GY",
+        "ioc:id":"GUY",
+        "itu:id":"GUY",
         "loc:id":"n80061018",
+        "m49:code":"328",
+        "marc:id":"gy",
         "mzb:id":"guyana",
+        "ne:adm0_a3":"GUY",
         "nyt:id":"66209907307262812161",
         "qs:id":95418,
+        "uncrt:id":"GUY",
         "wd:id":"Q734",
-        "wk:page":"Guyana"
+        "wk:page":"Guyana",
+        "wmo:id":"GY"
     },
     "wof:country":"GY",
     "wof:country_alpha3":"GUY",
-    "wof:geomhash":"0bfc84f503b65d4aa4c0d69fbcae653c",
+    "wof:geomhash":"8a4a241c132a91ad3b15e26f155c05a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -723,11 +890,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1493229947,
+    "wof:lastmodified":1509142737,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
+    "wof:population":799613,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GUY",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

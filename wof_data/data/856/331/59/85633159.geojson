@@ -5,15 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.545736,
+    "geom:area_square_m":242753457426.745453,
     "geom:bbox":"-13.691314,49.909613,1.771169,60.847886",
     "geom:latitude":54.147048,
     "geom:longitude":-2.886952,
     "iso:country":"GB",
+    "itu:country_code":[
+        "44"
+    ],
     "lbl:latitude":52.418788,
     "lbl:longitude":-1.247349,
     "mps:latitude":52.418788,
     "mps:longitude":-1.247349,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":6.7,
+    "mz:min_zoom":1.7,
+    "name:aar_x_preferred":[
+        "United Kingdom"
+    ],
     "name:abk_x_preferred":[
         "\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u0430 \u0414\u0443"
     ],
@@ -26,14 +36,23 @@
     "name:afr_x_preferred":[
         "Verenigde Koninkryk"
     ],
+    "name:afr_x_variant":[
+        "Groot-Brittanje"
+    ],
     "name:aka_x_preferred":[
         "Enyiresi aburokyi man"
+    ],
+    "name:aka_x_variant":[
+        "Ahendiman Nkabom"
     ],
     "name:als_x_preferred":[
         "Vereinigtes K\u00f6nigreich"
     ],
     "name:amh_x_preferred":[
         "\u12e9\u1293\u12ed\u1275\u12f5 \u12aa\u1295\u130d\u12f0\u121d"
+    ],
+    "name:amh_x_variant":[
+        "\u12a5\u1295\u130d\u120a\u12dd"
     ],
     "name:ang_x_preferred":[
         "Ge\u0101ned Cyner\u012bce"
@@ -50,8 +69,14 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0645\u0644\u0643\u0647 \u0627\u0644\u0645\u062a\u062d\u062f\u0647"
     ],
+    "name:asm_x_preferred":[
+        "\u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 \u09f0\u09be\u099c\u09cd\u09af"
+    ],
     "name:ast_x_preferred":[
         "Reinu Xun\u00edu"
+    ],
+    "name:ast_x_variant":[
+        "Reinu Un\u00edu"
     ],
     "name:ava_x_preferred":[
         "\u041aI\u0443\u0434\u0430\u0431\u0440\u0438\u0442I\u0430\u043d\u0438\u044f"
@@ -62,8 +87,14 @@
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck Britaniya"
     ],
+    "name:aze_x_variant":[
+        "Birl\u0259\u015fmi\u015f Krall\u0131q"
+    ],
     "name:bak_x_preferred":[
         "\u0411\u04e9\u0439\u04e9\u043a \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ],
+    "name:bam_x_preferred":[
+        "Angil\u025bt\u025bri"
     ],
     "name:bar_x_preferred":[
         "Vaeinigts Kinireich"
@@ -75,10 +106,15 @@
         "\u0412\u044f\u043b\u0456\u043a\u0430\u0431\u0440\u044b\u0442\u0430\u043d\u0456\u044f"
     ],
     "name:bel_x_variant":[
-        "\u0412\u044f\u043b\u0456\u043a\u0430\u0431\u0440\u044b\u0442\u0430\u043d\u0456\u044f"
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u0431\u0440\u044b\u0442\u0430\u043d\u0456\u044f",
+        "\u0412\u0435\u043b\u0456\u043a\u0430\u0431\u0440\u044b\u0442\u0430\u043d\u0456\u044f",
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u0411\u0440\u044b\u0442\u0430\u043d\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u099c\u09cd\u09af"
+    ],
+    "name:ben_x_variant":[
+        "\u0997\u09cd\u09b0\u09c7\u099f\u09ac\u09c3\u099f\u09c7\u09a8"
     ],
     "name:bis_x_preferred":[
         "Unaeted Kingdom"
@@ -89,8 +125,14 @@
     "name:bod_x_preferred":[
         "\u0f51\u0f56\u0fb1\u0f72\u0f53\u0f0b\u0f47\u0f72\u0f0b\u0f58\u0f49\u0f58\u0f0b\u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f51\u0f56\u0fb1\u0f72\u0f53\u0f0b\u0f47\u0f72\u0f0b"
+    ],
     "name:bos_x_preferred":[
         "Ujedinjeno Kraljevstvo"
+    ],
+    "name:bos_x_variant":[
+        "Velika Britanija"
     ],
     "name:bpy_x_preferred":[
         "\u09a4\u09bf\u09b2\u09aa\u09be\u09b0\u09be\u099c\u09cd\u09af"
@@ -98,17 +140,27 @@
     "name:bre_x_preferred":[
         "Rouantelezh-Unanet"
     ],
+    "name:bre_x_variant":[
+        "Rouantelezh Unanet Breizh-Veur ha Norzhiwerzhon"
+    ],
     "name:bug_x_preferred":[
         "United Kingdom"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u043e \u043a\u0440\u0430\u043b\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u043e \u043a\u0440\u0430\u043b\u0441\u0442\u0432\u043e",
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ],
     "name:bxr_x_preferred":[
         "\u0415\u0445\u044d \u0411\u0440\u0438\u0442\u0430\u043d\u0438"
     ],
     "name:cat_x_preferred":[
         "Regne Unit"
+    ],
+    "name:cat_x_variant":[
+        "Regne Unit de la Gran Bretanya i Irlanda del Nord"
     ],
     "name:cbk_zam_x_preferred":[
         "Reinos Unidos de Gran Britania y Norte Irelandia"
@@ -122,15 +174,11 @@
     "name:ces_x_preferred":[
         "Spojen\u00e9 kr\u00e1lovstv\u00ed"
     ],
+    "name:ces_x_variant":[
+        "Velk\u00e1 Brit\u00e1nie"
+    ],
     "name:che_x_preferred":[
         "\u0419\u043e\u043a\u043a\u0445\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u82f1\u570b"
-    ],
-    "name:chi_x_variant":[
-        "\u8054\u5408\u738b\u56fd",
-        "\u82f1\u56fd"
     ],
     "name:chr_x_preferred":[
         "\u13a9\u13b5\u13cf\u13f2"
@@ -150,6 +198,9 @@
     "name:cor_x_preferred":[
         "Ruwvaneth Unys"
     ],
+    "name:cor_x_variant":[
+        "Rywvaneth Unys"
+    ],
     "name:cos_x_preferred":[
         "Regnu Unitu"
     ],
@@ -161,6 +212,9 @@
     ],
     "name:cym_x_preferred":[
         "Y Deyrnas Unedig"
+    ],
+    "name:cym_x_variant":[
+        "Prydain Fawr"
     ],
     "name:cze_x_preferred":[
         "Spojen\u00e9 Kr\u00e1lovstv\u00ed"
@@ -176,8 +230,16 @@
         "Det Forenede Kongerige Storbritannien og Nordirland",
         "Forenede Kongerige"
     ],
+    "name:deu_x_colloquial":[
+        "Vereinigtes Koenigreich",
+        "Vereinigtes Konigreich"
+    ],
     "name:deu_x_preferred":[
         "Vereinigtes K\u00f6nigreich"
+    ],
+    "name:deu_x_variant":[
+        "Gro\u00dfbritannien",
+        "Gro\u00dfbritannien und Nordirland"
     ],
     "name:diq_x_preferred":[
         "Qraliya Yewbiyayiye"
@@ -187,9 +249,6 @@
     ],
     "name:dsb_x_preferred":[
         "Zjadno\u015bone kralojstwo"
-    ],
-    "name:dut_x_preferred":[
-        "Verenigd Koninkrijk"
     ],
     "name:dzo_x_preferred":[
         "\u0f61\u0f74\u0f0b\u0f53\u0f60\u0f72\u0f0b\u0f4a\u0f7a\u0f4a\u0f0b\u0f40\u0f72\u0f44\u0f0b\u0f4c\u0f58"
@@ -212,7 +271,10 @@
         "Scottish",
         "UK",
         "Unitedkingdom",
-        "Welsh"
+        "Welsh",
+        "Great Britain",
+        "U.K.",
+        "United Kingdom of Great Britain and Northern Ireland"
     ],
     "name:epo_x_preferred":[
         "Unui\u011dinta Re\u011dlando"
@@ -220,8 +282,14 @@
     "name:est_x_preferred":[
         "Suurbritannia"
     ],
+    "name:est_x_variant":[
+        "\u00dchendkuningriik"
+    ],
     "name:eus_x_preferred":[
         "Erresuma Batua"
+    ],
+    "name:ewe_x_preferred":[
+        "United Kingdom nutome"
     ],
     "name:ext_x_preferred":[
         "Reinu Un\u00edu"
@@ -231,6 +299,11 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0645\u062a\u062d\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc \u06a9\u0628\u06cc\u0631 \u0648 \u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0645\u0627\u0644\u06cc",
+        "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0645\u062a\u062d\u062f\u0647",
+        "\u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Yhdistynyt Kuningaskunta",
@@ -245,13 +318,12 @@
     "name:fra_x_preferred":[
         "Royaume-Uni"
     ],
-    "name:fre_x_preferred":[
-        "Royaume Uni"
-    ],
-    "name:fre_x_variant":[
-        "Grande Bretagne",
+    "name:fra_x_variant":[
+        "Royaume Uni",
         "Royaume-Uni",
-        "Royaumeuni"
+        "Royaumeuni",
+        "Grande Bretagne",
+        "Grande-Bretagne"
     ],
     "name:frp_x_preferred":[
         "Roy\u00f4mo-Uni"
@@ -265,6 +337,9 @@
     "name:ful_x_preferred":[
         "Biritaani-Mawndi"
     ],
+    "name:ful_x_variant":[
+        "Laamateeri Rentundi"
+    ],
     "name:fur_x_preferred":[
         "Ream Un\u00eet"
     ],
@@ -273,17 +348,6 @@
     ],
     "name:gan_x_preferred":[
         "\u82f1\u570b"
-    ],
-    "name:ger_x_colloquial":[
-        "Vereinigtes Koenigreich",
-        "Vereinigtes Konigreich"
-    ],
-    "name:ger_x_preferred":[
-        "Vereinigtes K\u00f6nigreich"
-    ],
-    "name:ger_x_variant":[
-        "Gro\u00dfbritannien",
-        "Gro\u00dfbritannien und Nordirland"
     ],
     "name:gla_x_preferred":[
         "An R\u00ecoghachd Aonaichte"
@@ -294,8 +358,14 @@
     "name:glg_x_preferred":[
         "Reino Unido"
     ],
+    "name:glg_x_variant":[
+        "Reino Unido - United Kingdom"
+    ],
     "name:glv_x_preferred":[
         "Reeriaght Unnaneysit"
+    ],
+    "name:glv_x_variant":[
+        "Rywvaneth Unys"
     ],
     "name:gom_x_preferred":[
         "\u092f\u0941\u0928\u093e\u092f\u091f\u0947\u0921 \u0915\u093f\u0902\u0917\u0921\u092e"
@@ -324,14 +394,24 @@
     "name:heb_x_preferred":[
         "\u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e8\u05d9\u05d8\u05e0\u05d9\u05d4"
+    ],
     "name:hif_x_preferred":[
         "United Kingdom"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0930\u093e\u091c\u0936\u093e\u0939\u0940"
     ],
+    "name:hin_x_variant":[
+        "\u092c\u094d\u0930\u093f\u0924\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Ujedinjeno Kraljevstvo"
+    ],
+    "name:hrv_x_variant":[
+        "Ujedinjena Kraljevina",
+        "Velika Britanija"
     ],
     "name:hsb_x_preferred":[
         "Zjedno\u0107ene kralestwo"
@@ -342,11 +422,18 @@
     "name:hye_x_preferred":[
         "\u0544\u056b\u0561\u0581\u0575\u0561\u056c \u0539\u0561\u0563\u0561\u057e\u0578\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u056e \u0532\u0580\u056b\u057f\u0561\u0576\u056b\u0561",
+        "\u0544\u056b\u0561\u057e\u0578\u0580\u057e\u0561\u056e \u0539\u0561\u0563\u0561\u057e\u0578\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
     "name:ibo_x_preferred":[
         "Obodo\u00e9z\u00e8 N\u00e0 Of\u00fa"
     ],
     "name:ido_x_preferred":[
         "Unionita Rejio"
+    ],
+    "name:iii_x_preferred":[
+        "\ua471\ua1e9"
     ],
     "name:iku_x_preferred":[
         "\u1450\u14d7\u1403\u1466 \u14c4\u14c8\u1466"
@@ -363,8 +450,15 @@
     "name:ind_x_preferred":[
         "Britania Raya"
     ],
+    "name:ind_x_variant":[
+        "Inggris Raya",
+        "Kerajaan Inggris"
+    ],
     "name:isl_x_preferred":[
         "Bretland"
+    ],
+    "name:isl_x_variant":[
+        "St\u00f3ra-Bretland"
     ],
     "name:ita_x_preferred":[
         "Regno Unito"
@@ -398,8 +492,14 @@
     "name:kan_x_preferred":[
         "\u0caf\u0cc1\u0ca8\u0cc8\u0c9f\u0cc6\u0ca1\u0ccd \u0c95\u0cbf\u0c82\u0c97\u0ccd\u200c\u0ca1\u0c82"
     ],
+    "name:kan_x_variant":[
+        "\u0cac\u0ccd\u0cb0\u0cbf\u0c9f\u0ca8\u0ccd/\u0c87\u0c82\u0c97\u0ccd\u0cb2\u0cc6\u0c82\u0ca1\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10d4\u10e0\u10d7\u10d8\u10d0\u10dc\u10d4\u10d1\u10e3\u10da\u10d8 \u10e1\u10d0\u10db\u10d4\u10e4\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10d1\u10e0\u10d8\u10e2\u10d0\u10dc\u10d4\u10d7\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u04b0\u043b\u044b\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
@@ -409,6 +509,9 @@
     ],
     "name:khm_x_preferred":[
         "\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u179a\u17bd\u1798"
+    ],
+    "name:kik_x_preferred":[
+        "Ngeretha"
     ],
     "name:kin_x_preferred":[
         "Ubwongereza"
@@ -437,17 +540,31 @@
     "name:kur_x_preferred":[
         "Keyaniya Yekb\u00fby\u00ee"
     ],
+    "name:kur_x_variant":[
+        "Keyatiya Yekb\u00fby\u00ee ya Br\u00eetaniya Mezin \u00fb \u00cerlanda",
+        "\u0634\u0627\u0646\u0634\u06cc\u0646\u06cc \u06cc\u06d5\u06a9\u06af\u0631\u062a\u0648\u0648"
+    ],
     "name:lad_x_preferred":[
         "Reyno Unido"
     ],
     "name:lao_x_preferred":[
         "\u0eaa\u0eb0\u0eab\u0eb0\u0ea5\u0eb2\u0e8a\u0eb0\u0ead\u0eb2\u0e99\u0eb2\u0e88\u0eb1\u0e81"
     ],
+    "name:lao_x_variant":[
+        "\u0eaa\u0eb0\u0eab\u0eb0\u0ea5\u0eb2\u0e94\u0e8a\u0eb0\u0ead\u0eb2\u0e99\u0eb2\u0e88\u0eb1\u0e81"
+    ],
     "name:lat_x_preferred":[
         "Britanniarum Regnum"
     ],
+    "name:lat_x_variant":[
+        "Regnum Unitum"
+    ],
     "name:lav_x_preferred":[
         "Apvienot\u0101 Karaliste"
+    ],
+    "name:lav_x_variant":[
+        "Lielbrit\u0101nija",
+        "Lielbrit\u0101nijas un Zieme\u013c\u012brijas Apvienot\u0101 Karaliste"
     ],
     "name:lez_x_preferred":[
         "\u0427I\u0435\u0445\u0438\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
@@ -461,8 +578,15 @@
     "name:lin_x_preferred":[
         "Ing\u025bl\u025b\u0301t\u025bl\u025b"
     ],
+    "name:lin_x_variant":[
+        "Ang\u025bl\u025bt\u025b\u0301l\u025b"
+    ],
     "name:lit_x_preferred":[
         "Jungtin\u0117 Karalyst\u0117"
+    ],
+    "name:lit_x_variant":[
+        "Did\u017eioji Britanija",
+        "Jungtin\u0117 Did\u017eiosios Britanijos ir \u0160iaur\u0117s Airijos Karalyst\u0117"
     ],
     "name:lmo_x_preferred":[
         "Regn \u00dcn\u00ec"
@@ -476,14 +600,29 @@
     "name:ltz_x_preferred":[
         "Groussbritannien an Nordirland"
     ],
+    "name:ltz_x_variant":[
+        "Groussbritannien"
+    ],
+    "name:lub_x_preferred":[
+        "Angeletele"
+    ],
+    "name:lug_x_preferred":[
+        "Bungereza"
+    ],
     "name:mai_x_preferred":[
         "\u092f\u0942\u0928\u093e\u0907\u091f\u0947\u0921 \u0915\u093f\u0902\u0917\u0921\u092e"
     ],
     "name:mal_x_preferred":[
         "\u0d2f\u0d41\u0d23\u0d48\u0d31\u0d4d\u0d31\u0d21\u0d4d \u0d15\u0d3f\u0d19\u0d4d\u0d21\u0d02"
     ],
+    "name:mal_x_variant":[
+        "\u0d2c\u0d4d\u0d30\u0d3f\u0d1f\u0d4d\u0d1f\u0d28\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u092f\u0941\u0928\u093e\u092f\u091f\u0947\u0921 \u0915\u093f\u0902\u0917\u094d\u0921\u092e"
+    ],
+    "name:mar_x_variant":[
+        "\u092c\u094d\u0930\u093f\u091f\u0928"
     ],
     "name:mhr_x_preferred":[
         "\u0423\u0448\u044b\u043c\u043e \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0435"
@@ -491,11 +630,20 @@
     "name:mkd_x_preferred":[
         "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u0442\u043e \u041a\u0440\u0430\u043b\u0441\u0442\u0432\u043e"
     ],
+    "name:mkd_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u0458\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Fanjakana Mitambatra"
     ],
+    "name:mlg_x_variant":[
+        "Angletera"
+    ],
     "name:mlt_x_preferred":[
         "Renju Unit"
+    ],
+    "name:mlt_x_variant":[
+        "Ingilterra"
     ],
     "name:mon_x_preferred":[
         "\u0418\u0445 \u0411\u0440\u0438\u0442\u0430\u043d\u0438"
@@ -515,6 +663,9 @@
     "name:mya_x_preferred":[
         "\u101a\u1030\u1014\u102d\u102f\u1000\u103a\u1010\u1000\u103a\u1000\u1004\u103a\u1038\u1012\u1019\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u101a\u1030\u1014\u102d\u102f\u1000\u103a\u1010\u1000\u103a\u1000\u1004\u103a\u1038\u1012\u1019\u103a\u1038"
+    ],
     "name:myv_x_preferred":[
         "\u0418\u043d\u0435\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -529,6 +680,9 @@
     ],
     "name:nav_x_preferred":[
         "T\u00f3ta\u02bc Din\u00e9\u02bci\u02bc Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "United Kingdom"
     ],
     "name:nds_nld_x_preferred":[
         "Verienigd Keuninkriek"
@@ -545,7 +699,13 @@
     "name:nld_x_preferred":[
         "Verenigd Koninkrijk"
     ],
+    "name:nld_x_variant":[
+        "Groot-Brittanni\u00eb"
+    ],
     "name:nno_x_preferred":[
+        "Storbritannia"
+    ],
+    "name:nob_x_preferred":[
         "Storbritannia"
     ],
     "name:nor_x_preferred":[
@@ -567,11 +727,23 @@
     "name:oci_x_preferred":[
         "Reialme Unit"
     ],
+    "name:oci_x_variant":[
+        "Reiaume Unit"
+    ],
+    "name:olo_x_preferred":[
+        "Yhtys Kuningaskundu"
+    ],
     "name:ori_x_preferred":[
         "\u0b2f\u0b41\u0b15\u0b4d\u0b24\u0b30\u0b3e\u0b1c\u0b4d\u0b5f"
     ],
+    "name:ori_x_variant":[
+        "\u0b2c\u0b4d\u0b30\u0b3f\u0b1f\u0b47\u0b28\u0b4d"
+    ],
     "name:orm_x_preferred":[
         "Yunaayitid Kingidem"
+    ],
+    "name:orm_x_variant":[
+        "United Kingdom"
     ],
     "name:oss_x_preferred":[
         "\u0421\u0442\u044b\u0440 \u0411\u0440\u0438\u0442\u0430\u043d\u0438"
@@ -615,6 +787,9 @@
     "name:pus_x_preferred":[
         "\u0628\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0628\u0631\u062a\u0627\u0646\u06cc\u0647"
+    ],
     "name:que_x_preferred":[
         "Hukllachasqa Qhapaq Suyu"
     ],
@@ -624,8 +799,14 @@
     "name:roh_x_preferred":[
         "Reginavel Un\u00ec"
     ],
+    "name:roh_x_variant":[
+        "Reginavel Un\u00ec da la Gronda Britannia ed Irlanda dal Nord"
+    ],
     "name:ron_x_preferred":[
         "Regatul Unit al Marii Britanii \u0219i al Irlandei de Nord"
+    ],
+    "name:ron_x_variant":[
+        "Marea Britanie"
     ],
     "name:rue_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0440\u0456\u0442\u0430\u043d\u0456\u044f"
@@ -637,8 +818,14 @@
         "Marea Britanie",
         "Regatul Unit"
     ],
+    "name:run_x_preferred":[
+        "Ubwongereza"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "K\u00f6d\u00f6r\u00f6gb\u00ef\u00e4--\u00d4ko"
     ],
     "name:sah_x_preferred":[
         "\u0423\u043b\u0443\u0443 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
@@ -661,8 +848,15 @@
     "name:slv_x_preferred":[
         "Zdru\u017eeno kraljestvo Velike Britanije in Severne Irske"
     ],
+    "name:slv_x_variant":[
+        "Velika Britanija",
+        "Zdru\u017eeno kraljestvo (V. Britanija in S. Irska)"
+    ],
     "name:sme_x_preferred":[
         "Ovttastuvvan gonagasriika"
+    ],
+    "name:sme_x_variant":[
+        "Stuorra-Brit\u00e1nnia"
     ],
     "name:smo_x_preferred":[
         "Peret\u0101nia"
@@ -673,6 +867,9 @@
     "name:som_x_preferred":[
         "Midowga boqortooyada Britan"
     ],
+    "name:som_x_variant":[
+        "United Kingdom"
+    ],
     "name:spa_x_preferred":[
         "Reino Unido"
     ],
@@ -682,6 +879,9 @@
     "name:sqi_x_preferred":[
         "Mbret\u00ebria e Bashkuar e Britanis\u00eb s\u00eb Madhe dhe Irland\u00ebs s\u00eb Veriut"
     ],
+    "name:sqi_x_variant":[
+        "Mbret\u00ebria e Bashkuar"
+    ],
     "name:srd_x_preferred":[
         "Rennu Unidu"
     ],
@@ -690,6 +890,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0423\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u043e \u041a\u0440\u0430\u0459\u0435\u0432\u0441\u0442\u0432\u043e"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u0458\u0430"
     ],
     "name:ssw_x_preferred":[
         "United Kingdom"
@@ -702,6 +905,9 @@
     ],
     "name:swa_x_preferred":[
         "Ufalme wa Muungano"
+    ],
+    "name:swa_x_variant":[
+        "Uingereza"
     ],
     "name:swe_x_colloquial":[
         "Foerenade Kungariket",
@@ -723,11 +929,17 @@
     "name:tam_x_preferred":[
         "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bbf\u0bb7\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb0\u0b9a\u0bc1"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u04e9\u0435\u043a\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c41\u0c28\u0c48\u0c1f\u0c46\u0c21\u0c4d \u0c15\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c21\u0c2e\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2c\u0c4d\u0c30\u0c3f\u0c1f\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Reinu Naklibur"
@@ -735,17 +947,33 @@
     "name:tgk_x_preferred":[
         "\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
     ],
+    "name:tgk_x_variant":[
+        "\u041f\u043e\u0434\u0448\u043e\u04b3\u0438\u0438 \u041c\u0443\u0442\u0442\u0430\u04b3\u0438\u0434\u0430"
+    ],
     "name:tgl_x_preferred":[
         "United Kingdom"
     ],
+    "name:tgl_x_variant":[
+        "Nagkakaisang Kaharain",
+        "Nagkakaisang Kaharian"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e2b\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a5\u1295\u130d\u120a\u12dd"
+    ],
+    "name:ton_x_preferred":[
+        "Pilit\u0101nia"
     ],
     "name:tpi_x_preferred":[
         "Yunaitet Kingdom"
     ],
     "name:tur_x_preferred":[
         "Birle\u015fik Krall\u0131k"
+    ],
+    "name:tur_x_variant":[
+        "\u0130ngiltere"
     ],
     "name:twi_x_preferred":[
         "United Kingdom"
@@ -759,14 +987,28 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0456\u044f",
+        "\u0421\u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0435 \u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e"
+    ],
     "name:und_x_preferred":[
         "Y Deyrnas Unedig"
+    ],
+    "name:unk_x_variant":[
+        "Britain"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0645\u0644\u06a9\u062a \u0645\u062a\u062d\u062f\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u0631\u0637\u0627\u0646\u06cc\u06c1",
+        "\u0633\u0644\u0637\u0646\u062a \u0645\u062a\u062d\u062f\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Birlashgan Qirollik"
+    ],
+    "name:uzb_x_variant":[
+        "\u0411\u0438\u0440\u043b\u0430\u0448\u0433\u0430\u043d \u049a\u0438\u0440\u043e\u043b\u043b\u0438\u043a"
     ],
     "name:vec_x_preferred":[
         "Regno Un\u00eco"
@@ -776,6 +1018,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u01b0\u01a1ng qu\u1ed1c Li\u00ean hi\u1ec7p Anh v\u00e0 B\u1eafc Ireland"
+    ],
+    "name:vie_x_variant":[
+        "V\u01b0\u01a1ng qu\u1ed1c Anh"
     ],
     "name:vls_x_preferred":[
         "Ver\u00eanigd Keunienkryk"
@@ -807,6 +1052,9 @@
     "name:yor_x_preferred":[
         "Il\u1eb9\u0300\u1ecdba A\u1e63\u1ecd\u0300kan"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Omobabirin"
+    ],
     "name:zea_x_preferred":[
         "Vere\u00eanigd Konienkriek"
     ],
@@ -820,13 +1068,18 @@
         "\u82f1\u56fd"
     ],
     "name:zho_x_variant":[
-        "\u82f1\u570b"
+        "\u82f1\u56fd",
+        "\u82f1\u570b",
+        "\u8054\u5408\u738b\u56fd"
     ],
     "name:zho_yue_x_preferred":[
         "\u82f1\u570b"
     ],
     "name:zul_x_preferred":[
         "Umbuso Ohlangeneyo"
+    ],
+    "name:zul_x_variant":[
+        "i-United Kingdom"
     ],
     "ne:abbrev":"U.K.",
     "ne:abbrev_len":4,
@@ -901,11 +1154,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633159-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"44",
+    "statoids:ds":"GB",
+    "statoids:fifa":"NER, ENG, SCO, WAL",
+    "statoids:gaul":"256",
+    "statoids:gec":"UK",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GBR",
+    "statoids:iso_a2":"GB",
+    "statoids:iso_a3":"GBR",
+    "statoids:iso_num":"826",
+    "statoids:itu":"G",
+    "statoids:marc":"xxk",
+    "statoids:name":"United Kingdom",
+    "statoids:wmo":"UK",
     "wk:latitude":54.0,
     "wk:longitude":-2.0,
     "wk:population":63705000,
@@ -918,17 +1188,26 @@
     "wof:concordances":{
         "dbp:id":"Great_Britain",
         "fb:id":"en.great_britain",
+        "fips:code":"UK",
+        "gaul:id":"256",
         "gn:id":2635167,
         "gp:id":23424975,
         "hasc:id":"GB",
+        "ioc:id":"GBR",
+        "itu:id":"G",
+        "m49:code":"826",
+        "marc:id":"xxk",
         "mzb:id":"united-kingdom",
+        "ne:adm0_a3":"GBR",
         "nyt:id":"42273881931420178781",
         "qs:id":1032377,
-        "wd:id":"Q145"
+        "uncrt:id":"GB",
+        "wd:id":"Q145",
+        "wmo:id":"UK"
     },
     "wof:country":"GB",
     "wof:country_alpha3":"GBR",
-    "wof:geomhash":"8ca5a81ee6f8fe87c87baf15ccadffde",
+    "wof:geomhash":"6d97e18c42c57c5e44ef02a78410406c",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -949,11 +1228,14 @@
         "gla",
         "gle"
     ],
-    "wof:lastmodified":1493230198,
+    "wof:lastmodified":1509143042,
     "wof:name":"United Kingdom",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":63705000,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GBR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

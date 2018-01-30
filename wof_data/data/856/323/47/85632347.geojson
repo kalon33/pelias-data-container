@@ -5,22 +5,35 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.043665,
+    "geom:area_square_m":467182605252.732544,
     "geom:bbox":"140.849211,-11.636326,155.96754,-1.346368",
     "geom:latitude":-6.470121,
     "geom:longitude":145.231524,
     "gn:id":"",
     "gn:population":6064515,
     "iso:country":"PG",
+    "itu:country_code":[
+        "675"
+    ],
     "lbl:latitude":-5.695438,
     "lbl:longitude":143.910495,
     "mps:latitude":-5.695438,
     "mps:longitude":143.910495,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.5,
+    "mz:min_zoom":2.5,
     "name:ace_x_preferred":[
         "Papua New Guinea"
     ],
     "name:afr_x_preferred":[
         "Papoea-Nieu-Guinee"
+    ],
+    "name:afr_x_variant":[
+        "Papoea Nieu-Guinee"
+    ],
+    "name:aka_x_preferred":[
+        "Papua Guinea Foforo"
     ],
     "name:als_x_preferred":[
         "Papua-Neuguinea"
@@ -46,6 +59,9 @@
     "name:bak_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u2014 \u042f\u04a3\u044b \u0413\u0432\u0438\u043d\u0435\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Papuwasi-Gine-Koura"
+    ],
     "name:bar_x_preferred":[
         "Papua-Neuguinea"
     ],
@@ -56,16 +72,23 @@
         "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0456\u043d\u0435\u044f"
     ],
     "name:bel_x_variant":[
-        "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0456\u043d\u044d\u044f"
+        "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0456\u043d\u044d\u044f",
+        "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0456\u043d\u0435\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09aa\u09c1\u09af\u09bc\u09be \u09a8\u09bf\u0989\u0997\u09bf\u09a8\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09be\u09aa\u09c1\u09af\u09bc\u09be \u09a8\u09bf\u0989 \u0997\u09bf\u09a8\u09bf"
     ],
     "name:bis_x_preferred":[
         "Papua New Guinea"
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f0b\u0f54\u0f74\u0f0b\u0f60\u0f0b\u0f53\u0f72\u0f60\u0f74\u0f0b\u0f42\u0f72\u0f0b\u0f53\u0f7a\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f54\u0f0b\u0f54\u0f74\u0f0b\u0f68\u0f0d \u0f53\u0f72\u0f60\u0f74\u0f0d \u0f42\u0fb7\u0f72\u0f0b\u0f53\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Papua Nova Gvineja"
@@ -76,8 +99,14 @@
     "name:bre_x_preferred":[
         "Papoua Ginea-Nevez"
     ],
+    "name:bre_x_variant":[
+        "Papoua-Ginea Nevez"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u041d\u043e\u0432\u0430 \u0413\u0432\u0438\u043d\u0435\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430 \u0413\u0432\u0438\u043d\u0435\u044f"
     ],
     "name:bxr_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u0428\u044d\u043d\u044d \u0413\u0432\u0438\u043d\u0435\u0439"
@@ -94,15 +123,11 @@
     "name:ces_x_preferred":[
         "Papua-Nov\u00e1 Guinea"
     ],
+    "name:ces_x_variant":[
+        "Papua Nov\u00e1 Guinea"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041a\u0435\u0440\u043b\u0430 \u0413\u0432\u0438\u043d\u0435\u0439"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5167\u4e9a",
-        "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
     ],
     "name:chu_x_preferred":[
         "\u041f\u0430\u043f\u043e\u0443\u0430 \u00b7 \u041d\u043e\u0432\u0430 \u0413\u0432\u0438\u043d\u0454\ua657"
@@ -116,6 +141,9 @@
     "name:cym_x_preferred":[
         "Papua Guinea Newydd"
     ],
+    "name:cym_x_variant":[
+        "Papua Gini Newydd"
+    ],
     "name:cze_x_colloquial":[
         "Papua-Nova Guinea"
     ],
@@ -128,8 +156,15 @@
     "name:dan_x_preferred":[
         "Papua Ny Guinea"
     ],
+    "name:deu_x_colloquial":[
+        "Unabhaengiger Staat Papua-Neuguinea",
+        "Unabhangiger Staat Papua-Neuguinea"
+    ],
     "name:deu_x_preferred":[
         "Papua-Neuguinea"
+    ],
+    "name:deu_x_variant":[
+        "Unabh\u00e4ngiger Staat Papua-Neuguinea"
     ],
     "name:diq_x_preferred":[
         "Papua Gineya Newiye"
@@ -140,14 +175,11 @@
     "name:dsb_x_preferred":[
         "Papua-Neuguinea"
     ],
-    "name:dut_x_preferred":[
-        "Papoea-Nieuw-Guinea"
-    ],
-    "name:dut_x_variant":[
-        "Papoea Nieuw Guinea"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03c0\u03bf\u03cd\u03b1 \u039d\u03ad\u03b1 \u0393\u03bf\u03c5\u03b9\u03bd\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c0\u03bf\u03cd\u03b1 - \u039d\u03ad\u03b1 \u0393\u03bf\u03c5\u03b9\u03bd\u03ad\u03b1"
     ],
     "name:eng_x_preferred":[
         "Papua New Guinea"
@@ -168,8 +200,14 @@
     "name:est_x_preferred":[
         "Paapua Uus-Guinea"
     ],
+    "name:est_x_variant":[
+        "Papua Uus Guinea"
+    ],
     "name:eus_x_preferred":[
         "Papua Ginea Berria"
+    ],
+    "name:ewe_x_preferred":[
+        "Papua New Gini nutome"
     ],
     "name:ext_x_preferred":[
         "Papua Nueva Guinea"
@@ -180,19 +218,20 @@
     "name:fas_x_preferred":[
         "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u067e\u0648\u0627 \u06af\u06cc\u0646\u0647\u0654 \u0646\u0648",
+        "\u06af\u0648\u06cc\u0646\u06cc\u0627 \u06cc \u062c\u062f\u06cc\u062f \u067e\u0627\u067e\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Papua-Uusi-Guinea"
+    ],
+    "name:fra_x_colloquial":[
+        "Papouasie Nouvelle Guinee"
     ],
     "name:fra_x_preferred":[
         "Papouasie-Nouvelle-Guin\u00e9e"
     ],
-    "name:fre_x_colloquial":[
-        "Papouasie Nouvelle Guinee"
-    ],
-    "name:fre_x_preferred":[
-        "Papouasie-Nouvelle-Guin\u00e9e"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Papouasie Nouvelle Guin\u00e9e",
         "Papouasie-Nouvelle Guin\u00e9e"
     ],
@@ -205,18 +244,11 @@
     "name:fry_x_preferred":[
         "Papoea Nij-Guine\u00e4"
     ],
+    "name:ful_x_preferred":[
+        "Papuwaa Nuwel Gine"
+    ],
     "name:gag_x_preferred":[
         "Papua Eni Gvineya"
-    ],
-    "name:ger_x_colloquial":[
-        "Unabhaengiger Staat Papua-Neuguinea",
-        "Unabhangiger Staat Papua-Neuguinea"
-    ],
-    "name:ger_x_preferred":[
-        "Papua-Neuguinea"
-    ],
-    "name:ger_x_variant":[
-        "Unabh\u00e4ngiger Staat Papua-Neuguinea"
     ],
     "name:gla_x_preferred":[
         "Gini Nuadh Phaputhach"
@@ -233,17 +265,27 @@
     "name:gom_x_preferred":[
         "\u092a\u093e\u092a\u0941\u0906 \u0928\u094d\u092f\u0942 \u0917\u093f\u0928\u0940"
     ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0abe\u0aaa\u0ac1\u0a86 \u0aa8\u0acd\u0aaf\u0ac2 \u0a97\u0abf\u0aa8\u0ac0"
+    ],
     "name:hak_x_preferred":[
         "Papua N\u00e9u Guinea"
     ],
     "name:hat_x_preferred":[
         "Papwazi-Nouv\u00e8l-Gine"
     ],
+    "name:hau_x_preferred":[
+        "Papuwa Nugini"
+    ],
     "name:hbs_x_preferred":[
         "Papua Nova Gvineja"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e4\u05d5\u05d0\u05d4 \u05d2\u05d9\u05e0\u05d0\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d0\u05e4\u05d5\u05d0\u05d4 \u05e0\u05d9\u05d5-\u05d2\u05d9\u05e0\u05d9\u05d0\u05d4",
+        "\u05d2\u05d9\u05e0\u05d0\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4 \u05e4\u05e4\u05d5\u05d0\u05d4"
     ],
     "name:hif_x_preferred":[
         "Papua New Guinea"
@@ -275,6 +317,9 @@
     "name:ind_x_preferred":[
         "Papua Nugini"
     ],
+    "name:ind_x_variant":[
+        "Nugini Papua Nugini"
+    ],
     "name:isl_x_preferred":[
         "Pap\u00faa N\u00fdja-G\u00ednea"
     ],
@@ -297,14 +342,29 @@
         "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2\u72ec\u7acb\u56fd",
         "\u30d1\u30d7\u30a2\u30fb\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
     ],
+    "name:kal_x_preferred":[
+        "Papua Nutaaq Guinea"
+    ],
     "name:kan_x_preferred":[
         "\u0caa\u0cbe\u0caa\u0cc1\u0c85 \u0ca8\u0ccd\u0caf\u0cc2 \u0c97\u0cbf\u0ca8\u0cbf"
+    ],
+    "name:kan_x_variant":[
+        "\u0caa\u0caa\u0cc1\u0cb5\u0cbe \u0ca8\u0ccd\u0caf\u0cc2\u0c97\u0cc0\u0ca8\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kas_x_preferred":[
+        "\u092a\u092a\u0941\u0935\u093e \u0928\u094d\u092f\u0942 \u0917\u093f\u0928\u0940"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10de\u10e3\u10d0-\u10d0\u10ee\u10d0\u10da\u10d8 \u10d2\u10d5\u10d8\u10dc\u10d4\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u2014 \u0416\u0430\u04a3\u0430 \u0413\u0432\u0438\u043d\u0435\u044f"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17c9\u17b6\u1796\u17bc\u17a2\u17b6\u1793\u17bc\u179c\u17c2\u179b\u17a0\u17d2\u1782\u17b8\u178e\u17c1"
+    ],
+    "name:kik_x_preferred":[
+        "Papua"
     ],
     "name:kin_x_preferred":[
         "Papuwa Nuveli Gineya"
@@ -322,8 +382,14 @@
     "name:kur_x_preferred":[
         "Papua G\u00eeneya N\u00fb"
     ],
+    "name:kur_x_variant":[
+        "\u067e\u0627\u067e\u0648\u0627 \u06af\u06cc\u0646\u06ce\u06cc \u0646\u0648\u06ce"
+    ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9b\u0eb2\u0e9b\u0ebb\u0ea7\u0e8a\u0eb5\u0e99\u0eb9\u0ec1\u0ea7\u0e99\u0e81\u0eb5\u0ec0\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb2\u0e9b\u0ebb\u0ea7\u0e99\u0eb4\u0ea7\u0e81\u0eb5\u0e99\u0eb5"
     ],
     "name:lat_x_preferred":[
         "Papua Nova Guinea"
@@ -337,8 +403,14 @@
     "name:lim_x_preferred":[
         "Papoea-Nui-Guinea"
     ],
+    "name:lin_x_preferred":[
+        "Papwazi Gin\u025b ya sika"
+    ],
     "name:lit_x_preferred":[
         "Papua Naujoji Gvin\u0117ja"
+    ],
+    "name:lit_x_variant":[
+        "Papua ir Naujoji Gvin\u0117ja"
     ],
     "name:lmo_x_preferred":[
         "Papua N\u00f6va Guinea"
@@ -346,8 +418,17 @@
     "name:ltz_x_preferred":[
         "Papua-Neiguinea"
     ],
+    "name:lub_x_preferred":[
+        "Papwazi wa Ngin\u025b wa mumu"
+    ],
+    "name:lug_x_preferred":[
+        "Papwa Nyugini"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d3e\u0d2a\u0d41\u0d35 \u0d28\u0d4d\u0d2f\u0d42 \u0d17\u0d3f\u0d28\u0d3f\u0d2f"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2a\u0d2a\u0d4d\u0d2a\u0d41\u0d35 \u0d28\u0d4d\u0d2f\u0d42 \u0d17\u0d4d\u0d35\u0d3f\u0d28\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u092a\u0941\u0906 \u0928\u094d\u092f\u0942 \u0917\u093f\u0928\u0940"
@@ -361,8 +442,14 @@
     "name:mlg_x_preferred":[
         "Papoa Ginea Vao"
     ],
+    "name:mlg_x_variant":[
+        "Papouasie-Nouvelle-Guin\u00e9e"
+    ],
     "name:mlt_x_preferred":[
         "Papwa Gwinea l-\u0120dida"
+    ],
+    "name:mlt_x_variant":[
+        "Papwa-Ginea \u0120dida"
     ],
     "name:mri_x_preferred":[
         "Papua N\u016bkini"
@@ -376,19 +463,34 @@
     "name:mya_x_preferred":[
         "\u1015\u102b\u1015\u1030\u1021\u102c\u1014\u101a\u1030\u1038\u1002\u102e\u1014\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1015\u102b\u1015\u1030\u101b\u102c\u1014\u101a\u1030\u1038\u1002\u102e\u1014\u102e"
+    ],
     "name:nau_x_preferred":[
         "Papua Niu Gini"
     ],
     "name:nav_x_preferred":[
         "P\u00e1\u00e1powa Big\u00edn\u00ed \u00c1niid\u00ed"
     ],
+    "name:nde_x_preferred":[
+        "Papua New Guinea"
+    ],
     "name:nds_x_preferred":[
         "Papua-Niegguinea"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u092a\u0941\u0906 \u0928\u094d\u092f\u0942 \u0917\u093e\u0907\u0928\u093f\u092f\u093e"
     ],
     "name:nld_x_preferred":[
         "Papoea-Nieuw-Guinea"
     ],
+    "name:nld_x_variant":[
+        "Papoea Nieuw Guinea"
+    ],
     "name:nno_x_preferred":[
+        "Papua Ny-Guinea"
+    ],
+    "name:nob_x_preferred":[
         "Papua Ny-Guinea"
     ],
     "name:nor_x_preferred":[
@@ -397,8 +499,14 @@
     "name:oci_x_preferred":[
         "Papoa-N\u00f2va Guin\u00e8a"
     ],
+    "name:oci_x_variant":[
+        "Papoa N\u00f2va Guin\u00e8a"
+    ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b3e\u0b2a\u0b41\u0b06 \u0b28\u0b3f\u0b09 \u0b17\u0b3f\u0b28\u0b3f"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2a\u0b2a\u0b41\u0b06 \u0b28\u0b4d\u0b5f\u0b41 \u0b17\u0b41\u0b0f\u0b28\u0b3f\u0b06"
     ],
     "name:oss_x_preferred":[
         "\u041f\u0430\u043f\u0443\u00e6 \u2014 \u041d\u043e\u0433 \u0413\u0432\u0438\u043d\u0435\u0439"
@@ -439,17 +547,29 @@
     "name:que_x_preferred":[
         "Papwa \u00d1ukini"
     ],
+    "name:roh_x_preferred":[
+        "Papua Nova Guinea"
+    ],
     "name:ron_x_preferred":[
         "Papua Noua Guinee"
     ],
     "name:rum_x_preferred":[
         "Papua Noua Guinee"
     ],
+    "name:run_x_preferred":[
+        "Papuwa Niyugineya"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u043f\u0443\u0430 \u2013 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f"
+    ],
     "name:sag_x_preferred":[
         "Pap\u00fb Fin\u00ee Gin\u00ebe"
+    ],
+    "name:sag_x_variant":[
+        "Pap\u00fb Fin\u00ee Gin\u00ebe, Papuaz\u00efi"
     ],
     "name:sah_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u0421\u0430\u04a5\u0430 \u0413\u0443\u0438\u043d\u0435\u044f"
@@ -463,11 +583,20 @@
     "name:sco_x_preferred":[
         "Papua New Guinea"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd0\u0db4\u0dd4\u0dc0\u0dcf \u0db1\u0dd2\u0dc0\u0dca \u0d9c\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
     "name:slk_x_preferred":[
         "Papua-Nov\u00e1 Guinea"
     ],
+    "name:slk_x_variant":[
+        "Papua Nov\u00e1 Guinea"
+    ],
     "name:slv_x_preferred":[
         "Papuanska Nova Gvineja"
+    ],
+    "name:slv_x_variant":[
+        "Papua Nova Gvineja"
     ],
     "name:sme_x_preferred":[
         "Papua-O\u0111\u0111a-Guinea"
@@ -476,6 +605,9 @@
         "Papua Niu Kini"
     ],
     "name:sna_x_preferred":[
+        "Papua New Guinea"
+    ],
+    "name:som_x_preferred":[
         "Papua New Guinea"
     ],
     "name:spa_x_colloquial":[
@@ -490,6 +622,9 @@
     "name:sqi_x_preferred":[
         "Papua Guinea e Re"
     ],
+    "name:sqi_x_variant":[
+        "Papua Guineja e Re"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u041d\u043e\u0432\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430"
     ],
@@ -498,6 +633,9 @@
     ],
     "name:swa_x_preferred":[
         "Papua Guinea Mpya"
+    ],
+    "name:swa_x_variant":[
+        "Papua"
     ],
     "name:swe_x_preferred":[
         "Papua Nya Guinea"
@@ -511,14 +649,32 @@
     "name:tam_x_preferred":[
         "\u0baa\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0bbe \u0ba8\u0bbf\u0baf\u0bc2 \u0b95\u0bbf\u0ba9\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0bbe \u0ba8\u0bbf\u0baf\u0bc2 \u0b95\u0bbf\u0ba9\u0bbf"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u2014 \u042f\u04a3\u0430 \u0413\u0432\u0438\u043d\u0435\u044f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3e\u0c2a\u0c41\u0c35\u0c3e \u0c28\u0c4d\u0c2f\u0c41 \u0c17\u0c3f\u0c28\u0c3f\u0c2f\u0c3e"
     ],
     "name:tgl_x_preferred":[
         "Papua New Guinea"
     ],
+    "name:tgl_x_variant":[
+        "Papua Bagong Ginea"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1b\u0e32\u0e1b\u0e31\u0e27\u0e19\u0e34\u0e27\u0e01\u0e34\u0e19\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e32\u0e1b\u0e31\u0e27\u0e19\u0e34\u0e27\u0e01\u0e34\u0e19\u0e35"
+    ],
+    "name:tir_x_preferred":[
+        "\u1353\u1351\u12cb \u1292\u12cd \u130a\u1292"
+    ],
+    "name:ton_x_preferred":[
+        "Papuaniukini"
     ],
     "name:tpi_x_preferred":[
         "Papua Niugini"
@@ -532,12 +688,21 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430 \u041d\u043e\u0432\u0430 \u0413\u0432\u0456\u043d\u0435\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430 \u0490\u0432\u0456\u043d\u0435\u044f"
+    ],
     "name:und_x_preferred":[
         "Papua Nova Gvineja",
         "Papua-Uusi-Guinea"
     ],
+    "name:unk_x_variant":[
+        "Independent State of Papua New Guinea"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0627\u067e\u0648\u0622 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Papua Yangi Gvineya"
@@ -550,6 +715,11 @@
     ],
     "name:vie_x_preferred":[
         "Papua New Guinea"
+    ],
+    "name:vie_x_variant":[
+        "Pa-pu-a Niu Ghi-n\u00ea",
+        "Papua T\u00e2n Guinea",
+        "Pa-pua Niu Ghi-n\u00ea (Papua New Guinea)"
     ],
     "name:vol_x_preferred":[
         "Papuve\u00e4n Nula-Giney\u00e4n"
@@ -575,6 +745,9 @@
     "name:yor_x_preferred":[
         "Papua Guinea Titun"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Paapu ti Giini"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Papua Sin Guinea"
     ],
@@ -582,10 +755,15 @@
         "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u5df4\u5e03\u4e9e\u65b0\u5e7e\u5167\u4e9e"
+        "\u5df4\u5e03\u4e9e\u65b0\u5e7e\u5167\u4e9e",
+        "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5167\u4e9a",
+        "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u5df4\u5e03\u4e9e\u65b0\u757f\u5167\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "i-Papua New Guinea"
     ],
     "ne:abbrev":"P.N.G.",
     "ne:abbrev_len":6,
@@ -661,9 +839,25 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"675",
+    "statoids:ds":"PNG",
+    "statoids:fifa":"PNG",
+    "statoids:gaul":"192",
+    "statoids:gec":"PP",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"PNG",
+    "statoids:iso_a2":"PG",
+    "statoids:iso_a3":"PNG",
+    "statoids:iso_num":"598",
+    "statoids:itu":"PNG",
+    "statoids:marc":"pp",
+    "statoids:name":"Papua New Guinea",
+    "statoids:wmo":"NG",
     "wk:latitude":-6.366667,
     "wk:longitude":146.1,
     "wk:population":7321262,
@@ -675,19 +869,29 @@
     "wof:concordances":{
         "dbp:id":"Papua_New_Guinea",
         "fb:id":"en.papua_new_guinea",
+        "fifa:id":"PNG",
+        "fips:code":"PP",
+        "gaul:id":"192",
         "gn:id":2088628,
         "gp:id":23424926,
         "hasc:id":"PG",
+        "ioc:id":"PNG",
+        "itu:id":"PNG",
         "loc:id":"n81034915",
+        "m49:code":"598",
+        "marc:id":"pp",
         "mzb:id":"papua-new-guinea",
+        "ne:adm0_a3":"PNG",
         "nyt:id":"27384664008260932211",
         "qs:id":219370,
+        "uncrt:id":"PNG",
         "wd:id":"Q691",
-        "wk:page":"Papua New Guinea"
+        "wk:page":"Papua New Guinea",
+        "wmo:id":"NG"
     },
     "wof:country":"PG",
     "wof:country_alpha3":"PNG",
-    "wof:geomhash":"340bd28f939c32272d2a0fe1c632b036",
+    "wof:geomhash":"72557d1aefbf670339035a9e68885282",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -708,11 +912,14 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1493229930,
+    "wof:lastmodified":1509142980,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":7321262,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"PNG",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

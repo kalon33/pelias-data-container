@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.480364,
+    "geom:area_square_m":5921248133.869722,
     "geom:bbox":"114.076123,4.002508,115.36051932,5.04955575",
     "geom:latitude":4.52306,
     "geom:longitude":114.749236,
     "gn:id":"",
     "gn:population":395027,
     "iso:country":"BN",
+    "itu:country_code":[
+        "673"
+    ],
     "lbl:latitude":4.479716,
     "lbl:longitude":114.578687,
     "mps:latitude":4.479716,
     "mps:longitude":114.578687,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Brunai"
     ],
@@ -25,11 +32,20 @@
     "name:afr_x_preferred":[
         "Broenei"
     ],
+    "name:aka_x_preferred":[
+        "Brunae"
+    ],
+    "name:alb_x_preferred":[
+        "Brunei"
+    ],
     "name:als_x_preferred":[
         "Brunei"
     ],
     "name:amh_x_preferred":[
         "\u1265\u1229\u1293\u12ed"
+    ],
+    "name:amh_x_variant":[
+        "\u1265\u1229\u1292"
     ],
     "name:ang_x_preferred":[
         "Brunei"
@@ -37,20 +53,38 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0646\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0648\u0646\u064a"
+    ],
     "name:arg_x_preferred":[
         "Brunei"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0580\u0578\u0582\u0576\u0565\u0575"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u0648\u0646\u0627\u0649"
     ],
+    "name:asm_x_preferred":[
+        "\u09ac\u09cd\u09f0\u09c1\u09a3\u09c7\u0987"
+    ],
     "name:ast_x_preferred":[
         "Brun\u00e9i"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u0626\u06cc"
     ],
     "name:aze_x_preferred":[
         "Bruney"
     ],
     "name:bak_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
+    ],
+    "name:bam_x_preferred":[
+        "Burin\u025byi"
+    ],
+    "name:baq_x_preferred":[
+        "Brunei"
     ],
     "name:bar_x_preferred":[
         "Brunei"
@@ -62,16 +96,29 @@
         "\u0411\u0440\u0443\u043d\u0435\u0439"
     ],
     "name:bel_x_variant":[
-        "\u0411\u0440\u0443\u043d\u044d\u0439"
+        "\u0411\u0440\u0443\u043d\u044d\u0439",
+        "\u0411\u0440\u0443\u043d\u0435\u0439-\u0414\u0430\u0440\u0443\u0441\u0430\u043b\u0430\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u09a8\u09be\u0987"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09cd\u09b0\u09c1\u09a8\u09c7\u0987"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u06cc"
+    ],
+    "name:bho_x_preferred":[
+        "\u092c\u094d\u0930\u0941\u0928\u0947\u0908"
     ],
     "name:bjn_x_preferred":[
         "Brunai"
     ],
     "name:bod_x_preferred":[
         "\u0f56\u0fb7\u0f72\u0f0b\u0f62\u0f74\u0f0b\u0f53\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f56\u0f74\u0f0b\u0f62\u0f74\u0f0b\u0f53\u0f7a\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Brunej"
@@ -82,11 +129,20 @@
     "name:bre_x_preferred":[
         "Brunei"
     ],
+    "name:brh_x_preferred":[
+        "Brun\u00e1\u00ed"
+    ],
     "name:bug_x_preferred":[
         "Brunei"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0440\u0443\u043d\u0435\u0439 \u0414\u0430\u0440\u0443\u0441\u0430\u043b\u0430\u043c"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u101b\u1030\u1014\u102d\u102f\u1004\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0411\u0440\u04af\u043d\u044d\u0439"
@@ -103,15 +159,14 @@
     "name:ces_x_preferred":[
         "Brunej"
     ],
+    "name:ces_x_variant":[
+        "Brunej Darussalam"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
     ],
     "name:chi_x_preferred":[
-        "\u6c76\u840a"
-    ],
-    "name:chi_x_variant":[
-        "\u6587\u83b1",
-        "\u6c76\u840a"
+        "\u6587\u83b1"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
@@ -140,8 +195,14 @@
     "name:dan_x_preferred":[
         "Brunei"
     ],
+    "name:dan_x_variant":[
+        "Brunei Darussalam"
+    ],
     "name:deu_x_preferred":[
         "Brunei"
+    ],
+    "name:deu_x_variant":[
+        "Brunei Darussalam"
     ],
     "name:diq_x_preferred":[
         "Bruney"
@@ -152,8 +213,17 @@
     "name:dsb_x_preferred":[
         "Brunei"
     ],
+    "name:dty_x_preferred":[
+        "\u092c\u094d\u0930\u0941\u0928\u093e\u0908"
+    ],
+    "name:dut_x_preferred":[
+        "Brunei"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03bf\u03c5\u03bd\u03ad\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03c1\u03bf\u03c5\u03bd\u03ad\u03b9 \u039d\u03c4\u03b1\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ac\u03bc"
     ],
     "name:eng_x_preferred":[
         "Brunei"
@@ -164,7 +234,8 @@
     ],
     "name:eng_x_variant":[
         "Brunei, Sultanate Of",
-        "Bruneian"
+        "Bruneian",
+        "Brunei Darussalam"
     ],
     "name:epo_x_preferred":[
         "Brunejo"
@@ -174,6 +245,9 @@
     ],
     "name:eus_x_preferred":[
         "Brunei"
+    ],
+    "name:ewe_x_preferred":[
+        "Brunei nutome"
     ],
     "name:fao_x_preferred":[
         "Brunei"
@@ -187,6 +261,12 @@
     "name:fra_x_preferred":[
         "Brunei"
     ],
+    "name:fra_x_variant":[
+        "Brun\u00e9i Darussalam"
+    ],
+    "name:fre_x_preferred":[
+        "Brunei"
+    ],
     "name:fre_x_variant":[
         "Brune\u00ef",
         "Brun\u00e9i Darussalam"
@@ -194,11 +274,23 @@
     "name:frp_x_preferred":[
         "Bruneyi"
     ],
+    "name:frr_x_preferred":[
+        "Bruunei"
+    ],
     "name:fry_x_preferred":[
         "Br\u00fbnei"
     ],
+    "name:ful_x_preferred":[
+        "Burnaay"
+    ],
     "name:gag_x_preferred":[
         "Bruney"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e0\u10e3\u10dc\u10d4\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Brunei"
     ],
     "name:ger_x_variant":[
         "Brunei Darussalam"
@@ -218,11 +310,20 @@
     "name:gom_x_preferred":[
         "\u092c\u094d\u0930\u0941\u0928\u0947\u0908"
     ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03c1\u03bf\u03c5\u03bd\u03ad\u03b9"
+    ],
     "name:grn_x_preferred":[
         "Mburun\u00e9i"
     ],
+    "name:gsw_x_preferred":[
+        "Brunei"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ac1\u0aa8\u0ac7\u0a88"
+    ],
+    "name:guj_x_variant":[
+        "\u0aac\u0acd\u0ab0\u0ac1\u0aa8\u0ac7\u0a87"
     ],
     "name:hak_x_preferred":[
         "V\u00f9n-l\u00f2i"
@@ -233,6 +334,9 @@
     "name:hau_x_preferred":[
         "Brunei"
     ],
+    "name:hau_x_variant":[
+        "Burune"
+    ],
     "name:haw_x_preferred":[
         "Brunei"
     ],
@@ -242,14 +346,23 @@
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05e0\u05d9\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e8\u05d5\u05e0\u05d9\u05d9 \u05d3\u05d0\u05e8\u05d5\u05e1\u05d0\u05dc\u05d0\u05dd"
+    ],
     "name:hif_x_preferred":[
         "Brunei"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0930\u0941\u0928\u0947\u0908"
     ],
+    "name:hin_x_variant":[
+        "\u092c\u094d\u0930\u0942\u0928\u0907"
+    ],
     "name:hrv_x_preferred":[
         "Brunej"
+    ],
+    "name:hrv_x_variant":[
+        "Brunei Darussalam"
     ],
     "name:hsb_x_preferred":[
         "Brunei"
@@ -257,8 +370,14 @@
     "name:hun_x_preferred":[
         "Brunei"
     ],
+    "name:hun_x_variant":[
+        "Brunei Darussalam"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0580\u0578\u0582\u0576\u0565\u0575"
+    ],
+    "name:ice_x_preferred":[
+        "Br\u00fanei"
     ],
     "name:ido_x_preferred":[
         "Brunei"
@@ -274,6 +393,12 @@
     ],
     "name:ind_x_preferred":[
         "Brunei Darussalam"
+    ],
+    "name:ind_x_variant":[
+        "Brunei"
+    ],
+    "name:ipk_x_preferred":[
+        "Brunei"
     ],
     "name:isl_x_preferred":[
         "Br\u00fanei"
@@ -299,8 +424,14 @@
     "name:kab_x_preferred":[
         "Brunei"
     ],
+    "name:kal_x_preferred":[
+        "Brunei"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cc1\u0ca8\u0cc8"
+    ],
+    "name:kan_x_variant":[
+        "\u0cac\u0ccd\u0cb0\u0cc2\u0ca8\u0cbf"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e0\u10e3\u10dc\u10d4\u10d8"
@@ -335,8 +466,14 @@
     "name:kur_x_preferred":[
         "Br\u00fbney"
     ],
+    "name:kur_x_variant":[
+        "\u0628\u0631\u0648\u0648\u0646\u0627\u06cc"
+    ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9a\u0eb9\u0ec4\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0e9a\u0eb9\u0eae\u0ec4\u0e99"
     ],
     "name:lat_x_preferred":[
         "Bruneium"
@@ -350,8 +487,14 @@
     "name:lim_x_preferred":[
         "Brunei"
     ],
+    "name:lim_x_variant":[
+        "Broenai"
+    ],
     "name:lin_x_preferred":[
         "Brunei"
+    ],
+    "name:lin_x_variant":[
+        "Brineyi"
     ],
     "name:lit_x_preferred":[
         "Brun\u0117jus"
@@ -365,14 +508,32 @@
     "name:ltz_x_preferred":[
         "Brunei"
     ],
+    "name:lub_x_preferred":[
+        "Brineyi"
+    ],
+    "name:lug_x_preferred":[
+        "Burunayi"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6c76\u840a"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0440\u0443\u043d\u0435\u0458"
+    ],
     "name:mai_x_preferred":[
         "\u092c\u094d\u0930\u0941\u0928\u0947\u0908"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4d\u0d30\u0d42\u0d23\u0d48"
     ],
+    "name:mao_x_preferred":[
+        "Poronai"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0941\u0928\u0947\u0908"
+    ],
+    "name:may_x_preferred":[
+        "Brunei"
     ],
     "name:min_x_preferred":[
         "Brunei"
@@ -380,8 +541,14 @@
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0458"
     ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0443\u043d\u0435\u0438"
+    ],
     "name:mlg_x_preferred":[
         "Boroney"
+    ],
+    "name:mlg_x_variant":[
+        "Brunei"
     ],
     "name:mlt_x_preferred":[
         "Brunej"
@@ -395,8 +562,23 @@
     "name:msa_x_preferred":[
         "Brunei"
     ],
+    "name:mwl_x_preferred":[
+        "Brunei"
+    ],
     "name:mya_x_preferred":[
         "\u1018\u101b\u1030\u1014\u102d\u102f\u1004\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1018\u101b\u1030\u1014\u102d\u102f\u1004\u103a\u1038"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u0626\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Brunei"
+    ],
+    "name:nan_x_preferred":[
+        "Brunei"
     ],
     "name:nap_x_preferred":[
         "Brunei"
@@ -407,11 +589,17 @@
     "name:nav_x_preferred":[
         "Bwoon\u00e9\u00ed"
     ],
+    "name:nde_x_preferred":[
+        "Brunei"
+    ],
     "name:nds_x_preferred":[
         "Brunei"
     ],
     "name:nep_x_preferred":[
         "\u092c\u094d\u0930\u0941\u0928\u0947\u0908"
+    ],
+    "name:nep_x_variant":[
+        "\u092c\u094d\u0930\u0941\u0928\u093e\u0907"
     ],
     "name:new_x_preferred":[
         "\u092c\u094d\u0930\u0941\u0928\u093e\u0907"
@@ -419,8 +607,17 @@
     "name:nld_x_preferred":[
         "Brunei"
     ],
+    "name:nld_x_variant":[
+        "Brunei Darussalam"
+    ],
     "name:nno_x_preferred":[
         "Brunei"
+    ],
+    "name:nno_x_variant":[
+        "Brunei Darussalam"
+    ],
+    "name:nob_x_preferred":[
+        "Brunei Darussalam"
     ],
     "name:nor_x_preferred":[
         "Brunei"
@@ -428,11 +625,20 @@
     "name:nov_x_preferred":[
         "Brunei"
     ],
+    "name:nya_x_preferred":[
+        "Brunei"
+    ],
     "name:oci_x_preferred":[
+        "Brunei"
+    ],
+    "name:olo_x_preferred":[
         "Brunei"
     ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b43\u0b28\u0b47\u0b07"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2c\u0b4d\u0b30\u0b41\u0b28\u0b47\u0b07"
     ],
     "name:orm_x_preferred":[
         "Birunaay"
@@ -445,6 +651,15 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a30\u0a42\u0a28\u0a3e\u0a08"
+    ],
+    "name:pap_x_preferred":[
+        "Brunei"
+    ],
+    "name:pcd_x_preferred":[
+        "Brunei"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u0626\u06cc"
     ],
     "name:pih_x_preferred":[
         "Bruunii"
@@ -460,6 +675,9 @@
     ],
     "name:pol_x_preferred":[
         "Brunei"
+    ],
+    "name:pol_x_variant":[
+        "Brunei Darussalam"
     ],
     "name:por_x_preferred":[
         "Brunei"
@@ -479,8 +697,20 @@
     "name:rue_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
     ],
+    "name:rum_x_preferred":[
+        "Brunei"
+    ],
+    "name:run_x_preferred":[
+        "Buruneyi"
+    ],
+    "name:rup_x_preferred":[
+        "Brunei"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0440\u0443\u043d\u0435\u0439 \u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u0430\u043c"
     ],
     "name:sag_x_preferred":[
         "Brun\u00eai"
@@ -497,10 +727,16 @@
     "name:sco_x_preferred":[
         "Brunei"
     ],
+    "name:sgs_x_preferred":[
+        "Bruniejos"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0df2\u0db1\u0dcf\u0dba\u0dd2"
     ],
     "name:slk_x_preferred":[
+        "Brunej"
+    ],
+    "name:slo_x_preferred":[
         "Brunej"
     ],
     "name:slv_x_preferred":[
@@ -512,14 +748,26 @@
     "name:sna_x_preferred":[
         "Brunei"
     ],
+    "name:sna_x_variant":[
+        "Burunei"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u0626\u064a"
+    ],
     "name:som_x_preferred":[
         "Barunay"
+    ],
+    "name:som_x_variant":[
+        "Buruneeya"
     ],
     "name:spa_x_preferred":[
         "Brun\u00e9i"
     ],
     "name:sqi_x_preferred":[
         "Brunei"
+    ],
+    "name:sqi_x_variant":[
+        "Brunej"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0458"
@@ -545,11 +793,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb0\u0bc2\u0ba3\u0bc8"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bc1\u0bb0\u0bc2\u0ba9\u0bc7\u0baf\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c42\u0c28\u0c48"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2c\u0c4d\u0c30\u0c41\u0c28\u0c48"
     ],
     "name:tet_x_preferred":[
         "Brunei"
@@ -560,8 +814,23 @@
     "name:tgl_x_preferred":[
         "Brunei"
     ],
+    "name:tgl_x_variant":[
+        "Brunay"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e23\u0e39\u0e44\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e23\u0e39\u0e44\u0e19"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f56\u0fb7\u0f72\u0f0b\u0f62\u0f74\u0f0b\u0f53\u0f72\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u1265\u1229\u1292"
+    ],
+    "name:ton_x_preferred":[
+        "Pulunei"
     ],
     "name:tpi_x_preferred":[
         "Brunai"
@@ -584,16 +853,28 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0440\u0443\u043d\u0435\u0439-\u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u0430\u043c"
+    ],
     "name:und_x_preferred":[
         "Brunej",
         "Br\u00fanei",
         "Negara Brunei Darussalam"
     ],
+    "name:unk_x_variant":[
+        "State of Brunei"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u0646\u0627\u0626\u06cc \u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u0631\u0648\u0646\u0626\u06cc"
+    ],
     "name:uzb_x_preferred":[
         "Bruney"
+    ],
+    "name:vec_x_preferred":[
+        "Brunei"
     ],
     "name:vep_x_preferred":[
         "Brunei"
@@ -601,10 +882,16 @@
     "name:vie_x_preferred":[
         "Brunei"
     ],
+    "name:vie_x_variant":[
+        "Bru-n\u00e2y"
+    ],
     "name:vol_x_preferred":[
         "Brun\u00e4n"
     ],
     "name:war_x_preferred":[
+        "Brunei"
+    ],
+    "name:wel_x_preferred":[
         "Brunei"
     ],
     "name:wuu_x_preferred":[
@@ -622,6 +909,12 @@
     "name:yor_x_preferred":[
         "Brunei"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de B\u00far\u00fan\u1eb9\u0301l\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c76\u840a"
+    ],
     "name:zea_x_preferred":[
         "Brunei"
     ],
@@ -635,10 +928,14 @@
         "\u6c76\u83b1"
     ],
     "name:zho_x_variant":[
-        "\u6c76\u840a"
+        "\u6c76\u840a",
+        "\u6587\u83b1"
     ],
     "name:zho_yue_x_preferred":[
         "\u6c76\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "i-Brunei"
     ],
     "ne:abbrev":"Brunei",
     "ne:abbrev_len":6,
@@ -717,6 +1014,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"673",
+    "statoids:ds":"BRU",
+    "statoids:fifa":"BRU",
+    "statoids:gaul":"40",
+    "statoids:gec":"BX",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"BRU",
+    "statoids:iso_a2":"BN",
+    "statoids:iso_a3":"BRN",
+    "statoids:iso_num":"96",
+    "statoids:itu":"BRU",
+    "statoids:marc":"bx",
+    "statoids:name":"Brunei Darussalam",
+    "statoids:wmo":"BD",
     "wk:latitude":4.4,
     "wk:longitude":114.566667,
     "wk:population":417784,
@@ -728,19 +1040,29 @@
     "wof:concordances":{
         "dbp:id":"Brunei",
         "fb:id":"en.brunei",
+        "fifa:id":"BRU",
+        "fips:code":"BX",
+        "gaul:id":"40",
         "gn:id":1820814,
         "gp:id":23424773,
         "hasc:id":"BN",
+        "ioc:id":"BRU",
+        "itu:id":"BRU",
         "loc:id":"n81131874",
+        "m49:code":"096",
+        "marc:id":"bx",
         "mzb:id":"brunei",
+        "ne:adm0_a3":"BRN",
         "nyt:id":"62276716820451409921",
         "qs:id":212488,
+        "uncrt:id":"BRU",
         "wd:id":"Q921",
-        "wk:page":"Brunei"
+        "wk:page":"Brunei",
+        "wmo:id":"BD"
     },
     "wof:country":"BN",
     "wof:country_alpha3":"BRN",
-    "wof:geomhash":"3430346404b713622d44f00ef827b2ae",
+    "wof:geomhash":"f8a59665e5b162c927703ecd89bd52e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -757,11 +1079,14 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1493230079,
+    "wof:lastmodified":1514559634,
     "wof:name":"Brunei",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":417784,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"BRN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.324521,
+    "geom:area_square_m":2591300436.868612,
     "geom:bbox":"5.735759,49.4478385,6.5296005,50.1827815",
     "geom:latitude":49.776861,
     "geom:longitude":6.092603,
     "gn:population":497538,
     "iso:country":"LU",
+    "itu:country_code":[
+        "352"
+    ],
     "lbl:latitude":49.759178,
     "lbl:longitude":6.086636,
     "mps:latitude":49.759178,
     "mps:longitude":6.086636,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Luks\u00e8mburg"
     ],
     "name:afr_x_preferred":[
         "Luxemburg"
+    ],
+    "name:aka_x_preferred":[
+        "Laksemb\u025bg"
     ],
     "name:als_x_preferred":[
         "Luxemburg"
@@ -32,6 +42,10 @@
     ],
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063a"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u0648\u0643\u0633\u0648\u0645\u0628\u0631\u063a",
+        "\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u062c"
     ],
     "name:arc_x_preferred":[
         "\u0720\u0718\u071f\u0723\u0721\u0712\u0718\u072a\u0713"
@@ -54,6 +68,9 @@
     "name:bak_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
+    "name:bam_x_preferred":[
+        "Likisanburu"
+    ],
     "name:bar_x_preferred":[
         "Luxnbuag"
     ],
@@ -69,11 +86,17 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u0995\u09cd\u09b8\u09c7\u09ae\u09ac\u09c1\u09b0\u09cd\u0997"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be\u0995\u09cd\u09b8\u09c7\u09ae\u09ac\u09be\u09b0\u09cd\u0997"
+    ],
     "name:bis_x_preferred":[
         "Luxembourg"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f74\u0f0b\u0f66\u0f7a\u0f58\u0f0b\u0f56\u0f60\u0f74\u0f62\u0f42 (\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d)"
+    ],
+    "name:bod_x_variant":[
+        "\u0f63\u0f40\u0f0b\u0f5b\u0f58\u0f0b\u0f56\u0f7c\u0f62\u0f92\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Luksemburg"
@@ -83,6 +106,9 @@
     ],
     "name:bre_x_preferred":[
         "Luksembourg (bro)"
+    ],
+    "name:bre_x_variant":[
+        "Luksembourg"
     ],
     "name:bul_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
@@ -104,12 +130,6 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
-    ],
-    "name:chi_x_preferred":[
-        "\u76e7\u68ee\u5821"
-    ],
-    "name:chi_x_variant":[
-        "\u5362\u68ee\u5821"
     ],
     "name:chr_x_preferred":[
         "\u13b8\u13a7\u13ce\u13cb\u13a9"
@@ -153,20 +173,29 @@
     "name:dan_x_variant":[
         "Storhertugd\u00f8mmet Luxemburg"
     ],
+    "name:deu_x_colloquial":[
+        "Grossherzogtum Luxemburg"
+    ],
     "name:deu_x_preferred":[
         "Luxemburg"
+    ],
+    "name:deu_x_variant":[
+        "Gro\u00dfherzogtum Luxemburg"
     ],
     "name:diq_x_preferred":[
         "Luksemburg (dewlete)"
     ],
+    "name:div_x_preferred":[
+        "\u078d\u07a6\u0792\u07a6\u0782\u07b0\u0784\u07a7"
+    ],
     "name:dsb_x_preferred":[
         "Luxemburgska"
     ],
-    "name:dut_x_preferred":[
-        "Luxemburg"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03be\u03b5\u03bc\u03b2\u03bf\u03cd\u03c1\u03b3\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Luxembourg"
     ],
     "name:eng_x_unknown":[
         "LU",
@@ -179,6 +208,10 @@
     "name:epo_x_preferred":[
         "Luksemburgo (lando)"
     ],
+    "name:epo_x_variant":[
+        "Luksemburgo",
+        "Luksemburgio"
+    ],
     "name:est_x_preferred":[
         "Luksemburg"
     ],
@@ -187,6 +220,9 @@
     ],
     "name:ewe_x_preferred":[
         "Luxembourg"
+    ],
+    "name:ewe_x_variant":[
+        "Lazemb\u0254g nutome"
     ],
     "name:ext_x_preferred":[
         "Lussembulgu"
@@ -209,15 +245,16 @@
     "name:fra_x_preferred":[
         "Luxembourg (pays)"
     ],
-    "name:fre_x_preferred":[
-        "Luxembourg"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Grand-Duch\u00e9 de Luxembourg",
-        "Ljuksemburg"
+        "Ljuksemburg",
+        "Luxembourg"
     ],
     "name:frp_x_preferred":[
         "Luxemb\u00f4rg (payis)"
+    ],
+    "name:frp_x_variant":[
+        "Luxemb\u00f4rg"
     ],
     "name:frr_x_preferred":[
         "Luxemborj"
@@ -225,23 +262,20 @@
     "name:fry_x_preferred":[
         "L\u00faksemboarch (l\u00e2n)"
     ],
+    "name:fry_x_variant":[
+        "L\u00faksemboarch"
+    ],
     "name:ful_x_preferred":[
         "Luksammbuur"
+    ],
+    "name:ful_x_variant":[
+        "Liksembuur"
     ],
     "name:fur_x_preferred":[
         "Lussemburc"
     ],
     "name:gag_x_preferred":[
         "L\u00fcksemburg"
-    ],
-    "name:ger_x_colloquial":[
-        "Grossherzogtum Luxemburg"
-    ],
-    "name:ger_x_preferred":[
-        "Luxemburg"
-    ],
-    "name:ger_x_variant":[
-        "Gro\u00dfherzogtum Luxemburg"
     ],
     "name:gla_x_preferred":[
         "Lucsamburg"
@@ -251,6 +285,9 @@
     ],
     "name:glg_x_preferred":[
         "Luxemburgo"
+    ],
+    "name:glg_x_variant":[
+        "Luxemburgo - L\u00ebtzebuerg"
     ],
     "name:glv_x_preferred":[
         "Lucsemburg"
@@ -264,6 +301,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0a95\u0acd\u0a9d\u0ac7\u0aae\u0acd\u0aac\u0ab0\u0acd\u0a97"
     ],
+    "name:guj_x_variant":[
+        "\u0ab2\u0a95\u0acd\u0a9d\u0aae\u0aac\u0ab0\u0acd\u0a97"
+    ],
     "name:hak_x_preferred":[
         "Luxembourg"
     ],
@@ -272,6 +312,9 @@
     ],
     "name:hau_x_preferred":[
         "Luksamburg"
+    ],
+    "name:hau_x_variant":[
+        "Lukusambur"
     ],
     "name:haw_x_preferred":[
         "Lukemapuka"
@@ -287,6 +330,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u0915\u094d\u091c\u093c\u092e\u092c\u0930\u094d\u0917"
+    ],
+    "name:hin_x_variant":[
+        "\u0932\u0915\u094d\u0938\u092e\u092c\u0930\u094d\u0917"
     ],
     "name:hrv_x_preferred":[
         "Luksemburg"
@@ -314,6 +360,9 @@
     ],
     "name:ind_x_preferred":[
         "Luksemburg"
+    ],
+    "name:ind_x_variant":[
+        "Luxemburg"
     ],
     "name:isl_x_preferred":[
         "L\u00faxemborg"
@@ -346,6 +395,12 @@
     "name:kal_x_preferred":[
         "Luxembourg (nunaat)"
     ],
+    "name:kal_x_variant":[
+        "Luxembourg"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0c95\u0ccd\u0cb8\u0c82\u0cac\u0cb0\u0ccd\u0c97\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10e3\u10e5\u10e1\u10d4\u10db\u10d1\u10e3\u10e0\u10d2\u10d8"
     ],
@@ -354,6 +409,12 @@
     ],
     "name:kbd_x_preferred":[
         "\u041b\u0443\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:khm_x_preferred":[
+        "\u179b\u17bb\u1785\u17a0\u17d2\u179f\u17c6\u1794\u17bd\u179a"
+    ],
+    "name:kik_x_preferred":[
+        "Lasembagi"
     ],
     "name:kin_x_preferred":[
         "Lugizamburu"
@@ -382,11 +443,17 @@
     "name:kur_x_preferred":[
         "L\u00fbksemb\u00fbrg"
     ],
+    "name:kur_x_variant":[
+        "\u0644\u0648\u06a9\u0633\u06d5\u0645\u0628\u0648\u0631\u06af"
+    ],
     "name:lad_x_preferred":[
         "Luksemburgo"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb9\u0e81\u0e8a\u0eb3\u0e9a\u0ea7\u0e81"
+    ],
+    "name:lao_x_variant":[
+        "\u0ea5\u0eb8\u0e81\u0ec1\u0e8a\u0ea1\u0ec0\u0e9a\u0eb5\u0e81"
     ],
     "name:lat_x_preferred":[
         "Luxemburgum"
@@ -403,8 +470,14 @@
     "name:lim_x_preferred":[
         "Luxemb\u00f6rg (land)"
     ],
+    "name:lim_x_variant":[
+        "Luxemb\u00f6rg"
+    ],
     "name:lin_x_preferred":[
         "Luksamburg"
+    ],
+    "name:lin_x_variant":[
+        "Likisambulu"
     ],
     "name:lit_x_preferred":[
         "Liuksemburgas"
@@ -421,8 +494,21 @@
     "name:ltz_x_preferred":[
         "L\u00ebtzebuerg (Land)"
     ],
+    "name:ltz_x_variant":[
+        "L\u00ebtzebuerg",
+        "Groussherzogtum L\u00ebtzebuerg"
+    ],
+    "name:lub_x_preferred":[
+        "Likisambulu"
+    ],
+    "name:lug_x_preferred":[
+        "Lukisembaaga"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d15\u0d4d\u0d38\u0d02\u0d2c\u0d7c\u0d17\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d32\u0d15\u0d4d\u0d38\u0d02\u0d2c\u0d30\u0d4d\u200d\u0d17\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0932\u0915\u094d\u091d\u0947\u0902\u092c\u0930\u094d\u0917"
@@ -439,6 +525,9 @@
     "name:mlg_x_preferred":[
         "Loksemborga"
     ],
+    "name:mlg_x_variant":[
+        "Lioksamboro"
+    ],
     "name:mlt_x_preferred":[
         "Lussemburgu"
     ],
@@ -451,8 +540,14 @@
     "name:msa_x_preferred":[
         "Luxembourg"
     ],
+    "name:msa_x_variant":[
+        "Luksembourg"
+    ],
     "name:mya_x_preferred":[
         "\u101c\u1030\u1007\u1004\u103a\u1018\u1010\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u101c\u1030\u1007\u1004\u103a\u1018\u1010\u103a"
     ],
     "name:myv_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 \u041c\u0430\u0441\u0442\u043e\u0440"
@@ -466,6 +561,9 @@
     "name:nav_x_preferred":[
         "L\u00e1ts\u0119boo\u02bc"
     ],
+    "name:nde_x_preferred":[
+        "Luxembourg"
+    ],
     "name:nds_nld_x_preferred":[
         "Luxemburg (laand)"
     ],
@@ -475,13 +573,22 @@
     "name:nep_x_preferred":[
         "\u0932\u0915\u094d\u091c\u0947\u092e\u094d\u092c\u0930\u094d\u0917"
     ],
+    "name:nep_x_variant":[
+        "\u0932\u0915\u094d\u091c\u0947\u092e\u092c\u0930\u094d\u0917"
+    ],
     "name:new_x_preferred":[
         "\u0932\u0915\u094d\u091c\u0947\u092e\u094d\u092c\u0930\u094d\u0917"
     ],
     "name:nld_x_preferred":[
         "Luxemburg (land)"
     ],
+    "name:nld_x_variant":[
+        "Luxemburg"
+    ],
     "name:nno_x_preferred":[
+        "Luxembourg"
+    ],
+    "name:nob_x_preferred":[
         "Luxembourg"
     ],
     "name:nor_x_preferred":[
@@ -496,14 +603,23 @@
     "name:oci_x_preferred":[
         "Luxemborg (estat)"
     ],
+    "name:oci_x_variant":[
+        "Luxemborg"
+    ],
     "name:ori_x_preferred":[
         "\u0b32\u0b15\u0b4d\u0b38\u0b2e\u0b2c\u0b30\u0b4d\u0b17"
+    ],
+    "name:ori_x_variant":[
+        "\u0b32\u0b15\u0b4d\u0b38\u0b47\u0b2e\u0b2c\u0b30\u0b4d\u0b17"
     ],
     "name:orm_x_preferred":[
         "Laaksembargi"
     ],
     "name:oss_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 (\u043f\u0430\u0434\u0434\u0437\u0430\u0445\u0430\u0434)"
+    ],
+    "name:oss_x_variant":[
+        "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
     "name:pag_x_preferred":[
         "L\u00ebtzebuerg"
@@ -535,6 +651,9 @@
     "name:pms_x_preferred":[
         "Lussemborgh"
     ],
+    "name:pms_x_variant":[
+        "Lussemborg"
+    ],
     "name:pnb_x_preferred":[
         "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"
     ],
@@ -553,6 +672,9 @@
     "name:que_x_preferred":[
         "Luksimbur"
     ],
+    "name:rgn_x_preferred":[
+        "Lussemb\u00fbrg"
+    ],
     "name:rmy_x_preferred":[
         "Luksemburgo"
     ],
@@ -568,8 +690,14 @@
     "name:rum_x_preferred":[
         "Luxemburg"
     ],
+    "name:run_x_preferred":[
+        "Lukusamburu"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:sag_x_preferred":[
+        "Lugzamb\u00fbru"
     ],
     "name:sah_x_preferred":[
         "\u041b\u04af\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
@@ -589,8 +717,14 @@
     "name:slv_x_preferred":[
         "Luksemburg"
     ],
+    "name:slv_x_variant":[
+        "Luxemburg"
+    ],
     "name:sme_x_preferred":[
         "Luxemburg"
+    ],
+    "name:sme_x_variant":[
+        "Luxembourg"
     ],
     "name:sna_x_preferred":[
         "Luxembourg"
@@ -598,11 +732,17 @@
     "name:som_x_preferred":[
         "Luksemburg"
     ],
+    "name:som_x_variant":[
+        "Luksemboorg"
+    ],
     "name:spa_x_preferred":[
         "Luxemburgo"
     ],
     "name:sqi_x_preferred":[
         "Luksemburgu"
+    ],
+    "name:sqi_x_variant":[
+        "Luksemburg"
     ],
     "name:srd_x_preferred":[
         "Lussemburgu"
@@ -625,6 +765,9 @@
     "name:swa_x_preferred":[
         "Luxemburg"
     ],
+    "name:swa_x_variant":[
+        "Lasembagi"
+    ],
     "name:swe_x_preferred":[
         "Luxemburg"
     ],
@@ -634,8 +777,14 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0b95\u0bcd\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb2\u0b95\u0bcd\u0bb8\u0bcd\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c15\u0c4d\u0c38\u0c02\u0c2c\u0c30\u0c4d\u0c17\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Luxemburgu"
@@ -648,6 +797,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e31\u0e01\u0e40\u0e0b\u0e21\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e31\u0e01\u0e40\u0e0b\u0e21\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e01"
+    ],
+    "name:tir_x_preferred":[
+        "\u1209\u12ad\u1230\u121d\u1260\u122d\u130d"
+    ],
+    "name:ton_x_preferred":[
+        "Lakisimipeki"
     ],
     "name:tso_x_preferred":[
         "Luxembourg"
@@ -670,6 +828,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
+    "name:ukr_x_variant":[
+        "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0491"
+    ],
     "name:und_x_colloquial":[
         "Louxemvourgo",
         "Luxemborg"
@@ -682,8 +843,14 @@
         "Louxemvo\u00fargo",
         "Veliko vojvodstvo Luksemburg"
     ],
+    "name:unk_x_variant":[
+        "Letzeburg"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u06af\u0698\u0645\u0628\u0631\u06af"
     ],
     "name:uzb_x_preferred":[
         "Lyuksemburg"
@@ -696,6 +863,9 @@
     ],
     "name:vie_x_preferred":[
         "Luxembourg"
+    ],
+    "name:vie_x_variant":[
+        "L\u00fac-x\u0103m-bua"
     ],
     "name:vls_x_preferred":[
         "Luxemburg (land)"
@@ -727,6 +897,9 @@
     "name:yor_x_preferred":[
         "L\u00faks\u1eb9\u0301mb\u1ecd\u0300rg"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Lusemogi"
+    ],
     "name:zea_x_preferred":[
         "Luxemburg (land)"
     ],
@@ -737,10 +910,14 @@
         "\u5362\u68ee\u5821"
     ],
     "name:zho_x_variant":[
+        "\u5362\u68ee\u5821",
         "\u76e7\u68ee\u5821"
     ],
     "name:zho_yue_x_preferred":[
         "\u76e7\u68ee\u5821"
+    ],
+    "name:zul_x_preferred":[
+        "i-Luxembourg"
     ],
     "ne:abbrev":"Lux.",
     "ne:abbrev_len":4,
@@ -820,6 +997,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"352",
+    "statoids:ds":"L",
+    "statoids:fifa":"LUX",
+    "statoids:gaul":"148",
+    "statoids:gec":"LU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"LUX",
+    "statoids:iso_a2":"LU",
+    "statoids:iso_a3":"LUX",
+    "statoids:iso_num":"442",
+    "statoids:itu":"LUX",
+    "statoids:marc":"lu",
+    "statoids:name":"Luxembourg",
+    "statoids:wmo":"BX",
     "wk:latitude":49.77,
     "wk:longitude":6.13,
     "wk:population":543360,
@@ -831,18 +1023,28 @@
     "wof:concordances":{
         "dbp:id":"Luxembourg",
         "fb:id":"en.luxembourg",
+        "fifa:id":"LUX",
+        "fips:code":"LU",
+        "gaul:id":"148",
         "gn:id":2960313,
         "gp:id":23424881,
         "hasc:id":"LU",
+        "ioc:id":"LUX",
+        "itu:id":"LUX",
+        "m49:code":"442",
+        "marc:id":"lu",
         "mzb:id":"luxemburg",
+        "ne:adm0_a3":"LUX",
         "nyt:id":"N11581704194185837481",
         "qs:id":580065,
+        "uncrt:id":"L",
         "wd:id":"Q32",
-        "wk:page":"Luxembourg"
+        "wk:page":"Luxembourg",
+        "wmo:id":"BX"
     },
     "wof:country":"LU",
     "wof:country_alpha3":"LUX",
-    "wof:geomhash":"ac9729b48977e461e491c6fe39d3b063",
+    "wof:geomhash":"44a2eaf3f37651849f0e98484cad337b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -863,11 +1065,14 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1493230204,
+    "wof:lastmodified":1509142796,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":543360,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"LUX",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

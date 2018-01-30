@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":106.657247,
+    "geom:area_square_m":1256569299081.244385,
     "geom:bbox":"-12.238885,10.147811,4.26738276,25.001084",
     "geom:latitude":17.349899,
     "geom:longitude":-3.516035,
     "gn:id":"",
     "gn:population":13796354,
     "iso:country":"ML",
+    "itu:country_code":[
+        "223"
+    ],
     "lbl:latitude":18.683211,
     "lbl:longitude":-2.015109,
     "mps:latitude":18.683211,
     "mps:longitude":-2.015109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Mali"
     ],
@@ -23,6 +30,9 @@
         "\u041c\u0430\u043b\u0438"
     ],
     "name:afr_x_preferred":[
+        "Mali"
+    ],
+    "name:aka_x_preferred":[
         "Mali"
     ],
     "name:als_x_preferred":[
@@ -45,6 +55,9 @@
     ],
     "name:ast_x_preferred":[
         "Mali"
+    ],
+    "name:ast_x_variant":[
+        "Mal\u00ed"
     ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u06cc"
@@ -106,13 +119,6 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5229"
-    ],
-    "name:chi_x_variant":[
-        "\u99ac\u5229",
-        "\u9a6c\u91cc"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043b\u0438"
     ],
@@ -170,6 +176,9 @@
     "name:ewe_x_preferred":[
         "Mali"
     ],
+    "name:ewe_x_variant":[
+        "Mali nutome"
+    ],
     "name:ext_x_preferred":[
         "Mali"
     ],
@@ -185,8 +194,8 @@
     "name:fra_x_preferred":[
         "Mali"
     ],
-    "name:fre_x_preferred":[
-        "Mali"
+    "name:fra_x_variant":[
+        "R\u00e9publique du Mali"
     ],
     "name:frp_x_preferred":[
         "Mali"
@@ -212,8 +221,15 @@
     "name:glg_x_preferred":[
         "Mal\u00ed"
     ],
+    "name:glg_x_variant":[
+        "Mal\u00ed - Mali",
+        "Mali"
+    ],
     "name:glv_x_preferred":[
         "Malee"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab2\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Mali"
@@ -291,14 +307,26 @@
     "name:kab_x_preferred":[
         "Mali"
     ],
+    "name:kal_x_preferred":[
+        "Mali"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb2\u0cbf"
+    ],
+    "name:kas_x_preferred":[
+        "M\u0101l\u012b"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10da\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u043b\u0438"
+    ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17b6\u179b\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Mali"
     ],
     "name:kin_x_preferred":[
         "Mali"
@@ -315,6 +343,12 @@
     "name:kur_x_preferred":[
         "Mal\u00ee"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u0627\u0644\u06cc"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0eb2\u0ea5\u0eb4"
+    ],
     "name:lat_x_preferred":[
         "Malia"
     ],
@@ -330,6 +364,9 @@
     "name:lin_x_preferred":[
         "Mali"
     ],
+    "name:lin_x_variant":[
+        "Mal\u00ed"
+    ],
     "name:lit_x_preferred":[
         "Malis"
     ],
@@ -337,6 +374,12 @@
         "Mali"
     ],
     "name:ltz_x_preferred":[
+        "Mali"
+    ],
+    "name:lub_x_preferred":[
+        "Mali"
+    ],
+    "name:lug_x_preferred":[
         "Mali"
     ],
     "name:mal_x_preferred":[
@@ -369,8 +412,14 @@
     "name:mya_x_preferred":[
         "\u1019\u102c\u101c\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u102c\u101c\u102e"
+    ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u0644\u06cc"
+    ],
+    "name:nde_x_preferred":[
+        "Mali"
     ],
     "name:nds_nld_x_preferred":[
         "Mali"
@@ -390,6 +439,9 @@
     "name:nno_x_preferred":[
         "Mali"
     ],
+    "name:nob_x_preferred":[
+        "Mali"
+    ],
     "name:nor_x_preferred":[
         "Mali"
     ],
@@ -404,6 +456,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b3e\u0b32\u0b3f"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b3e\u0b33\u0b40"
     ],
     "name:orm_x_preferred":[
         "Maalii"
@@ -444,7 +499,13 @@
     "name:que_x_preferred":[
         "Mali"
     ],
+    "name:roh_x_preferred":[
+        "Mali"
+    ],
     "name:ron_x_preferred":[
+        "Mali"
+    ],
+    "name:run_x_preferred":[
         "Mali"
     ],
     "name:rus_x_preferred":[
@@ -489,6 +550,9 @@
     "name:spa_x_preferred":[
         "Mal\u00ed"
     ],
+    "name:spa_x_variant":[
+        "Mali"
+    ],
     "name:sqi_x_preferred":[
         "Mali"
     ],
@@ -519,8 +583,14 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0bb2\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbe\u0bb2\u0bc0"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u0438"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c32\u0c3f"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u043b\u04e3"
@@ -528,11 +598,20 @@
     "name:tgl_x_preferred":[
         "Mali (bansa)"
     ],
+    "name:tgl_x_variant":[
+        "Mali"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e32\u0e25\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e25\u0e35"
+    ],
     "name:tir_x_preferred":[
         "\u121b\u120a"
+    ],
+    "name:ton_x_preferred":[
+        "M\u0101li"
     ],
     "name:tso_x_preferred":[
         "Mali (Tiko)"
@@ -552,6 +631,9 @@
     "name:und_x_variant":[
         "Republika Mali"
     ],
+    "name:unk_x_variant":[
+        "French Sudan"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644\u06cc"
     ],
@@ -566,6 +648,9 @@
     ],
     "name:vie_x_preferred":[
         "Mali"
+    ],
+    "name:vie_x_variant":[
+        "Ma-li"
     ],
     "name:vls_x_preferred":[
         "Mali"
@@ -597,6 +682,9 @@
     "name:yor_x_preferred":[
         "M\u00e1l\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Mali"
+    ],
     "name:zea_x_preferred":[
         "Mali"
     ],
@@ -606,11 +694,18 @@
     "name:zho_x_preferred":[
         "\u9a6c\u91cc\u5171\u548c\u56fd"
     ],
+    "name:zho_x_variant":[
+        "\u9a6c\u91cc",
+        "\u99ac\u5229"
+    ],
     "name:zho_yue_x_preferred":[
         "\u99ac\u91cc"
     ],
     "name:zul_x_preferred":[
         "IMali"
+    ],
+    "name:zul_x_variant":[
+        "i-Mali"
     ],
     "ne:abbrev":"Mali",
     "ne:abbrev_len":4,
@@ -690,6 +785,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"223",
+    "statoids:ds":"RMM",
+    "statoids:fifa":"MLI",
+    "statoids:gaul":"155",
+    "statoids:gec":"ML",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MLI",
+    "statoids:iso_a2":"ML",
+    "statoids:iso_a3":"MLI",
+    "statoids:iso_num":"466",
+    "statoids:itu":"MLI",
+    "statoids:marc":"ml",
+    "statoids:name":"Mali",
+    "statoids:wmo":"MI",
     "wk:latitude":17.0,
     "wk:longitude":-4.0,
     "wk:population":15301650,
@@ -701,19 +811,29 @@
     "wof:concordances":{
         "dbp:id":"Mali",
         "fb:id":"en.mali",
+        "fifa:id":"MLI",
+        "fips:code":"ML",
+        "gaul:id":"155",
         "gn:id":2453866,
         "gp:id":23424891,
         "hasc:id":"ML",
+        "ioc:id":"MLI",
+        "itu:id":"MLI",
         "loc:id":"n79007504",
+        "m49:code":"466",
+        "marc:id":"ml",
         "mzb:id":"mali",
+        "ne:adm0_a3":"MLI",
         "nyt:id":"62242867699662192641",
         "qs:id":91463,
+        "uncrt:id":"RMM",
         "wd:id":"Q912",
-        "wk:page":"Mali"
+        "wk:page":"Mali",
+        "wmo:id":"MI"
     },
     "wof:country":"ML",
     "wof:country_alpha3":"MLI",
-    "wof:geomhash":"e34c305ff05aff42889a80659fcae1e5",
+    "wof:geomhash":"08a293f867d2b32d26b14f0611a9032d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -730,11 +850,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493230002,
+    "wof:lastmodified":1509142800,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":15301650,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MLI",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

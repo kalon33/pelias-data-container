@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.140444,
+    "geom:area_square_m":91740496657.628525,
     "geom:bbox":"-17.108888626,20.770066173,-8.666665214,27.6687672",
     "geom:latitude":24.227886,
     "geom:longitude":-12.213592,
     "gn:id":"",
     "iso:country":"EH",
+    "itu:country_code":[
+        "212"
+    ],
     "lbl:latitude":23.966331,
     "lbl:longitude":-12.630321,
     "mps:latitude":23.966331,
     "mps:longitude":-12.630321,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Sahara Barat"
     ],
@@ -75,12 +82,6 @@
     "name:ces_x_preferred":[
         "Z\u00e1padn\u00ed Sahara"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u6492\u54c8\u62c9"
-    ],
-    "name:chi_x_variant":[
-        "\u897f\u6492\u54c8\u62c9"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u06d5\u062d\u0631\u0627\u06cc \u0695\u06c6\u0698\u0627\u0648\u0627"
     ],
@@ -110,12 +111,6 @@
     ],
     "name:dsb_x_preferred":[
         "P\u00f3dwjacorna Sahara"
-    ],
-    "name:dut_x_preferred":[
-        "Westelijke Sahara"
-    ],
-    "name:dut_x_variant":[
-        "Sahara Westelijke"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u03a3\u03b1\u03c7\u03ac\u03c1\u03b1"
@@ -158,7 +153,7 @@
     "name:fra_x_preferred":[
         "Sahara occidental"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sahara Occidental"
     ],
     "name:frp_x_preferred":[
@@ -169,9 +164,6 @@
     ],
     "name:gag_x_preferred":[
         "G\u00fcnbat\u0131s\u0131 Sahara"
-    ],
-    "name:ger_x_preferred":[
-        "Westsahara"
     ],
     "name:gla_x_preferred":[
         "Sathara an Iar"
@@ -313,6 +305,9 @@
     ],
     "name:nld_x_preferred":[
         "Westelijke Sahara"
+    ],
+    "name:nld_x_variant":[
+        "Sahara Westelijke"
     ],
     "name:nno_x_preferred":[
         "Vest-Sahara"
@@ -473,6 +468,9 @@
     "name:zho_x_preferred":[
         "\u897f\u6492\u54c8\u62c9"
     ],
+    "name:zho_x_variant":[
+        "\u897f\u6492\u54c8\u62c9"
+    ],
     "name:zho_yue_x_preferred":[
         "\u897f\u6492\u54c8\u62c9"
     ],
@@ -553,21 +551,43 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"naturalearth",
+    "statoids:dial":"212",
+    "statoids:ds":"",
+    "statoids:fifa":"SAH",
+    "statoids:gaul":"268",
+    "statoids:gec":"WI",
+    "statoids:independent":"In contention",
+    "statoids:ioc":"",
+    "statoids:iso_a2":"EH",
+    "statoids:iso_a3":"ESH",
+    "statoids:iso_num":"732",
+    "statoids:itu":"AOE",
+    "statoids:marc":"ss",
+    "statoids:name":"Western Sahara",
+    "statoids:wmo":"",
     "wk:wordcount":9770,
     "wof:belongsto":[
         102191573
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fifa:id":"SAH",
+        "fips:code":"WI",
+        "gaul:id":"268",
         "gp:id":23424990,
         "hasc:id":"EH",
+        "itu:id":"AOE",
+        "m49:code":"732",
+        "marc:id":"ss",
         "mzb:id":"sahrawi-arab-democratic-republic",
+        "ne:adm0_a3":"SAH",
         "qs:id":1087778,
         "wd:id":"Q6250"
     },
     "wof:country":"EH",
     "wof:country_alpha3":"ESH",
-    "wof:geomhash":"7ec287764e09a4ff143f933464674c41",
+    "wof:geomhash":"5a142a4b86dd558940b6fbcee35bb1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -578,11 +598,13 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1493229885,
+    "wof:lastmodified":1509143055,
     "wof:name":"Western Sahara",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":-99,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ESH",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

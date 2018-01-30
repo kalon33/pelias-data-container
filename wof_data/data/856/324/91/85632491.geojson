@@ -5,19 +5,33 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036804,
+    "geom:area_square_m":443114589.447459,
     "geom:bbox":"-59.652637482,13.044833183,-59.420749664,13.335861206",
     "geom:latitude":13.172783,
     "geom:longitude":-59.557497,
     "gn:id":"",
     "gn:population":285653,
     "iso:country":"BB",
+    "itu:country_code":[
+        "1-246"
+    ],
+    "itu:region":"1",
     "lbl:latitude":13.144115,
     "lbl:longitude":-59.555728,
     "mps:latitude":13.144115,
     "mps:longitude":-59.555728,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.5,
+    "mz:min_zoom":4.5,
     "name:afr_x_preferred":[
         "Barbados"
+    ],
+    "name:aka_x_preferred":[
+        "Baabados"
+    ],
+    "name:alb_x_preferred":[
+        "Barbadosi"
     ],
     "name:als_x_preferred":[
         "Barbados"
@@ -31,8 +45,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
     "name:arg_x_preferred":[
         "Barbados"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0561\u0580\u0562\u0561\u0564\u0578\u057d"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0631\u0628\u064a\u062f\u0648\u0633"
@@ -52,20 +72,35 @@
     "name:bak_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
+    "name:bam_x_preferred":[
+        "Barbadi"
+    ],
+    "name:baq_x_preferred":[
+        "Barbados"
+    ],
+    "name:bar_x_preferred":[
+        "Barbados"
+    ],
     "name:bcl_x_preferred":[
         "Barbados"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u0430\u0441"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u0430\u0440\u0431\u0430\u0434\u0430\u0441"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09ac\u09be\u09a1\u09cb\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09b0\u09ac\u09be\u09a6\u09cb\u09b8"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
     "name:bod_x_preferred":[
         "\u0f56\u0f62\u0f0b\u0f56\u0f0b\u0f4c\u0f7c\u0f0b\u0f66\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f56\u0f71\u0f62\u0fa6\u0f0b\u0f4c\u0f7c\u0f66\u0f84\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Barbados"
@@ -78,6 +113,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u102c\u1018\u1031\u1038\u1012\u102d\u102f\u1038\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
@@ -99,11 +137,7 @@
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
     "name:chi_x_preferred":[
-        "\u5df4\u8c9d\u591a"
-    ],
-    "name:chi_x_variant":[
-        "\u5df4\u5df4\u591a\u65af",
-        "\u5df4\u8c9d\u591a"
+        "\u5df4\u5df4\u591a\u65af"
     ],
     "name:chr_x_preferred":[
         "\u13c6\u13c7\u13d9\u13cd"
@@ -120,6 +154,9 @@
     "name:cym_x_preferred":[
         "Barbados"
     ],
+    "name:cze_x_preferred":[
+        "Barbados"
+    ],
     "name:dan_x_preferred":[
         "Barbados"
     ],
@@ -133,6 +170,12 @@
         "\u0784\u07a7\u0784\u07a6\u0791\u07ae\u0790\u07b0"
     ],
     "name:dsb_x_preferred":[
+        "Barbados"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    ],
+    "name:dut_x_preferred":[
         "Barbados"
     ],
     "name:ell_x_preferred":[
@@ -161,6 +204,9 @@
     "name:ewe_x_preferred":[
         "Barbados"
     ],
+    "name:ewe_x_variant":[
+        "Barbados nutome"
+    ],
     "name:ext_x_preferred":[
         "Barbaus"
     ],
@@ -188,7 +234,16 @@
     "name:fry_x_preferred":[
         "Barbados"
     ],
+    "name:ful_x_preferred":[
+        "Barbadoos"
+    ],
     "name:gag_x_preferred":[
+        "Barbados"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10d1\u10d0\u10d3\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
         "Barbados"
     ],
     "name:gla_x_preferred":[
@@ -206,14 +261,26 @@
     "name:gom_x_preferred":[
         "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
     ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03bc\u03c0\u03ac\u03bd\u03c4\u03bf\u03c2"
+    ],
     "name:grn_x_preferred":[
         "Varvado"
+    ],
+    "name:gsw_x_preferred":[
+        "Barbados"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0ab0\u0acd\u0aac\u0abe\u0aa1\u0acb\u0ab8"
     ],
     "name:hak_x_preferred":[
         "Barbados"
     ],
     "name:hat_x_preferred":[
         "Lababad"
+    ],
+    "name:hau_x_preferred":[
+        "Barbadas"
     ],
     "name:hbs_x_preferred":[
         "Barbados"
@@ -242,7 +309,13 @@
     "name:ibo_x_preferred":[
         "Barbados"
     ],
+    "name:ice_x_preferred":[
+        "Barbados"
+    ],
     "name:ido_x_preferred":[
+        "Barbados"
+    ],
+    "name:ile_x_preferred":[
         "Barbados"
     ],
     "name:ilo_x_preferred":[
@@ -275,14 +348,26 @@
     "name:kab_x_preferred":[
         "Barbados"
     ],
+    "name:kal_x_preferred":[
+        "Barbados"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0cb0\u0ccd\u0cac\u0ca1\u0ccb\u0cb8\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e0\u10d1\u10d0\u10d3\u10dd\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17b6\u179a\u1794\u17b6\u178a\u17bc\u179f"
+    ],
+    "name:kik_x_preferred":[
+        "Babadosi"
     ],
     "name:kin_x_preferred":[
         "Barubadosi"
@@ -299,6 +384,15 @@
     "name:kur_x_preferred":[
         "Barbados"
     ],
+    "name:kur_x_variant":[
+        "\u0628\u0627\u0631\u0628\u0627\u062f\u06c6\u0633"
+    ],
+    "name:lad_x_preferred":[
+        "Barbados"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9a\u0eb2\u0e9a\u0eb2\u0e84\u0eb1\u0ead\u0e94"
+    ],
     "name:lat_x_preferred":[
         "Barbata"
     ],
@@ -314,6 +408,9 @@
     "name:lin_x_preferred":[
         "Barbados"
     ],
+    "name:lin_x_variant":[
+        "Bar\u025bbad\u025b"
+    ],
     "name:lit_x_preferred":[
         "Barbadosas"
     ],
@@ -323,11 +420,26 @@
     "name:ltz_x_preferred":[
         "Barbados"
     ],
+    "name:lub_x_preferred":[
+        "Barebade"
+    ],
+    "name:lug_x_preferred":[
+        "Barabadosi"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d7c\u0d2c\u0d3e\u0d21\u0d4b\u0d38\u0d4d"
     ],
+    "name:mal_x_variant":[
+        "\u0d2c\u0d3e\u0d30\u0d4d\u200d\u0d2c\u0d21\u0d4b\u0d38\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Barbados"
     ],
     "name:mdf_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
@@ -356,11 +468,23 @@
     "name:mya_x_preferred":[
         "\u1018\u102c\u1018\u1031\u1038\u1012\u102d\u102f\u1038\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:nah_x_preferred":[
+        "Barbados"
+    ],
+    "name:nan_x_preferred":[
+        "Barbados"
+    ],
     "name:nau_x_preferred":[
         "Barbadot"
     ],
     "name:nav_x_preferred":[
         "Hashk\u02bcaan Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Bhabhadosi"
     ],
     "name:nds_x_preferred":[
         "Barbados"
@@ -377,6 +501,9 @@
     "name:nno_x_preferred":[
         "Barbados"
     ],
+    "name:nob_x_preferred":[
+        "Barbados"
+    ],
     "name:nor_x_preferred":[
         "Barbados"
     ],
@@ -386,8 +513,17 @@
     "name:oci_x_preferred":[
         "Barbados"
     ],
+    "name:oci_x_variant":[
+        "Barbada"
+    ],
+    "name:olo_x_preferred":[
+        "Barbados"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b3e\u0b30\u0b2c\u0b3e\u0b21\u0b38"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2c\u0b3e\u0b30\u0b2c\u0b3e\u0b21\u0b4b\u0b38\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Baarbeedoos"
@@ -404,11 +540,20 @@
     "name:pap_x_preferred":[
         "Barbados"
     ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:pih_x_preferred":[
+        "Barbados"
+    ],
     "name:pli_x_preferred":[
         "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
     ],
     "name:pms_x_preferred":[
         "Barbados"
+    ],
+    "name:pms_x_variant":[
+        "Barb\u00e0dos"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
@@ -431,8 +576,20 @@
     "name:rue_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
+    "name:rum_x_preferred":[
+        "Barbados"
+    ],
+    "name:run_x_preferred":[
+        "Barubadosi"
+    ],
+    "name:rup_x_preferred":[
+        "Barbados"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    ],
+    "name:sag_x_preferred":[
+        "Barab\u00e2da"
     ],
     "name:sah_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
@@ -446,7 +603,16 @@
     "name:sco_x_preferred":[
         "Barbados"
     ],
+    "name:sgs_x_preferred":[
+        "Barbaduosos"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dcf\u0dbb\u0dca\u0db6\u0da9\u0ddd\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
+        "Barbados"
+    ],
+    "name:slo_x_preferred":[
         "Barbados"
     ],
     "name:slv_x_preferred":[
@@ -460,6 +626,9 @@
     ],
     "name:som_x_preferred":[
         "Barbados"
+    ],
+    "name:som_x_variant":[
+        "Baarbadoos"
     ],
     "name:spa_x_preferred":[
         "Barbados"
@@ -479,6 +648,9 @@
     "name:swa_x_preferred":[
         "Barbados"
     ],
+    "name:swa_x_variant":[
+        "Babadosi"
+    ],
     "name:swe_x_preferred":[
         "Barbados"
     ],
@@ -487,6 +659,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0b9f\u0bcb\u0b9a\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0b9f\u0bcb\u0bb8\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
@@ -506,6 +681,21 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e42\u0e14\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e42\u0e14\u0e2a"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f56\u0f62\u0f0b\u0f56\u0f0b\u0f4c\u0f7c\u0f0b\u0f66\u0f72\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u1263\u122d\u1264\u12f6\u1235"
+    ],
+    "name:ton_x_preferred":[
+        "P\u0101peitosi"
+    ],
+    "name:tuk_x_preferred":[
+        "Barbados"
+    ],
     "name:tur_x_preferred":[
         "Barbados"
     ],
@@ -515,8 +705,14 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
+    "name:unk_x_variant":[
+        "Barbadoes"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
     ],
     "name:uzb_x_preferred":[
         "Barbados"
@@ -530,10 +726,19 @@
     "name:vie_x_preferred":[
         "Barbados"
     ],
+    "name:vie_x_variant":[
+        "B\u00e1c-ba-\u0111\u1ed1t"
+    ],
     "name:vol_x_preferred":[
         "Barbade\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Barbados"
+    ],
     "name:war_x_preferred":[
+        "Barbados"
+    ],
+    "name:wel_x_preferred":[
         "Barbados"
     ],
     "name:wln_x_preferred":[
@@ -541,6 +746,9 @@
     ],
     "name:wol_x_preferred":[
         "Barbados"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5df4\u591a\u65af"
     ],
     "name:xal_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441\u0438\u043d \u041e\u0440\u043d"
@@ -554,6 +762,12 @@
     "name:yor_x_preferred":[
         "B\u00e1rb\u00e1d\u1ecd\u0300s"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de B\u00e1b\u00e1d\u00f3s\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u5df4\u591a\u65af"
+    ],
     "name:zea_x_preferred":[
         "Barbados"
     ],
@@ -563,8 +777,15 @@
     "name:zho_x_preferred":[
         "\u5df4\u5df4\u591a\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u5df4\u8c9d\u591a",
+        "\u5df4\u5df4\u591a\u65af"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5df4\u5df4\u591a\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "i-Barbados"
     ],
     "ne:abbrev":"Barb.",
     "ne:abbrev_len":5,
@@ -643,6 +864,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"1-246",
+    "statoids:ds":"BDS",
+    "statoids:fifa":"BRB",
+    "statoids:gaul":"24",
+    "statoids:gec":"BB",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"BAR",
+    "statoids:iso_a2":"BB",
+    "statoids:iso_a3":"BRB",
+    "statoids:iso_num":"52",
+    "statoids:itu":"BRB",
+    "statoids:marc":"bb",
+    "statoids:name":"Barbados",
+    "statoids:wmo":"BR",
     "wk:latitude":13.166667,
     "wk:longitude":-59.55,
     "wk:population":284644,
@@ -654,18 +890,28 @@
     "wof:concordances":{
         "dbp:id":"Barbados",
         "fb:id":"en.barbados",
+        "fifa:id":"BRB",
+        "fips:code":"BB",
+        "gaul:id":"24",
         "gn:id":3374084,
         "gp:id":23424754,
         "hasc:id":"BB",
+        "ioc:id":"BAR",
+        "itu:id":"BRB",
+        "m49:code":"052",
+        "marc:id":"bb",
         "mzb:id":"barbados",
+        "ne:adm0_a3":"BRB",
         "nyt:id":"18385380429006263991",
         "qs:id":1263198,
+        "uncrt:id":"BDS",
         "wd:id":"Q244",
-        "wk:page":"Barbados"
+        "wk:page":"Barbados",
+        "wmo:id":"BR"
     },
     "wof:country":"BB",
     "wof:country_alpha3":"BRB",
-    "wof:geomhash":"ad462cd606653376c575bdb4078f1ecb",
+    "wof:geomhash":"7e58e9b5d64ace75333a4c19c98ea43a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -682,11 +928,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1493229977,
+    "wof:lastmodified":1514558753,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":284644,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"BRB",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

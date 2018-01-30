@@ -5,22 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.112499,
+    "geom:area_square_m":177836677109.078339,
     "geom:bbox":"-58.4393004,-34.976249695,-53.077756095,-30.085215",
     "geom:latitude":-32.79565,
     "geom:longitude":-56.017681,
     "gn:id":"",
     "gn:population":3477000,
     "iso:country":"UY",
+    "itu:country_code":[
+        "598"
+    ],
     "lbl:latitude":-32.838882,
     "lbl:longitude":-56.01682,
     "mps:latitude":-32.838882,
     "mps:longitude":-56.01682,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Uruguay"
     ],
     "name:afr_x_preferred":[
         "Uruguay"
+    ],
+    "name:aka_x_preferred":[
+        "Yurugwae"
     ],
     "name:als_x_preferred":[
         "Uruguay"
@@ -33,6 +43,10 @@
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0631\u0648\u063a\u0648\u0627\u064a",
+        "\u0623\u0648\u0631\u062c\u0648\u0627\u064a"
     ],
     "name:arg_x_preferred":[
         "Uruguai"
@@ -52,6 +66,9 @@
     "name:bak_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
     ],
+    "name:bam_x_preferred":[
+        "Urugwayi"
+    ],
     "name:bar_x_preferred":[
         "Uruguay"
     ],
@@ -67,11 +84,18 @@
     "name:ben_x_preferred":[
         "\u0989\u09b0\u09c1\u0997\u09c1\u09af\u09bc\u09c7"
     ],
+    "name:ben_x_variant":[
+        "\u0989\u09b0\u09c1\u0997\u09cb\u09df\u09c7",
+        "\u0989\u09b0\u09c1\u0997\u09cb\u09af\u09bc\u09c7"
+    ],
     "name:bis_x_preferred":[
         "Uruguay"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f74\u0f0b\u0f62\u0f74\u0f0b\u0f42\u0f74\u0f0b\u0f61\u0f7a\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f74\u0f0b\u0f62\u0f74\u0f0b\u0f42\u0fb7\u0f7a\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Urugvaj"
@@ -106,12 +130,6 @@
     "name:che_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u62c9\u572d"
-    ],
-    "name:chi_x_variant":[
-        "\u4e4c\u62c9\u572d"
-    ],
     "name:chu_x_preferred":[
         "\u041e\u0443\u0440\u043e\u0443\u0433\u0432\u0430\u0438"
     ],
@@ -133,6 +151,9 @@
     "name:cym_x_preferred":[
         "Wrwgw\u00e1i"
     ],
+    "name:cym_x_variant":[
+        "Uruguay"
+    ],
     "name:dan_x_preferred":[
         "Uruguay"
     ],
@@ -151,13 +172,15 @@
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03c1\u03bf\u03c5\u03b3\u03bf\u03c5\u03ac\u03b7"
     ],
+    "name:eng_x_preferred":[
+        "Uruguay"
+    ],
     "name:eng_x_unknown":[
         "URY",
         "UY"
     ],
     "name:eng_x_variant":[
         "Oriental Republic of Uruguay",
-        "Uruguay",
         "Uruguayan"
     ],
     "name:epo_x_preferred":[
@@ -172,14 +195,23 @@
     "name:ewe_x_preferred":[
         "Uruguay"
     ],
+    "name:ewe_x_variant":[
+        "uruguayduk\u0254"
+    ],
     "name:ext_x_preferred":[
         "Uruguai"
     ],
     "name:fao_x_preferred":[
         "Uruguai"
     ],
+    "name:fao_x_variant":[
+        "Uruguei"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
     "name:fin_x_preferred":[
         "Uruguay"
@@ -195,6 +227,9 @@
     ],
     "name:fry_x_preferred":[
         "Oer\u00fbguay"
+    ],
+    "name:ful_x_preferred":[
+        "Uruguwaay"
     ],
     "name:gag_x_preferred":[
         "Urugvay"
@@ -212,8 +247,14 @@
     "name:gle_x_preferred":[
         "Uragua"
     ],
+    "name:gle_x_variant":[
+        "Urugua"
+    ],
     "name:glg_x_preferred":[
         "Uruguai"
+    ],
+    "name:glg_x_variant":[
+        "Uruguai - Uruguay"
     ],
     "name:glv_x_preferred":[
         "Yn Ooraguay"
@@ -233,17 +274,27 @@
     "name:hat_x_preferred":[
         "Irigwe"
     ],
+    "name:hau_x_preferred":[
+        "Yurugai"
+    ],
     "name:hbs_x_preferred":[
         "Urugvaj"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8\u05d5\u05d2\u05d5\u05d5\u05d0\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05e8\u05d2\u05d5\u05d5\u05d0\u05d9"
+    ],
     "name:hif_x_preferred":[
         "Uruguay"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0930\u0941\u0917\u094d\u0935\u0947"
+    ],
+    "name:hin_x_variant":[
+        "\u092f\u0941\u0930\u0942\u0917\u0941\u090f",
+        "\u0909\u0930\u0942\u0917\u094d\u0935\u0947"
     ],
     "name:hrv_x_preferred":[
         "Urugvaj"
@@ -306,11 +357,20 @@
     "name:kan_x_preferred":[
         "\u0c89\u0cb0\u0cc1\u0c97\u0ccd\u0cb5\u0cc6"
     ],
+    "name:kan_x_variant":[
+        "\u0c89\u0cb0\u0cc1\u0c97\u0ccd\u0cb5\u0cc7"
+    ],
     "name:kat_x_preferred":[
         "\u10e3\u10e0\u10e3\u10d2\u10d5\u10d0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17ca\u17bb\u1799\u179a\u17bb\u1799\u17a0\u17d2\u1782\u17b6\u1799"
+    ],
+    "name:kik_x_preferred":[
+        "Urugwai"
     ],
     "name:kin_x_preferred":[
         "Irigwe"
@@ -324,11 +384,17 @@
     "name:kur_x_preferred":[
         "\u00dbr\u00fbguay"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u0648\u0631\u0648\u06af\u0648\u0627\u06cc"
+    ],
     "name:lad_x_preferred":[
         "Uruguay"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb9\u0ea3\u0eb9\u0e81\u0ea7\u0eb2\u0e8d"
+    ],
+    "name:lao_x_variant":[
+        "\u0ea5\u0eb9\u0e81\u0ea7\u0e8d\u0ead\u0eb8\u0ea3"
     ],
     "name:lat_x_preferred":[
         "Uraquaria"
@@ -348,6 +414,9 @@
     "name:lin_x_preferred":[
         "Ulugwai"
     ],
+    "name:lin_x_variant":[
+        "Irigwei"
+    ],
     "name:lit_x_preferred":[
         "Urugvajus"
     ],
@@ -362,6 +431,12 @@
     ],
     "name:ltz_x_preferred":[
         "Uruguay"
+    ],
+    "name:lub_x_preferred":[
+        "Irigwei"
+    ],
+    "name:lug_x_preferred":[
+        "Wurugwayi"
     ],
     "name:mal_x_preferred":[
         "\u0d09\u0d31\u0d41\u0d17\u0d4d\u0d35\u0d47"
@@ -378,6 +453,9 @@
     "name:mkd_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0458"
     ],
+    "name:mlg_x_preferred":[
+        "Orogoay"
+    ],
     "name:mlt_x_preferred":[
         "Urugwaj"
     ],
@@ -393,6 +471,9 @@
     "name:mya_x_preferred":[
         "\u1025\u101b\u102f\u1002\u103d\u1031\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1025\u101b\u102f\u1002\u103d\u1031\u1038"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
@@ -402,11 +483,17 @@
     "name:nav_x_preferred":[
         "T\u00e1\u0142t\u0142\u02bc\u00e1\u00e1h Ch\u02bcosh Bitooh (K\u00e9yah Dah Si\u02bc\u00e1n\u00edg\u00ed\u00ed)"
     ],
+    "name:nde_x_preferred":[
+        "Yurugwai"
+    ],
     "name:nds_x_preferred":[
         "Uruguay"
     ],
     "name:nep_x_preferred":[
         "\u0909\u0930\u0941\u0917\u094d\u0935\u0947"
+    ],
+    "name:nep_x_variant":[
+        "\u092f\u0941\u0930\u0942\u0917\u0941\u090f"
     ],
     "name:new_x_preferred":[
         "\u0909\u0930\u0941\u0917\u094d\u0935\u0947"
@@ -415,6 +502,9 @@
         "Uruguay"
     ],
     "name:nno_x_preferred":[
+        "Uruguay"
+    ],
+    "name:nob_x_preferred":[
         "Uruguay"
     ],
     "name:nor_x_preferred":[
@@ -465,6 +555,9 @@
     "name:por_x_preferred":[
         "Uruguai"
     ],
+    "name:pus_x_preferred":[
+        "\u06cc\u0648\u0631\u0648\u06ab\u0648\u0627\u06cc"
+    ],
     "name:que_x_preferred":[
         "Uruwayi"
     ],
@@ -480,8 +573,14 @@
     "name:run_x_preferred":[
         "Uruguay"
     ],
+    "name:run_x_variant":[
+        "Irigwe"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
+    ],
+    "name:sag_x_preferred":[
+        "Urugu\u00ebe"
     ],
     "name:sah_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0443\u0430\u0439"
@@ -516,11 +615,20 @@
     "name:som_x_preferred":[
         "Uruguay"
     ],
+    "name:som_x_variant":[
+        "Uruguwaay"
+    ],
     "name:spa_x_preferred":[
         "Uruguay"
     ],
+    "name:spa_x_variant":[
+        "Rep\u00fablica Oriental del Uruguay"
+    ],
     "name:sqi_x_preferred":[
         "Uruguaji"
+    ],
+    "name:sqi_x_variant":[
+        "Uruguaj"
     ],
     "name:srd_x_preferred":[
         "Uruguay"
@@ -534,6 +642,9 @@
     "name:swa_x_preferred":[
         "Uruguay"
     ],
+    "name:swa_x_variant":[
+        "Urugwai"
+    ],
     "name:swe_x_preferred":[
         "Uruguay"
     ],
@@ -543,8 +654,14 @@
     "name:tam_x_preferred":[
         "\u0b89\u0bb0\u0bc1\u0b95\u0bc1\u0bb5\u0bc8"
     ],
+    "name:tam_x_variant":[
+        "\u0b89\u0bb0\u0bc1\u0b95\u0bc1\u0bb5\u0bc7"
+    ],
     "name:tat_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c30\u0c41\u0c17\u0c41\u0c35\u0c47"
     ],
     "name:tet_x_preferred":[
         "Uruguai"
@@ -558,6 +675,15 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e38\u0e23\u0e38\u0e01\u0e27\u0e31\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e38\u0e23\u0e38\u0e01\u0e27\u0e31\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a1\u122b\u1313\u12ed"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbUlukuei"
+    ],
     "name:tuk_x_preferred":[
         "Urugwa\u00fd"
     ],
@@ -570,14 +696,23 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
     ],
+    "name:ukr_x_variant":[
+        "\u0423\u0440\u0443\u0491\u0432\u0430\u0439"
+    ],
     "name:und_x_preferred":[
         "Urugvaj"
     ],
     "name:und_x_variant":[
         "Vzhodna republika Urugvaj"
     ],
+    "name:unk_x_variant":[
+        "Banda Oriental"
+    ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0631\u0648\u06af\u0648\u0626\u06d2"
     ],
     "name:uzb_x_preferred":[
         "Urugvay"
@@ -590,6 +725,10 @@
     ],
     "name:vie_x_preferred":[
         "Uruguay"
+    ],
+    "name:vie_x_variant":[
+        "U-ru-goay",
+        "U-ru-goay (Uruguay)"
     ],
     "name:vls_x_preferred":[
         "Uruguay"
@@ -621,6 +760,9 @@
     "name:yor_x_preferred":[
         "Urug\u00fa\u00e1\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Nruguayi"
+    ],
     "name:zea_x_preferred":[
         "Uruguay"
     ],
@@ -633,8 +775,15 @@
     "name:zho_x_preferred":[
         "\u4e4c\u62c9\u572d"
     ],
+    "name:zho_x_variant":[
+        "\u4e4c\u62c9\u572d",
+        "\u70cf\u62c9\u572d"
+    ],
     "name:zho_yue_x_preferred":[
         "\u70cf\u62c9\u572d"
+    ],
+    "name:zul_x_preferred":[
+        "i-Uruguay"
     ],
     "ne:abbrev":"Ury.",
     "ne:abbrev_len":4,
@@ -713,6 +862,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"598",
+    "statoids:ds":"ROU",
+    "statoids:fifa":"URU",
+    "statoids:gaul":"260",
+    "statoids:gec":"UY",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"URU",
+    "statoids:iso_a2":"UY",
+    "statoids:iso_a3":"URY",
+    "statoids:iso_num":"858",
+    "statoids:itu":"URG",
+    "statoids:marc":"uy",
+    "statoids:name":"Uruguay",
+    "statoids:wmo":"UY",
     "wk:latitude":-32.733333,
     "wk:longitude":-56.65,
     "wk:population":3407062,
@@ -724,19 +888,29 @@
     "wof:concordances":{
         "dbp:id":"Uruguay",
         "fb:id":"en.uruguay",
+        "fifa:id":"URU",
+        "fips:code":"UY",
+        "gaul:id":"260",
         "gn:id":3439705,
         "gp:id":23424979,
         "hasc:id":"UY",
+        "ioc:id":"URU",
+        "itu:id":"URG",
         "loc:id":"n50000647",
+        "m49:code":"858",
+        "marc:id":"uy",
         "mzb:id":"uruguay",
+        "ne:adm0_a3":"URY",
         "nyt:id":"55788232423035413601",
         "qs:id":95564,
+        "uncrt:id":"ROU",
         "wd:id":"Q77",
-        "wk:page":"Uruguay"
+        "wk:page":"Uruguay",
+        "wmo:id":"UY"
     },
     "wof:country":"UY",
     "wof:country_alpha3":"URY",
-    "wof:geomhash":"0f5641f75393ce064cda2649518d8670",
+    "wof:geomhash":"ccce184ef392a76b7708deb5eeca16e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -753,11 +927,14 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1493229989,
+    "wof:lastmodified":1509143048,
     "wof:name":"Uruguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
+    "wof:population":3407062,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"URY",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

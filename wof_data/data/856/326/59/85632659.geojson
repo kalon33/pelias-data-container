@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":81.710435,
+    "geom:area_square_m":873996206430.802002,
     "geom:bbox":"60.844379,23.694525,77.048971,37.054484",
     "geom:latitude":29.948497,
     "geom:longitude":69.341343,
     "gn:id":"",
     "gn:population":184404791,
     "iso:country":"PK",
+    "itu:country_code":[
+        "92"
+    ],
     "lbl:latitude":29.328493,
     "lbl:longitude":68.546268,
     "mps:latitude":29.328493,
     "mps:longitude":68.546268,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Pakistan"
     ],
@@ -23,6 +30,9 @@
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
     "name:afr_x_preferred":[
+        "Pakistan"
+    ],
+    "name:aka_x_preferred":[
         "Pakistan"
     ],
     "name:als_x_preferred":[
@@ -36,6 +46,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0633\u062a\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0643\u0633\u062a\u0627\u0646"
     ],
     "name:arc_x_preferred":[
         "\u0726\u0710\u0729\u0723\u071b\u0710\u0722"
@@ -61,6 +74,9 @@
     "name:bak_x_preferred":[
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:bam_x_preferred":[
+        "Pakisita\u014b"
+    ],
     "name:bar_x_preferred":[
         "Pakistan"
     ],
@@ -81,6 +97,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f0b\u0f40\u0f72\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f53"
+    ],
+    "name:bod_x_variant":[
+        "\u0f54\u0f40\u0f72\u0f0b\u0f66\u0f9f\u0f71\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Pakistan"
@@ -118,9 +137,6 @@
     "name:che_x_preferred":[
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u57fa\u65af\u5766"
-    ],
     "name:chv_x_preferred":[
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
@@ -139,6 +155,9 @@
     "name:cym_x_preferred":[
         "Pacistan"
     ],
+    "name:cym_x_variant":[
+        "Pakistan"
+    ],
     "name:cze_x_preferred":[
         "P\u00e1kist\u00e1n"
     ],
@@ -156,6 +175,9 @@
     ],
     "name:dsb_x_preferred":[
         "Pakistan"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f54\u0f0b\u0f40\u0f72\u0f66\u0f72\u0f0b\u0f4f\u0f71\u0f53"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
@@ -179,6 +201,9 @@
     ],
     "name:eus_x_preferred":[
         "Pakistan"
+    ],
+    "name:ewe_x_preferred":[
+        "Pakistan nutome"
     ],
     "name:ext_x_preferred":[
         "Paquist\u00e1n"
@@ -204,6 +229,9 @@
     "name:fry_x_preferred":[
         "Pakistan"
     ],
+    "name:ful_x_preferred":[
+        "Pakistaan"
+    ],
     "name:gag_x_preferred":[
         "Pakistan"
     ],
@@ -222,6 +250,9 @@
     "name:glg_x_preferred":[
         "Paquist\u00e1n"
     ],
+    "name:glg_x_variant":[
+        "Paquist\u00e1n - \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
     "name:glv_x_preferred":[
         "Yn Phakistaan"
     ],
@@ -233,6 +264,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    ],
+    "name:guj_x_variant":[
+        "\u0a95\u0ab0\u0abe\u0a82\u0a9a\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Pakistan"
@@ -251,6 +285,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e7\u05d9\u05e1\u05d8\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05e7\u05d9\u05e1\u05d8\u05d0\u05df"
     ],
     "name:hif_x_preferred":[
         "Pakistan"
@@ -303,6 +340,9 @@
     "name:jbo_x_preferred":[
         "kisygu'e"
     ],
+    "name:jbo_x_variant":[
+        "kisygue"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ad\u30b9\u30bf\u30f3"
     ],
@@ -339,6 +379,9 @@
     "name:kik_x_preferred":[
         "Pakistan"
     ],
+    "name:kik_x_variant":[
+        "Pakistani"
+    ],
     "name:kin_x_preferred":[
         "Pakisitani"
     ],
@@ -353,6 +396,12 @@
     ],
     "name:kur_x_preferred":[
         "Pakistan"
+    ],
+    "name:kur_x_variant":[
+        "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9b\u0eb2\u0e81\u0eb4\u0eaa\u0e96\u0eb2\u0e99"
     ],
     "name:lat_x_preferred":[
         "Pakistania"
@@ -372,6 +421,9 @@
     "name:lin_x_preferred":[
         "Pakist\u00e1ni"
     ],
+    "name:lin_x_variant":[
+        "Pakisit\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Pakistanas"
     ],
@@ -384,11 +436,20 @@
     "name:ltz_x_preferred":[
         "Pakistan"
     ],
+    "name:lub_x_preferred":[
+        "Pakisita"
+    ],
+    "name:lug_x_preferred":[
+        "Pakisitaani"
+    ],
     "name:mai_x_preferred":[
         "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d3e\u0d15\u0d3f\u0d38\u0d4d\u0d24\u0d3e\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2a\u0d3e\u0d15\u0d4d\u0d15\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
@@ -420,6 +481,9 @@
     "name:mya_x_preferred":[
         "\u1015\u102b\u1000\u1005\u1039\u1005\u1010\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1015\u102b\u1000\u1005\u1039\u1005\u1010\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u067e\u0627\u06a9\u0633\u062a\u0648\u0646"
     ],
@@ -431,6 +495,9 @@
     ],
     "name:nav_x_preferred":[
         "E\u02bce\u02bcaahj\u00ed Naakaii Doot\u0142\u02bcizh\u00ed Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Phakistani"
     ],
     "name:nds_nld_x_preferred":[
         "Pakistan"
@@ -448,6 +515,9 @@
         "Pakistan"
     ],
     "name:nno_x_preferred":[
+        "Pakistan"
+    ],
+    "name:nob_x_preferred":[
         "Pakistan"
     ],
     "name:nor_x_preferred":[
@@ -510,14 +580,23 @@
     "name:rmy_x_preferred":[
         "Pakistan"
     ],
+    "name:roh_x_preferred":[
+        "Pakistan"
+    ],
     "name:ron_x_preferred":[
         "Pakistan"
     ],
     "name:rue_x_preferred":[
         "\u041f\u0430\u043a\u0456\u0441\u0442\u0430\u043d"
     ],
+    "name:run_x_preferred":[
+        "Pakisitani"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Pakist\u00e4an"
     ],
     "name:sah_x_preferred":[
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
@@ -533,6 +612,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba"
     ],
     "name:slk_x_preferred":[
         "Pakistan"
@@ -585,6 +667,9 @@
     "name:swa_x_preferred":[
         "Pakistan"
     ],
+    "name:swa_x_variant":[
+        "Pakistani"
+    ],
     "name:swe_x_preferred":[
         "Pakistan"
     ],
@@ -593,6 +678,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d \u0418\u0441\u043b\u0430\u043c \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
@@ -611,6 +699,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1b\u0e32\u0e01\u0e35\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e32\u0e01\u0e35\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u1353\u12aa\u1235\u1273\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "P\u0101kisitani"
     ],
     "name:tuk_x_preferred":[
         "P\u00e4kistan"
@@ -633,11 +730,17 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u043a\u0456\u0441\u0442\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Islamska republika Pakistan"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "P\u0101kist\u0101n"
     ],
     "name:uzb_x_preferred":[
         "Pokiston"
@@ -650,6 +753,10 @@
     ],
     "name:vie_x_preferred":[
         "Pakistan"
+    ],
+    "name:vie_x_variant":[
+        "Pa-ki-xtan",
+        "Pa-ki-xtan (Pakistan)"
     ],
     "name:vls_x_preferred":[
         "Pakistan"
@@ -681,6 +788,9 @@
     "name:yor_x_preferred":[
         "Pak\u00edst\u00e0n"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Pakisitan"
+    ],
     "name:zea_x_preferred":[
         "Pakistan"
     ],
@@ -701,6 +811,9 @@
     ],
     "name:zul_x_preferred":[
         "IPakistani"
+    ],
+    "name:zul_x_variant":[
+        "i-Pakistan"
     ],
     "ne:abbrev":"Pak.",
     "ne:abbrev_len":4,
@@ -776,9 +889,25 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"92",
+    "statoids:ds":"PK",
+    "statoids:fifa":"PAK",
+    "statoids:gaul":"188",
+    "statoids:gec":"PK",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"PAK",
+    "statoids:iso_a2":"PK",
+    "statoids:iso_a3":"PAK",
+    "statoids:iso_num":"586",
+    "statoids:itu":"PAK",
+    "statoids:marc":"pk",
+    "statoids:name":"Pakistan",
+    "statoids:wmo":"PK",
     "wk:latitude":29.0,
     "wk:longitude":69.0,
     "wk:population":182142594,
@@ -790,19 +919,29 @@
     "wof:concordances":{
         "dbp:id":"Pakistan",
         "fb:id":"en.pakistan",
+        "fifa:id":"PAK",
+        "fips:code":"PK",
+        "gaul:id":"188",
         "gn:id":1168579,
         "gp:id":23424922,
         "hasc:id":"PK",
+        "ioc:id":"PAK",
+        "itu:id":"PAK",
         "loc:id":"n80125947",
+        "m49:code":"586",
+        "marc:id":"pk",
         "mzb:id":"pakistan",
+        "ne:adm0_a3":"PAK",
         "nyt:id":"59436162775130469831",
         "qs:id":555306,
+        "uncrt:id":"PK",
         "wd:id":"Q843",
-        "wk:page":"Pakistan"
+        "wk:page":"Pakistan",
+        "wmo:id":"PK"
     },
     "wof:country":"PK",
     "wof:country_alpha3":"PAK",
-    "wof:geomhash":"64b94eccd945f331b92bc7fa23fbc9ec",
+    "wof:geomhash":"3f4ddbe05f8d3ddb8200585e6f590780",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -821,11 +960,14 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1493230024,
+    "wof:lastmodified":1509142979,
     "wof:name":"Pakistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":182142594,
+    "wof:population_rank":17,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"PAK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,17 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.206978,
+    "geom:area_square_m":121664757426.075302,
     "geom:bbox":"36.433348,12.354723,43.1370479274,18.020413782",
     "geom:latitude":15.382148,
     "geom:longitude":38.842185,
     "gn:id":"",
     "gn:population":5792984,
     "iso:country":"ER",
+    "itu:country_code":[
+        "291"
+    ],
     "lbl:latitude":15.817362,
     "lbl:longitude":38.267404,
     "mps:latitude":15.817362,
     "mps:longitude":38.267404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
+    "name:aar_x_preferred":[
+        "Eretria"
+    ],
     "name:ace_x_preferred":[
         "Eritrea"
     ],
@@ -24,6 +34,9 @@
     ],
     "name:afr_x_preferred":[
         "Eritrea"
+    ],
+    "name:aka_x_preferred":[
+        "\u0190ritrea"
     ],
     "name:als_x_preferred":[
         "Eritrea"
@@ -36,6 +49,10 @@
     ],
     "name:ara_x_preferred":[
         "\u0625\u0631\u064a\u062a\u0631\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0631\u062a\u064a\u0631\u064a\u0627",
+        "\u0627\u0631\u064a\u062a\u0631\u064a\u0627"
     ],
     "name:arg_x_preferred":[
         "Eritrea"
@@ -58,6 +75,9 @@
     "name:bam_x_preferred":[
         "Eritrea"
     ],
+    "name:bam_x_variant":[
+        "Eritere"
+    ],
     "name:bcl_x_preferred":[
         "Eritreya"
     ],
@@ -70,11 +90,17 @@
     "name:ben_x_preferred":[
         "\u0987\u09b0\u09bf\u09a4\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u098f\u09b0\u09bf\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bjn_x_preferred":[
         "Eritrea"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f4f\u0fb2\u0f60\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f7a\u0f0b\u0f62\u0f72\u0f0b\u0f4f\u0fb2\u0f7a\u0f0b\u0f68\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Eritreja"
@@ -105,13 +131,6 @@
     ],
     "name:che_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u0439"
-    ],
-    "name:chi_x_preferred":[
-        "\u5384\u5229\u5782\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u5384\u5229\u5782\u4e9e",
-        "\u5384\u7acb\u7279\u91cc\u4e9a"
     ],
     "name:chu_x_preferred":[
         "\u0404\u0440\u0477\u0473\u0440\u0457\ua657"
@@ -170,6 +189,9 @@
     "name:ewe_x_preferred":[
         "Eritrea"
     ],
+    "name:ewe_x_variant":[
+        "Eritrea nutome"
+    ],
     "name:ext_x_preferred":[
         "Eritrea"
     ],
@@ -178,6 +200,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u06cc\u062a\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0631\u06cc\u062a\u0631\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Eritrea"
@@ -201,6 +226,9 @@
     "name:ful_x_preferred":[
         "Eritereya"
     ],
+    "name:ful_x_variant":[
+        "Eriteree"
+    ],
     "name:gag_x_preferred":[
         "Eritreya"
     ],
@@ -213,8 +241,14 @@
     "name:gle_x_preferred":[
         "An Eiritr\u00e9"
     ],
+    "name:gle_x_variant":[
+        "Eritrea"
+    ],
     "name:glg_x_preferred":[
         "Eritrea"
+    ],
+    "name:glg_x_variant":[
+        "Eritrea - \u12a4\u122d\u1275\u122b"
     ],
     "name:glv_x_preferred":[
         "Eritrea"
@@ -225,11 +259,17 @@
     "name:grn_x_preferred":[
         "Erityr\u00e9a"
     ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab0\u0abf\u0a9f\u0acd\u0ab0\u0abf\u0aaf\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Eritrea"
     ],
     "name:hat_x_preferred":[
         "Eritre"
+    ],
+    "name:hau_x_preferred":[
+        "Eritireya"
     ],
     "name:haw_x_preferred":[
         "\u02bbElikilea"
@@ -240,11 +280,19 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d9\u05ea\u05e8\u05d9\u05d0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e8\u05d9\u05d8\u05e8\u05d0\u05d4",
+        "\u05d0\u05e8\u05d9\u05ea\u05e8\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Eritrea"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0930\u093f\u0924\u094d\u0930\u093f\u092f\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0907\u0930\u093f\u091f\u094d\u0930\u093f\u092f\u093e",
+        "\u090f\u0930\u0940\u0924\u094d\u0930\u093f\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "Eritreja"
@@ -257,6 +305,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0537\u0580\u056b\u0569\u0580\u0565\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u0537\u0580\u056b\u057f\u0580\u0565\u0561"
     ],
     "name:ibo_x_preferred":[
         "Eritrea"
@@ -279,6 +330,9 @@
     "name:isl_x_preferred":[
         "Eritrea"
     ],
+    "name:isl_x_variant":[
+        "Er\u00edtrea"
+    ],
     "name:ita_x_preferred":[
         "Eritrea"
     ],
@@ -297,14 +351,26 @@
     "name:kab_x_preferred":[
         "Iritirya"
     ],
+    "name:kal_x_preferred":[
+        "Eritrea"
+    ],
     "name:kan_x_preferred":[
         "\u0c8e\u0cb0\u0cbf\u0c9f\u0ccd\u0cb0\u0cbf\u0caf"
+    ],
+    "name:kan_x_variant":[
+        "\u0c8f\u0cb0\u0cbf\u0c9f\u0ccd\u0cb0\u0cbf\u0caf\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10d4\u10e0\u10d8\u10e2\u10e0\u10d4\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17c1\u179a\u17b8\u1791\u17d2\u179a\u17b6"
+    ],
+    "name:kik_x_preferred":[
+        "Eritrea"
     ],
     "name:kin_x_preferred":[
         "Eritereya"
@@ -324,8 +390,14 @@
     "name:kur_x_preferred":[
         "Er\u00eetrea"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0631\u06cc\u062a\u0631\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Eritrea"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0eb4\u0e99\u0e8a\u0eb5"
     ],
     "name:lat_x_preferred":[
         "Erythraea"
@@ -342,6 +414,9 @@
     "name:lin_x_preferred":[
         "Elitr\u00e9"
     ],
+    "name:lin_x_variant":[
+        "Elitel\u025b"
+    ],
     "name:lit_x_preferred":[
         "Eritr\u0117ja"
     ],
@@ -354,11 +429,20 @@
     "name:ltz_x_preferred":[
         "Eritrea"
     ],
+    "name:lub_x_preferred":[
+        "Elitele"
+    ],
     "name:lug_x_preferred":[
         "Eritrea"
     ],
+    "name:lug_x_variant":[
+        "Eritureya"
+    ],
     "name:mal_x_preferred":[
         "\u0d0e\u0d30\u0d3f\u0d1f\u0d4d\u0d30\u0d3f\u0d2f"
+    ],
+    "name:mal_x_variant":[
+        "\u0d0e\u0d31\u0d3f\u0d24\u0d4d\u0d30\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0930\u093f\u091f\u094d\u0930\u093f\u092f\u093e"
@@ -378,6 +462,9 @@
     "name:mlt_x_preferred":[
         "Eritrea"
     ],
+    "name:mlt_x_variant":[
+        "Eritreja"
+    ],
     "name:mon_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u0439"
     ],
@@ -396,16 +483,25 @@
     "name:nau_x_preferred":[
         "Eritrea"
     ],
+    "name:nde_x_preferred":[
+        "Eritrea"
+    ],
     "name:nds_x_preferred":[
         "Eritrea"
     ],
     "name:nep_x_preferred":[
         "\u090f\u0930\u093f\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u090f\u0930\u093f\u0924\u094d\u0930\u093f\u092f\u093e"
+    ],
     "name:nld_x_preferred":[
         "Eritrea"
     ],
     "name:nno_x_preferred":[
+        "Eritrea"
+    ],
+    "name:nob_x_preferred":[
         "Eritrea"
     ],
     "name:nor_x_preferred":[
@@ -422,6 +518,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b07\u0b30\u0b3f\u0b1f\u0b4d\u0b30\u0b3f\u0b06"
+    ],
+    "name:ori_x_variant":[
+        "\u0b07\u0b30\u0b3f\u0b1f\u0b4d\u0b30\u0b3f\u0b5f\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Eeritiraa"
@@ -465,11 +564,20 @@
     "name:que_x_preferred":[
         "Iritriya"
     ],
+    "name:roh_x_preferred":[
+        "Eritrea"
+    ],
     "name:ron_x_preferred":[
         "Eritreea"
     ],
+    "name:ron_x_variant":[
+        "Eritrea"
+    ],
     "name:rum_x_preferred":[
         "Eritreea"
+    ],
+    "name:run_x_preferred":[
+        "Elitereya"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"
@@ -507,6 +615,9 @@
     "name:som_x_preferred":[
         "Eratareya"
     ],
+    "name:som_x_variant":[
+        "Eretereeya"
+    ],
     "name:sot_x_preferred":[
         "Eritrea"
     ],
@@ -516,11 +627,17 @@
     "name:sqi_x_preferred":[
         "Eritrea"
     ],
+    "name:sqi_x_variant":[
+        "Eritre"
+    ],
     "name:srd_x_preferred":[
         "Eritrea"
     ],
     "name:srp_x_preferred":[
         "\u0415\u0440\u0438\u0442\u0440\u0435\u0458\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0415\u0440\u0438\u0442\u0440\u0435\u0430"
     ],
     "name:ssw_x_preferred":[
         "IRitheya"
@@ -543,11 +660,17 @@
     "name:tam_x_preferred":[
         "\u0b8e\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b8e\u0bb0\u0bbf\u0b9f\u0bcd\u0bb0\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c30\u0c3f\u0c24\u0c4d\u0c30\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c0e\u0c30\u0c3f\u0c1f\u0c4d\u0c30\u0c3f\u0c2f\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"
@@ -558,8 +681,19 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e2d\u0e23\u0e34\u0e40\u0e17\u0e23\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e23\u0e34\u0e40\u0e17\u0e23\u0e35\u0e22"
+    ],
     "name:tir_x_preferred":[
         "\u12a4\u122d\u1275\u122b"
+    ],
+    "name:tir_x_variant":[
+        "Hagere \u0112rtra",
+        "Hagere Iertra",
+        "Iertra"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbElitulia"
     ],
     "name:tso_x_preferred":[
         "Eritreya"
@@ -576,8 +710,14 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0438\u0442\u0440\u0435\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u0415\u0440\u0456\u0442\u0440\u0435\u044f"
+    ],
     "name:und_x_preferred":[
         "Eritreja"
+    ],
+    "name:unk_x_variant":[
+        "Erythraea"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u062a\u0631\u06cc\u0627"
@@ -593,6 +733,10 @@
     ],
     "name:vie_x_preferred":[
         "Eritrea"
+    ],
+    "name:vie_x_variant":[
+        "\u00ca-ri-t\u01a1-r\u00ea-a",
+        "\u00ca-ri-t\u01a1-r\u00ea-a (Eritrea)"
     ],
     "name:vol_x_preferred":[
         "Ler\u00fctr\u00e4n"
@@ -615,10 +759,17 @@
     "name:yor_x_preferred":[
         "\u1eb8ritr\u1eb9\u0301\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Eritira"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Eritrea"
     ],
     "name:zho_x_preferred":[
+        "\u5384\u7acb\u7279\u91cc\u4e9a"
+    ],
+    "name:zho_x_variant":[
+        "\u5384\u5229\u5782\u4e9e",
         "\u5384\u7acb\u7279\u91cc\u4e9a"
     ],
     "name:zho_yue_x_preferred":[
@@ -626,6 +777,9 @@
     ],
     "name:zul_x_preferred":[
         "I-Eritrea"
+    ],
+    "name:zul_x_variant":[
+        "i-Eritrea"
     ],
     "ne:abbrev":"Erit.",
     "ne:abbrev_len":5,
@@ -705,6 +859,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"291",
+    "statoids:ds":"ER",
+    "statoids:fifa":"ERI",
+    "statoids:gaul":"77",
+    "statoids:gec":"ER",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ERI",
+    "statoids:iso_a2":"ER",
+    "statoids:iso_a3":"ERI",
+    "statoids:iso_num":"232",
+    "statoids:itu":"ERI",
+    "statoids:marc":"ea",
+    "statoids:name":"Eritrea",
+    "statoids:wmo":"",
     "wk:latitude":15.483333,
     "wk:longitude":38.25,
     "wk:population":6333135,
@@ -716,19 +885,28 @@
     "wof:concordances":{
         "dbp:id":"Eritrea",
         "fb:id":"en.eritrea",
+        "fifa:id":"ERI",
+        "fips:code":"ER",
+        "gaul:id":"77",
         "gn:id":338010,
         "gp:id":23424806,
         "hasc:id":"ER",
+        "ioc:id":"ERI",
+        "itu:id":"ERI",
         "loc:id":"n93074182",
+        "m49:code":"232",
+        "marc:id":"ea",
         "mzb:id":"eritrea",
+        "ne:adm0_a3":"ERI",
         "nyt:id":"66240057725410374241",
         "qs:id":547787,
+        "uncrt:id":"ER",
         "wd:id":"Q986",
         "wk:page":"Eritrea"
     },
     "wof:country":"ER",
     "wof:country_alpha3":"ERI",
-    "wof:geomhash":"6ee27c40580be71881a95ed68a3fd23f",
+    "wof:geomhash":"1a54b2d5e188cc2a046ce89930925409",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -749,11 +927,14 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1493230090,
+    "wof:lastmodified":1509142722,
     "wof:name":"Eritrea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":6333135,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ERI",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

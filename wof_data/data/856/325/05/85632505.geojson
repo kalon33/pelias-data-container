@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":278.195185,
+    "geom:area_square_m":2779928965484.430176,
     "geom:bbox":"-73.56036,-55.059555054,-53.637481,-21.780814",
     "geom:latitude":-35.386406,
     "geom:longitude":-65.167366,
     "gn:id":"",
     "gn:population":41343201,
     "iso:country":"AR",
+    "itu:country_code":[
+        "54"
+    ],
     "lbl:latitude":-33.528049,
     "lbl:longitude":-64.168459,
     "mps:latitude":-33.528049,
     "mps:longitude":-64.168459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Argentina"
     ],
@@ -24,6 +31,12 @@
     ],
     "name:afr_x_preferred":[
         "Argentini\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Agy\u025bntina"
+    ],
+    "name:alb_x_preferred":[
+        "Argjentina"
     ],
     "name:als_x_preferred":[
         "Argentinien"
@@ -37,8 +50,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0627\u0631\u062c\u0646\u062a\u064a\u0646"
+    ],
     "name:arg_x_preferred":[
         "Archentina"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u0580\u0563\u0565\u0576\u057f\u056b\u0576\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0631\u062c\u0646\u062a\u064a\u0646"
@@ -61,10 +80,19 @@
     "name:aze_x_preferred":[
         "Argentina"
     ],
+    "name:aze_x_variant":[
+        "Arqentina"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
     ],
     "name:bam_x_preferred":[
+        "Argentina"
+    ],
+    "name:bam_x_variant":[
+        "Arizantin"
+    ],
+    "name:baq_x_preferred":[
         "Argentina"
     ],
     "name:bar_x_preferred":[
@@ -82,6 +110,15 @@
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u099c\u09c7\u09a8\u09cd\u099f\u09bf\u09a8\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09b0\u09cd\u099c\u09c7\u09a3\u09cd\u099f\u09be\u0987\u09a8\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0627\u0631\u062d\u0646\u0679\u0627\u06cc\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u0940\u0928\u093e"
+    ],
     "name:bis_x_preferred":[
         "Argentina"
     ],
@@ -97,8 +134,14 @@
     "name:bre_x_preferred":[
         "Arc'hantina"
     ],
+    "name:bre_x_variant":[
+        "Arc\u02bchantina"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u0436\u0435\u043d\u0442\u0438\u043d\u0430"
+    ],
+    "name:bur_x_preferred":[
+        "\u1021\u102c\u1002\u103b\u1004\u103a\u1010\u102e\u1038\u1014\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u044d"
@@ -151,11 +194,17 @@
     "name:cym_x_preferred":[
         "Yr Ariannin"
     ],
+    "name:cze_x_preferred":[
+        "Argentina"
+    ],
     "name:dan_x_preferred":[
         "Argentina"
     ],
     "name:deu_x_preferred":[
         "Argentinien"
+    ],
+    "name:deu_x_variant":[
+        "Argentinische Republik"
     ],
     "name:diq_x_preferred":[
         "Arcantin"
@@ -166,8 +215,8 @@
     "name:dsb_x_preferred":[
         "Argentinska"
     ],
-    "name:dut_x_colloquial":[
-        "Argentinie"
+    "name:dty_x_preferred":[
+        "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
     ],
     "name:dut_x_preferred":[
         "Argentini\u00eb"
@@ -196,11 +245,17 @@
     "name:est_x_preferred":[
         "Argentina"
     ],
+    "name:est_x_variant":[
+        "Argentiina"
+    ],
     "name:eus_x_preferred":[
         "Argentina"
     ],
     "name:ewe_x_preferred":[
         "Argentina"
+    ],
+    "name:ewe_x_variant":[
+        "Argentina nutome"
     ],
     "name:ext_x_preferred":[
         "Argentina"
@@ -210,6 +265,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+    ],
+    "name:fij_x_preferred":[
+        "Argentina"
     ],
     "name:fin_x_preferred":[
         "Argentiina"
@@ -229,6 +287,9 @@
     "name:fry_x_preferred":[
         "Argentynje"
     ],
+    "name:ful_x_preferred":[
+        "Arjantiin"
+    ],
     "name:fur_x_preferred":[
         "Argjentine"
     ],
@@ -238,14 +299,17 @@
     "name:gan_x_preferred":[
         "\u963f\u6839\u5ef7"
     ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e0\u10d2\u10d4\u10dc\u10e2\u10d8\u10dc\u10d0"
+    ],
     "name:ger_x_preferred":[
         "Argentinien"
     ],
-    "name:ger_x_variant":[
-        "Argentinische Republik"
-    ],
     "name:gla_x_preferred":[
         "An Argantain"
+    ],
+    "name:gla_x_variant":[
+        "Argentina"
     ],
     "name:gle_x_preferred":[
         "An Airgint\u00edn"
@@ -253,14 +317,26 @@
     "name:glg_x_preferred":[
         "Arxentina"
     ],
+    "name:glg_x_variant":[
+        "Arxentina - Argentina"
+    ],
     "name:glv_x_preferred":[
         "Yn Argenteen"
     ],
     "name:gom_x_preferred":[
         "\u0906\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
     ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03b3\u03b5\u03bd\u03c4\u03b9\u03bd\u03ae"
+    ],
     "name:grn_x_preferred":[
         "Arhent\u00edna"
+    ],
+    "name:grn_x_variant":[
+        "Argentina"
+    ],
+    "name:gsw_x_preferred":[
+        "Argentinie"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0a9c\u0ac7\u0aa8\u0acd\u0a9f\u0ac0\u0aa8\u0abe"
@@ -270,6 +346,9 @@
     ],
     "name:hat_x_preferred":[
         "Ajantin"
+    ],
+    "name:hau_x_preferred":[
+        "Arjantiniya"
     ],
     "name:haw_x_preferred":[
         "\u2018Alekina"
@@ -286,6 +365,10 @@
     "name:hin_x_preferred":[
         "\u0905\u0930\u094d\u091c\u0947\u0923\u094d\u091f\u0940\u0928\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u0940\u0928\u093e",
+        "\u0905\u0930\u094d\u091c\u0947\u0902\u091f\u0940\u0928\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Argentina"
     ],
@@ -301,6 +384,9 @@
     "name:ibo_x_preferred":[
         "Argentina"
     ],
+    "name:ice_x_preferred":[
+        "Argent\u00edna"
+    ],
     "name:ido_x_preferred":[
         "Arjentinia"
     ],
@@ -309,6 +395,9 @@
     ],
     "name:ilo_x_preferred":[
         "Arhentina"
+    ],
+    "name:ilo_x_variant":[
+        "Argentina"
     ],
     "name:ina_x_preferred":[
         "Argentina"
@@ -350,6 +439,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb0\u0ccd\u0c9c\u0cc6\u0c82\u0c9f\u0cc0\u0ca8"
     ],
+    "name:kan_x_variant":[
+        "\u0c85\u0cb0\u0ccd\u0c9c\u0cc6\u0c82\u0c9f\u0cc8\u0ca8\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10d2\u10d4\u10dc\u10e2\u10d8\u10dc\u10d0"
     ],
@@ -359,8 +451,20 @@
     "name:kbd_x_preferred":[
         "\u0410\u0440\u0445\u0435\u043d\u0442\u0438\u043d\u044d"
     ],
+    "name:kbp_x_preferred":[
+        "Arzantiini"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17b6\u17a0\u17d2\u179f\u1784\u17cb\u1791\u17b8\u1793"
+    ],
+    "name:khm_x_variant":[
+        "\u17a2\u17b6\u179a\u17a0\u17d2\u179f\u1784\u17cb\u1791\u17b8\u1793"
+    ],
     "name:kik_x_preferred":[
         "Argentina"
+    ],
+    "name:kik_x_variant":[
+        "Ajentina"
     ],
     "name:kin_x_preferred":[
         "Arijantine"
@@ -383,11 +487,22 @@
     "name:kur_x_preferred":[
         "Arjent\u00een"
     ],
+    "name:kur_x_variant":[
+        "Arjant\u00een",
+        "\u0626\u0627\u0631\u062c\u06d5\u0646\u062a\u06cc\u0646\u0627"
+    ],
     "name:lad_x_preferred":[
         "Arjentina"
     ],
+    "name:lad_x_variant":[
+        "Argentina"
+    ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb2\u0e81\u0e8a\u0eb1\u0e87\u0e95\u0eb4\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0ead\u0eb2\u0ec0\u0e88\u0e99\u0e95\u0eb4\u0e99\u0eb2\u0ec8",
+        "\u0ead\u0eb2\u0e81\u0e8a\u0eb1\u0e87\u0e95\u0eb5\u0e99"
     ],
     "name:lat_x_preferred":[
         "Argentina"
@@ -407,6 +522,9 @@
     "name:lin_x_preferred":[
         "Argentina"
     ],
+    "name:lin_x_variant":[
+        "Arizantin\u025b"
+    ],
     "name:lit_x_preferred":[
         "Argentina"
     ],
@@ -422,11 +540,39 @@
     "name:ltz_x_preferred":[
         "Argentinien"
     ],
+    "name:lub_x_preferred":[
+        "Alijantine"
+    ],
+    "name:lug_x_preferred":[
+        "Arigentina"
+    ],
+    "name:lzh_x_preferred":[
+        "\u963f\u6839\u5ef7"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d7c\u0d1c\u0d28\u0d4d\u0d31\u0d40\u0d28"
     ],
+    "name:mal_x_variant":[
+        "\u0d05\u0d30\u0d4d\u200d\u0d1c\u0d28\u0d4d\u0d31\u0d40\u0d28",
+        "\u0d05\u0d30\u0d4d\u200d\u0d1c\u0d28\u0d4d\u200d\u0d31\u0d40\u0d28"
+    ],
+    "name:mao_x_preferred":[
+        "\u0100ketina"
+    ],
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0905\u0930\u094d\u091c\u0947\u0902\u091f\u093f\u0928\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Argentina"
     ],
     "name:mhr_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0435"
@@ -439,6 +585,9 @@
     ],
     "name:mlg_x_preferred":[
         "Arjentina"
+    ],
+    "name:mlg_x_variant":[
+        "Arzantina"
     ],
     "name:mlt_x_preferred":[
         "Ar\u0121entina"
@@ -461,8 +610,17 @@
     "name:mya_x_preferred":[
         "\u1021\u102c\u1002\u103b\u1004\u103a\u1010\u102e\u1038\u1014\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1021\u102c\u1002\u103b\u1004\u103a\u1010\u102e\u1038\u1014\u102c\u1038"
+    ],
     "name:mzn_x_preferred":[
         "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "Arxentitl\u0101n"
+    ],
+    "name:nan_x_preferred":[
+        "Argentina"
     ],
     "name:nap_x_preferred":[
         "Argentina"
@@ -470,8 +628,14 @@
     "name:nau_x_preferred":[
         "Ardjentina"
     ],
+    "name:nau_x_variant":[
+        "Argentina"
+    ],
     "name:nav_x_preferred":[
         "B\u00e9\u00e9sh \u0141igaii Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Ajentina"
     ],
     "name:nds_nld_x_preferred":[
         "Argentini\u00eb"
@@ -482,13 +646,22 @@
     "name:nep_x_preferred":[
         "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0905\u0930\u094d\u091c\u0947\u0923\u094d\u091f\u093f\u0928\u093e"
+    ],
     "name:new_x_preferred":[
         "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u0924\u093f\u0928\u093e"
+    ],
+    "name:nld_x_colloquial":[
+        "Argentinie"
     ],
     "name:nld_x_preferred":[
         "Argentini\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Argentina"
+    ],
+    "name:nob_x_preferred":[
         "Argentina"
     ],
     "name:nor_x_preferred":[
@@ -497,8 +670,17 @@
     "name:nov_x_preferred":[
         "Argentina"
     ],
+    "name:nrm_x_preferred":[
+        "Argentinne"
+    ],
+    "name:nso_x_preferred":[
+        "Argentina"
+    ],
     "name:oci_x_preferred":[
         "Argentina"
+    ],
+    "name:olo_x_preferred":[
+        "Argentiinu"
     ],
     "name:ori_x_preferred":[
         "\u0b06\u0b30\u0b4d\u0b1c\u0b47\u0b23\u0b4d\u0b1f\u0b3f\u0b28\u0b3e"
@@ -524,8 +706,17 @@
     "name:pdc_x_preferred":[
         "Artschenti"
     ],
+    "name:per_x_preferred":[
+        "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+    ],
+    "name:pfl_x_preferred":[
+        "Argentinje"
+    ],
     "name:pih_x_preferred":[
         "Aajentiina"
+    ],
+    "name:pli_x_preferred":[
+        "\u0905\u0930\u094d\u091c\u0928\u094d\u091f\u0940\u0928\u093e"
     ],
     "name:pms_x_preferred":[
         "Argentin-a"
@@ -542,6 +733,9 @@
     "name:pus_x_preferred":[
         "\u0627\u0631\u062c\u0646\u067c\u0627\u06cc\u0646"
     ],
+    "name:pus_x_variant":[
+        "\u0627\u0631\u062c\u0646\u067c\u0627\u064a\u0646"
+    ],
     "name:que_x_preferred":[
         "Arhintina"
     ],
@@ -551,17 +745,33 @@
     "name:roh_x_preferred":[
         "Argentinia"
     ],
+    "name:roh_x_variant":[
+        "Argentina"
+    ],
     "name:ron_x_preferred":[
         "Argentina"
     ],
     "name:rue_x_preferred":[
         "\u0410\u0440\u0491\u0435\u043d\u0442\u0438\u043d\u0430"
     ],
+    "name:rum_x_preferred":[
+        "Argentina"
+    ],
     "name:run_x_preferred":[
         "Argentine"
     ],
+    "name:run_x_variant":[
+        "Arijantine",
+        "Argentina"
+    ],
+    "name:rup_x_preferred":[
+        "Arghentina"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Arzant\u00eena"
     ],
     "name:sah_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
@@ -569,16 +779,28 @@
     "name:san_x_preferred":[
         "\u0905\u0930\u094d\u091c\u0923\u094d\u091f\u093f\u0928\u093e"
     ],
+    "name:san_x_variant":[
+        "\u0905\u0930\u094d\u091c\u0928\u094d\u091f\u0940\u0928\u093e"
+    ],
     "name:scn_x_preferred":[
         "Argintina"
     ],
     "name:sco_x_preferred":[
         "Argentinae"
     ],
+    "name:sgs_x_preferred":[
+        "Argent\u0117na"
+    ],
     "name:sin_x_preferred":[
         "\u0d86\u0da2\u0db1\u0dca\u0da7\u0dd2\u0db1\u0dcf\u0dc0"
     ],
+    "name:sin_x_variant":[
+        "\u0d86\u0dbb\u0dca\u0da2\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0db1\u0dcf\u0dc0"
+    ],
     "name:slk_x_preferred":[
+        "Argent\u00edna"
+    ],
+    "name:slo_x_preferred":[
         "Argent\u00edna"
     ],
     "name:slv_x_preferred":[
@@ -587,20 +809,35 @@
     "name:sme_x_preferred":[
         "Argentiinn\u00e1"
     ],
+    "name:sme_x_variant":[
+        "Argentina"
+    ],
     "name:smo_x_preferred":[
         "Atenitina"
     ],
     "name:sna_x_preferred":[
         "Argentina"
     ],
+    "name:sna_x_variant":[
+        "Ajentina"
+    ],
     "name:som_x_preferred":[
         "Arjantiina"
+    ],
+    "name:som_x_variant":[
+        "Arjantiin"
     ],
     "name:spa_x_preferred":[
         "Argentina"
     ],
+    "name:spa_x_variant":[
+        "Rep\u00fablica Argentina"
+    ],
     "name:sqi_x_preferred":[
         "Argjentina"
+    ],
+    "name:sqi_x_variant":[
+        "Argjentin\u00eb"
     ],
     "name:srd_x_preferred":[
         "Argentina"
@@ -620,6 +857,9 @@
     "name:swa_x_preferred":[
         "Argentina"
     ],
+    "name:swa_x_variant":[
+        "Ajentina"
+    ],
     "name:swe_x_preferred":[
         "Argentina"
     ],
@@ -632,11 +872,18 @@
     "name:tam_x_preferred":[
         "\u0b85\u0bb0\u0bcd\u0b95\u0bc6\u0ba8\u0bcd\u0ba4\u0bc0\u0ba9\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b85\u0bb0\u0bcd\u0b9c\u0bc6\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe",
+        "\u0b85\u0bb0\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c30\u0c4d\u0c1c\u0c46\u0c02\u0c1f\u0c40\u0c28\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c06\u0c30\u0c4d\u0c1c\u0c46\u0c02\u0c1f\u0c3f\u0c28\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Arjentina"
@@ -649,6 +896,21 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f68\u0f62\u0f0b\u0f47\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f53\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a0\u122d\u1300\u1295\u1272\u1293"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbAsenitina"
+    ],
+    "name:tpi_x_preferred":[
+        "Ajentina"
     ],
     "name:tso_x_preferred":[
         "Arjentina"
@@ -683,8 +945,15 @@
     "name:und_x_variant":[
         "Argentinska Republika"
     ],
+    "name:unk_x_variant":[
+        "La Argentina"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0622\u0631\u062c\u0646\u0679\u06cc\u0646",
+        "\u0627\u0631\u062c\u0646\u0679\u06cc\u0646\u0627"
     ],
     "name:uzb_x_preferred":[
         "Argentina"
@@ -698,14 +967,24 @@
     "name:vie_x_preferred":[
         "Argentina"
     ],
+    "name:vie_x_variant":[
+        "\u00c1c-hen-ti-na",
+        "\u00c1 C\u0103n \u0110\u00ecnh (Argentina)"
+    ],
     "name:vls_x_preferred":[
         "Argentini\u00eb"
     ],
     "name:vol_x_preferred":[
         "Larg\u00e4nt\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Argentina"
+    ],
     "name:war_x_preferred":[
         "Argentina"
+    ],
+    "name:wel_x_preferred":[
+        "Yr Ariannin"
     ],
     "name:wln_x_preferred":[
         "\u00c5rdjintene"
@@ -728,6 +1007,12 @@
     "name:yor_x_preferred":[
         "Arg\u1eb9nt\u00edn\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Agent\u00edn\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u6839\u5ef7"
+    ],
     "name:zea_x_preferred":[
         "Arhentini\u00eb"
     ],
@@ -745,6 +1030,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u963f\u6839\u5ef7"
+    ],
+    "name:zul_x_preferred":[
+        "i-Argentina"
     ],
     "ne:abbrev":"Arg.",
     "ne:abbrev_len":4,
@@ -824,6 +1112,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"54",
+    "statoids:ds":"RA",
+    "statoids:fifa":"ARG",
+    "statoids:gaul":"12",
+    "statoids:gec":"AR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ARG",
+    "statoids:iso_a2":"AR",
+    "statoids:iso_a3":"ARG",
+    "statoids:iso_num":"32",
+    "statoids:itu":"ARG",
+    "statoids:marc":"ag",
+    "statoids:name":"Argentina",
+    "statoids:wmo":"AG",
     "wk:area":2780400.0,
     "wk:latitude":-34.0,
     "wk:longitude":-64.0,
@@ -836,19 +1139,29 @@
     "wof:concordances":{
         "dbp:id":"Argentina",
         "fb:id":"en.argentina",
+        "fifa:id":"ARG",
+        "fips:code":"AR",
+        "gaul:id":"12",
         "gn:id":3865483,
         "gp:id":23424747,
         "hasc:id":"AR",
+        "ioc:id":"ARG",
+        "itu:id":"ARG",
         "loc:id":"n79070134",
+        "m49:code":"032",
+        "marc:id":"ag",
         "mzb:id":"argentina",
+        "ne:adm0_a3":"ARG",
         "nyt:id":"59018160926231875381",
         "qs:id":224783,
+        "uncrt:id":"RA",
         "wd:id":"Q414",
-        "wk:page":"Argentina"
+        "wk:page":"Argentina",
+        "wmo:id":"AG"
     },
     "wof:country":"AR",
     "wof:country_alpha3":"ARG",
-    "wof:geomhash":"830e0e78460a4bed438ba9dc26788eb1",
+    "wof:geomhash":"d2e227856be2059214e287445d06303b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -865,11 +1178,14 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1493229979,
+    "wof:lastmodified":1514540103,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
+    "wof:population":43417000,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ARG",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

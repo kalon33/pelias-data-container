@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.642018,
+    "geom:area_square_m":166246565715.95575,
     "geom:bbox":"42.67008,8.001139,48.939110555,11.535471916",
     "geom:latitude":9.725679,
     "geom:longitude":46.275584,
@@ -15,6 +16,9 @@
     "mps:latitude":9.439981,
     "mps:longitude":46.750416,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Somaliland"
     ],
@@ -64,12 +68,6 @@
     "name:che_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u99ac\u91cc"
-    ],
-    "name:chi_x_variant":[
-        "\u7d22\u9a6c\u91cc"
-    ],
     "name:crh_x_preferred":[
         "Somaliland"
     ],
@@ -87,9 +85,6 @@
     ],
     "name:div_x_preferred":[
         "\u0790\u07ae\u0789\u07a7\u078d\u07a9\u078d\u07ad\u0782\u07b0\u0791\u07aa"
-    ],
-    "name:dut_x_preferred":[
-        "Somali\u00eb"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03bc\u03b1\u03bb\u03b9\u03bb\u03ac\u03bd\u03b4\u03b7"
@@ -124,7 +119,7 @@
     "name:fra_x_preferred":[
         "Somaliland"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Somalie"
     ],
     "name:frp_x_preferred":[
@@ -234,6 +229,9 @@
     ],
     "name:nld_x_preferred":[
         "Somaliland"
+    ],
+    "name:nld_x_variant":[
+        "Somali\u00eb"
     ],
     "name:nno_x_preferred":[
         "Somaliland"
@@ -352,6 +350,10 @@
     "name:zho_x_preferred":[
         "\u7d22\u9a6c\u91cc\u5170"
     ],
+    "name:zho_x_variant":[
+        "\u7d22\u99ac\u91cc",
+        "\u7d22\u9a6c\u91cc"
+    ],
     "name:zho_yue_x_preferred":[
         "\u7d22\u99ac\u91cc\u862d"
     ],
@@ -431,6 +433,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"naturalearth",
     "wk:wordcount":7336,
     "wof:belongsto":[
         102191573
@@ -443,7 +446,7 @@
     },
     "wof:country":"XS",
     "wof:country_alpha3":"",
-    "wof:geomhash":"03cf0dc9798db5eb71b68a02f9370c16",
+    "wof:geomhash":"0854d939b847b0525e52bd4ff4f53212",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -454,11 +457,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1493230074,
+    "wof:lastmodified":1505169298,
     "wof:name":"Somaliland",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":9832017,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

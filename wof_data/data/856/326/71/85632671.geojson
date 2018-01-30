@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":49.059295,
+    "geom:area_square_m":470481598618.414612,
     "geom:bbox":"52.437671,35.140647,66.645782,42.791188",
     "geom:latitude":39.115934,
     "geom:longitude":59.375961,
     "gn:id":"",
     "gn:population":4940916,
     "iso:country":"TM",
+    "itu:country_code":[
+        "993"
+    ],
     "lbl:latitude":39.869796,
     "lbl:longitude":58.676541,
     "mps:latitude":39.869796,
     "mps:longitude":58.676541,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Turkm\u00e8nistan"
     ],
@@ -25,11 +32,20 @@
     "name:afr_x_preferred":[
         "Turkmenistan"
     ],
+    "name:afr_x_variant":[
+        "Turkmeni\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "T\u025bkm\u025bnistan"
+    ],
     "name:als_x_preferred":[
         "Turkmenistan"
     ],
     "name:amh_x_preferred":[
         "\u1271\u122d\u12ad\u1218\u1292\u1235\u1273\u1295"
+    ],
+    "name:amh_x_variant":[
+        "\u1271\u122d\u12ad\u121c\u1292\u1235\u1273\u1295"
     ],
     "name:ang_x_preferred":[
         "Turcmenistan"
@@ -61,6 +77,9 @@
     "name:bak_x_preferred":[
         "\u0422\u04e9\u0440\u04e9\u043a\u043c\u04d9\u043d\u0441\u0442\u0430\u043d"
     ],
+    "name:bam_x_preferred":[
+        "Turikimenisitani"
+    ],
     "name:bar_x_preferred":[
         "Tuakmenien"
     ],
@@ -75,6 +94,13 @@
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09b0\u09cd\u0995\u09ae\u09c7\u09a8\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09c1\u09b0\u09cd\u0995\u09ae\u09c7\u09a8\u09bf\u09df\u09be",
+        "\u09a4\u09c1\u09b0\u09cd\u0995\u09ae\u09c7\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u0924\u0941\u0930\u094d\u0915\u092e\u0947\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:bod_x_preferred":[
         "\u0f4f\u0f74\u0f62\u0f40\u0f0b\u0f58\u0f7a\u0f0b\u0f53\u0f72\u0f0b\u0f66\u0f74\u0f4f\u0f53\u0f0d"
@@ -100,6 +126,9 @@
     "name:cat_x_preferred":[
         "Turkmenistan"
     ],
+    "name:cat_x_variant":[
+        "El Turkmenistan"
+    ],
     "name:cdo_x_preferred":[
         "Turkmenistan"
     ],
@@ -111,12 +140,6 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u571f\u5eab\u66fc"
-    ],
-    "name:chi_x_variant":[
-        "\u571f\u5e93\u66fc\u65af\u5766"
     ],
     "name:chv_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
@@ -138,6 +161,9 @@
     ],
     "name:cym_x_preferred":[
         "Tyrcmenistan"
+    ],
+    "name:cym_x_variant":[
+        "Turkmenistan"
     ],
     "name:cze_x_preferred":[
         "Turkmenist\u00e1n"
@@ -173,6 +199,9 @@
     "name:epo_x_preferred":[
         "Turkmenio"
     ],
+    "name:epo_x_variant":[
+        "Turkmenujo"
+    ],
     "name:est_x_preferred":[
         "T\u00fcrkmenistan"
     ],
@@ -181,6 +210,9 @@
     ],
     "name:ewe_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:ewe_x_variant":[
+        "T\u025bkmenistan nutome"
     ],
     "name:ext_x_preferred":[
         "Turkmenist\u00e1n"
@@ -202,14 +234,17 @@
     "name:fra_x_preferred":[
         "Turkm\u00e9nistan"
     ],
-    "name:fre_x_preferred":[
-        "Turkm\u00e9nistan"
+    "name:fra_x_variant":[
+        "Turkmenistan"
     ],
     "name:frp_x_preferred":[
         "Turcm\u00e8nistan"
     ],
     "name:fry_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:ful_x_preferred":[
+        "Turkmenistaan"
     ],
     "name:gag_x_preferred":[
         "T\u00fcrkmenistan"
@@ -223,6 +258,9 @@
     "name:glg_x_preferred":[
         "Turcomenist\u00e1n"
     ],
+    "name:glg_x_variant":[
+        "Turkmenist\u00e1n"
+    ],
     "name:glv_x_preferred":[
         "Yn Turkmenistaan"
     ],
@@ -232,8 +270,14 @@
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0aae\u0ac7\u0aa8\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0acd\u0aae\u0aa8\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    ],
     "name:hak_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:hak_x_variant":[
+        "Th\u00fa-kh\u00fb-man-s\u1e73\u0302-th\u00e1n"
     ],
     "name:hat_x_preferred":[
         "Tirkmenistan"
@@ -241,11 +285,17 @@
     "name:hau_x_preferred":[
         "Turkmenistan"
     ],
+    "name:hau_x_variant":[
+        "Turkumenistan"
+    ],
     "name:hbs_x_preferred":[
         "Turkmenistan"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e7\u05de\u05e0\u05d9\u05e1\u05d8\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05d5\u05e8\u05e7\u05de\u05e0\u05d9\u05e1\u05d8\u05d0\u05df"
     ],
     "name:hif_x_preferred":[
         "Turkmenistan"
@@ -265,6 +315,9 @@
     "name:hye_x_preferred":[
         "\u0539\u0578\u0582\u0580\u0584\u0574\u0565\u0576\u057d\u057f\u0561\u0576"
     ],
+    "name:hye_x_variant":[
+        "\u0539\u0578\u0582\u0580\u0584\u0574\u0565\u0576\u056b\u057d\u057f\u0561\u0576"
+    ],
     "name:ido_x_preferred":[
         "Turkmenistan"
     ],
@@ -279,6 +332,9 @@
     ],
     "name:ind_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:ind_x_variant":[
+        "Turkimenistan"
     ],
     "name:isl_x_preferred":[
         "T\u00farkmenistan"
@@ -298,8 +354,14 @@
     "name:kaa_x_preferred":[
         "Tu'rkmenistan"
     ],
+    "name:kal_x_preferred":[
+        "Turkmenistani"
+    ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cc1\u0cb0\u0ccd\u0c95\u0cae\u0cc6\u0ca8\u0cbf\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kan_x_variant":[
+        "\u0ca4\u0cc1\u0cb0\u0ccd\u0c95\u0cae\u0cc6\u0ca8\u0cbf\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d7\u10e3\u10e0\u10e5\u10db\u10d4\u10dc\u10d4\u10d7\u10d8"
@@ -313,8 +375,14 @@
     "name:khm_x_preferred":[
         "\u178f\u17bd\u179a\u1798\u17b7\u1793\u17b8\u179f\u17d2\u1790\u17b6\u1793"
     ],
+    "name:khm_x_variant":[
+        "\u1791\u17bd\u1782\u1798\u17c1\u1793\u17b8\u179f\u17d2\u178f\u1784\u17cb"
+    ],
     "name:kik_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:kik_x_variant":[
+        "Turukimenistani"
     ],
     "name:kin_x_preferred":[
         "Turukimenisitani"
@@ -334,11 +402,20 @@
     "name:kur_x_preferred":[
         "Tirkmenistan"
     ],
+    "name:kur_x_variant":[
+        "\u062a\u0648\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
     "name:lad_x_preferred":[
         "Turkmenistan"
     ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0e95\u0ea3\u0eb5\u0e81\u0ec0\u0ea1\u0e99\u0eb4\u0eaa\u0eb0\u0e96\u0eb2\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Turcomannia"
+    ],
+    "name:lat_x_variant":[
+        "Turcmenia"
     ],
     "name:lav_x_preferred":[
         "Turkmenist\u0101na"
@@ -355,8 +432,14 @@
     "name:lin_x_preferred":[
         "Turkmenist\u00e1ni"
     ],
+    "name:lin_x_variant":[
+        "Tik\u025bm\u00e9nisit\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Turkm\u0117nija"
+    ],
+    "name:lit_x_variant":[
+        "Turkm\u0117nistanas"
     ],
     "name:lmo_x_preferred":[
         "Turkmenistan"
@@ -367,8 +450,17 @@
     "name:ltz_x_preferred":[
         "Turkmenistan"
     ],
+    "name:lub_x_preferred":[
+        "Tukemenisita"
+    ],
+    "name:lug_x_preferred":[
+        "Takimenesitaani"
+    ],
     "name:mal_x_preferred":[
         "\u0d24\u0d41\u0d7c\u0d15\u0d4d\u200c\u0d2e\u0d46\u0d28\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d24\u0d41\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d\u0d2e\u0d46\u0d28\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u0924\u0941\u0930\u094d\u0915\u092e\u0947\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
@@ -382,6 +474,12 @@
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:mlg_x_preferred":[
+        "Torkmenistan"
+    ],
+    "name:mlt_x_preferred":[
+        "Turkmenistan"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
     ],
@@ -394,11 +492,17 @@
     "name:mzn_x_preferred":[
         "\u062a\u0631\u06a9\u0645\u0648\u0646\u0633\u062a\u0648\u0646"
     ],
+    "name:nah_x_preferred":[
+        "Turcmenistan"
+    ],
     "name:nau_x_preferred":[
         "Turkmenistan"
     ],
     "name:nav_x_preferred":[
         "T\u02bc\u00f3okmen Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Turkmenistan"
     ],
     "name:nds_x_preferred":[
         "Turkmenistan"
@@ -415,6 +519,9 @@
     "name:nno_x_preferred":[
         "Turkmenistan"
     ],
+    "name:nob_x_preferred":[
+        "Turkmenistan"
+    ],
     "name:nor_x_preferred":[
         "Turkmenistan"
     ],
@@ -426,6 +533,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b24\u0b41\u0b30\u0b4d\u0b15\u0b2e\u0b47\u0b28\u0b3f\u0b38\u0b4d\u0b24\u0b3e\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b24\u0b41\u0b30\u0b4d\u0b15\u0b2e\u0b47\u0b28\u0b3f\u0b38\u0b4d\u0b24\u0b3e\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Tarkimeenistaan"
@@ -454,6 +564,9 @@
     "name:pol_x_preferred":[
         "Turkmenistan"
     ],
+    "name:pol_x_variant":[
+        "Turkmenia"
+    ],
     "name:por_x_colloquial":[
         "Turquemenistao"
     ],
@@ -469,14 +582,29 @@
     "name:que_x_preferred":[
         "Turkminsuyu"
     ],
+    "name:roh_x_preferred":[
+        "Turkmenistan"
+    ],
     "name:ron_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:ron_x_variant":[
+        "Turkmenia"
     ],
     "name:rue_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0456\u0441\u0442\u0430\u043d"
     ],
+    "name:run_x_preferred":[
+        "Turukumenisitani"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Turkumenist\u00e4an"
     ],
     "name:sah_x_preferred":[
         "\u0422\u04af\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u0430\u043d"
@@ -490,8 +618,14 @@
     "name:sco_x_preferred":[
         "Turkmenistan"
     ],
+    "name:sgs_x_preferred":[
+        "Torkmien\u0117stans"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dbb\u0dca\u0d9a\u0dca\u0db8\u0dd9\u0db1\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dca\u0db8\u0dd9\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba"
     ],
     "name:slk_x_preferred":[
         "Turkm\u00e9nsko"
@@ -526,6 +660,9 @@
     "name:swa_x_preferred":[
         "Turkmenistan"
     ],
+    "name:swa_x_variant":[
+        "Turukimenistani"
+    ],
     "name:swe_x_preferred":[
         "Turkmenistan"
     ],
@@ -535,11 +672,17 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0bae\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bc1\u0bb0\u0bcd\u0b95\u0bcd\u0bae\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0422\u04e9\u0440\u0435\u043a\u043c\u04d9\u043d\u0441\u0442\u0430\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c41\u0c30\u0c4d\u0c15\u0c2e\u0c47\u0c28\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c24\u0c41\u0c30\u0c4d\u0c15\u0c2e\u0c46\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Turkomenistaun"
@@ -552,6 +695,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e15\u0e34\u0e23\u0e4c\u0e01\u0e40\u0e21\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e15\u0e34\u0e23\u0e4c\u0e01\u0e40\u0e21\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u1271\u122d\u12ad\u121c\u1292\u1235\u1273\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Tekimenisiteni"
     ],
     "name:tuk_x_preferred":[
         "T\u00fcrkmenistan"
@@ -571,8 +723,17 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0456\u0441\u0442\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Turkmen Soviet Socialist Republic"
+    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
         "Turkmaniston"
@@ -582,6 +743,10 @@
     ],
     "name:vie_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:vie_x_variant":[
+        "Tu\u1ed1c-m\u00ea-ni-xtan",
+        "Tu\u1ed1c-m\u00ea-ni-xtan (Turkmenistan)"
     ],
     "name:vls_x_preferred":[
         "Turkmenistan"
@@ -610,6 +775,12 @@
     "name:yor_x_preferred":[
         "Turkm\u1eb9\u0301n\u00ecst\u00e1n"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de T\u1ecd\u1ecdkimenisita"
+    ],
+    "name:yue_x_preferred":[
+        "\u571f\u5eab\u66fc"
+    ],
     "name:zea_x_preferred":[
         "Toerkmenistan"
     ],
@@ -619,8 +790,15 @@
     "name:zho_x_preferred":[
         "\u571f\u5e93\u66fc\u65af\u5766"
     ],
+    "name:zho_x_variant":[
+        "\u571f\u5e93\u66fc\u65af\u5766",
+        "\u571f\u5eab\u66fc"
+    ],
     "name:zho_yue_x_preferred":[
         "\u571f\u5eab\u66fc"
+    ],
+    "name:zul_x_preferred":[
+        "i-Turkmenistan"
     ],
     "ne:abbrev":"Turkm.",
     "ne:abbrev_len":6,
@@ -694,11 +872,28 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "reversegeo:geometry":"85632671-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"993",
+    "statoids:ds":"TM",
+    "statoids:fifa":"TKM",
+    "statoids:gaul":"250",
+    "statoids:gec":"TX",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"TKM",
+    "statoids:iso_a2":"TM",
+    "statoids:iso_a3":"TKM",
+    "statoids:iso_num":"795",
+    "statoids:itu":"TKM",
+    "statoids:marc":"tk",
+    "statoids:name":"Turkmenistan",
+    "statoids:wmo":"TR",
     "wk:latitude":39.333333,
     "wk:longitude":59.65,
     "wk:population":5125693,
@@ -710,19 +905,29 @@
     "wof:concordances":{
         "dbp:id":"Turkmenistan",
         "fb:id":"en.turkmenistan",
+        "fifa:id":"TKM",
+        "fips:code":"TX",
+        "gaul:id":"250",
         "gn:id":1218197,
         "gp:id":23424972,
         "hasc:id":"TM",
+        "ioc:id":"TKM",
+        "itu:id":"TKM",
         "loc:id":"n91129790",
+        "m49:code":"795",
+        "marc:id":"tk",
         "mzb:id":"turkmenistan",
+        "ne:adm0_a3":"TKM",
         "nyt:id":"N49664454959361891521",
         "qs:id":555399,
+        "uncrt:id":"TM",
         "wd:id":"Q874",
-        "wk:page":"Turkmenistan"
+        "wk:page":"Turkmenistan",
+        "wmo:id":"TR"
     },
     "wof:country":"TM",
     "wof:country_alpha3":"TKM",
-    "wof:geomhash":"36e2348c75d55d2ea74d3fb4c1596c03",
+    "wof:geomhash":"a4649264d51cd0762213c78d184e4944",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -739,11 +944,14 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1493230026,
+    "wof:lastmodified":1509143040,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":5125693,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"TKM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

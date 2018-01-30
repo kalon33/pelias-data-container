@@ -5,28 +5,41 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.829943,
+    "geom:area_square_m":34225613995.069275,
     "geom:bbox":"-16.711827519,10.857889175,-13.626523,12.684722",
     "geom:latitude":12.013056,
     "geom:longitude":-14.977735,
     "gn:id":"",
     "gn:population":1565126,
     "iso:country":"GW",
+    "itu:country_code":[
+        "245"
+    ],
     "lbl:latitude":12.157338,
     "lbl:longitude":-14.513869,
     "mps:latitude":12.157338,
     "mps:longitude":-14.513869,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Guinea Bissau"
     ],
     "name:afr_x_preferred":[
         "Guinee-Bissau"
     ],
+    "name:aka_x_preferred":[
+        "Gini Bisaw"
+    ],
     "name:als_x_preferred":[
         "Guinea-Bissau"
     ],
     "name:amh_x_preferred":[
         "\u130a\u1294-\u1262\u1233\u12cd"
+    ],
+    "name:amh_x_variant":[
+        "\u1262\u1233\u12ce"
     ],
     "name:ara_x_preferred":[
         "\u063a\u064a\u0646\u064a\u0627 \u0628\u064a\u0633\u0627\u0648"
@@ -40,6 +53,9 @@
     "name:ast_x_preferred":[
         "Guinea-Bissau"
     ],
+    "name:ast_x_variant":[
+        "Guinea-Bis\u00e1u"
+    ],
     "name:aze_x_preferred":[
         "Qvineya-Bisau"
     ],
@@ -49,6 +65,9 @@
     "name:bam_x_preferred":[
         "Gine Bisau"
     ],
+    "name:bam_x_variant":[
+        "Gine Bisawo"
+    ],
     "name:bcl_x_preferred":[
         "Guineya-Bisau"
     ],
@@ -56,7 +75,8 @@
         "\u0413\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0430\u0443"
     ],
     "name:bel_x_variant":[
-        "\u0413\u0432\u0456\u043d\u044d\u044f-\u0411\u0456\u0441\u0430\u045e"
+        "\u0413\u0432\u0456\u043d\u044d\u044f-\u0411\u0456\u0441\u0430\u045e",
+        "\u0413\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0430\u045e"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09a8\u09bf-\u09ac\u09bf\u09b8\u09be\u0989"
@@ -67,8 +87,14 @@
     "name:bod_x_preferred":[
         "\u0f42\u0f72\u0f0b\u0f53\u0f7a\u0f0b-\u0f56\u0f72\u0f0b\u0f66\u0f60\u0f7c\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f42\u0fb7\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0b\u0f56\u0f72\u0f66\u0f84\u0f0b\u0f66\u0f7c\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Gvineja-Bisau"
+    ],
+    "name:bos_x_variant":[
+        "Gvineja-Bisao"
     ],
     "name:bpy_x_preferred":[
         "\u0997\u09bf\u09a8\u09bf-\u09ac\u09bf\u09b8\u09be\u0993"
@@ -78,6 +104,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u0432\u0438\u043d\u0435\u044f \u0411\u0438\u0441\u0430\u0443"
     ],
     "name:bxr_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0439-\u0411\u0438\u0441\u0430\u0443"
@@ -97,13 +126,6 @@
     "name:che_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0439-\u0411\u0438\u0441\u0430\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
-    ],
-    "name:chi_x_variant":[
-        "\u51e0\u5167\u4e9a\u6bd4\u7ecd",
-        "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
-    ],
     "name:chv_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0439-\u0411\u0438\u0441\u0430\u0443"
     ],
@@ -122,6 +144,9 @@
     "name:cym_x_preferred":[
         "Gini Bisaw"
     ],
+    "name:cym_x_variant":[
+        "Guinea-Bissau"
+    ],
     "name:dan_x_preferred":[
         "Guinea-Bissau"
     ],
@@ -137,11 +162,11 @@
     "name:dsb_x_preferred":[
         "Guineja-Bissau"
     ],
-    "name:dut_x_preferred":[
-        "Guinee-Bissau"
-    ],
     "name:ell_x_preferred":[
         "\u0393\u03bf\u03c5\u03b9\u03bd\u03ad\u03b1-\u039c\u03c0\u03b9\u03c3\u03c3\u03ac\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03bf\u03c5\u03b9\u03bd\u03ad\u03b1-\u039c\u03c0\u03b9\u03c3\u03ac\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Guinea-Bissau"
@@ -159,14 +184,23 @@
     "name:epo_x_preferred":[
         "Gvineo Bisa\u016da"
     ],
+    "name:epo_x_variant":[
+        "Gvineo-Bisa\u016do"
+    ],
     "name:est_x_preferred":[
         "Guinea-Bissau"
     ],
     "name:eus_x_preferred":[
         "Ginea Bissau"
     ],
+    "name:eus_x_variant":[
+        "Ginea-Bissau"
+    ],
     "name:ewe_x_preferred":[
         "Gini Bisao"
+    ],
+    "name:ewe_x_variant":[
+        "Gini-Bisao nutome"
     ],
     "name:ext_x_preferred":[
         "Guinea-Bissau"
@@ -174,16 +208,20 @@
     "name:fao_x_preferred":[
         "Guinea-Bissau"
     ],
+    "name:fao_x_variant":[
+        "Guinea Bissau"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u06cc\u0646\u0647\u0654 \u0628\u06cc\u0633\u0627\u0626\u0648",
+        "\u06af\u0648\u06cc\u0646\u06cc\u0627-\u0628\u06cc\u0633\u0627\u0648"
     ],
     "name:fin_x_preferred":[
         "Guinea-Bissau"
     ],
     "name:fra_x_preferred":[
-        "Guin\u00e9e-Bissau"
-    ],
-    "name:fre_x_preferred":[
         "Guin\u00e9e-Bissau"
     ],
     "name:frp_x_preferred":[
@@ -194,6 +232,9 @@
     ],
     "name:ful_x_preferred":[
         "Gine-Bisaawo"
+    ],
+    "name:ful_x_variant":[
+        "Gine-Biso"
     ],
     "name:gag_x_preferred":[
         "Gvineya Bissau"
@@ -207,11 +248,20 @@
     "name:gle_x_preferred":[
         "Guine-Bissau"
     ],
+    "name:gle_x_variant":[
+        "An Ghuine-Bhissau"
+    ],
     "name:glg_x_preferred":[
         "Guinea-Bisau"
     ],
+    "name:glg_x_variant":[
+        "Guinea-Bissau"
+    ],
     "name:glv_x_preferred":[
         "Yn Ghuinea-Bissau"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0abf\u0aa8\u0ac0-\u0aac\u0abf\u0ab8\u0abe\u0a89"
     ],
     "name:hak_x_preferred":[
         "Guin\u00e9-Bissau"
@@ -219,17 +269,27 @@
     "name:hat_x_preferred":[
         "Gine-Bisao"
     ],
+    "name:hau_x_preferred":[
+        "Gini Bisau"
+    ],
     "name:hbs_x_preferred":[
         "Gvineja Bisau"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05e0\u05d0\u05d4 \u05d1\u05d9\u05e1\u05d0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d9\u05e0\u05d9\u05d0\u05d4-\u05d1\u05d9\u05e1\u05d0\u05d5",
+        "\u05d2\u05d9\u05e0\u05d0\u05d4\u05be\u05d1\u05d9\u05e1\u05d0\u05d5"
+    ],
     "name:hif_x_preferred":[
         "Guinea-Bissau"
     ],
     "name:hin_x_preferred":[
         "\u0917\u093f\u0928\u0940-\u092c\u093f\u0938\u093e\u090a"
+    ],
+    "name:hin_x_variant":[
+        "\u0917\u0940\u0928\u0940-\u092c\u093f\u0938\u093e\u0909"
     ],
     "name:hrv_x_preferred":[
         "Gvineja Bisau"
@@ -240,8 +300,14 @@
     "name:hun_x_preferred":[
         "Bissau-Guinea"
     ],
+    "name:hun_x_variant":[
+        "Guinea-Bissau"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u057e\u056b\u0576\u0565\u0561 \u0532\u056b\u057d\u0561\u0578\u0582"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u057e\u056b\u0576\u0565\u0561-\u0532\u056b\u057d\u0561\u0578\u0582"
     ],
     "name:ido_x_preferred":[
         "Guinea Bisau"
@@ -257,6 +323,9 @@
     ],
     "name:ind_x_preferred":[
         "Guinea-Bissau"
+    ],
+    "name:ind_x_variant":[
+        "Guinea Bissau"
     ],
     "name:isl_x_preferred":[
         "G\u00ednea-Biss\u00e1"
@@ -279,11 +348,23 @@
     "name:kab_x_preferred":[
         "Ginya-Bissau"
     ],
+    "name:kal_x_preferred":[
+        "Guinea-Bissau"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cbf\u0ca8\u0cbf-\u0cac\u0cbf\u0cb8\u0ccd\u0cb8\u0cbe\u0cb5\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10d5\u10d8\u10dc\u10d4\u10d0-\u10d1\u10d8\u10e1\u10d0\u10e3"
     ],
     "name:kaz_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0441\u0430\u0443"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u1782\u17b8\u178e\u17c1\u1794\u17ca\u17b8\u179f\u17bc"
+    ],
+    "name:kik_x_preferred":[
+        "Ginebisau"
     ],
     "name:kin_x_preferred":[
         "Gineya-Biso"
@@ -304,6 +385,12 @@
     "name:kur_x_preferred":[
         "G\u00eene-Bissau"
     ],
+    "name:kur_x_variant":[
+        "\u06af\u06cc\u0646\u06ce \u0628\u06cc\u0633\u0627\u0648"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e81\u0eb4\u0ea7\u0e99\u0eb5-\u0e9a\u0eb4\u0eaa\u0ec2\u0e8a"
+    ],
     "name:lat_x_preferred":[
         "Guinea Bissaviensis"
     ],
@@ -319,6 +406,9 @@
     "name:lin_x_preferred":[
         "Gine-Bisau"
     ],
+    "name:lin_x_variant":[
+        "Gin\u025bbisau"
+    ],
     "name:lit_x_preferred":[
         "Bisau Gvin\u0117ja"
     ],
@@ -331,11 +421,20 @@
     "name:ltz_x_preferred":[
         "Guinea-Bissau"
     ],
+    "name:lub_x_preferred":[
+        "Nginebisau"
+    ],
     "name:lug_x_preferred":[
         "Guinea-Bissau"
     ],
+    "name:lug_x_variant":[
+        "Gini-Bisawu"
+    ],
     "name:mal_x_preferred":[
         "\u0d17\u0d3f\u0d28\u0d3f-\u0d2c\u0d3f\u0d38\u0d57"
+    ],
+    "name:mal_x_variant":[
+        "\u0d17\u0d3f\u0d28\u0d3f-\u0d2c\u0d3f\u0d38\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u0917\u093f\u0928\u0940-\u092c\u093f\u0938\u093e\u0909"
@@ -346,11 +445,20 @@
     "name:mkd_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0458\u0430-\u0411\u0438\u0441\u0430\u043e"
     ],
+    "name:mkd_x_variant":[
+        "\u0413\u0432\u0438\u043d\u0435\u0430-\u0411\u0438\u0441\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Ginea-Bissau"
     ],
+    "name:mlg_x_variant":[
+        "Gin\u00e9-Bisao"
+    ],
     "name:mlt_x_preferred":[
         "Ginea Bissaw"
+    ],
+    "name:mlt_x_variant":[
+        "Ginea-Bissaw"
     ],
     "name:mri_x_preferred":[
         "Kini Pih\u014d"
@@ -360,6 +468,9 @@
     ],
     "name:msa_x_preferred":[
         "Guinea-Bissau"
+    ],
+    "name:msa_x_variant":[
+        "Guinea Bissau"
     ],
     "name:mwl_x_preferred":[
         "Guin\u00e9-Bissau"
@@ -373,6 +484,9 @@
     "name:nav_x_preferred":[
         "G\u00edn\u00ed Bis\u00f3"
     ],
+    "name:nde_x_preferred":[
+        "Guinea-Bissau"
+    ],
     "name:nds_x_preferred":[
         "Guinea-Bissau"
     ],
@@ -383,6 +497,9 @@
         "Guinee-Bissau"
     ],
     "name:nno_x_preferred":[
+        "Guinea-Bissau"
+    ],
+    "name:nob_x_preferred":[
         "Guinea-Bissau"
     ],
     "name:nor_x_preferred":[
@@ -396,6 +513,9 @@
     ],
     "name:oci_x_preferred":[
         "Guin\u00e8a Bissau"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b17\u0b41\u0b07\u0b28\u0b3f\u0b06-\u0b2c\u0b3f\u0b38\u0b3e\u0b09"
     ],
     "name:orm_x_preferred":[
         "Giinii-Bisaa\u2019uu"
@@ -437,20 +557,38 @@
         "Guin\u00e9 Bissau",
         "Rep\u00fablica da Guin\u00e9-Bissau"
     ],
+    "name:pus_x_preferred":[
+        "\u06ab\u0648\u064a\u0646\u06d0 \u0628\u06d0\u0633\u0627\u0648"
+    ],
     "name:que_x_preferred":[
         "Khiniya-Wisaw"
+    ],
+    "name:roh_x_preferred":[
+        "Guinea-Bissau"
     ],
     "name:ron_x_preferred":[
         "Guineea-Bissau"
     ],
+    "name:ron_x_variant":[
+        "Guinea-Bissau"
+    ],
     "name:rum_x_preferred":[
         "Guineea-Bissau"
+    ],
+    "name:run_x_preferred":[
+        "Gineya Bisawu"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0441\u0430\u0443"
+    ],
     "name:sag_x_preferred":[
         "Gin\u00ebe-Bisau"
+    ],
+    "name:sag_x_variant":[
+        "Gnin\u00ebe-Bisau"
     ],
     "name:sah_x_preferred":[
         "\u0413\u0443\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0441\u0430\u0443"
@@ -479,20 +617,34 @@
     "name:som_x_preferred":[
         "Guinea-Bissau"
     ],
+    "name:som_x_variant":[
+        "Gini-Bisaaw"
+    ],
     "name:sot_x_preferred":[
         "Guinea-Bissau"
     ],
     "name:spa_x_preferred":[
         "Guinea-Bis\u00e1u"
     ],
+    "name:spa_x_variant":[
+        "Guinea-Bissau",
+        "Guinea-Biss\u00e1u"
+    ],
     "name:sqi_x_preferred":[
         "Guinea Bisau"
+    ],
+    "name:sqi_x_variant":[
+        "Guine Bisau"
     ],
     "name:srd_x_preferred":[
         "Guinea-Bissau"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0458\u0430 \u0411\u0438\u0441\u0430\u043e"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0432\u0438\u043d\u0435\u0458\u0430-\u0411\u0438\u0441\u0430\u043e",
+        "\u0413\u0432\u0438\u043d\u0435\u0430-\u0411\u0438\u0441\u0430\u0443"
     ],
     "name:ssw_x_preferred":[
         "IGiniya-Bhasawu"
@@ -506,6 +658,9 @@
     "name:swa_x_preferred":[
         "Guinea Bisau"
     ],
+    "name:swa_x_variant":[
+        "Ginebisau"
+    ],
     "name:swe_x_preferred":[
         "Guinea-Bissau"
     ],
@@ -515,8 +670,14 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0ba9\u0bbf-\u0baa\u0bbf\u0b9a\u0bbe\u0bb5\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0ba9\u0bbf-\u0baa\u0bbf\u0bb8\u0bcd\u0bb8\u0bbe\u0bb5\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3f\u0c28\u0c3f\u0c2f\u0c3e-\u0c2c\u0c3f\u0c38\u0c4d\u0c38\u0c3e\u0c35\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Gin\u00e9-Bisau"
@@ -530,6 +691,16 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e01\u0e34\u0e19\u0e35-\u0e1a\u0e34\u0e2a\u0e40\u0e0b\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e34\u0e19\u0e35-\u0e1a\u0e34\u0e2a\u0e40\u0e0b\u0e32",
+        "\u0e01\u0e34\u0e19\u0e35\u0e1a\u0e34\u0e2a\u0e40\u0e0b\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u1262\u1233\u12ce"
+    ],
+    "name:ton_x_preferred":[
+        "Kini-Pisau"
+    ],
     "name:tso_x_preferred":[
         "Guinea-Bissau"
     ],
@@ -539,14 +710,25 @@
     "name:tur_x_preferred":[
         "Gine-Bissau"
     ],
+    "name:tur_x_variant":[
+        "Gine Bissau",
+        "Gine-Biso"
+    ],
     "name:uig_x_preferred":[
         "\u06af\u06cb\u0649\u0646\u06d0\u064a\u06d5 \u0628\u0649\u0633\u0633\u0627\u0626\u06c7"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0430\u0443"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0441\u0430\u0443",
+        "\u0490\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0430\u0443"
+    ],
     "name:und_x_preferred":[
         "Gvineja Bissau"
+    ],
+    "name:unk_x_variant":[
+        "Portuguese Guinea"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0646\u06cc \u0628\u0633\u0627\u0624"
@@ -562,6 +744,10 @@
     ],
     "name:vie_x_preferred":[
         "Guin\u00e9-Bissau"
+    ],
+    "name:vie_x_variant":[
+        "Ghi-n\u00ea B\u00edt-xao",
+        "Ghi-n\u00ea B\u00edt xao (Guinea-Bissau)"
     ],
     "name:vol_x_preferred":[
         "Giney\u00e4n-Bisau\u00e4n"
@@ -584,17 +770,28 @@
     "name:yor_x_preferred":[
         "Guinea-Bissau"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Gene-Busau"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Guin\u00e9-Bissau"
     ],
     "name:zho_x_preferred":[
         "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
     ],
+    "name:zho_x_variant":[
+        "\u51e0\u5167\u4e9a\u6bd4\u7ecd",
+        "\u5e7e\u5167\u4e9e\u6bd4\u7d22",
+        "\u51e0\u5185\u4e9a\u6bd4\u7ecd"
+    ],
     "name:zho_yue_x_preferred":[
         "\u757f\u5167\u4e9e\u6bd4\u7d39"
     ],
     "name:zul_x_preferred":[
         "IGini Bisawu"
+    ],
+    "name:zul_x_variant":[
+        "i-Guinea-Bissau"
     ],
     "ne:abbrev":"GnB.",
     "ne:abbrev_len":4,
@@ -674,6 +871,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"245",
+    "statoids:ds":"GW",
+    "statoids:fifa":"GNB",
+    "statoids:gaul":"105",
+    "statoids:gec":"PU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GBS",
+    "statoids:iso_a2":"GW",
+    "statoids:iso_a3":"GNB",
+    "statoids:iso_num":"624",
+    "statoids:itu":"GNB",
+    "statoids:marc":"pg",
+    "statoids:name":"Guinea-Bissau",
+    "statoids:wmo":"GW",
     "wk:latitude":12.0,
     "wk:longitude":-15.0,
     "wk:population":1704255,
@@ -685,18 +897,28 @@
     "wof:concordances":{
         "dbp:id":"Guinea-Bissau",
         "fb:id":"en.guinea-bissau",
+        "fifa:id":"GNB",
+        "fips:code":"PU",
+        "gaul:id":"105",
         "gn:id":2372248,
         "gp:id":23424929,
         "hasc:id":"GW",
+        "ioc:id":"GBS",
+        "itu:id":"GNB",
+        "m49:code":"624",
+        "marc:id":"pg",
         "mzb:id":"guinea-bissau",
+        "ne:adm0_a3":"GNB",
         "nyt:id":"N35356517505200054611",
         "qs:id":573798,
+        "uncrt:id":"GW",
         "wd:id":"Q1007",
-        "wk:page":"Guinea-Bissau"
+        "wk:page":"Guinea-Bissau",
+        "wmo:id":"GW"
     },
     "wof:country":"GW",
     "wof:country_alpha3":"GNB",
-    "wof:geomhash":"df52d0e0bc7e5a7f3c0fe32065b64c4f",
+    "wof:geomhash":"d06c981e08b9316ccb14790b3a4c0f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -713,11 +935,14 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1493230082,
+    "wof:lastmodified":1509142736,
     "wof:name":"Guinea Bissau",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":1704255,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GNB",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

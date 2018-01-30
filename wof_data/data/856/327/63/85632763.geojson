@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.88117,
+    "geom:area_square_m":329220827541.567383,
     "geom:bbox":"102.144248917,8.377943993,109.474586487,23.393395",
     "geom:latitude":16.654637,
     "geom:longitude":106.306567,
     "gn:id":"",
     "gn:population":89571130,
     "iso:country":"VN",
+    "itu:country_code":[
+        "84"
+    ],
     "lbl:latitude":21.732568,
     "lbl:longitude":105.396672,
     "mps:latitude":21.732568,
     "mps:longitude":105.396672,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Vi\u00e8tnam"
     ],
@@ -28,11 +35,17 @@
     "name:aka_x_preferred":[
         "Vietnam"
     ],
+    "name:aka_x_variant":[
+        "Vi\u025btnam"
+    ],
     "name:als_x_preferred":[
         "Vietnam"
     ],
     "name:amh_x_preferred":[
         "\u126c\u1275 \u1293\u121d"
+    ],
+    "name:amh_x_variant":[
+        "\u126c\u1275\u1293\u121d"
     ],
     "name:ang_x_preferred":[
         "Fietnam"
@@ -42,6 +55,9 @@
     ],
     "name:arg_x_preferred":[
         "Vietnam"
+    ],
+    "name:arg_x_variant":[
+        "Bietnam"
     ],
     "name:arz_x_preferred":[
         "\u0641\u064a\u064a\u062a\u0646\u0627\u0645"
@@ -67,6 +83,9 @@
     "name:bam_x_preferred":[
         "Vietnam"
     ],
+    "name:bam_x_variant":[
+        "Wiy\u025btinamu"
+    ],
     "name:bar_x_preferred":[
         "Vietnam"
     ],
@@ -77,10 +96,14 @@
         "\u0412'\u0435\u0442\u043d\u0430\u043c"
     ],
     "name:bel_x_variant":[
-        "\u0412\u0456\u0435\u0442\u043d\u0430\u043c"
+        "\u0412\u0456\u0435\u0442\u043d\u0430\u043c",
+        "\u0412\u0435\u0442\u043d\u0430\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09af\u09bc\u09c7\u09a4\u09a8\u09be\u09ae"
+    ],
+    "name:ben_x_variant":[
+        "\u09ad\u09bf\u09df\u09c7\u09a4\u09a8\u09be\u09ae"
     ],
     "name:bis_x_preferred":[
         "Vietnam"
@@ -90,6 +113,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f5d\u0f72\u0f0b\u0f4f\u0f72\u0f0b\u0f53\u0f58\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f56\u0f72\u0f0b\u0f51\u0f72\u0f0b\u0f53\u0f58\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Vijetnam"
@@ -130,9 +156,6 @@
     "name:che_x_preferred":[
         "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u8d8a\u5357"
-    ],
     "name:chv_x_preferred":[
         "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
     ],
@@ -172,6 +195,9 @@
     "name:dut_x_variant":[
         "Viet-Nam"
     ],
+    "name:dzo_x_preferred":[
+        "\u0f56\u0f7a\u0f4a\u0f0b\u0f53\u0f71\u0f58"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03b5\u03c4\u03bd\u03ac\u03bc"
     ],
@@ -189,6 +215,9 @@
     "name:epo_x_preferred":[
         "Vjetnamio"
     ],
+    "name:epo_x_variant":[
+        "Vjetnamo"
+    ],
     "name:est_x_preferred":[
         "Vietnam"
     ],
@@ -198,11 +227,17 @@
     "name:ewe_x_preferred":[
         "Vietnam"
     ],
+    "name:ewe_x_variant":[
+        "Vietnam nutome"
+    ],
     "name:ext_x_preferred":[
         "Vietnam"
     ],
     "name:fao_x_preferred":[
         "Vjetnam"
+    ],
+    "name:fao_x_variant":[
+        "Vietnam"
     ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u062a\u0646\u0627\u0645"
@@ -213,11 +248,9 @@
     "name:fra_x_preferred":[
         "Vi\u00eat Nam"
     ],
-    "name:fre_x_preferred":[
-        "Vi\u00eat Nam"
-    ],
-    "name:fre_x_variant":[
-        "Viet Nam"
+    "name:fra_x_variant":[
+        "Viet Nam",
+        "Vietnam"
     ],
     "name:frp_x_preferred":[
         "Vi\u00eat Nam"
@@ -230,6 +263,9 @@
     ],
     "name:ful_x_preferred":[
         "Wiyetnam"
+    ],
+    "name:ful_x_variant":[
+        "Wiyetnaam"
     ],
     "name:fur_x_preferred":[
         "Vietnam"
@@ -246,8 +282,14 @@
     "name:gle_x_preferred":[
         "V\u00edtneam"
     ],
+    "name:gle_x_variant":[
+        "V\u00edt Neam"
+    ],
     "name:glg_x_preferred":[
         "Vietnam"
+    ],
+    "name:glg_x_variant":[
+        "Vietnam - Vi\u1ec7t Nam"
     ],
     "name:glv_x_preferred":[
         "Yn Vietnam"
@@ -269,6 +311,9 @@
     ],
     "name:hau_x_preferred":[
         "Vietnam"
+    ],
+    "name:hau_x_variant":[
+        "Biyetinam"
     ],
     "name:haw_x_preferred":[
         "Wiekanama"
@@ -293,6 +338,9 @@
     ],
     "name:hun_x_preferred":[
         "Vietnam"
+    ],
+    "name:hun_x_variant":[
+        "Vietn\u00e1m"
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u0565\u057f\u0576\u0561\u0574"
@@ -348,6 +396,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cbf\u0caf\u0cc6\u0c9f\u0ccd\u0ca8\u0cbe\u0cae\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0cb5\u0cbf\u0caf\u0cc7\u0c9f\u0ccd\u0ca8\u0cbe\u0cae\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10d4\u10e2\u10dc\u10d0\u10db\u10d8"
     ],
@@ -362,6 +413,9 @@
     ],
     "name:kik_x_preferred":[
         "Vietnam"
+    ],
+    "name:kik_x_variant":[
+        "Vietinamu"
     ],
     "name:kin_x_preferred":[
         "Viyetinamu"
@@ -387,11 +441,17 @@
     "name:kur_x_preferred":[
         "Viyetnam"
     ],
+    "name:kur_x_variant":[
+        "\u06a4\u06cc\u06d5\u062a\u0646\u0627\u0645"
+    ],
     "name:lad_x_preferred":[
         "Vietnam"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0eab\u0ea7\u0ebd\u0e94\u0e99\u0eb2\u0ea1"
+    ],
+    "name:lao_x_variant":[
+        "\u0eab\u0ea7\u0ebd\u0e94\u0e99\u0eb2\u0ea1"
     ],
     "name:lat_x_preferred":[
         "Vietnamia"
@@ -408,8 +468,14 @@
     "name:lim_x_preferred":[
         "Vietnam"
     ],
+    "name:lim_x_variant":[
+        "Vi\u00ebtnam"
+    ],
     "name:lin_x_preferred":[
         "Vietnami"
+    ],
+    "name:lin_x_variant":[
+        "Viyetinam\u025b"
     ],
     "name:lit_x_preferred":[
         "Vietnamas"
@@ -426,11 +492,20 @@
     "name:ltz_x_preferred":[
         "Vietnam"
     ],
+    "name:lub_x_preferred":[
+        "Viyetiname"
+    ],
+    "name:lug_x_preferred":[
+        "Vyetinaamu"
+    ],
     "name:mal_x_preferred":[
         "\u0d35\u0d3f\u0d2f\u0d31\u0d4d\u0d31\u0d4d\u0d28\u0d3e\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u092f\u0947\u0924\u0928\u093e\u092e"
+    ],
+    "name:mar_x_variant":[
+        "\u0935\u094d\u0939\u093f\u090f\u0924\u0928\u093e\u092e"
     ],
     "name:mdf_x_preferred":[
         "\u0412\u0438\u0435\u0442\u043d\u0430\u043c"
@@ -465,6 +540,9 @@
     "name:mya_x_preferred":[
         "\u1017\u102e\u101a\u1000\u103a\u1014\u1019\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1017\u102e\u101a\u1000\u103a\u1014\u1019\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0648\u06cc\u062a\u0646\u0627\u0645"
     ],
@@ -477,6 +555,9 @@
     "name:nav_x_preferred":[
         "Bi\u02bcednam"
     ],
+    "name:nde_x_preferred":[
+        "Vietnam"
+    ],
     "name:nds_nld_x_preferred":[
         "Vietnam"
     ],
@@ -486,6 +567,9 @@
     "name:nep_x_preferred":[
         "\u092d\u093f\u092f\u0924\u0928\u093e\u092e"
     ],
+    "name:nep_x_variant":[
+        "\u092d\u093f\u090f\u0924\u0928\u093e\u092e"
+    ],
     "name:new_x_preferred":[
         "\u092d\u093f\u092f\u0924\u0928\u093e\u092e"
     ],
@@ -493,6 +577,9 @@
         "Vietnam"
     ],
     "name:nno_x_preferred":[
+        "Vietnam"
+    ],
+    "name:nob_x_preferred":[
         "Vietnam"
     ],
     "name:nor_x_preferred":[
@@ -512,6 +599,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2d\u0b3f\u0b0f\u0b24\u0b28\u0b3e\u0b2e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2d\u0b3f\u0b0f\u0b24\u0b28\u0b3e\u0b2e\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Veetinaam"
@@ -577,14 +667,23 @@
     "name:run_x_preferred":[
         "Vietnam"
     ],
+    "name:run_x_variant":[
+        "Viyetinamu"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
+    ],
+    "name:sag_x_preferred":[
+        "Vietn\u00e4m"
     ],
     "name:sah_x_preferred":[
         "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
     ],
     "name:san_x_preferred":[
         "\u091a\u092e\u094d\u092a\u093e\u0926\u0947\u0936\u0903"
+    ],
+    "name:san_x_variant":[
+        "\u091a\u092e\u094d\u092a\u093e\u0926\u0947\u0936"
     ],
     "name:scn_x_preferred":[
         "Vietnam"
@@ -616,6 +715,9 @@
     "name:som_x_preferred":[
         "Fiyetnam"
     ],
+    "name:som_x_variant":[
+        "Fiyetnaam"
+    ],
     "name:sot_x_preferred":[
         "Vietnam"
     ],
@@ -646,6 +748,9 @@
     "name:swa_x_preferred":[
         "Vietnam"
     ],
+    "name:swa_x_variant":[
+        "Vietinamu"
+    ],
     "name:swe_x_preferred":[
         "Vietnam"
     ],
@@ -664,6 +769,9 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c2f\u0c24\u0c4d\u0c28\u0c3e\u0c02"
     ],
+    "name:tel_x_variant":[
+        "\u0c35\u0c3f\u0c2f\u0c1f\u0c4d\u0c28\u0c3e\u0c02"
+    ],
     "name:tet_x_preferred":[
         "Vietname"
     ],
@@ -675,6 +783,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21"
+    ],
+    "name:tir_x_preferred":[
+        "\u126c\u1275\u1293\u121d"
+    ],
+    "name:ton_x_preferred":[
+        "Vietinemi"
     ],
     "name:tpi_x_preferred":[
         "Vietnam"
@@ -700,11 +817,18 @@
     "name:ukr_x_preferred":[
         "\u0412'\u0454\u0442\u043d\u0430\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u0412\u02bc\u0454\u0442\u043d\u0430\u043c",
+        "\u0412\u0454\u0442\u043d\u0430\u043c"
+    ],
     "name:und_x_preferred":[
         "V\u00edetnam"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u062a \u0646\u0627\u0645"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06cc\u062a\u0646\u0627\u0645"
     ],
     "name:uzb_x_preferred":[
         "Vyetnam"
@@ -720,6 +844,9 @@
     ],
     "name:vie_x_preferred":[
         "Vi\u1ec7t Nam"
+    ],
+    "name:vie_x_variant":[
+        "C\u00f4ng H\u00f2a X\u00e3 H\u1ed9i Ch\u1ee7 Ngh\u0129a Vi\u1ec7t Nam"
     ],
     "name:vls_x_preferred":[
         "Vietnam"
@@ -751,6 +878,9 @@
     "name:yor_x_preferred":[
         "Fi\u1eb9tn\u00e1m"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de F\u1eb9tinami"
+    ],
     "name:zea_x_preferred":[
         "Vietnam"
     ],
@@ -771,6 +901,9 @@
     ],
     "name:zul_x_preferred":[
         "IViyetnami"
+    ],
+    "name:zul_x_variant":[
+        "i-Vietnam"
     ],
     "ne:abbrev":"Viet.",
     "ne:abbrev_len":5,
@@ -850,6 +983,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"84",
+    "statoids:ds":"VN",
+    "statoids:fifa":"VIE",
+    "statoids:gaul":"264",
+    "statoids:gec":"VM",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"VIE",
+    "statoids:iso_a2":"VN",
+    "statoids:iso_a3":"VNM",
+    "statoids:iso_num":"704",
+    "statoids:itu":"VTN",
+    "statoids:marc":"vm",
+    "statoids:name":"Vietnam",
+    "statoids:wmo":"VS",
     "wk:latitude":14.016667,
     "wk:longitude":107.9,
     "wk:wordcount":12954,
@@ -862,19 +1010,29 @@
     "wof:concordances":{
         "dbp:id":"Vietnam",
         "fb:id":"en.vietnam",
+        "fifa:id":"VIE",
+        "fips:code":"VM",
+        "gaul:id":"264",
         "gn:id":1562822,
         "gp:id":23424984,
         "hasc:id":"VN",
+        "ioc:id":"VIE",
+        "itu:id":"VTN",
         "loc:id":"n79032186",
+        "m49:code":"704",
+        "marc:id":"vm",
         "mzb:id":"vietnam",
+        "ne:adm0_a3":"VNM",
         "nyt:id":"58129886786977962561",
         "qs:id":85344,
+        "uncrt:id":"VN",
         "wd:id":"Q881",
-        "wk:page":"Vietnam"
+        "wk:page":"Vietnam",
+        "wmo:id":"VS"
     },
     "wof:country":"VN",
     "wof:country_alpha3":"VNM",
-    "wof:geomhash":"fa8adecae09a7c76d58d4d3d7c3b108a",
+    "wof:geomhash":"bfab56491ad2de069103b70b2bd923b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -891,11 +1049,14 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1493230085,
+    "wof:lastmodified":1509143052,
     "wof:name":"Vietnam",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":89571130,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"VNM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

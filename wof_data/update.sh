@@ -28,7 +28,7 @@ do
     else
 	echo grepping local data from $target 
 	#ny, nj, ct regions
-	head -1 wof-$target-latest.csv > temp && cat wof-$target-latest.csv | grep ",85688543," >> temp && cat wof-$target-latest.csv | grep ",85688607,">> temp && cat wof-$target-latest.csv | grep ",85688629,">> temp || true
+	head -1 wof-$target-latest.csv > temp && cat wof-$target-latest.csv | grep ",1108826385," >> temp && cat wof-$target-latest.csv | grep ",136253037,">> temp && cat wof-$target-latest.csv | grep ",404227465,">> temp || true
 	mv temp wof-$target-latest.csv
     fi
 done

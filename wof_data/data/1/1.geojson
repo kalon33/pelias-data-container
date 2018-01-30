@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3448.94394,
     "geom:bbox":"-0.0005,-0.000282,0.000379,0.000309",
     "geom:latitude":0.000003,
     "geom:longitude":0.00001,
@@ -32,14 +33,14 @@
         "wk:page":"Null_Island"
     },
     "wof:country":"XN",
-    "wof:geomhash":"e019a15d3b3d92817c55fc51e86ba43b",
+    "wof:geomhash":"e9049476e168a570accab5e984de9c6a",
     "wof:hierarchy":[
         {
             "country_id":1
         }
     ],
     "wof:id":1,
-    "wof:lastmodified":1470254846,
+    "wof:lastmodified":1496966656,
     "wof:name":"Null Island",
     "wof:parent_id":0,
     "wof:placetype":"country",

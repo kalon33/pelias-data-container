@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-09-11",
     "edtf:inception":"uuuu",
     "geom:area":0.026734,
+    "geom:area_square_m":322213888.439035,
     "geom:bbox":"-68.419555664,12.028721809,-62.942943573,17.648555756",
     "geom:latitude":12.80458,
     "geom:longitude":-67.689731,
@@ -15,6 +17,7 @@
     "mps:latitude":12.194274,
     "mps:longitude":-68.249092,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:ace_x_preferred":[
         "Blanda"
     ],
@@ -167,6 +170,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Netherlands"
     ],
     "name:epo_x_preferred":[
         "Nederlando"
@@ -756,7 +762,7 @@
     },
     "wof:country":"AN",
     "wof:country_alpha3":"ANT",
-    "wof:geomhash":"7610d2da94d14c8d71ea80b31d5beb82",
+    "wof:geomhash":"33921ad2f807398b234b6c0a18384599",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -764,11 +770,12 @@
         }
     ],
     "wof:id":85632727,
-    "wof:lastmodified":1493230071,
+    "wof:lastmodified":1514618641,
     "wof:name":"Netherlands",
     "wof:parent_id":-1,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ANT",
     "wof:superseded_by":[
         136251281
     ],

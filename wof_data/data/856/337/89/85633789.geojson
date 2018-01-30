@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":78.56088,
+    "geom:area_square_m":443523503899.444763,
     "geom:bbox":"11.108165,55.342678,24.163414,69.036356",
     "geom:latitude":62.7771,
     "geom:longitude":16.754466,
     "gn:population":9828655,
     "iso:country":"SE",
+    "itu:country_code":[
+        "46"
+    ],
     "lbl:latitude":65.859144,
     "lbl:longitude":19.017205,
     "mps:latitude":65.859144,
     "mps:longitude":19.017205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:abk_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438\u0430"
     ],
@@ -41,6 +48,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u064a\u062f"
     ],
     "name:arc_x_preferred":[
         "\u0723\u0718\u071d\u0715"
@@ -72,6 +82,9 @@
     "name:bam_x_preferred":[
         "Swedi"
     ],
+    "name:bam_x_variant":[
+        "Suw\u025bdi"
+    ],
     "name:bar_x_preferred":[
         "Schwedn"
     ],
@@ -92,6 +105,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f72\u0f0b\u0f5d\u0f7a\u0f0b\u0f51\u0f7a\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f67\u0fb2\u0f74\u0f60\u0f72\u0f0b\u0f4f\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "\u0160vedska"
@@ -122,9 +138,6 @@
     ],
     "name:che_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u745e\u5178"
     ],
     "name:chr_x_preferred":[
         "\u13cd\u13eb\u13d5\u13c2"
@@ -159,8 +172,15 @@
     "name:dan_x_preferred":[
         "Sverige"
     ],
+    "name:deu_x_colloquial":[
+        "Koenigreich Schweden",
+        "Konigreich Schweden"
+    ],
     "name:deu_x_preferred":[
         "Schweden"
+    ],
+    "name:deu_x_variant":[
+        "K\u00f6nigreich Schweden"
     ],
     "name:diq_x_preferred":[
         "\u0130swec"
@@ -171,11 +191,11 @@
     "name:dsb_x_preferred":[
         "\u0160wedska"
     ],
-    "name:dut_x_preferred":[
-        "Zweden"
-    ],
     "name:dzo_x_preferred":[
         "\u0f66\u0f74\u0f60\u0f72\u0f0b\u0f4c\u0f53\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f66\u0f74\u0f60\u0f72\u0f0b\u0f4c\u0f53"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1"
@@ -195,6 +215,9 @@
     "name:epo_x_preferred":[
         "Svedio"
     ],
+    "name:epo_x_variant":[
+        "Svedujo"
+    ],
     "name:est_x_preferred":[
         "Rootsi"
     ],
@@ -203,6 +226,9 @@
     ],
     "name:ewe_x_preferred":[
         "Sweden"
+    ],
+    "name:ewe_x_variant":[
+        "Sweden nutome"
     ],
     "name:ext_x_preferred":[
         "Suecia"
@@ -216,13 +242,10 @@
     "name:fin_x_preferred":[
         "Ruotsi"
     ],
-    "name:fra_x_preferred":[
-        "Su\u00e8de"
-    ],
-    "name:fre_x_colloquial":[
+    "name:fra_x_colloquial":[
         "Suede"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Su\u00e8de"
     ],
     "name:frp_x_preferred":[
@@ -237,6 +260,9 @@
     "name:ful_x_preferred":[
         "Suwed"
     ],
+    "name:ful_x_variant":[
+        "Suweed"
+    ],
     "name:fur_x_preferred":[
         "Svezie"
     ],
@@ -246,16 +272,6 @@
     "name:gan_x_preferred":[
         "\u745e\u5178"
     ],
-    "name:ger_x_colloquial":[
-        "Koenigreich Schweden",
-        "Konigreich Schweden"
-    ],
-    "name:ger_x_preferred":[
-        "Schweden"
-    ],
-    "name:ger_x_variant":[
-        "K\u00f6nigreich Schweden"
-    ],
     "name:gla_x_preferred":[
         "An t-Suain"
     ],
@@ -264,6 +280,9 @@
     ],
     "name:glg_x_preferred":[
         "Suecia"
+    ],
+    "name:glg_x_variant":[
+        "Suecia - Sverige"
     ],
     "name:glv_x_preferred":[
         "Yn Toolynn"
@@ -280,6 +299,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0ab5\u0abf\u0aa1\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0acd\u0ab5\u0ac0\u0aa1\u0aa8"
+    ],
     "name:hak_x_preferred":[
         "Shu\u00ec-ti\u00e9n"
     ],
@@ -288,6 +310,9 @@
     ],
     "name:hau_x_preferred":[
         "Sweden"
+    ],
+    "name:hau_x_variant":[
+        "Suwedan"
     ],
     "name:haw_x_preferred":[
         "Kuekene"
@@ -298,11 +323,17 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05d5\u05d3\u05d9\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d1\u05d3\u05d9\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Sweden"
     ],
     "name:hin_x_preferred":[
         "\u0938\u094d\u0935\u0940\u0921\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u094d\u0935\u0940\u0921\u0947\u0928"
     ],
     "name:hrv_x_preferred":[
         "\u0160vedska"
@@ -340,6 +371,9 @@
     "name:ind_x_preferred":[
         "Swedia"
     ],
+    "name:ind_x_variant":[
+        "Sweden"
+    ],
     "name:isl_x_preferred":[
         "Sv\u00ed\u00fej\u00f3\u00f0"
     ],
@@ -370,11 +404,17 @@
     "name:kal_x_preferred":[
         "Svenskit Nunaat"
     ],
+    "name:kal_x_variant":[
+        "Sverige"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0cb5\u0cc0\u0ca1\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e8\u10d5\u10d4\u10d3\u10d4\u10d7\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10e8\u10d5\u10d4\u10ea\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438\u044f"
@@ -385,8 +425,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17ca\u17bb\u1799\u17a2\u17c2\u178f"
     ],
+    "name:khm_x_variant":[
+        "\u179f\u17ca\u17bb\u1799\u17a2\u17c2\u178a"
+    ],
     "name:kik_x_preferred":[
         "Cuindeni"
+    ],
+    "name:kik_x_variant":[
+        "Uswidi"
     ],
     "name:kin_x_preferred":[
         "Suwede"
@@ -412,14 +458,23 @@
     "name:krc_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438\u044f"
     ],
+    "name:krl_x_preferred":[
+        "Ruo\u010d\u010di"
+    ],
     "name:kur_x_preferred":[
         "Sw\u00ead"
+    ],
+    "name:kur_x_variant":[
+        "\u0633\u0648\u06cc\u062f"
     ],
     "name:lad_x_preferred":[
         "Suesia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e8a\u0eb9\u0ec1\u0ead\u0e94"
+    ],
+    "name:lao_x_variant":[
+        "\u0eaa\u0eb0\u0ea7\u0eb4\u0ec0\u0e94\u0eb1\u0e99"
     ],
     "name:lat_x_preferred":[
         "Suecia"
@@ -439,6 +494,9 @@
     "name:lin_x_preferred":[
         "Sw\u00e9di"
     ],
+    "name:lin_x_variant":[
+        "Sw\u00e9d\u025b"
+    ],
     "name:lit_x_preferred":[
         "\u0160vedija"
     ],
@@ -454,11 +512,20 @@
     "name:ltz_x_preferred":[
         "Schweden"
     ],
+    "name:lub_x_preferred":[
+        "Suwedi"
+    ],
     "name:lug_x_preferred":[
         "Swiiden"
     ],
+    "name:lug_x_variant":[
+        "Swideni"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4d\u0d35\u0d40\u0d21\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d4d\u0d35\u0d40\u0d21\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u0935\u0940\u0921\u0928"
@@ -475,8 +542,14 @@
     "name:mlg_x_preferred":[
         "Soeda"
     ],
+    "name:mlg_x_variant":[
+        "Soedy"
+    ],
     "name:mlt_x_preferred":[
         "\u017bvezja"
+    ],
+    "name:mlt_x_variant":[
+        "Svezja"
     ],
     "name:mon_x_preferred":[
         "\u0428\u0432\u0435\u0434"
@@ -490,6 +563,9 @@
     "name:mya_x_preferred":[
         "\u1006\u103d\u102e\u1012\u1004\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1006\u103d\u102e\u1012\u1004\u103a"
+    ],
     "name:myv_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -502,6 +578,9 @@
     "name:nau_x_preferred":[
         "Widen"
     ],
+    "name:nde_x_preferred":[
+        "Sweden"
+    ],
     "name:nds_nld_x_preferred":[
         "Sveden"
     ],
@@ -511,6 +590,9 @@
     "name:nep_x_preferred":[
         "\u0938\u094d\u0935\u0940\u0921\u0947\u0928"
     ],
+    "name:nep_x_variant":[
+        "\u0938\u094d\u0935\u093f\u0921\u0947\u0928"
+    ],
     "name:new_x_preferred":[
         "\u0938\u094d\u0935\u093f\u0926\u0947\u0928"
     ],
@@ -518,6 +600,9 @@
         "Zweden"
     ],
     "name:nno_x_preferred":[
+        "Sverige"
+    ],
+    "name:nob_x_preferred":[
         "Sverige"
     ],
     "name:nor_x_preferred":[
@@ -532,8 +617,17 @@
     "name:oci_x_preferred":[
         "Su\u00e8cia"
     ],
+    "name:olo_x_preferred":[
+        "Ruo\u010d\u010dii"
+    ],
+    "name:olo_x_variant":[
+        "Ruo\u010d\u010di"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b4d\u0b35\u0b3f\u0b21\u0b47\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b4d\u0b71\u0b47\u0b21\u0b47\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Iswiidin"
@@ -583,6 +677,9 @@
     "name:pus_x_preferred":[
         "\u0633\u0648\u064a\u0689\u0646"
     ],
+    "name:pus_x_variant":[
+        "\u0633\u0648\u06cc\u0689\u0646"
+    ],
     "name:que_x_preferred":[
         "Suwidsuyu"
     ],
@@ -598,8 +695,14 @@
     "name:rum_x_preferred":[
         "Suedia"
     ],
+    "name:run_x_preferred":[
+        "Suwedi"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Su\u00eade"
     ],
     "name:sah_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438\u044f"
@@ -612,6 +715,9 @@
     ],
     "name:sco_x_preferred":[
         "Swaden"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba"
     ],
     "name:slk_x_preferred":[
         "\u0160v\u00e9dsko"
@@ -634,11 +740,17 @@
     "name:som_x_preferred":[
         "Iswiidhan"
     ],
+    "name:som_x_variant":[
+        "Iswidhan"
+    ],
     "name:spa_x_preferred":[
         "Suecia"
     ],
     "name:sqi_x_preferred":[
         "Suedia"
+    ],
+    "name:sqi_x_variant":[
+        "Suedi"
     ],
     "name:srd_x_preferred":[
         "Isvetzia"
@@ -676,6 +788,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb5\u0bc0\u0b9f\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb8\u0bcd\u0bb5\u0bc0\u0b9f\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0428\u0432\u0435\u0446\u0438\u044f"
     ],
@@ -691,8 +806,20 @@
     "name:tgl_x_preferred":[
         "Sweden"
     ],
+    "name:tgl_x_variant":[
+        "Suwesya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2a\u0e27\u0e35\u0e40\u0e14\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e27\u0e35\u0e40\u0e14\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u1235\u12ca\u12f5\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Su\u0113teni"
     ],
     "name:tpi_x_preferred":[
         "Suwidan"
@@ -731,6 +858,9 @@
         "Suwei-dain",
         "Su\u00e8cia",
         "Sv\u00ed\u00fej\u00f3\u00f0"
+    ],
+    "name:unk_x_variant":[
+        "Svezia"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06cc\u0688\u0646"
@@ -777,6 +907,9 @@
     "name:yor_x_preferred":[
         "Sw\u00edd\u00ecn"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Swidini"
+    ],
     "name:zea_x_preferred":[
         "Zweden"
     ],
@@ -794,6 +927,9 @@
     ],
     "name:zul_x_preferred":[
         "ISwidi"
+    ],
+    "name:zul_x_variant":[
+        "i-Sweden"
     ],
     "ne:abbrev":"Swe.",
     "ne:abbrev_len":4,
@@ -868,11 +1004,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633789-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"46",
+    "statoids:ds":"S",
+    "statoids:fifa":"SWE",
+    "statoids:gaul":"236",
+    "statoids:gec":"SW",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SWE",
+    "statoids:iso_a2":"SE",
+    "statoids:iso_a3":"SWE",
+    "statoids:iso_num":"752",
+    "statoids:itu":"S",
+    "statoids:marc":"sw",
+    "statoids:name":"Sweden",
+    "statoids:wmo":"SN",
     "wk:latitude":61.0,
     "wk:longitude":15.0,
     "wk:population":9747355,
@@ -884,19 +1037,29 @@
     "wof:concordances":{
         "dbp:id":"Sweden",
         "fb:id":"en.sweden",
+        "fifa:id":"SWE",
+        "fips:code":"SW",
+        "gaul:id":"236",
         "gn:id":2661886,
         "gp:id":23424954,
         "hasc:id":"SE",
+        "ioc:id":"SWE",
+        "itu:id":"S",
         "loc:id":"n79021184",
+        "m49:code":"752",
+        "marc:id":"sw",
         "mzb:id":"sweden",
+        "ne:adm0_a3":"SWE",
         "nyt:id":"59439561369162752001",
         "qs:id":1028997,
+        "uncrt:id":"S",
         "wd:id":"Q34",
-        "wk:page":"Sweden"
+        "wk:page":"Sweden",
+        "wmo:id":"SN"
     },
     "wof:country":"SE",
     "wof:country_alpha3":"SWE",
-    "wof:geomhash":"9add23114f08905e86448cf26f00f845",
+    "wof:geomhash":"ea323dd1dc4b6b433a67fff666409372",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -914,11 +1077,14 @@
         "swe",
         "fin"
     ],
-    "wof:lastmodified":1493230363,
+    "wof:lastmodified":1509143029,
     "wof:name":"Sweden",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":9747355,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SWE",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

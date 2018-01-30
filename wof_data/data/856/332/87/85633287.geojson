@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.941901,
+    "geom:area_square_m":33118069138.801861,
     "geom:bbox":"26.617889,45.461774,30.131576,48.486034",
     "geom:latitude":47.195101,
     "geom:longitude":28.461397,
     "gn:population":4324000,
     "iso:country":"MD",
+    "itu:country_code":[
+        "373"
+    ],
     "lbl:latitude":47.435,
     "lbl:longitude":28.487904,
     "mps:latitude":47.435,
     "mps:longitude":28.487904,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
     ],
@@ -27,6 +34,12 @@
     "name:afr_x_preferred":[
         "Moldowa"
     ],
+    "name:afr_x_variant":[
+        "Moldova"
+    ],
+    "name:aka_x_preferred":[
+        "M\u0254ldova"
+    ],
     "name:als_x_preferred":[
         "Moldawien"
     ],
@@ -38,6 +51,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u062f\u0627\u0641\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0644\u062f\u0648\u0641\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0721\u0718\u0720\u0715\u0718\u0712\u0710"
@@ -60,6 +76,9 @@
     "name:bak_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
     ],
+    "name:bam_x_preferred":[
+        "Molidavi"
+    ],
     "name:bar_x_preferred":[
         "Moidowien"
     ],
@@ -70,10 +89,15 @@
         "\u041c\u0430\u043b\u0434\u043e\u0432\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041c\u0430\u043b\u0434\u043e\u0432\u0430"
+        "\u041c\u0430\u043b\u0434\u043e\u0432\u0430",
+        "\u041c\u0430\u043b\u0434\u043e\u0432\u0430, \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09b2\u09a6\u09cb\u09ad\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09cb\u09b2\u09cd\u09a6\u09be\u09ad\u09bf\u09df\u09be",
+        "\u09ae\u09b2\u09a6\u09cb\u09ad\u09bf\u09af\u09bc\u09be"
     ],
     "name:bis_x_preferred":[
         "Moldova"
@@ -93,11 +117,17 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u041c\u043e\u043b\u0434\u043e\u0432\u0430, \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
     "name:bxr_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0438"
     ],
     "name:cat_x_preferred":[
         "Rep\u00fablica de Mold\u00e0via"
+    ],
+    "name:cat_x_variant":[
+        "Mold\u00e0via"
     ],
     "name:cbk_zam_x_preferred":[
         "Moldavia"
@@ -111,17 +141,18 @@
     "name:ces_x_preferred":[
         "Moldavsko"
     ],
+    "name:ces_x_variant":[
+        "Moldavsko, republika",
+        "Moldavsk\u00e1 republika"
+    ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6469\u723e\u591a\u74e6"
-    ],
-    "name:chi_x_variant":[
-        "\u6469\u723e\u591a\u74e6"
-    ],
     "name:chr_x_preferred":[
         "\u13b9\u13b5\u13d9\u13eb\u13a0"
+    ],
+    "name:chr_x_variant":[
+        "\u13bc\u13b5\u13d9\u13e9"
     ],
     "name:chu_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
@@ -157,8 +188,18 @@
     "name:dan_x_preferred":[
         "Moldova"
     ],
+    "name:dan_x_variant":[
+        "Republikken Moldova",
+        "Moldavien"
+    ],
     "name:deu_x_preferred":[
         "Moldawien"
+    ],
+    "name:deu_x_variant":[
+        "Moldau",
+        "Moldau, Republik",
+        "Republik Moldau",
+        "Moldau (Republik Moldau)"
     ],
     "name:diq_x_preferred":[
         "Moldova"
@@ -169,14 +210,11 @@
     "name:dsb_x_preferred":[
         "Moldawska"
     ],
-    "name:dut_x_preferred":[
-        "Moldavi\u00eb"
-    ],
-    "name:dut_x_variant":[
-        "Republiek Moldavi\u00eb"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bb\u03b4\u03b1\u03b2\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bb\u03b4\u03b1\u03b2\u03af\u03b1, \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Moldova"
@@ -194,14 +232,24 @@
     "name:epo_x_preferred":[
         "Moldava Respubliko"
     ],
+    "name:epo_x_variant":[
+        "Moldavujo",
+        "Moldavio"
+    ],
     "name:est_x_preferred":[
         "Moldova"
+    ],
+    "name:est_x_variant":[
+        "Moldova Vabariik"
     ],
     "name:eus_x_preferred":[
         "Moldavia"
     ],
     "name:ewe_x_preferred":[
         "Moldova"
+    ],
+    "name:ewe_x_variant":[
+        "Moldova nutome"
     ],
     "name:ext_x_preferred":[
         "Mold\u00e1via"
@@ -212,21 +260,26 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0644\u062f\u0627\u0648\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0644\u062f\u0648\u0648\u0627",
+        "\u0645\u0648\u0644\u062f\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Moldova"
     ],
     "name:fra_x_preferred":[
         "Moldavie"
     ],
-    "name:fre_x_preferred":[
-        "Moldavie"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Moldovie",
-        "R\u00e9publique de Moldavie"
+        "R\u00e9publique de Moldavie",
+        "Moldova"
     ],
     "name:frp_x_preferred":[
         "Moldavie (payis)"
+    ],
+    "name:frp_x_variant":[
+        "Moldavie"
     ],
     "name:frr_x_preferred":[
         "Moldaawien"
@@ -237,19 +290,14 @@
     "name:ful_x_preferred":[
         "Moldowa"
     ],
+    "name:ful_x_variant":[
+        "Moldawii"
+    ],
     "name:fur_x_preferred":[
         "Moldavie"
     ],
     "name:gag_x_preferred":[
         "Moldova"
-    ],
-    "name:ger_x_preferred":[
-        "Moldawien"
-    ],
-    "name:ger_x_variant":[
-        "Moldau",
-        "Moldau, Republik",
-        "Republik Moldau"
     ],
     "name:gla_x_preferred":[
         "Mold\u00e0ibhia"
@@ -269,6 +317,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab2\u0acd\u0aa6\u0acb\u0ab5\u0abe"
     ],
+    "name:guj_x_variant":[
+        "\u0aae\u0acb\u0ab2\u0aa1\u0acb\u0ab5\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Moldova"
     ],
@@ -277,6 +328,9 @@
     ],
     "name:hau_x_preferred":[
         "MOldufiniya"
+    ],
+    "name:hau_x_variant":[
+        "Maldoba"
     ],
     "name:haw_x_preferred":[
         "Molodowa"
@@ -293,14 +347,24 @@
     "name:hin_x_preferred":[
         "\u092e\u0949\u0932\u094d\u0921\u094b\u0935\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u094b\u0932\u094d\u0921\u093e\u0935\u093f\u092f\u093e",
+        "\u092e\u094b\u0932\u094d\u0926\u094b\u0935\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Moldavija"
+    ],
+    "name:hrv_x_variant":[
+        "Moldavija, Republika"
     ],
     "name:hsb_x_preferred":[
         "Moldawska"
     ],
     "name:hun_x_preferred":[
         "Moldova"
+    ],
+    "name:hun_x_variant":[
+        "Mold\u00e1v K\u00f6zt\u00e1rsas\u00e1g"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u056c\u0564\u0578\u057e\u0561"
@@ -317,11 +381,20 @@
     "name:ina_x_preferred":[
         "Moldova"
     ],
+    "name:ina_x_variant":[
+        "Moldavia"
+    ],
     "name:ind_x_preferred":[
         "Moldova"
     ],
+    "name:ind_x_variant":[
+        "Moldavia"
+    ],
     "name:isl_x_preferred":[
         "Mold\u00f3va"
+    ],
+    "name:isl_x_variant":[
+        "Moldova"
     ],
     "name:ita_x_preferred":[
         "Moldavia"
@@ -350,8 +423,14 @@
     "name:kal_x_preferred":[
         "Moldova"
     ],
+    "name:kal_x_variant":[
+        "Moldavia"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb2\u0ccd\u0ca1\u0ccb\u0cb5"
+    ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cca\u0cb2\u0ccd\u0ca1\u0ccb\u0cb5\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10da\u10d3\u10dd\u10d5\u10d0"
@@ -361,6 +440,12 @@
     ],
     "name:kbd_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044d"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u1792\u17b6\u179a\u178e\u179a\u178a\u17d2\u178b\u1798\u17c9\u17bb\u179b\u178a\u17b6\u179c\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Moldova"
     ],
     "name:kin_x_preferred":[
         "Molidova"
@@ -386,11 +471,20 @@
     "name:kur_x_preferred":[
         "Moldova"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06c6\u0644\u062f\u06c6\u06a4\u0627"
+    ],
     "name:lad_x_preferred":[
         "Moldova"
     ],
+    "name:lao_x_preferred":[
+        "\u0ec2\u0ea1\u0e99\u0ec2\u0e84\u0ea7\u0eb2"
+    ],
     "name:lat_x_preferred":[
         "Res publica Moldavica"
+    ],
+    "name:lat_x_variant":[
+        "Respublica Moldavica"
     ],
     "name:lav_x_preferred":[
         "Moldova"
@@ -404,8 +498,14 @@
     "name:lim_x_preferred":[
         "Moldavi\u00eb"
     ],
+    "name:lin_x_preferred":[
+        "Molidavi"
+    ],
     "name:lit_x_preferred":[
         "Moldavija"
+    ],
+    "name:lit_x_variant":[
+        "Moldova"
     ],
     "name:lmo_x_preferred":[
         "Muldavia"
@@ -416,11 +516,23 @@
     "name:ltz_x_preferred":[
         "Moldawien"
     ],
+    "name:lub_x_preferred":[
+        "Molidavi"
+    ],
+    "name:lug_x_preferred":[
+        "Molodova"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d7e\u0d21\u0d4b\u0d35"
     ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d33\u0d4d\u200d\u0d21\u0d4b\u0d35"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0932\u094d\u0926\u094b\u0935\u094d\u0939\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u092e\u094b\u0932\u094d\u0921\u094b\u0935\u094d\u0939\u093e"
     ],
     "name:mdf_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
@@ -431,11 +543,18 @@
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u0458\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
+    ],
     "name:mlg_x_preferred":[
         "M\u00f4ldavia"
     ],
     "name:mlt_x_preferred":[
         "Moldova"
+    ],
+    "name:mlt_x_variant":[
+        "Maldova",
+        "Moldovja"
     ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432"
@@ -461,6 +580,9 @@
     "name:nau_x_preferred":[
         "Ripubrikin Mordowa"
     ],
+    "name:nde_x_preferred":[
+        "Moldova"
+    ],
     "name:nds_nld_x_preferred":[
         "Moldavi\u00eb (laand)"
     ],
@@ -470,13 +592,24 @@
     "name:nep_x_preferred":[
         "\u092e\u094b\u0932\u094d\u0921\u094b\u092d\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u092e\u094b\u0932\u094d\u0926\u094b\u0935\u093e",
+        "\u092e\u093e\u0932\u094d\u0921\u094b\u092d\u093e"
+    ],
     "name:new_x_preferred":[
         "\u092e\u094b\u0932\u094d\u0926\u094b\u0935\u093e"
     ],
     "name:nld_x_preferred":[
         "Moldavi\u00eb (land)"
     ],
+    "name:nld_x_variant":[
+        "Moldavi\u00eb",
+        "Republiek Moldavi\u00eb"
+    ],
     "name:nno_x_preferred":[
+        "Moldova"
+    ],
+    "name:nob_x_preferred":[
         "Moldova"
     ],
     "name:nor_x_preferred":[
@@ -488,8 +621,14 @@
     "name:oci_x_preferred":[
         "Mold\u00e0via (estat)"
     ],
+    "name:oci_x_variant":[
+        "Mold\u00e0via"
+    ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b4b\u0b32\u0b4d\u0b21\u0b4b\u0b2d\u0b3e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b3e\u0b32\u0b21\u0b4b\u0b2d\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Moldoovaa"
@@ -551,6 +690,11 @@
     "name:ron_x_preferred":[
         "Republica Moldova"
     ],
+    "name:ron_x_variant":[
+        "Moldova, Republica",
+        "\u041c\u043e\u043b\u0434\u043e\u0432\u0430",
+        "Moldova"
+    ],
     "name:rue_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0456\u044f"
     ],
@@ -560,8 +704,17 @@
     "name:rum_x_variant":[
         "Moldova, Republica"
     ],
+    "name:run_x_preferred":[
+        "Moludavi"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Moldav\u00f9ii"
     ],
     "name:sah_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
@@ -575,14 +728,26 @@
     "name:sco_x_preferred":[
         "Moldovae"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0dc0"
+    ],
     "name:slk_x_preferred":[
         "Moldavsko"
+    ],
+    "name:slk_x_variant":[
+        "Moldavsko, republika"
     ],
     "name:slv_x_preferred":[
         "Moldavija"
     ],
+    "name:slv_x_variant":[
+        "Republika Moldova"
+    ],
     "name:sme_x_preferred":[
         "Moldova"
+    ],
+    "name:sme_x_variant":[
+        "Mold\u00e1via"
     ],
     "name:sna_x_preferred":[
         "Moldova"
@@ -598,6 +763,9 @@
     ],
     "name:sqi_x_preferred":[
         "Moldavia"
+    ],
+    "name:sqi_x_variant":[
+        "Moldavi"
     ],
     "name:srd_x_preferred":[
         "Mold\u00e0via"
@@ -629,11 +797,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bb2\u0bcd\u0ba4\u0bcb\u0bb5\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4b\u0c32\u0c4d\u0c21\u0c4b\u0c35\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2e\u0c4b\u0c32\u0c4d \u0c21\u0c4b\u0c35"
     ],
     "name:tet_x_preferred":[
         "Mold\u00e1via"
@@ -644,8 +818,20 @@
     "name:tgl_x_preferred":[
         "Moldova"
     ],
+    "name:tgl_x_variant":[
+        "Moldavia"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e2d\u0e25\u0e42\u0e14\u0e27\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e25\u0e42\u0e14\u0e27\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u121e\u120d\u12f6\u126b"
+    ],
+    "name:ton_x_preferred":[
+        "Molotova"
     ],
     "name:tuk_x_preferred":[
         "Moldawi\u00fda"
@@ -656,6 +842,10 @@
     "name:tur_x_preferred":[
         "Moldova"
     ],
+    "name:tur_x_variant":[
+        "Moldovya Cumhuriyeti",
+        "Moldovya"
+    ],
     "name:udm_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f"
     ],
@@ -665,6 +855,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u043e\u043b\u0434\u043e\u0432\u0430"
+    ],
     "name:und_x_preferred":[
         "Moldavija"
     ],
@@ -672,6 +865,9 @@
         "Moldavsko",
         "Moldav\u00eda",
         "Republika Moldavija"
+    ],
+    "name:unk_x_variant":[
+        "Soviet Socialist Republic of Moldova"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644\u062f\u0648\u0648\u0627"
@@ -687,6 +883,10 @@
     ],
     "name:vie_x_preferred":[
         "Moldova"
+    ],
+    "name:vie_x_variant":[
+        "M\u00f4n-\u0111\u00f4-va",
+        "M\u00f4n-\u0111\u00f4-va (Moldova)"
     ],
     "name:vls_x_preferred":[
         "Moldavi\u00eb"
@@ -712,8 +912,14 @@
     "name:yid_x_preferred":[
         "\u05de\u05d0\u05dc\u05d3\u05d0\u05d5\u05d5\u05e2"
     ],
+    "name:yid_x_variant":[
+        "\u05de\u05d0\u05dc\u05d3\u05d0\u05d5\u05d5\u05d9\u05e2"
+    ],
     "name:yor_x_preferred":[
         "M\u00f3ld\u00f3f\u00e0"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Modofia"
     ],
     "name:zea_x_preferred":[
         "Mold\u00e2vi\u00eb"
@@ -725,10 +931,14 @@
         "\u6469\u5c14\u591a\u74e6"
     ],
     "name:zho_x_variant":[
-        "\u6469\u723e\u591a\u74e6"
+        "\u6469\u723e\u591a\u74e6",
+        "\u6469\u5c14\u591a\u74e6\u5171\u548c\u56fd"
     ],
     "name:zho_yue_x_preferred":[
         "\u6469\u723e\u591a\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "i-Moldova"
     ],
     "ne:abbrev":"Mda.",
     "ne:abbrev_len":4,
@@ -803,11 +1013,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633287-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"373",
+    "statoids:ds":"MD",
+    "statoids:fifa":"MDA",
+    "statoids:gaul":"165",
+    "statoids:gec":"MD",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MDA",
+    "statoids:iso_a2":"MD",
+    "statoids:iso_a3":"MDA",
+    "statoids:iso_num":"498",
+    "statoids:itu":"MDA",
+    "statoids:marc":"mv",
+    "statoids:name":"Moldova",
+    "statoids:wmo":"RM",
     "wk:latitude":47.25,
     "wk:longitude":28.516667,
     "wk:wordcount":12182,
@@ -818,19 +1045,29 @@
     "wof:concordances":{
         "dbp:id":"Moldova",
         "fb:id":"en.moldova",
+        "fifa:id":"MDA",
+        "fips:code":"MD",
+        "gaul:id":"165",
         "gn:id":617790,
         "gp:id":23424885,
         "hasc:id":"MD",
+        "ioc:id":"MDA",
+        "itu:id":"MDA",
         "loc:id":"n90720192",
+        "m49:code":"498",
+        "marc:id":"mv",
         "mzb:id":"moldova",
+        "ne:adm0_a3":"MDA",
         "nyt:id":"66261890117017249121",
         "qs:id":81212,
+        "uncrt:id":"MD",
         "wd:id":"Q217",
-        "wk:page":"Moldova"
+        "wk:page":"Moldova",
+        "wmo:id":"RM"
     },
     "wof:country":"MD",
     "wof:country_alpha3":"MDA",
-    "wof:geomhash":"d06f022af5df2e7009859b4b54ae4e2d",
+    "wof:geomhash":"094fda70b5cd25bf77489cb59435080d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -847,11 +1084,14 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1493230205,
+    "wof:lastmodified":1509142992,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":4324000,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MDA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

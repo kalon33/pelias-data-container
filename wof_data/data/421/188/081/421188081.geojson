@@ -6,6 +6,7 @@
     "edtf:deprecated":"2016-03-29",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.179687,16.888659,29.179687,16.888659",
     "geom:latitude":16.888659,
     "geom:longitude":29.179687,
@@ -13,6 +14,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"deprecated because it should never have been imported (20160329); quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Sudan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":null,
@@ -32,6 +39,9 @@
     "qs:woe_adm0":23424952,
     "qs:woe_id":23424952,
     "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
     "wk:latitude":15.0,
     "wk:longitude":32.0,
     "wk:wordcount":11573,
@@ -41,12 +51,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23424952,
+        "ne:adm0_a3":"SDN",
         "qs:id":1087770,
         "wd:id":"Q1049"
     },
     "wof:country":"SD",
     "wof:created":1459009533,
-    "wof:geomhash":"f710385feda1a0f7ce06f37a851ef625",
+    "wof:geomhash":"0ad499453b3f4389ae3de9fd5fe15ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,8 +65,8 @@
         }
     ],
     "wof:id":421188081,
-    "wof:lastmodified":1467182935,
-    "wof:name":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "wof:lastmodified":1501880441,
+    "wof:name":"Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
     "wof:repo":"whosonfirst-data",

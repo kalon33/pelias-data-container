@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.377242,
+    "geom:area_square_m":198054213246.814636,
     "geom:bbox":"69.250998,39.180254,80.226559,43.265357",
     "geom:latitude":41.464774,
     "geom:longitude":74.529537,
     "gn:id":"",
     "gn:population":5776500,
     "iso:country":"KG",
+    "itu:country_code":[
+        "996"
+    ],
     "lbl:latitude":41.68268,
     "lbl:longitude":74.524734,
     "mps:latitude":41.68268,
     "mps:longitude":74.524734,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:abk_x_preferred":[
         "\u049e\u044b\u0440\u0495\u044b\u0437\u0441\u04ad\u0430\u043d"
     ],
@@ -28,11 +35,17 @@
     "name:afr_x_preferred":[
         "Kirgisi\u00eb"
     ],
+    "name:aka_x_preferred":[
+        "K\u025b\u025bgestan"
+    ],
     "name:als_x_preferred":[
         "Kirgisistan"
     ],
     "name:amh_x_preferred":[
         "\u12aa\u122d\u130a\u12dd\u1235\u1273\u1295"
+    ],
+    "name:amh_x_variant":[
+        "\u12aa\u122d\u130a\u1235\u1273\u1295"
     ],
     "name:ang_x_preferred":[
         "Cirgisstan"
@@ -40,11 +53,17 @@
     "name:ara_x_preferred":[
         "\u0642\u064a\u0631\u063a\u064a\u0632\u0633\u062a\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u063a\u064a\u0632\u0633\u062a\u0627\u0646"
+    ],
     "name:arc_x_preferred":[
         "\u0729\u071d\u072a\u0713\u071d\u0719\u0723\u071b\u0710\u0722"
     ],
     "name:arg_x_preferred":[
         "Kirguizist\u00e1n"
+    ],
+    "name:arg_x_variant":[
+        "Kirguisist\u00e1n"
     ],
     "name:arz_x_preferred":[
         "\u0643\u064a\u0631\u062c\u064a\u0632\u0633\u062a\u0627\u0646"
@@ -59,8 +78,14 @@
     "name:aze_x_preferred":[
         "Q\u0131r\u011f\u0131z\u0131stan"
     ],
+    "name:aze_x_variant":[
+        "K\u0131rq\u0131zstan"
+    ],
     "name:bak_x_preferred":[
         "\u04a0\u044b\u0440\u0493\u044b\u0499\u0441\u0442\u0430\u043d"
+    ],
+    "name:bam_x_preferred":[
+        "Kirigizisita\u014b"
     ],
     "name:bar_x_preferred":[
         "Kirgisistan"
@@ -77,17 +102,30 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b0\u09cd\u0997\u09bf\u099c\u09b8\u09cd\u09a4\u09be\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09bf\u09b0\u09cd\u0997\u09bf\u099c\u09bf\u09df\u09be",
+        "\u0995\u09bf\u09b0\u09cd\u0998\u09bf\u099c\u09b8\u09cd\u09a4\u09be\u09a8"
+    ],
     "name:bod_x_preferred":[
         "\u0f40\u0f7a\u0f0b\u0f62\u0f7a\u0f0b\u0f42\u0f7a\u0f5b\u0f74\u0f0b\u0f66\u0f74\u0f4f\u0f7a\u0f53\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f41\u0f72\u0f62\u0f0b\u0f42\u0f72\u0f5b\u0f0b\u0f66\u0f9f\u0f71\u0f53\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Kirgistan"
+    ],
+    "name:bos_x_variant":[
+        "Kirgizstan"
     ],
     "name:bpy_x_preferred":[
         "\u0995\u09bf\u09b0\u0997\u09bf\u099c\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
     ],
     "name:bre_x_preferred":[
         "Kirgizstan"
+    ],
+    "name:bre_x_variant":[
+        "Kyrgyzstan"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0437\u0441\u0442\u0430\u043d"
@@ -110,13 +148,6 @@
     "name:che_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0437\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u723e\u5409\u65af"
-    ],
-    "name:chi_x_variant":[
-        "\u5409\u5c14\u5409\u65af\u65af\u5766",
-        "\u5409\u723e\u5409\u65af"
-    ],
     "name:chr_x_preferred":[
         "\u13a9\u13b5\u13e3\u13a2\u13cd"
     ],
@@ -138,6 +169,9 @@
     "name:cym_x_preferred":[
         "Cirgistan"
     ],
+    "name:cym_x_variant":[
+        "Kyrgyzstan"
+    ],
     "name:cze_x_preferred":[
         "Kyrgyzst\u00e1n"
     ],
@@ -146,6 +180,10 @@
     ],
     "name:deu_x_preferred":[
         "Kirgisistan"
+    ],
+    "name:deu_x_variant":[
+        "Kirgisische Republik",
+        "Kirgistan"
     ],
     "name:diq_x_preferred":[
         "Q\u0131r\u011f\u0131z\u0131stan"
@@ -156,17 +194,11 @@
     "name:dsb_x_preferred":[
         "Kirgiziska"
     ],
-    "name:dut_x_colloquial":[
-        "Kirgizie"
-    ],
-    "name:dut_x_preferred":[
-        "Kirgizi\u00eb"
-    ],
-    "name:dut_x_variant":[
-        "Kirgizstan"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03b3\u03b9\u03b6\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03c1\u03b3\u03b9\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kyrgyzstan"
@@ -176,13 +208,20 @@
         "KGZ"
     ],
     "name:eng_x_variant":[
-        "Kyrgyzstani"
+        "Kyrgyzstani",
+        "Kyrgyz Republic"
     ],
     "name:epo_x_preferred":[
         "Kirgizio"
     ],
+    "name:epo_x_variant":[
+        "Kirgizistano"
+    ],
     "name:est_x_preferred":[
         "K\u00f5rg\u00f5zstan"
+    ],
+    "name:est_x_variant":[
+        "Kirgiisi"
     ],
     "name:eus_x_preferred":[
         "Kirgizistan"
@@ -190,11 +229,17 @@
     "name:ewe_x_preferred":[
         "Kyrgyzstan"
     ],
+    "name:ewe_x_variant":[
+        "Kirgizstan nutome"
+    ],
     "name:ext_x_preferred":[
         "Quirguist\u00e1n"
     ],
     "name:fao_x_preferred":[
         "Kirgistan"
+    ],
+    "name:fao_x_variant":[
+        "Kirgisia"
     ],
     "name:fas_x_preferred":[
         "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
@@ -208,9 +253,6 @@
     "name:fra_x_preferred":[
         "Kirghizistan"
     ],
-    "name:fre_x_preferred":[
-        "Kirghizistan"
-    ],
     "name:frp_x_preferred":[
         "Kirguizistan"
     ],
@@ -220,15 +262,11 @@
     "name:fry_x_preferred":[
         "Kirgyzje"
     ],
+    "name:ful_x_preferred":[
+        "Kirgistaan"
+    ],
     "name:gag_x_preferred":[
         "K\u0131rg\u0131zstan"
-    ],
-    "name:ger_x_preferred":[
-        "Kirgisistan"
-    ],
-    "name:ger_x_variant":[
-        "Kirgisische Republik",
-        "Kirgistan"
     ],
     "name:gla_x_preferred":[
         "C\u00ecorgastan"
@@ -239,6 +277,10 @@
     "name:glg_x_preferred":[
         "Kirguizist\u00e1n"
     ],
+    "name:glg_x_variant":[
+        "Quirguicist\u00e1n - \u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+        "Quirguicist\u00e1n"
+    ],
     "name:glv_x_preferred":[
         "Yn Chyrgistaan"
     ],
@@ -247,6 +289,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab0\u0acd\u0a97\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    ],
+    "name:guj_x_variant":[
+        "\u0a95\u0abf\u0ab0\u0acd\u0a97\u0abf\u0a9d\u0acd\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Kyrgyzstan"
@@ -257,6 +302,9 @@
     "name:hau_x_preferred":[
         "Kyrgystan"
     ],
+    "name:hau_x_variant":[
+        "Kirgizistan"
+    ],
     "name:haw_x_preferred":[
         "Kaikikana"
     ],
@@ -266,11 +314,18 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05d2\u05d9\u05d6\u05e1\u05d8\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d9\u05e8\u05d2\u05d9\u05d6\u05e1\u05d8\u05d0\u05df"
+    ],
     "name:hif_x_preferred":[
         "Kyrgyzstan"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0930\u094d\u0917\u093f\u091c\u093c\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0915\u093f\u0930\u094d\u0917\u093f\u091c",
+        "\u0915\u093f\u0930\u0917\u093f\u091c\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:hrv_x_preferred":[
         "Kirgistan"
@@ -278,11 +333,17 @@
     "name:hsb_x_preferred":[
         "Kirgiska"
     ],
+    "name:hsb_x_variant":[
+        "Kirgizistan"
+    ],
     "name:hun_x_preferred":[
         "Kirgiziszt\u00e1n"
     ],
     "name:hye_x_preferred":[
         "\u0542\u0580\u0572\u0566\u057d\u057f\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u056b\u0580\u0563\u056b\u0566\u057d\u057f\u0561\u0576"
     ],
     "name:ido_x_preferred":[
         "Kirgizistan"
@@ -296,11 +357,21 @@
     "name:ina_x_preferred":[
         "Kyrgyzistan"
     ],
+    "name:ina_x_variant":[
+        "Kirghizistan"
+    ],
     "name:ind_x_preferred":[
         "Kirgizstan"
     ],
+    "name:ind_x_variant":[
+        "Kyrgyzstan",
+        "Kyrgystan"
+    ],
     "name:isl_x_preferred":[
         "Kirgistan"
+    ],
+    "name:isl_x_variant":[
+        "Kirgisistan"
     ],
     "name:ita_x_preferred":[
         "Kirghizistan"
@@ -340,14 +411,25 @@
     "name:khm_x_preferred":[
         "\u1780\u17c0\u17a0\u17ca\u17d2\u179f\u17b8\u179f\u17ca\u17b8\u179f\u17d2\u1790\u17b6\u1793"
     ],
+    "name:khm_x_variant":[
+        "\u1782\u17c0\u179a\u17a0\u17d2\u1782\u17b8\u179f\u17d2\u178f\u1784\u17cb"
+    ],
     "name:kik_x_preferred":[
         "Kyrgyzstan"
+    ],
+    "name:kik_x_variant":[
+        "Kirigizistani"
     ],
     "name:kin_x_preferred":[
         "Kirigizisitani"
     ],
     "name:kir_x_preferred":[
         "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ],
+    "name:kir_x_variant":[
+        "Kyrgyz Respublikasy",
+        "Kyrgyzstan Respublikasy",
+        "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
     "name:kom_x_preferred":[
         "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
@@ -364,11 +446,21 @@
     "name:kur_x_preferred":[
         "Qirgizistan"
     ],
+    "name:kur_x_variant":[
+        "Qirgiz\u00eestan",
+        "\u0642\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0e94\u0eb5\u0e81\u0eb4\u0e94\u0eaa\u0eb0\u0e96\u0eb2\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Chirgisia"
     ],
     "name:lav_x_preferred":[
         "Kirgizst\u0101na"
+    ],
+    "name:lav_x_variant":[
+        "Kirg\u012bzija"
     ],
     "name:lez_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f"
@@ -382,8 +474,14 @@
     "name:lin_x_preferred":[
         "Kirghizist\u00e1ni"
     ],
+    "name:lin_x_variant":[
+        "Kigizisit\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Kirgizija"
+    ],
+    "name:lit_x_variant":[
+        "Kirgiztanas"
     ],
     "name:lmo_x_preferred":[
         "Kirghizistan"
@@ -394,11 +492,23 @@
     "name:ltz_x_preferred":[
         "Kirgisistan"
     ],
+    "name:lub_x_preferred":[
+        "Kigizisita"
+    ],
+    "name:lug_x_preferred":[
+        "Kirigizisitaani"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d7c\u0d17\u0d4d\u0d17\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d7b"
     ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d3f\u0d30\u0d4d\u200d\u0d17\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093f\u0930\u094d\u0917\u093f\u091d\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0915\u093f\u0930\u0917\u093f\u091d\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:mdf_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0437 \u043c\u0430\u0441\u0442\u043e\u0440"
@@ -412,11 +522,20 @@
     "name:mkd_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:mkd_x_variant":[
+        "\u041a\u0443\u0440\u0433\u0438\u0441\u0442\u0430\u043d"
+    ],
     "name:mlg_x_preferred":[
         "Kirgizistana"
     ],
+    "name:mlg_x_variant":[
+        "Kiordistan"
+    ],
     "name:mlt_x_preferred":[
         "Kir\u0121i\u017cistan"
+    ],
+    "name:mlt_x_variant":[
+        "Kirgistan"
     ],
     "name:mon_x_preferred":[
         "\u0425\u0438\u0440\u0433\u0438\u0441 \u0443\u043b\u0441"
@@ -427,6 +546,9 @@
     "name:mya_x_preferred":[
         "\u1000\u102c\u1002\u103b\u1005\u1039\u1005\u1010\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1001\u101a\u103a\u1000\u1005\u103a\u1005\u1010\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0648\u0646"
     ],
@@ -436,19 +558,34 @@
     "name:nav_x_preferred":[
         "K\u00ed\u00edgiz Bik\u00e9yah"
     ],
+    "name:nde_x_preferred":[
+        "Kyrgyzstan"
+    ],
     "name:nds_x_preferred":[
         "Kirgisien"
     ],
     "name:nep_x_preferred":[
         "\u0915\u093f\u0930\u094d\u0917\u093f\u091c\u0938\u094d\u0924\u093e\u0928"
     ],
+    "name:nep_x_variant":[
+        "\u0915\u093f\u0930\u094d\u0917\u093f\u0938\u094d\u0925\u093e\u0928"
+    ],
     "name:new_x_preferred":[
         "\u0915\u0940\u0930\u094d\u0917\u0940\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:nld_x_colloquial":[
+        "Kirgizie"
     ],
     "name:nld_x_preferred":[
         "Kirgizi\u00eb"
     ],
+    "name:nld_x_variant":[
+        "Kirgizstan"
+    ],
     "name:nno_x_preferred":[
+        "Kirgisistan"
+    ],
+    "name:nob_x_preferred":[
         "Kirgisistan"
     ],
     "name:nor_x_preferred":[
@@ -463,6 +600,9 @@
     "name:ori_x_preferred":[
         "\u0b15\u0b3f\u0b30\u0b17\u0b3f\u0b1c\u0b38\u0b4d\u0b24\u0b3e\u0b28"
     ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b3f\u0b30\u0b4d\u0b17\u0b3f\u0b1c\u0b3f\u0b38\u0b4d\u0b25\u0b3e\u0b28"
+    ],
     "name:orm_x_preferred":[
         "Kirgistaan"
     ],
@@ -471,6 +611,9 @@
     ],
     "name:pam_x_preferred":[
         "Kirgistan"
+    ],
+    "name:pam_x_variant":[
+        "Kyrgyzstan"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a3f\u0a30\u0a17\u0a3f\u0a1c\u0a3c\u0a38\u0a24\u0a3e\u0a28"
@@ -505,8 +648,15 @@
     "name:que_x_preferred":[
         "Kirkisuyu"
     ],
+    "name:roh_x_preferred":[
+        "Kirghisistan"
+    ],
     "name:ron_x_preferred":[
         "K\u00e2rg\u00e2zstan"
+    ],
+    "name:ron_x_variant":[
+        "Kirghizia",
+        "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
     ],
     "name:rue_x_preferred":[
         "\u041a\u0456\u0440\u0491\u0456\u0441\u0442\u0430\u043d"
@@ -517,8 +667,19 @@
     "name:rum_x_variant":[
         "Kirghizia"
     ],
+    "name:run_x_preferred":[
+        "Kirigisitani"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+        "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438",
+        "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Kirigizit\u00f9aan"
     ],
     "name:sah_x_preferred":[
         "\u041a\u044b\u0440\u0433\u044b\u0441\u0442\u0430\u0430\u043d"
@@ -553,6 +714,9 @@
     "name:som_x_preferred":[
         "Qargistan"
     ],
+    "name:som_x_variant":[
+        "Kirgistaan"
+    ],
     "name:spa_x_colloquial":[
         "Kirguistan"
     ],
@@ -566,8 +730,15 @@
     "name:sqi_x_preferred":[
         "Kirgistani"
     ],
+    "name:sqi_x_variant":[
+        "Kirgistan"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0438\u0440\u0433\u0438\u0437\u0441\u0442\u0430\u043d",
+        "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u0458\u0430"
     ],
     "name:ssw_x_preferred":[
         "IKhirigi"
@@ -578,6 +749,9 @@
     "name:swa_x_preferred":[
         "Kirgizia"
     ],
+    "name:swa_x_variant":[
+        "Kirigizistani"
+    ],
     "name:swe_x_preferred":[
         "Kirgizistan"
     ],
@@ -587,11 +761,18 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bbf\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3f\u0c30\u0c4d\u0c17\u0c3f\u0c1c\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c15\u0c3f\u0c30\u0c4d\u0c17\u0c3f\u0c1c\u0c4d\u200c\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d",
+        "\u0c15\u0c3f\u0c30\u0c4d\u0c1c\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Kirgizistaun"
@@ -604,6 +785,13 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e04\u0e35\u0e23\u0e4c\u0e01\u0e35\u0e0b\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e35\u0e23\u0e4c\u0e01\u0e34\u0e0b\u0e2a\u0e16\u0e32\u0e19",
+        "\u0e04\u0e35\u0e23\u0e4c\u0e01\u0e35\u0e0b\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:ton_x_preferred":[
+        "Kekisiteni"
     ],
     "name:tuk_x_preferred":[
         "Gyrgyzystan"
@@ -623,6 +811,9 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0437\u0441\u0442\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0438\u0440\u0433\u0456\u0437\u0441\u0442\u0430\u043d"
+    ],
     "name:und_x_preferred":[
         "Kirgizistan"
     ],
@@ -630,8 +821,15 @@
         "Kirgisia",
         "Kyrgyz Republic"
     ],
+    "name:unk_x_variant":[
+        "Kirgizskaya Respublika"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0631\u063a\u0632\u0633\u062a\u0627\u0646",
+        "\u06a9\u0631\u063a\u0633\u062a\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
         "Qirg\u02bbiziston"
@@ -642,8 +840,15 @@
     "name:vie_x_preferred":[
         "Kyrgyzstan"
     ],
+    "name:vie_x_variant":[
+        "C\u01b0-r\u01a1-g\u01b0-xtan",
+        "Ka-d\u1eafc-xtan (Kyrgyzstan)"
+    ],
     "name:vol_x_preferred":[
         "Kirgist\u00e4n"
+    ],
+    "name:vol_x_variant":[
+        "Kirgis\u00e4n"
     ],
     "name:war_x_preferred":[
         "Kirguistan"
@@ -666,6 +871,9 @@
     "name:yor_x_preferred":[
         "Kirgistani"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Kuri\u1e63isitani"
+    ],
     "name:zea_x_preferred":[
         "Kirhizi\u00eb"
     ],
@@ -675,8 +883,16 @@
     "name:zho_x_preferred":[
         "\u5409\u5c14\u5409\u65af\u65af\u5766"
     ],
+    "name:zho_x_variant":[
+        "\u5409\u723e\u5409\u65af",
+        "\u5409\u5c14\u5409\u65af\u65af\u5766",
+        "\u5409\u5c14\u5409\u514b\u65af\u5766"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5409\u723e\u5409\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "i-Kyrgyzstan"
     ],
     "ne:abbrev":"Kgz.",
     "ne:abbrev_len":4,
@@ -756,6 +972,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"996",
+    "statoids:ds":"KS",
+    "statoids:fifa":"KGZ",
+    "statoids:gaul":"138",
+    "statoids:gec":"KG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"KGZ",
+    "statoids:iso_a2":"KG",
+    "statoids:iso_a3":"KGZ",
+    "statoids:iso_num":"417",
+    "statoids:itu":"KGZ",
+    "statoids:marc":"kg",
+    "statoids:name":"Kyrgyzstan",
+    "statoids:wmo":"KG",
     "wk:latitude":41.266667,
     "wk:longitude":74.983333,
     "wk:wordcount":9910,
@@ -766,19 +997,29 @@
     "wof:concordances":{
         "dbp:id":"Kyrgyzstan",
         "fb:id":"en.kyrgyzstan",
+        "fifa:id":"KGZ",
+        "fips:code":"KG",
+        "gaul:id":"138",
         "gn:id":1527747,
         "gp:id":23424864,
         "hasc:id":"KG",
+        "ioc:id":"KGZ",
+        "itu:id":"KGZ",
         "loc:id":"n91129681",
+        "m49:code":"417",
+        "marc:id":"kg",
         "mzb:id":"kyrgyzstan",
+        "ne:adm0_a3":"KGZ",
         "nyt:id":"79979185145064607541",
         "qs:id":220222,
+        "uncrt:id":"KS",
         "wd:id":"Q813",
-        "wk:page":"Kyrgyzstan"
+        "wk:page":"Kyrgyzstan",
+        "wmo:id":"KG"
     },
     "wof:country":"KG",
     "wof:country_alpha3":"KGZ",
-    "wof:geomhash":"083b6eb1a4eb6641602f1fc90d7f86b9",
+    "wof:geomhash":"4947deabca5fba7043b02646eaf2e156",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -797,11 +1038,14 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1493230083,
+    "wof:lastmodified":1509142791,
     "wof:name":"Kyrgyzstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":5776500,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"KGZ",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

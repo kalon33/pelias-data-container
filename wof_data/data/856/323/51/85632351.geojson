@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-19",
     "edtf:inception":"uuuu",
     "geom:area":0.32239,
+    "geom:area_square_m":3718764855.102356,
     "geom:bbox":"55.219,-21.372,55.845,-20.857",
     "geom:latitude":-21.1145,
     "geom:longitude":55.532,
@@ -16,6 +18,7 @@
     "mps:latitude":-21.1145,
     "mps:longitude":55.532,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "name:afr_x_preferred":[
         "R\u00e9union"
     ],
@@ -148,11 +151,13 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "reversegeo:geometry":"85632351-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
     "wk:wordcount":3810,
     "wof:belongsto":[
         102193527
@@ -163,13 +168,14 @@
         "gp:id":23424931,
         "hasc:id":"RE",
         "loc:id":"n79079314",
+        "m49:code":"638",
         "qs:id":84012,
         "wd:id":"Q17070",
         "wk:page":"R\u00e9union"
     },
     "wof:country":"FR",
     "wof:country_alpha3":"REU",
-    "wof:geomhash":"0f3afec0006ed1ddffdedf34a01348ea",
+    "wof:geomhash":"33f0a5223e1f08e730bbff8e380431c6",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -186,12 +192,17 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493229930,
+    "wof:lastmodified":1509142992,
     "wof:name":"Reunion",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
+    "wof:population":776948,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data",
-    "wof:superseded_by":[],
+    "wof:shortcode":"REU",
+    "wof:superseded_by":[
+        85671199
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

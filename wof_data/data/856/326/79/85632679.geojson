@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":89.770614,
+    "geom:area_square_m":1040007269705.582153,
     "geom:bbox":"-17.070134,14.721273,-4.833334483,27.294444463",
     "geom:latitude":20.253806,
     "geom:longitude":-10.337533,
     "gn:id":"",
     "gn:population":3205060,
     "iso:country":"MR",
+    "itu:country_code":[
+        "222"
+    ],
     "lbl:latitude":19.599264,
     "lbl:longitude":-9.737341,
     "mps:latitude":19.599264,
     "mps:longitude":-9.737341,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Mauritania"
     ],
@@ -25,11 +32,20 @@
     "name:afr_x_preferred":[
         "Mauritani\u00eb"
     ],
+    "name:afr_x_variant":[
+        "Mouritani\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "M\u0254retenia"
+    ],
     "name:als_x_preferred":[
         "Mauretanien"
     ],
     "name:amh_x_preferred":[
         "\u121e\u122a\u1273\u1292\u12eb"
+    ],
+    "name:amh_x_variant":[
+        "\u121e\u122a\u1274\u1292\u12eb"
     ],
     "name:ang_x_preferred":[
         "Mauritania"
@@ -37,6 +53,10 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627\u200e",
         "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "M\u016br\u012bt\u0101niy\u0101",
+        "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0629"
     ],
     "name:arc_x_preferred":[
         "\u0721\u0718\u072a\u071d\u071b\u0722\u071d\u0710"
@@ -59,6 +79,9 @@
     "name:bam_x_preferred":[
         "Moritani"
     ],
+    "name:bam_x_variant":[
+        "M\u0254ritani"
+    ],
     "name:bcl_x_preferred":[
         "Mauritanya"
     ],
@@ -71,11 +94,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cc\u09b0\u09bf\u09a4\u09be\u09a8\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09b0\u09bf\u09a4\u09be\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bjn_x_preferred":[
         "Mauritania"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f60\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f4f\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f7d\u0f0b\u0f62\u0f72\u0f0b\u0f4f\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Mauritanija"
@@ -104,15 +133,11 @@
     "name:ces_x_preferred":[
         "Maurit\u00e1nie"
     ],
+    "name:ces_x_variant":[
+        "Mauret\u00e1nie"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u8305\u5229\u5854\u5c3c\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u6bdb\u91cc\u5854\u5c3c\u4e9a",
-        "\u8305\u5229\u5854\u5c3c\u4e9e"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438"
@@ -141,6 +166,9 @@
     "name:deu_x_preferred":[
         "Mauretanien"
     ],
+    "name:deu_x_variant":[
+        "Islamische Republik Mauretanien"
+    ],
     "name:diq_x_preferred":[
         "Moritanya"
     ],
@@ -149,15 +177,6 @@
     ],
     "name:dsb_x_preferred":[
         "Maureta\u0144ska"
-    ],
-    "name:dut_x_colloquial":[
-        "Mauretanie"
-    ],
-    "name:dut_x_preferred":[
-        "Mauritani\u00eb"
-    ],
-    "name:dut_x_variant":[
-        "Mauretani\u00eb"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c5\u03c1\u03b9\u03c4\u03b1\u03bd\u03af\u03b1"
@@ -176,6 +195,9 @@
     "name:epo_x_preferred":[
         "Ma\u016dritanio"
     ],
+    "name:epo_x_variant":[
+        "Ma\u016dritanujo"
+    ],
     "name:est_x_preferred":[
         "Mauritaania"
     ],
@@ -184,6 +206,9 @@
     ],
     "name:ewe_x_preferred":[
         "Moritania"
+    ],
+    "name:ewe_x_variant":[
+        "Mauritania nutome"
     ],
     "name:ext_x_preferred":[
         "Maurit\u00e1nia"
@@ -194,13 +219,13 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mauritania"
     ],
     "name:fra_x_preferred":[
-        "Mauritanie"
-    ],
-    "name:fre_x_preferred":[
         "Mauritanie"
     ],
     "name:frp_x_preferred":[
@@ -212,14 +237,11 @@
     "name:ful_x_preferred":[
         "Muritani"
     ],
+    "name:ful_x_variant":[
+        "Moritani"
+    ],
     "name:gag_x_preferred":[
         "Mavritaniya"
-    ],
-    "name:ger_x_preferred":[
-        "Mauretanien"
-    ],
-    "name:ger_x_variant":[
-        "Islamische Republik Mauretanien"
     ],
     "name:gla_x_preferred":[
         "Moratainia"
@@ -227,11 +249,17 @@
     "name:gle_x_preferred":[
         "An Mh\u00e1rat\u00e1in"
     ],
+    "name:gle_x_variant":[
+        "An Mharat\u00e1in"
+    ],
     "name:glg_x_preferred":[
         "Mauritania"
     ],
     "name:glv_x_preferred":[
         "Yn Varitaan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acc\u0ab0\u0abf\u0a9f\u0abe\u0aa8\u0abf\u0aaf\u0abe"
     ],
     "name:hak_x_preferred":[
         "Mauritania"
@@ -241,6 +269,9 @@
     ],
     "name:hau_x_preferred":[
         "Muritaniya"
+    ],
+    "name:hau_x_variant":[
+        "Moritaniya"
     ],
     "name:hbs_x_preferred":[
         "Mauritanija"
@@ -254,8 +285,15 @@
     "name:hin_x_preferred":[
         "\u092e\u0949\u0930\u0940\u0924\u093e\u0928\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u0949\u0930\u093f\u091f\u093e\u0928\u093f\u092f\u093e",
+        "\u092e\u094b\u0930\u0940\u0924\u093e\u0928\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Mauretanija"
+    ],
+    "name:hrv_x_variant":[
+        "Mauritanija"
     ],
     "name:hsb_x_preferred":[
         "Mawretanska"
@@ -305,14 +343,26 @@
     "name:kab_x_preferred":[
         "Muri\u1e6danya"
     ],
+    "name:kal_x_preferred":[
+        "Mauritania"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb0\u0cbf\u0c9f\u0cbe\u0ca8\u0cbf\u0caf"
+    ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cbe\u0cb0\u0cbf\u0c9f\u0cbe\u0ca8\u0cbf\u0caf\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d5\u10e0\u10d8\u10e2\u10d0\u10dc\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17bc\u179a\u17b8\u178f\u17b6\u1793\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Moritania"
     ],
     "name:kin_x_preferred":[
         "Moritaniya"
@@ -332,11 +382,20 @@
     "name:kur_x_preferred":[
         "Mor\u00eetanya"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06c6\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Mauritania"
     ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0ecd\u0ea5\u0eb4\u0e81\u0e97\u0eb2\u0ec0\u0e99\u0e8d"
+    ],
     "name:lat_x_preferred":[
         "Mauritania"
+    ],
+    "name:lat_x_variant":[
+        "Mauretania"
     ],
     "name:lav_x_preferred":[
         "Maurit\u0101nija"
@@ -362,11 +421,20 @@
     "name:ltz_x_preferred":[
         "Mauretanien"
     ],
+    "name:lub_x_preferred":[
+        "Moritani"
+    ],
     "name:lug_x_preferred":[
         "Mauritania"
     ],
+    "name:lug_x_variant":[
+        "Mawulitenya"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d57\u0d31\u0d3f\u0d24\u0d4d\u0d24\u0d3e\u0d28\u0d3f\u0d2f"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d57\u0d31\u0d3f\u0d31\u0d4d\u0d31\u0d3e\u0d28\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0949\u0930\u093f\u091f\u093e\u0928\u093f\u092f\u093e"
@@ -401,16 +469,31 @@
     "name:nav_x_preferred":[
         "Moowit\u00e9\u00ednya"
     ],
+    "name:nde_x_preferred":[
+        "Mauritania"
+    ],
     "name:nds_x_preferred":[
         "Mauretanien"
     ],
     "name:nep_x_preferred":[
         "\u092e\u093e\u0909\u0930\u093f\u0924\u093e\u0928\u093f\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u092e\u093e\u0909\u0930\u093f\u091f\u093e\u0928\u093f\u092f\u093e"
+    ],
+    "name:nld_x_colloquial":[
+        "Mauretanie"
+    ],
     "name:nld_x_preferred":[
         "Mauritani\u00eb"
     ],
+    "name:nld_x_variant":[
+        "Mauretani\u00eb"
+    ],
     "name:nno_x_preferred":[
+        "Mauritania"
+    ],
+    "name:nob_x_preferred":[
         "Mauritania"
     ],
     "name:nor_x_preferred":[
@@ -427,6 +510,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b4b\u0b30\u0b3f\u0b24\u0b3e\u0b28\u0b3f\u0b06"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b3e\u0b09\u0b30\u0b3f\u0b1f\u0b3e\u0b28\u0b3f\u0b06"
     ],
     "name:orm_x_preferred":[
         "Mooritaaniyaa"
@@ -464,8 +550,14 @@
     "name:que_x_preferred":[
         "Muritanya"
     ],
+    "name:roh_x_preferred":[
+        "Mauretania"
+    ],
     "name:ron_x_preferred":[
         "Mauritania"
+    ],
+    "name:run_x_preferred":[
+        "Moritaniya"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
@@ -485,6 +577,9 @@
     "name:sco_x_preferred":[
         "Mauritanie"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dd2\u0db1\u0dd2\u0d9a\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Maurit\u00e1nia"
     ],
@@ -494,11 +589,17 @@
     "name:sme_x_preferred":[
         "Maurit\u00e1nia"
     ],
+    "name:sme_x_variant":[
+        "Mauret\u00e1nia"
+    ],
     "name:sna_x_preferred":[
         "Mauritania"
     ],
     "name:som_x_preferred":[
         "Mauritania"
+    ],
+    "name:som_x_variant":[
+        "Muritaaniya"
     ],
     "name:sot_x_preferred":[
         "Mauritania"
@@ -508,6 +609,9 @@
     ],
     "name:sqi_x_preferred":[
         "Mauritania"
+    ],
+    "name:sqi_x_variant":[
+        "Mauritani"
     ],
     "name:srd_x_preferred":[
         "Maurit\u00e0nia"
@@ -527,6 +631,9 @@
     "name:swa_x_preferred":[
         "Mauritania"
     ],
+    "name:swa_x_variant":[
+        "Moritania"
+    ],
     "name:swe_x_preferred":[
         "Mauretanien"
     ],
@@ -539,11 +646,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc2\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bcc\u0bb0\u0bbf\u0b9f\u0bbe\u0ba9\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4c\u0c30\u0c3f\u0c1f\u0c3e\u0c28\u0c3f\u0c2f"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2e\u0c4c\u0c30\u0c3f\u0c1f\u0c47\u0c28\u0c3f\u0c2f\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
@@ -551,11 +664,23 @@
     "name:tgl_x_preferred":[
         "Mauritania"
     ],
+    "name:tgl_x_variant":[
+        "Maritanya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e15\u0e40\u0e19\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e15\u0e40\u0e19\u0e35\u0e22"
+    ],
     "name:tir_x_preferred":[
         "\u121e\u122a\u1273\u1292\u12eb"
+    ],
+    "name:tir_x_variant":[
+        "\u121e\u122a\u1274\u1292\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Maulitenia"
     ],
     "name:tso_x_preferred":[
         "Maritana"
@@ -580,8 +705,14 @@
         "Mavretanija",
         "Mawritaniyah"
     ],
+    "name:unk_x_variant":[
+        "Al Jumh\u016br\u012byah al Isl\u0101m\u012byah al M\u016br\u012bt\u0101n\u012byah"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0631\u06cc\u0637\u0627\u0646\u06cc\u06c1"
     ],
     "name:uzb_x_preferred":[
         "Mavritaniya"
@@ -594,6 +725,10 @@
     ],
     "name:vie_x_preferred":[
         "Mauritanie"
+    ],
+    "name:vie_x_variant":[
+        "M\u00f4-ri-ta-ni",
+        "M\u00f4-ri-ta-ni-a (Mauritania)"
     ],
     "name:vol_x_preferred":[
         "Morit\u00e4n"
@@ -622,17 +757,27 @@
     "name:yor_x_preferred":[
         "Maurit\u00e1n\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Maritania"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Mauritania"
     ],
     "name:zho_x_preferred":[
         "\u6bdb\u91cc\u5854\u5c3c\u4e9a"
     ],
+    "name:zho_x_variant":[
+        "\u6bdb\u91cc\u5854\u5c3c\u4e9a",
+        "\u8305\u5229\u5854\u5c3c\u4e9e"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6bdb\u91cc\u5854\u5c3c\u4e9e"
     ],
     "name:zul_x_preferred":[
         "IMoritaniya"
+    ],
+    "name:zul_x_variant":[
+        "i-Mauritania"
     ],
     "ne:abbrev":"Mrt.",
     "ne:abbrev_len":4,
@@ -712,6 +857,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"222",
+    "statoids:ds":"RIM",
+    "statoids:fifa":"MTN",
+    "statoids:gaul":"159",
+    "statoids:gec":"MR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MTN",
+    "statoids:iso_a2":"MR",
+    "statoids:iso_a3":"MRT",
+    "statoids:iso_num":"478",
+    "statoids:itu":"MTN",
+    "statoids:marc":"mu",
+    "statoids:name":"Mauritania",
+    "statoids:wmo":"MT",
     "wk:latitude":19.566667,
     "wk:longitude":-10.65,
     "wk:population":3889880,
@@ -723,19 +883,29 @@
     "wof:concordances":{
         "dbp:id":"Mauritania",
         "fb:id":"en.mauritania",
+        "fifa:id":"MTN",
+        "fips:code":"MR",
+        "gaul:id":"159",
         "gn:id":2378080,
         "gp:id":23424896,
         "hasc:id":"MR",
+        "ioc:id":"MTN",
+        "itu:id":"MTN",
         "loc:id":"n79061287",
+        "m49:code":"478",
+        "marc:id":"mu",
         "mzb:id":"mauritania",
+        "ne:adm0_a3":"MRT",
         "nyt:id":"70696261030577730941",
         "qs:id":91352,
+        "uncrt:id":"RIM",
         "wd:id":"Q1025",
-        "wk:page":"Mauritania"
+        "wk:page":"Mauritania",
+        "wmo:id":"MT"
     },
     "wof:country":"MR",
     "wof:country_alpha3":"MRT",
-    "wof:geomhash":"0eab887c0eb4a0c1dda4281338ec2792",
+    "wof:geomhash":"a289526f97755cb3be1be60e266d8392",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -752,11 +922,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1493230030,
+    "wof:lastmodified":1509142802,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":3889880,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MRT",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.056001,
+    "geom:area_square_m":25406779560.601738,
     "geom:bbox":"28.861754,-2.83984,30.899118,-1.047572",
     "geom:latitude":-2.000401,
     "geom:longitude":29.925336,
     "gn:id":"",
     "gn:population":11055976,
     "iso:country":"RW",
+    "itu:country_code":[
+        "250"
+    ],
     "lbl:latitude":-1.89815,
     "lbl:longitude":30.095066,
     "mps:latitude":-1.89815,
     "mps:longitude":30.095066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Rwanda"
     ],
     "name:afr_x_preferred":[
+        "Rwanda"
+    ],
+    "name:aka_x_preferred":[
         "Rwanda"
     ],
     "name:als_x_preferred":[
@@ -43,14 +53,23 @@
     "name:ast_x_preferred":[
         "Rwanda"
     ],
+    "name:ast_x_variant":[
+        "Ruanda"
+    ],
     "name:aze_x_preferred":[
         "Ruanda"
+    ],
+    "name:aze_x_variant":[
+        "Rvanda"
     ],
     "name:bak_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
     ],
     "name:bam_x_preferred":[
         "Rwanda"
+    ],
+    "name:bam_x_variant":[
+        "Ruwanda"
     ],
     "name:bcl_x_preferred":[
         "Ruanda"
@@ -88,6 +107,9 @@
     "name:cat_x_preferred":[
         "Ruanda"
     ],
+    "name:cat_x_variant":[
+        "Rwanda"
+    ],
     "name:cdo_x_preferred":[
         "Rwanda"
     ],
@@ -99,13 +121,6 @@
     ],
     "name:che_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u76e7\u5b89\u9054"
-    ],
-    "name:chi_x_variant":[
-        "\u5362\u65fa\u8fbe",
-        "\u76e7\u5b89\u9054"
     ],
     "name:chv_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
@@ -127,6 +142,9 @@
     ],
     "name:deu_x_preferred":[
         "Ruanda"
+    ],
+    "name:deu_x_variant":[
+        "Republik Ruanda"
     ],
     "name:diq_x_preferred":[
         "Rwanda"
@@ -157,11 +175,17 @@
     "name:est_x_preferred":[
         "Rwanda"
     ],
+    "name:est_x_variant":[
+        "Ruanda"
+    ],
     "name:eus_x_preferred":[
         "Ruanda"
     ],
     "name:ewe_x_preferred":[
         "Rwanda"
+    ],
+    "name:ewe_x_variant":[
+        "Rwanda nutome"
     ],
     "name:ext_x_preferred":[
         "Ruanda"
@@ -171,6 +195,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0627\u0646\u062f\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0648\u0648\u0627\u0646\u062f\u0627"
     ],
     "name:fin_x_preferred":[
         "Ruanda"
@@ -184,8 +211,8 @@
     "name:fra_x_preferred":[
         "Rwanda"
     ],
-    "name:fre_x_preferred":[
-        "Rwanda"
+    "name:fra_x_variant":[
+        "R\u00e9publique du Rwanda"
     ],
     "name:frp_x_preferred":[
         "Rouanda"
@@ -196,14 +223,11 @@
     "name:fry_x_preferred":[
         "R\u00fbanda"
     ],
+    "name:ful_x_preferred":[
+        "Ruwanndaa"
+    ],
     "name:gag_x_preferred":[
         "Ruanda"
-    ],
-    "name:ger_x_preferred":[
-        "Ruanda"
-    ],
-    "name:ger_x_variant":[
-        "Republik Ruanda"
     ],
     "name:gla_x_preferred":[
         "Rubhanda"
@@ -214,14 +238,23 @@
     "name:glg_x_preferred":[
         "Ruanda"
     ],
+    "name:glg_x_variant":[
+        "Ruanda - Rwanda"
+    ],
     "name:glv_x_preferred":[
         "Rooandey"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0ab5\u0abe\u0a82\u0aa1\u0abe"
     ],
     "name:hak_x_preferred":[
         "Rwanda"
     ],
     "name:hat_x_preferred":[
         "Rwanda"
+    ],
+    "name:hau_x_preferred":[
+        "Ruwanda"
     ],
     "name:hbs_x_preferred":[
         "Ruanda"
@@ -234,6 +267,11 @@
     ],
     "name:hin_x_preferred":[
         "\u0930\u0941\u0906\u0923\u094d\u0921\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0930\u0942\u0906\u0923\u094d\u0921\u093e",
+        "\u0930\u0935\u093e\u0902\u0921\u093e",
+        "\u0930\u0935\u093e\u0923\u094d\u0921\u093e"
     ],
     "name:hrv_x_preferred":[
         "Ruanda"
@@ -289,8 +327,14 @@
     "name:kab_x_preferred":[
         "Rwanda"
     ],
+    "name:kal_x_preferred":[
+        "Rwanda"
+    ],
     "name:kan_x_preferred":[
         "\u0cb0\u0cc1\u0cb5\u0cbe\u0c82\u0ca1"
+    ],
+    "name:kan_x_variant":[
+        "\u0cb0\u0cc1\u0cb5\u0cbe\u0c82\u0ca1\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10e3\u10d0\u10dc\u10d3\u10d0"
@@ -298,11 +342,17 @@
     "name:kaz_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
     ],
+    "name:khm_x_preferred":[
+        "\u179a\u179c\u17c9\u17b6\u1793\u17cb\u178a\u17b6"
+    ],
     "name:kik_x_preferred":[
         "Rwanda"
     ],
     "name:kin_x_preferred":[
         "Rwanda"
+    ],
+    "name:kin_x_variant":[
+        "Republika y\u2019u Rwanda"
     ],
     "name:kir_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
@@ -318,6 +368,12 @@
     ],
     "name:kur_x_preferred":[
         "Rwanda"
+    ],
+    "name:kur_x_variant":[
+        "\u0695\u0648\u0627\u0646\u062f\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea5\u0eb2\u0ea7\u0eb1\u0e99\u0e94\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Ruanda"
@@ -345,6 +401,12 @@
     ],
     "name:ltz_x_preferred":[
         "Ruanda"
+    ],
+    "name:lub_x_preferred":[
+        "Rwanda"
+    ],
+    "name:lug_x_preferred":[
+        "Rwanda"
     ],
     "name:mal_x_preferred":[
         "\u0d31\u0d41\u0d35\u0d3e\u0d23\u0d4d\u0d1f"
@@ -376,11 +438,17 @@
     "name:mya_x_preferred":[
         "\u101b\u101d\u1019\u103a\u1012\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u101b\u101d\u1014\u103a\u1012\u102b"
+    ],
     "name:mzn_x_preferred":[
         "\u0631\u0648\u0622\u0646\u062f\u0627"
     ],
     "name:nav_x_preferred":[
         "W\u00e1nda Dine\u02bc\u00e9 Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Ruwanda"
     ],
     "name:nds_x_preferred":[
         "Ruanda"
@@ -388,10 +456,16 @@
     "name:nep_x_preferred":[
         "\u0930\u0941\u0935\u093e\u0923\u094d\u0921\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0930\u0935\u093e\u0923\u094d\u0921\u093e"
+    ],
     "name:nld_x_preferred":[
         "Rwanda"
     ],
     "name:nno_x_preferred":[
+        "Rwanda"
+    ],
+    "name:nob_x_preferred":[
         "Rwanda"
     ],
     "name:nor_x_preferred":[
@@ -408,6 +482,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b30\u0b41\u0b06\u0b23\u0b4d\u0b21\u0b3e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b30\u0b3e\u0b71\u0b3e\u0b23\u0b4d\u0b21\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Ruwaandaa"
@@ -442,17 +519,29 @@
     "name:pus_x_preferred":[
         "\u0631\u0627\u0648\u0646\u0689\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0631\u0648\u0646\u062f\u0627"
+    ],
     "name:que_x_preferred":[
         "Rwanda"
     ],
+    "name:roh_x_preferred":[
+        "Ruanda"
+    ],
     "name:ron_x_preferred":[
         "Rwanda"
+    ],
+    "name:ron_x_variant":[
+        "Ruanda"
     ],
     "name:rue_x_preferred":[
         "\u0420\u0432\u0430\u043d\u0434\u0430"
     ],
     "name:run_x_preferred":[
         "Urwanda"
+    ],
+    "name:run_x_variant":[
+        "u Rwanda"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
@@ -529,11 +618,17 @@
     "name:tam_x_preferred":[
         "\u0bb0\u0bc1\u0bb5\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bb0\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd\u0b9f\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c41\u0c35\u0c3e\u0c02\u0c21\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c30\u0c4d\u0c35\u0c3e\u0c02\u0c21\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
@@ -541,11 +636,20 @@
     "name:tgl_x_preferred":[
         "Rwanda"
     ],
+    "name:tgl_x_variant":[
+        "Ruwanda"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e23\u0e27\u0e31\u0e19\u0e14\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e27\u0e31\u0e19\u0e14\u0e32"
+    ],
     "name:tir_x_preferred":[
         "\u1229\u12cb\u1295\u12f3"
+    ],
+    "name:ton_x_preferred":[
+        "Luanit\u0101"
     ],
     "name:tso_x_preferred":[
         "Rwanda"
@@ -571,6 +675,9 @@
     "name:und_x_variant":[
         "Ruandska republika"
     ],
+    "name:unk_x_variant":[
+        "R\u00e9publique Rwandaise"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0627\u0646\u0688\u0627"
     ],
@@ -585,6 +692,10 @@
     ],
     "name:vie_x_preferred":[
         "Rwanda"
+    ],
+    "name:vie_x_variant":[
+        "Ru-an-\u0111a",
+        "Ru-an-\u0111a (Rwanda)"
     ],
     "name:vol_x_preferred":[
         "Ruand\u00e4n"
@@ -607,17 +718,27 @@
     "name:yor_x_preferred":[
         "R\u00f9w\u00e1nd\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Ruwanda"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Rwanda"
     ],
     "name:zho_x_preferred":[
         "\u5362\u65fa\u8fbe"
     ],
+    "name:zho_x_variant":[
+        "\u5362\u65fa\u8fbe",
+        "\u76e7\u5b89\u9054"
+    ],
     "name:zho_yue_x_preferred":[
         "\u76e7\u65fa\u9054"
     ],
     "name:zul_x_preferred":[
         "IRuwanda"
+    ],
+    "name:zul_x_variant":[
+        "i-Rwanda"
     ],
     "ne:abbrev":"Rwa.",
     "ne:abbrev_len":4,
@@ -697,6 +818,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"250",
+    "statoids:ds":"RWA",
+    "statoids:fifa":"RWA",
+    "statoids:gaul":"205",
+    "statoids:gec":"RW",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"RWA",
+    "statoids:iso_a2":"RW",
+    "statoids:iso_a3":"RWA",
+    "statoids:iso_num":"646",
+    "statoids:itu":"RRW",
+    "statoids:marc":"rw",
+    "statoids:name":"Rwanda",
+    "statoids:wmo":"RW",
     "wk:area":26338.0,
     "wk:latitude":-1.940278,
     "wk:longitude":29.873889,
@@ -709,19 +845,29 @@
     "wof:concordances":{
         "dbp:id":"Rwanda",
         "fb:id":"en.rwanda",
+        "fifa:id":"RWA",
+        "fips:code":"RW",
+        "gaul:id":"205",
         "gn:id":49518,
         "gp:id":23424937,
         "hasc:id":"RW",
+        "ioc:id":"RWA",
+        "itu:id":"RRW",
         "loc:id":"n81025976",
+        "m49:code":"646",
+        "marc:id":"rw",
         "mzb:id":"rwanda",
+        "ne:adm0_a3":"RWA",
         "nyt:id":"66238302130507857921",
         "qs:id":367816,
+        "uncrt:id":"RWA",
         "wd:id":"Q1037",
-        "wk:page":"Rwanda"
+        "wk:page":"Rwanda",
+        "wmo:id":"RW"
     },
     "wof:country":"RW",
     "wof:country_alpha3":"RWA",
-    "wof:geomhash":"48d26211ee34bf0d267d9e2ad1080180",
+    "wof:geomhash":"7e0112deafa7015114b3beb7937ec5be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -742,11 +888,14 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1493229913,
+    "wof:lastmodified":1509143018,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":11776522,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"RWA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

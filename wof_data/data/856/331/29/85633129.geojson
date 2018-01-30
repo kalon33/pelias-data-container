@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":53.681928,
+    "geom:area_square_m":506363042122.166016,
     "geom:bbox":"-18.167226,27.642239,4.337087,43.793443",
     "geom:latitude":40.227234,
     "geom:longitude":-3.652637,
     "gn:population":46505963,
     "iso:country":"ES",
+    "itu:country_code":[
+        "34"
+    ],
     "lbl:latitude":40.09095,
     "lbl:longitude":-3.464618,
     "mps:latitude":40.09095,
     "mps:longitude":-3.464618,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:abk_x_preferred":[
         "\u0415\u0441\u043f\u0430\u043d\u0438\u0430"
     ],
@@ -27,23 +34,39 @@
     "name:afr_x_preferred":[
         "Spanje"
     ],
+    "name:aka_x_preferred":[
+        "Spain"
+    ],
     "name:als_x_preferred":[
         "Spanien"
     ],
     "name:amh_x_preferred":[
         "\u12a5\u1235\u1353\u1295\u12eb"
     ],
+    "name:amh_x_variant":[
+        "\u1235\u1354\u1295"
+    ],
     "name:ang_x_preferred":[
         "Sp\u0113onland"
     ],
+    "name:ang_x_variant":[
+        "Sp\u00e9onland"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u0633\u0628\u0627\u0646\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0633\u0628\u0627\u0646\u064a\u0627",
+        "\u0623\u0633\u0628\u0627\u0646\u064a\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0710\u0723\u0726\u0722\u071d\u0710"
     ],
     "name:arg_x_preferred":[
         "Espanya"
+    ],
+    "name:arg_x_variant":[
+        "Espa\u00f1a"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u0628\u0627\u0646\u064a\u0627"
@@ -66,6 +89,9 @@
     "name:bak_x_preferred":[
         "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Esipa\u0272i"
+    ],
     "name:bar_x_preferred":[
         "Spanien"
     ],
@@ -87,6 +113,9 @@
     "name:bod_x_preferred":[
         "\u0f5e\u0f72\u0f0b\u0f54\u0f53\u0f0b\u0f61\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f72\u0f0b\u0f54\u0f53\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "\u0160panija"
     ],
@@ -102,8 +131,15 @@
     "name:bxr_x_preferred":[
         "\u0418\u0441\u043f\u0430\u043d\u0438"
     ],
+    "name:cat_x_colloquial":[
+        "La pell de brau"
+    ],
     "name:cat_x_preferred":[
         "Espanya"
+    ],
+    "name:cat_x_variant":[
+        "La pell de brau",
+        "Regne d'Espanya"
     ],
     "name:cbk_zam_x_preferred":[
         "Espa\u00f1a"
@@ -122,9 +158,6 @@
     ],
     "name:che_x_preferred":[
         "\u0418\u0441\u043f\u0430\u043d\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u897f\u73ed\u7259"
     ],
     "name:chr_x_preferred":[
         "\u13a0\u13c2\u13cd\u13c6\u13c2\u13f1"
@@ -162,8 +195,15 @@
     "name:dan_x_preferred":[
         "Spanien"
     ],
+    "name:deu_x_colloquial":[
+        "Koenigreich Spanien",
+        "Konigreich Spanien"
+    ],
     "name:deu_x_preferred":[
         "Spanien"
+    ],
+    "name:deu_x_variant":[
+        "K\u00f6nigreich Spanien"
     ],
     "name:diq_x_preferred":[
         "\u0130spanya"
@@ -174,11 +214,11 @@
     "name:dsb_x_preferred":[
         "\u0160pa\u0144ska"
     ],
-    "name:dut_x_preferred":[
-        "Spanje"
-    ],
     "name:dzo_x_preferred":[
         "\u0f66\u0f72\u0f54\u0f71\u0f7a\u0f53\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f66\u0f72\u0f54\u0f71\u0f7a\u0f53"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c3\u03c0\u03b1\u03bd\u03af\u03b1"
@@ -200,6 +240,9 @@
     "name:epo_x_preferred":[
         "Hispanio"
     ],
+    "name:epo_x_variant":[
+        "Hispanujo"
+    ],
     "name:est_x_preferred":[
         "Hispaania"
     ],
@@ -208,6 +251,9 @@
     ],
     "name:ewe_x_preferred":[
         "Spain"
+    ],
+    "name:ewe_x_variant":[
+        "Spania nutome"
     ],
     "name:ext_x_preferred":[
         "Espa\u00f1a"
@@ -227,9 +273,6 @@
     "name:fra_x_preferred":[
         "Espagne"
     ],
-    "name:fre_x_preferred":[
-        "Espagne"
-    ],
     "name:frp_x_preferred":[
         "\u00c8spagne"
     ],
@@ -242,6 +285,9 @@
     "name:ful_x_preferred":[
         "Hispaanya"
     ],
+    "name:ful_x_variant":[
+        "Espaa\u00f1"
+    ],
     "name:fur_x_preferred":[
         "Spagne"
     ],
@@ -250,16 +296,6 @@
     ],
     "name:gan_x_preferred":[
         "\u897f\u73ed\u7259"
-    ],
-    "name:ger_x_colloquial":[
-        "Koenigreich Spanien",
-        "Konigreich Spanien"
-    ],
-    "name:ger_x_preferred":[
-        "Spanien"
-    ],
-    "name:ger_x_variant":[
-        "K\u00f6nigreich Spanien"
     ],
     "name:gla_x_preferred":[
         "An Sp\u00e0inn"
@@ -285,14 +321,23 @@
     "name:grn_x_preferred":[
         "Ep\u00e1\u00f1a"
     ],
+    "name:grn_x_variant":[
+        "Espa\u00f1a"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0aaa\u0ac7\u0aa8"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0acd\u0aaa\u0ac7\u0a87\u0aa8"
     ],
     "name:hak_x_preferred":[
         "S\u00ee-p\u00e2n-ng\u00e0"
     ],
     "name:hat_x_preferred":[
         "Espay"
+    ],
+    "name:hau_x_preferred":[
+        "Sipen"
     ],
     "name:haw_x_preferred":[
         "Sepania"
@@ -366,6 +411,9 @@
     "name:jbo_x_preferred":[
         "sangu'e"
     ],
+    "name:jbo_x_variant":[
+        "sangue"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30da\u30a4\u30f3"
     ],
@@ -381,6 +429,12 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caa\u0cc7\u0ca8\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0cb8\u0ccd\u0caa\u0cc8\u0ca8\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "Sp\u0113na"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10e1\u10de\u10d0\u10dc\u10d4\u10d7\u10d8"
     ],
@@ -392,6 +446,9 @@
     ],
     "name:khm_x_preferred":[
         "\u17a2\u17c1\u179f\u17d2\u1794\u17c9\u17b6\u1789"
+    ],
+    "name:kik_x_preferred":[
+        "Hispania"
     ],
     "name:kin_x_preferred":[
         "Esipanye"
@@ -420,14 +477,23 @@
     "name:kur_x_preferred":[
         "Spanya"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u06cc\u0633\u067e\u0627\u0646\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Espanya"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec1\u0ead\u0eaa\u0eb0\u0e9b\u0eb2\u0e8d"
     ],
+    "name:lao_x_variant":[
+        "\u0eaa\u0eb0\u0ec0\u0e9b\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Hispania"
+    ],
+    "name:lat_x_variant":[
+        "Hesperia"
     ],
     "name:lav_x_preferred":[
         "Sp\u0101nija"
@@ -444,6 +510,9 @@
     "name:lin_x_preferred":[
         "Espania"
     ],
+    "name:lin_x_variant":[
+        "Esipanye"
+    ],
     "name:lit_x_preferred":[
         "Ispanija"
     ],
@@ -459,8 +528,17 @@
     "name:ltz_x_preferred":[
         "Spuenien"
     ],
+    "name:lub_x_preferred":[
+        "Nsipani"
+    ],
+    "name:lug_x_preferred":[
+        "Sipeyini"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4d\u0d2a\u0d46\u0d2f\u0d3f\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d4d\u0d2a\u0d46\u0d2f\u0d3f\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u092a\u0947\u0928"
@@ -498,11 +576,17 @@
     "name:mya_x_preferred":[
         "\u1005\u1015\u102d\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1005\u1015\u102d\u1014\u103a"
+    ],
     "name:myv_x_preferred":[
         "\u0418\u0441\u043f\u0430\u043d\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0633\u067e\u0627\u0646\u06cc\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Caxtillan"
     ],
     "name:nap_x_preferred":[
         "Spagna"
@@ -512,6 +596,9 @@
     ],
     "name:nav_x_preferred":[
         "Dib\u00e9 Din\u00ed\u00ed Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Spain"
     ],
     "name:nds_nld_x_preferred":[
         "Spanje"
@@ -531,6 +618,9 @@
     "name:nno_x_preferred":[
         "Spania"
     ],
+    "name:nob_x_preferred":[
+        "Spania"
+    ],
     "name:nor_x_preferred":[
         "Spania"
     ],
@@ -543,8 +633,14 @@
     "name:oci_x_preferred":[
         "Espanha"
     ],
+    "name:olo_x_preferred":[
+        "Ispuanii"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b4d\u0b2a\u0b47\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b4d\u0b2a\u0b47\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Ispeen"
@@ -594,6 +690,9 @@
     "name:pus_x_preferred":[
         "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0647\u0633\u067e\u0627\u0646\u06cc\u0647"
+    ],
     "name:que_x_preferred":[
         "Ispa\u00f1a"
     ],
@@ -614,6 +713,9 @@
     ],
     "name:run_x_preferred":[
         "Esipanye"
+    ],
+    "name:run_x_variant":[
+        "Hisipaniya"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
@@ -645,6 +747,9 @@
     "name:sme_x_preferred":[
         "Sp\u00e1nia"
     ],
+    "name:sme_x_variant":[
+        "Esp\u00e1njja"
+    ],
     "name:smo_x_preferred":[
         "Sepa\u00adnia"
     ],
@@ -657,11 +762,19 @@
     "name:som_x_preferred":[
         "Isbania"
     ],
+    "name:som_x_variant":[
+        "Isbeyn"
+    ],
     "name:sot_x_preferred":[
         "Spain"
     ],
+    "name:sot_x_variant":[
+        "Reino de Espa\u00f1a"
+    ],
     "name:spa_x_colloquial":[
-        "Espana"
+        "Espana",
+        "La piel de toro",
+        "la Madre Patria"
     ],
     "name:spa_x_preferred":[
         "Espa\u00f1a"
@@ -674,6 +787,9 @@
     ],
     "name:sqi_x_preferred":[
         "Spanja"
+    ],
+    "name:sqi_x_variant":[
+        "Spanj\u00eb"
     ],
     "name:srd_x_preferred":[
         "Ispagna"
@@ -696,6 +812,9 @@
     "name:swa_x_preferred":[
         "Hispania"
     ],
+    "name:swa_x_variant":[
+        "Uhispania"
+    ],
     "name:swe_x_preferred":[
         "Spanien"
     ],
@@ -708,11 +827,17 @@
     "name:tam_x_preferred":[
         "\u0b8e\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2a\u0c46\u0c2f\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c38\u0c4d\u0c2a\u0c47\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Espa\u00f1a"
@@ -726,8 +851,17 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2a\u0e40\u0e1b\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e40\u0e1b\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u1235\u1354\u1295"
+    ],
     "name:ton_x_preferred":[
         "Sepeni"
+    ],
+    "name:ton_x_variant":[
+        "Sipeini"
     ],
     "name:tpi_x_preferred":[
         "Spen"
@@ -768,8 +902,15 @@
     "name:und_x_variant":[
         "Ispan\u00eda"
     ],
+    "name:unk_x_variant":[
+        "Spanien"
+    ],
     "name:urd_x_preferred":[
         "\u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0633\u067e\u06cc\u0646",
+        "\u0633\u067e\u06cc\u0646"
     ],
     "name:uzb_x_preferred":[
         "Ispaniya"
@@ -813,6 +954,9 @@
     "name:yor_x_preferred":[
         "Sp\u00e9\u00ecn"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Sipani"
+    ],
     "name:zea_x_preferred":[
         "Spanje"
     ],
@@ -833,6 +977,9 @@
     ],
     "name:zul_x_preferred":[
         "ISpeyini"
+    ],
+    "name:zul_x_variant":[
+        "i-Spain"
     ],
     "ne:abbrev":"Sp.",
     "ne:abbrev_len":3,
@@ -907,11 +1054,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633129-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"34",
+    "statoids:ds":"E",
+    "statoids:fifa":"ESP",
+    "statoids:gaul":"229",
+    "statoids:gec":"SP",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ESP",
+    "statoids:iso_a2":"ES",
+    "statoids:iso_a3":"ESP",
+    "statoids:iso_num":"724",
+    "statoids:itu":"E",
+    "statoids:marc":"sp",
+    "statoids:name":"Spain",
+    "statoids:wmo":"SP",
     "wk:latitude":40.0,
     "wk:longitude":-3.0,
     "wk:population":46617825,
@@ -923,19 +1087,29 @@
     "wof:concordances":{
         "dbp:id":"Spain",
         "fb:id":"en.spain",
+        "fifa:id":"ESP",
+        "fips:code":"SP",
+        "gaul:id":"229",
         "gn:id":2510769,
         "gp:id":23424950,
         "hasc:id":"ES",
+        "ioc:id":"ESP",
+        "itu:id":"E",
         "loc:id":"n79006971",
+        "m49:code":"724",
+        "marc:id":"sp",
         "mzb:id":"spain",
+        "ne:adm0_a3":"ESP",
         "nyt:id":"59420554431698042881",
         "qs:id":1032202,
+        "uncrt:id":"E",
         "wd:id":"Q29",
-        "wk:page":"Spain"
+        "wk:page":"Spain",
+        "wmo:id":"SP"
     },
     "wof:country":"ES",
     "wof:country_alpha3":"ESP",
-    "wof:geomhash":"66c16dd35d34460d16f786cb04e5a624",
+    "wof:geomhash":"0f4d3547ce04ae2a337f16e74f3785a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -956,11 +1130,14 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1493230196,
+    "wof:lastmodified":1509143025,
     "wof:name":"Spain",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":46617825,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ESP",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

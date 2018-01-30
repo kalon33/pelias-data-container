@@ -5,19 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.146281,
+    "geom:area_square_m":48505396291.806992,
     "geom:bbox":"-72.007414,17.467027664,-68.325416565,19.933805466",
     "geom:latitude":18.894233,
     "geom:longitude":-70.495588,
     "gn:id":"",
     "gn:population":9823821,
     "iso:country":"DO",
+    "itu:country_code":[
+        "1-809",
+        "1-829",
+        "1-849"
+    ],
+    "itu:region":"1",
     "lbl:latitude":19.105937,
     "lbl:longitude":-70.804224,
     "mps:latitude":19.105937,
     "mps:longitude":-70.804224,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.5,
+    "mz:min_zoom":4.5,
     "name:afr_x_preferred":[
         "Dominikaanse Republiek"
+    ],
+    "name:aka_x_preferred":[
+        "D\u0254meneka Kurok\u025bse"
     ],
     "name:als_x_preferred":[
         "Dominikanische Republik"
@@ -25,8 +38,15 @@
     "name:amh_x_preferred":[
         "\u12f6\u121a\u1292\u12ab\u1295 \u122a\u1350\u1265\u120a\u12ad"
     ],
+    "name:amh_x_variant":[
+        "\u12f6\u121a\u1292\u12ad \u122a\u1351\u1265\u120a\u12ad"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u064a\u0629",
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643"
     ],
     "name:arg_x_preferred":[
         "Republica Dominicana"
@@ -43,11 +63,20 @@
     "name:azb_x_preferred":[
         "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646 \u062c\u0648\u0645\u0647\u0648\u0631\u06cc\u062a\u06cc"
     ],
+    "name:azb_x_variant":[
+        "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646 \u062c\u0645\u0647\u0648\u0631\u06cc\u062a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Dominikan Respublikas\u0131"
     ],
+    "name:aze_x_variant":[
+        "Dominik Respublikas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
+    ],
+    "name:bam_x_preferred":[
+        "D\u0254mimiki republiki"
     ],
     "name:bar_x_preferred":[
         "Dominikanische Republik"
@@ -64,8 +93,14 @@
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09ae\u09bf\u09a8\u09bf\u0995\u09be\u09a8 \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u09a1\u09cb\u09ae\u09c7\u09a8\u09bf\u0995\u09be\u09a8 \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0"
+    ],
     "name:bod_x_preferred":[
         "\u0f4c\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f40\u0f53\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f58\u0f50\u0f74\u0f53\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f4c\u0f7c\u0f0b\u0f58\u0f72\u0f53\u0f53\u0f72\u0f0b\u0f40\u0f53\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f58\u0f50\u0f74\u0f53\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Dominikanska Republika"
@@ -78,6 +113,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
     "name:bxr_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0430 \u0411\u04af\u0433\u044d\u0434\u044d \u041d\u0430\u0439\u0440\u0430\u043c\u0434\u0430\u0445\u0430 \u0423\u043b\u0430\u0441"
@@ -97,12 +135,6 @@
     "name:che_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u660e\u5c3c\u52a0"
-    ],
-    "name:chi_x_variant":[
-        "\u591a\u7c73\u5c3c\u52a0"
-    ],
     "name:ckb_x_preferred":[
         "\u06a9\u06c6\u0645\u0627\u0631\u06cc \u062f\u06c6\u0645\u06cc\u0646\u06cc\u06a9\u0627\u0646"
     ],
@@ -114,6 +146,9 @@
     ],
     "name:cym_x_preferred":[
         "Gweriniaeth Dominica"
+    ],
+    "name:cym_x_variant":[
+        "Y Weriniaeth Ddominicaidd"
     ],
     "name:cze_x_preferred":[
         "Dominik\u00e1nsk\u00e1 republika"
@@ -127,6 +162,10 @@
     "name:deu_x_preferred":[
         "Dominikanische Republik"
     ],
+    "name:deu_x_variant":[
+        "Dominikanische Rep.",
+        "Dom. Republik"
+    ],
     "name:diq_x_preferred":[
         "Cumhuriyet\u00ea Dominika"
     ],
@@ -136,11 +175,11 @@
     "name:dsb_x_preferred":[
         "Dominika\u0144ska republika"
     ],
-    "name:dut_x_preferred":[
-        "Dominicaanse republiek"
-    ],
     "name:ell_x_preferred":[
         "\u0394\u03bf\u03bc\u03b9\u03bd\u03b9\u03ba\u03b1\u03bd\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Spanish Haiti"
     ],
     "name:eng_x_preferred":[
         "Dominican Republic"
@@ -151,7 +190,8 @@
     ],
     "name:eng_x_variant":[
         "Dominican",
-        "Dominicanrepublic"
+        "Dominicanrepublic",
+        "Spanish Haiti"
     ],
     "name:epo_x_preferred":[
         "Domingo"
@@ -165,28 +205,35 @@
     "name:ewe_x_preferred":[
         "Dominican Republic"
     ],
+    "name:ewe_x_variant":[
+        "Dominika rep\u0254blik nutome"
+    ],
     "name:ext_x_preferred":[
         "Rep\u00fabrica Dominicana"
     ],
     "name:fao_x_preferred":[
         "Dominikanal\u00fd\u00f0veldi\u00f0"
     ],
+    "name:fao_x_variant":[
+        "Domingo l\u00fd\u00f0veldi\u00f0"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u0648\u0646\u06cc\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Dominikaaninen tasavalta"
     ],
+    "name:fra_x_colloquial":[
+        "Republique Dominicaine"
+    ],
     "name:fra_x_preferred":[
         "R\u00e9publique dominicaine"
     ],
-    "name:fre_x_colloquial":[
-        "Republique Dominicaine"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9publique Dominicaine"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
+        "R\u00e9publique Dominicaine",
         "Dominicaine, r\u00e9publique"
     ],
     "name:frp_x_preferred":[
@@ -198,14 +245,11 @@
     "name:fry_x_preferred":[
         "Dominikaanske Republyk"
     ],
+    "name:ful_x_preferred":[
+        "Ndenndanndi Dominika"
+    ],
     "name:gag_x_preferred":[
         "Dominikan Respublikas\u0131"
-    ],
-    "name:ger_x_preferred":[
-        "Dominikanische Republik"
-    ],
-    "name:ger_x_variant":[
-        "Dominikanische Rep."
     ],
     "name:gla_x_preferred":[
         "Poblachd Dhoiminicia"
@@ -216,17 +260,26 @@
     "name:glg_x_preferred":[
         "Rep\u00fablica Dominicana"
     ],
+    "name:glg_x_variant":[
+        "Rep\u00fablica Dominica"
+    ],
     "name:glv_x_preferred":[
         "Yn Phobblaght Ghominicagh"
     ],
     "name:gom_x_preferred":[
         "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u0928 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
     ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0acb\u0aae\u0abf\u0aa8\u0abf\u0a95\u0aa8 \u0ab0\u0ac0\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95"
+    ],
     "name:hak_x_preferred":[
         "Dominica Khiung-f\u00f2-koet"
     ],
     "name:hat_x_preferred":[
         "Dominikani"
+    ],
+    "name:hau_x_preferred":[
+        "Jamhuriyar Dominika"
     ],
     "name:hbs_x_preferred":[
         "Dominikanska Republika"
@@ -239,6 +292,10 @@
     ],
     "name:hin_x_preferred":[
         "\u0926\u094b\u092e\u093f\u0928\u093f\u0915\u0928 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:hin_x_variant":[
+        "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u0928 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+        "\u0921\u0949\u092e\u093f\u0928\u093f\u0915\u0928 \u0917\u0923\u0924\u0902\u0924\u094d\u0930"
     ],
     "name:hrv_x_preferred":[
         "Dominikanska Republika"
@@ -285,14 +342,26 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cca\u0cae\u0cbf\u0ca8\u0cbf\u0c95 \u0c97\u0ca3\u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0ca1\u0cca\u0cae\u0cc6\u0ca8\u0cbf\u0c95\u0ccd \u0cb0\u0cbf\u0caa\u0cac\u0ccd\u0cb2\u0cbf\u0c95\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10db\u10d8\u10dc\u10d8\u10d9\u10d4\u10da\u10d7\u10d0 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10dd\u10db\u10d8\u10dc\u10d8\u10d9\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u1792\u17b6\u179a\u178e\u179a\u178a\u17d2\u178b\u178a\u17bc\u1798\u17b8\u1793\u17b8\u1780\u17c2\u1793"
+    ],
     "name:kik_x_preferred":[
         "Dominican Republic"
+    ],
+    "name:kik_x_variant":[
+        "Jamhuri ya Dominika"
     ],
     "name:kin_x_preferred":[
         "Repubulika ya Dominikani"
@@ -312,11 +381,18 @@
     "name:kur_x_preferred":[
         "Komara Dom\u00een\u00eek"
     ],
+    "name:lao_x_preferred":[
+        "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94\u0ec2\u0e94\u0ea1\u0eb4\u0e99\u0eb4\u0e81\u0eb1\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Res publica Dominicana"
     ],
     "name:lav_x_preferred":[
         "Dominik\u0101na"
+    ],
+    "name:lav_x_variant":[
+        "Dominik\u0101nas Republika",
+        "Dominikana"
     ],
     "name:lij_x_preferred":[
         "Repubbrica Dominicann-a"
@@ -327,6 +403,9 @@
     "name:lin_x_preferred":[
         "Republiki Dominikani"
     ],
+    "name:lin_x_variant":[
+        "Repibiki ya Dom\u00ednik\u025b"
+    ],
     "name:lit_x_preferred":[
         "Dominikos Respublika"
     ],
@@ -336,32 +415,66 @@
     "name:ltz_x_preferred":[
         "Dominikanesch Republik"
     ],
+    "name:lub_x_preferred":[
+        "Ditunga wa Duminiku"
+    ],
+    "name:lug_x_preferred":[
+        "Lipubulika ya Dominika"
+    ],
     "name:mal_x_preferred":[
         "\u0d21\u0d4a\u0d2e\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d7b \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d2c\u0d4d\u0d32\u0d3f\u0d15\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d21\u0d4a\u0d2e\u0d3f\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d2c\u0d4d\u0d32\u0d3f\u0d15\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0921\u0949\u092e\u093f\u0928\u093f\u0915\u0928 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
     ],
+    "name:mar_x_variant":[
+        "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u0928 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Repoblika Dominikanina"
     ],
     "name:mlt_x_preferred":[
         "Repubblika Dominikana"
     ],
+    "name:mlt_x_variant":[
+        "Republikka Domenikana"
+    ],
     "name:msa_x_preferred":[
         "Republik Dominika"
+    ],
+    "name:msa_x_variant":[
+        "Republik Dominican",
+        "Republik Dominica"
     ],
     "name:mya_x_preferred":[
         "\u1012\u102d\u102f\u1019\u102e\u1014\u102e\u1000\u1014\u103a\u101e\u1019\u1039\u1019\u1010\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1012\u102d\u102f\u1019\u102e\u1014\u102e\u1000\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "Domingotlacatlahtohcayotl"
+    ],
+    "name:nan_x_preferred":[
+        "Dominic Ki\u014dng-h\u00f4-kok"
     ],
     "name:nau_x_preferred":[
         "Ripubrikin Dominika"
     ],
     "name:nav_x_preferred":[
         "Domingo Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Dominican Republic"
     ],
     "name:nds_nld_x_preferred":[
         "Dominikaanse Reppubliek"
@@ -378,8 +491,17 @@
     "name:nld_x_preferred":[
         "Dominicaanse Republiek"
     ],
+    "name:nld_x_variant":[
+        "Dominicaanse republiek"
+    ],
     "name:nno_x_preferred":[
         "Den dominikanske republikken"
+    ],
+    "name:nno_x_variant":[
+        "Den dominikanske republikk"
+    ],
+    "name:nob_x_preferred":[
+        "Den dominikanske republikk"
     ],
     "name:nor_x_preferred":[
         "Den dominikanske republikk"
@@ -392,6 +514,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b21\u0b4b\u0b2e\u0b47\u0b28\u0b3f\u0b15\u0b3e\u0b28 \u0b30\u0b3f\u0b2a\u0b2c\u0b4d\u0b32\u0b3f\u0b15"
+    ],
+    "name:ori_x_variant":[
+        "\u0b21\u0b4b\u0b2e\u0b3f\u0b28\u0b15\u0b3e\u0b28\u0b4d \u0b2a\u0b4d\u0b30\u0b1c\u0b3e\u0b24\u0b28\u0b4d\u0b24\u0b4d\u0b30"
     ],
     "name:orm_x_preferred":[
         "Rippabiliika Dominiikaan"
@@ -439,14 +564,23 @@
     "name:que_x_preferred":[
         "Duminikana"
     ],
+    "name:roh_x_preferred":[
+        "Republica Dominicana"
+    ],
     "name:ron_x_preferred":[
         "Republica Dominican\u0103"
     ],
     "name:rum_x_preferred":[
         "Republica Dominican\u0103"
     ],
+    "name:run_x_preferred":[
+        "Repubulika ya Dominika"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee Domin\u00eeka"
     ],
     "name:sah_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430"
@@ -460,6 +594,9 @@
     "name:sco_x_preferred":[
         "Dominican Republic"
     ],
+    "name:sgs_x_preferred":[
+        "Duom\u0117n\u0117kas Respobl\u0117ka"
+    ],
     "name:slk_x_preferred":[
         "Dominik\u00e1nska republika"
     ],
@@ -471,6 +608,9 @@
     ],
     "name:sna_x_preferred":[
         "Dominican Republic"
+    ],
+    "name:som_x_preferred":[
+        "Jamhuuriyadda Domeenika"
     ],
     "name:spa_x_preferred":[
         "Rep\u00fablica Dominicana"
@@ -486,6 +626,9 @@
     "name:sqi_x_preferred":[
         "Republika Dominikane"
     ],
+    "name:sqi_x_variant":[
+        "Republika Dominikan\u00eb"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
@@ -498,6 +641,9 @@
     "name:swa_x_preferred":[
         "Jamhuri ya Dominika"
     ],
+    "name:swa_x_variant":[
+        "Jamhuri ya Dominikan"
+    ],
     "name:swe_x_preferred":[
         "Dominikanska republiken"
     ],
@@ -507,11 +653,17 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bca\u0bae\u0bbf\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0ba9\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bca\u0bae\u0bbf\u0ba9\u0bbf\u0b95\u0ba9\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1"
+    ],
     "name:tat_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4a\u0c2e\u0c46\u0c28\u0c3f\u0c15\u0c28\u0c4d \u0c30\u0c3f\u0c2a\u0c2c\u0c4d\u0c32\u0c3f\u0c15\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c21\u0c4a\u0c2e\u0c3f\u0c28\u0c3f\u0c15\u0c28\u0c4d \u0c17\u0c23 \u0c30\u0c3e\u0c1c\u0c4d\u0c2f\u0c02"
     ],
     "name:tet_x_preferred":[
         "Rep\u00fablika Dominikana"
@@ -524,6 +676,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e42\u0e14\u0e21\u0e34\u0e19\u0e34\u0e01\u0e31\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u12f6\u121a\u1292\u12ad \u122a\u1351\u1265\u120a\u12ad"
+    ],
+    "name:ton_x_preferred":[
+        "Lipapilika Tominika"
     ],
     "name:tur_x_preferred":[
         "Dominik Cumhuriyeti"
@@ -546,8 +704,14 @@
         "Dominikanske Republik",
         "Dominikanske Republikken"
     ],
+    "name:unk_x_variant":[
+        "Santo Domingo"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0688\u0648\u0645\u0646\u06cc\u06a9\u0646 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
     ],
     "name:uzb_x_preferred":[
         "Dominika Respublikasi"
@@ -560,6 +724,9 @@
     ],
     "name:vie_x_preferred":[
         "C\u1ed9ng h\u00f2a Dominica"
+    ],
+    "name:vie_x_variant":[
+        "C\u1ed9ng ho\u00e0 \u0110\u00f4-mi-ni-ca"
     ],
     "name:vol_x_preferred":[
         "Sandomin\u00e4n"
@@ -582,6 +749,12 @@
     "name:yor_x_preferred":[
         "Or\u00edl\u1eb9\u0300\u00f2m\u00ecnira D\u00f3m\u00edn\u00edk\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Oril\u1eb9\u0301\u00e8de D\u00f2m\u00edn\u00edk\u00e1n\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u591a\u660e\u5c3c\u52a0"
+    ],
     "name:zea_x_preferred":[
         "Dominicaanse Republiek"
     ],
@@ -594,8 +767,15 @@
     "name:zho_x_preferred":[
         "\u591a\u660e\u5c3c\u52a0"
     ],
+    "name:zho_x_variant":[
+        "\u591a\u7c73\u5c3c\u52a0",
+        "\u591a\u7c73\u5c3c\u52a0\u5171\u548c\u56fd"
+    ],
     "name:zho_yue_x_preferred":[
         "\u591a\u660e\u5c3c\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "i-Dominican Republic"
     ],
     "ne:abbrev":"Dom. Rep.",
     "ne:abbrev_len":9,
@@ -675,6 +855,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"1-809, 1-829, 1-849",
+    "statoids:ds":"DOM",
+    "statoids:fifa":"DOM",
+    "statoids:gaul":"72",
+    "statoids:gec":"DR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"DOM",
+    "statoids:iso_a2":"DO",
+    "statoids:iso_a3":"DOM",
+    "statoids:iso_num":"214",
+    "statoids:itu":"DOM",
+    "statoids:marc":"dr",
+    "statoids:name":"Dominican Republic",
+    "statoids:wmo":"DR",
     "wk:latitude":19.0,
     "wk:longitude":-70.666667,
     "wk:population":10403761,
@@ -686,19 +881,29 @@
     "wof:concordances":{
         "dbp:id":"Dominican_Republic",
         "fb:id":"en.dominican_republic",
+        "fifa:id":"DOM",
+        "fips:code":"DR",
+        "gaul:id":"72",
         "gn:id":3508796,
         "gp:id":23424800,
         "hasc:id":"DO",
+        "ioc:id":"DOM",
+        "itu:id":"DOM",
         "loc:id":"n79094586",
+        "m49:code":"214",
+        "marc:id":"dr",
         "mzb:id":"dominican-republic",
+        "ne:adm0_a3":"DOM",
         "nyt:id":"N66669656929871805461",
         "qs:id":952806,
+        "uncrt:id":"DOM",
         "wd:id":"Q786",
-        "wk:page":"Dominican Republic"
+        "wk:page":"Dominican Republic",
+        "wmo:id":"DR"
     },
     "wof:country":"DO",
     "wof:country_alpha3":"DOM",
-    "wof:geomhash":"1c6da092abfc410fbad7f2c5d9fc022d",
+    "wof:geomhash":"2e2bf49c4db19df64007303025b74003",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -715,11 +920,14 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1493230068,
+    "wof:lastmodified":1509142718,
     "wof:name":"Dominican Republic",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":10403761,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"DOM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

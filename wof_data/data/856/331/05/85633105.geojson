@@ -5,16 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.822665,
+    "geom:area_square_m":78502669062.355713,
     "geom:bbox":"12.076141,48.557916,18.837434,51.040012",
     "geom:latitude":49.732448,
     "geom:longitude":15.314103,
     "gn:population":10476000,
     "iso:country":"CZ",
+    "itu:country_code":[
+        "420"
+    ],
     "lbl:latitude":49.88233,
     "lbl:longitude":15.377705,
     "mps:latitude":49.88233,
     "mps:longitude":15.377705,
+    "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u0427\u0435\u0445\u0438\u0430"
     ],
@@ -27,17 +35,30 @@
     "name:afr_x_preferred":[
         "Tsjeggi\u00eb"
     ],
+    "name:afr_x_variant":[
+        "Tjeggiese Republiek"
+    ],
+    "name:aka_x_preferred":[
+        "Ky\u025bk Kurok\u025bse"
+    ],
     "name:als_x_preferred":[
         "Tschechien"
     ],
     "name:amh_x_preferred":[
         "\u1278\u12aa\u12eb"
     ],
+    "name:amh_x_variant":[
+        "\u127c\u12ad \u122a\u1351\u1265\u120a\u12ad"
+    ],
     "name:ang_x_preferred":[
         "Cecland"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a\u0634\u064a\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0634\u064a\u0643",
+        "\u062a\u0634\u064a\u0643"
     ],
     "name:arc_x_preferred":[
         "\u072c\u072b\u071d\u071f"
@@ -58,8 +79,14 @@
     "name:aze_x_preferred":[
         "\u00c7exiya"
     ],
+    "name:aze_x_variant":[
+        "\u00c7ex Respublikas\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044f"
+    ],
+    "name:bam_x_preferred":[
+        "Ceki republiki"
     ],
     "name:bar_x_preferred":[
         "Tschechei"
@@ -76,11 +103,19 @@
     "name:ben_x_preferred":[
         "\u099a\u09c7\u0995 \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u099a\u09c7\u0995\u09bf\u09df\u09be",
+        "\u099a\u09c7\u0995\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bis_x_preferred":[
         "Czechia"
     ],
     "name:bod_x_preferred":[
         "\u0f45\u0f7a\u0f0b\u0f41\u0f7a\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f45\u0f7a\u0f0b\u0f41\u0f7a",
+        "\u0f45\u0f7b\u0f42\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f58\u0f50\u0f74\u0f53\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d"
     ],
     "name:bos_x_preferred":[
         "\u010ce\u0161ka"
@@ -94,11 +129,18 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044f"
     ],
+    "name:bul_x_variant":[
+        "\u0427\u0435\u0448\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0435\u0445\u0438\u044f"
+    ],
     "name:bxr_x_preferred":[
         "\u0427\u0435\u0445\u0438"
     ],
     "name:cat_x_preferred":[
         "Rep\u00fablica Txeca"
+    ],
+    "name:cat_x_variant":[
+        "Tx\u00e8quia"
     ],
     "name:cdo_x_preferred":[
         "Ci\u00e9k-k\u00e1ik"
@@ -106,20 +148,26 @@
     "name:ceb_x_preferred":[
         "Tsekya"
     ],
+    "name:ces_x_historical":[
+        "\u010cesk\u00e1 republika"
+    ],
     "name:ces_x_preferred":[
         "\u010cesko"
     ],
+    "name:ces_x_variant":[
+        "\u010cesk\u00e1 republika"
+    ],
     "name:che_x_preferred":[
         "\u0427\u0435\u0445\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u6377\u514b"
     ],
     "name:chr_x_preferred":[
         "\u13e4\u13a9 \u13cd\u13a6\u13da\u13a9"
     ],
     "name:chu_x_preferred":[
         "\u0427\u0454\u0448\u044c\u0441\u043a\u043e"
+    ],
+    "name:chu_x_variant":[
+        "\u0427\u0435\u0448\u044c\u0441\u043a\u043e"
     ],
     "name:chv_x_preferred":[
         "\u0427\u0435\u0445 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
@@ -136,6 +184,9 @@
     "name:cos_x_preferred":[
         "Cecch\u00eca"
     ],
+    "name:cos_x_variant":[
+        "Ripublica Cecca"
+    ],
     "name:crh_x_preferred":[
         "\u00c7ehiya"
     ],
@@ -144,6 +195,9 @@
     ],
     "name:cym_x_preferred":[
         "Y Weriniaeth Tsiec"
+    ],
+    "name:cym_x_variant":[
+        "Gweriniaeth Tsiec"
     ],
     "name:cze_x_colloquial":[
         "Ceska republika",
@@ -167,6 +221,10 @@
     "name:deu_x_preferred":[
         "Tschechien"
     ],
+    "name:deu_x_variant":[
+        "Tschechische Rep.",
+        "Tschechische Republik"
+    ],
     "name:diq_x_preferred":[
         "\u00c7ek\u0131stan"
     ],
@@ -176,20 +234,21 @@
     "name:dsb_x_preferred":[
         "\u010ceska"
     ],
-    "name:dut_x_colloquial":[
-        "Tsjechie"
-    ],
-    "name:dut_x_preferred":[
-        "Tsjechi\u00eb"
-    ],
     "name:dzo_x_preferred":[
         "\u0f45\u0f7a\u0f40\u0f0b\u0f62\u0f72\u0f0b\u0f54\u0f56\u0f0b\u0f63\u0f72\u0f40\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f45\u0f7a\u0f40\u0f0b\u0f62\u0f72\u0f0b\u0f54\u0f56\u0f0b\u0f63\u0f72\u0f40"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b5\u03c7\u03af\u03b1"
     ],
+    "name:eng_x_historical":[
+        "Czech Republic",
+        "Bohemia"
+    ],
     "name:eng_x_preferred":[
-        "Czech Republic"
+        "Czechia"
     ],
     "name:eng_x_unknown":[
         "CZ",
@@ -199,19 +258,34 @@
         "Czech",
         "Czech Rep",
         "Czechia",
-        "Czechrepublic"
+        "Czechrepublic",
+        "Czech Republic",
+        "Bohemia"
     ],
     "name:epo_x_preferred":[
         "\u0108e\u0125io"
     ],
+    "name:epo_x_variant":[
+        "\u0108e\u0125ujo"
+    ],
     "name:est_x_preferred":[
         "T\u0161ehhi"
+    ],
+    "name:est_x_variant":[
+        "T\u0161ehhi Vabariik",
+        "T\u011behhi"
     ],
     "name:eus_x_preferred":[
         "Txekia"
     ],
+    "name:eus_x_variant":[
+        "Txekiar Errepublika"
+    ],
     "name:ewe_x_preferred":[
         "Czechia"
+    ],
+    "name:ewe_x_variant":[
+        "Ts\u025bk rep\u0254blik nutome"
     ],
     "name:ext_x_preferred":[
         "Rep\u00fabrica Checa"
@@ -231,18 +305,15 @@
     "name:fin_x_variant":[
         "Tsekin tasavalta"
     ],
-    "name:fra_x_preferred":[
-        "R\u00e9publique tch\u00e8que"
-    ],
-    "name:fre_x_colloquial":[
+    "name:fra_x_colloquial":[
         "Republique Tcheque",
         "Tcheque",
         "Tchequie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9publique tch\u00e8que"
     ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Republiquetcheque",
         "R\u00e9publique Tcheque",
         "Tch\u00e8que",
@@ -257,8 +328,14 @@
     "name:fry_x_preferred":[
         "Tsjechje"
     ],
+    "name:fry_x_variant":[
+        "Tschjechje"
+    ],
     "name:ful_x_preferred":[
         "Cekiya"
+    ],
+    "name:ful_x_variant":[
+        "Ndenndaandi Cek"
     ],
     "name:fur_x_preferred":[
         "Republiche Ceche"
@@ -266,30 +343,35 @@
     "name:gag_x_preferred":[
         "\u00c7ehiya"
     ],
-    "name:ger_x_preferred":[
-        "Tschechien"
-    ],
-    "name:ger_x_variant":[
-        "Tschechische Rep.",
-        "Tschechische Republik"
-    ],
     "name:gla_x_preferred":[
         "An t-Seic"
     ],
     "name:gle_x_preferred":[
         "Poblacht na Seice"
     ],
+    "name:gle_x_variant":[
+        "An tSeic"
+    ],
     "name:glg_x_preferred":[
         "Rep\u00fablica Checa"
     ],
+    "name:glg_x_variant":[
+        "Chequia - \u010cesko"
+    ],
     "name:glv_x_preferred":[
         "Yn Phobblaght \u00c7heck"
+    ],
+    "name:glv_x_variant":[
+        "Yn Pobblaght Sheckagh"
     ],
     "name:gom_x_preferred":[
         "\u091d\u0947\u0915 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
     ],
     "name:grn_x_preferred":[
         "Chek\u00eda"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0ac7\u0a95 \u0ab0\u0ac0\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95"
     ],
     "name:hak_x_preferred":[
         "Tshia\u030dp-khiet"
@@ -300,14 +382,23 @@
     "name:hau_x_preferred":[
         "Kazech"
     ],
+    "name:hau_x_variant":[
+        "Jamhuriyar Cak"
+    ],
     "name:haw_x_preferred":[
         "Tiekia"
     ],
     "name:hbs_x_preferred":[
         "\u010ce\u0161ka"
     ],
+    "name:hbs_x_variant":[
+        "\u010ce\u0161ka Republika"
+    ],
     "name:heb_x_preferred":[
         "\u05e6'\u05db\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6\u05f3\u05db\u05d9\u05d4"
     ],
     "name:hif_x_preferred":[
         "Czechia"
@@ -315,11 +406,21 @@
     "name:hin_x_preferred":[
         "\u091a\u0947\u0915 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
     ],
+    "name:hin_x_variant":[
+        "\u091a\u0947\u0915\u093c \u0917\u0923\u0924\u0902\u0924\u094d\u0930"
+    ],
     "name:hrv_x_preferred":[
         "\u010ce\u0161ka"
     ],
+    "name:hrv_x_variant":[
+        "\u010ce\u0161ka Republika",
+        "Republika \u010ce\u0161ka"
+    ],
     "name:hsb_x_preferred":[
         "\u010c\u011bska"
+    ],
+    "name:hsb_x_variant":[
+        "\u010c\u011bska republika"
     ],
     "name:hun_x_colloquial":[
         "Cseh Koeztarsasag",
@@ -336,6 +437,9 @@
     "name:hye_x_preferred":[
         "\u0549\u0565\u056d\u056b\u0561"
     ],
+    "name:hye_x_variant":[
+        "\u0549\u0565\u056d\u056b\u0561\u0575\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
     "name:ido_x_preferred":[
         "Chekia"
     ],
@@ -348,8 +452,14 @@
     "name:ina_x_preferred":[
         "Republica Chec"
     ],
+    "name:ina_x_variant":[
+        "Republica Tchec"
+    ],
     "name:ind_x_preferred":[
         "Ceko"
+    ],
+    "name:ind_x_variant":[
+        "Republik Ceko"
     ],
     "name:ipk_x_preferred":[
         "Czechia"
@@ -390,14 +500,26 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cc6\u0c95\u0ccd \u0c97\u0ca3\u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0c9a\u0cc6\u0c95\u0ccd \u0cb0\u0cbf\u0caa\u0cac\u0ccd\u0cb2\u0cbf\u0c95\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10d4\u10ee\u10d4\u10d7\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10e9\u10d4\u10ee\u10d4\u10d7\u10d8\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044f"
     ],
     "name:kbd_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044d"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u1792\u17b6\u179a\u178e\u179a\u178a\u17d2\u178b\u1786\u17c1\u1780"
+    ],
+    "name:kik_x_preferred":[
+        "Jamhuri ya Cheki"
     ],
     "name:kin_x_preferred":[
         "Cekiya"
@@ -427,14 +549,25 @@
     "name:kur_x_preferred":[
         "Komara \u00c7ek\u00ee"
     ],
+    "name:kur_x_variant":[
+        "Komara \u00c7\u00eakiyay\u00ea",
+        "\u06a9\u06c6\u0645\u0627\u0631\u06cc \u0686\u06cc\u06a9"
+    ],
     "name:lad_x_preferred":[
         "Chekia"
     ],
     "name:lao_x_preferred":[
         "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94\u0ec1\u0e8a\u0eb1\u0e81"
     ],
+    "name:lao_x_variant":[
+        "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94\u0ec0\u0e8a\u0eb1\u0e81"
+    ],
     "name:lat_x_preferred":[
         "Cechia"
+    ],
+    "name:lat_x_variant":[
+        "Res publica Bohemica",
+        "Czechia"
     ],
     "name:lav_x_preferred":[
         "\u010cehija"
@@ -454,8 +587,14 @@
     "name:lin_x_preferred":[
         "Shekia"
     ],
+    "name:lin_x_variant":[
+        "Repibiki Tsek\u025b"
+    ],
     "name:lit_x_preferred":[
         "\u010cekija"
+    ],
+    "name:lit_x_variant":[
+        "\u010cekijos Respublika"
     ],
     "name:lmo_x_preferred":[
         "Rep\u00fcblica Ceca"
@@ -469,11 +608,23 @@
     "name:ltz_x_preferred":[
         "Tschechesch Republik"
     ],
+    "name:lub_x_preferred":[
+        "Ditunga dya Tsheka"
+    ],
+    "name:lug_x_preferred":[
+        "Lipubulika ya Ceeka"
+    ],
     "name:mal_x_preferred":[
         "\u0d1a\u0d46\u0d15\u0d4d\u0d15\u0d4d\u200c \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d2c\u0d4d\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4d\u200c"
     ],
+    "name:mal_x_variant":[
+        "\u0d1a\u0d46\u0d15\u0d4d\u0d15\u0d4d \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d2c\u0d4d\u0d32\u0d3f\u0d15\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u091a\u0947\u0915 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
+    ],
+    "name:mar_x_variant":[
+        "\u091d\u0947\u0915 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
     ],
     "name:mdf_x_preferred":[
         "\u0427\u0435\u0445\u043c\u0430\u0441\u0442\u043e\u0440"
@@ -484,8 +635,14 @@
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0448\u043a\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u0427\u0435\u0448\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Tsekia"
+    ],
+    "name:mlg_x_variant":[
+        "Repoblikan'i Tseky"
     ],
     "name:mlt_x_preferred":[
         "Repubblika \u010aeka"
@@ -502,6 +659,9 @@
     "name:mya_x_preferred":[
         "\u1001\u103b\u1000\u103a\u101e\u1019\u1039\u1019\u1010\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1001\u103b\u1000\u103a \u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f"
+    ],
     "name:myv_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -515,8 +675,14 @@
     "name:nau_x_preferred":[
         "Tsiekia"
     ],
+    "name:nau_x_variant":[
+        "Republik Czechia"
+    ],
     "name:nav_x_preferred":[
         "Chek Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Czech Republic"
     ],
     "name:nds_nld_x_preferred":[
         "Tsjechie"
@@ -527,13 +693,23 @@
     "name:nep_x_preferred":[
         "\u091a\u0947\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930"
     ],
+    "name:nep_x_variant":[
+        "\u091a\u0947\u0915 \u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915",
+        "\u091a\u0947\u0916 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930"
+    ],
     "name:new_x_preferred":[
         "\u091a\u0947\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930"
+    ],
+    "name:nld_x_colloquial":[
+        "Tsjechie"
     ],
     "name:nld_x_preferred":[
         "Tsjechi\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Tsjekkia"
+    ],
+    "name:nob_x_preferred":[
         "Tsjekkia"
     ],
     "name:nor_x_preferred":[
@@ -548,11 +724,20 @@
     "name:nrm_x_preferred":[
         "Tch\u00e9quie"
     ],
+    "name:nrm_x_variant":[
+        "R\u00e9publyique Tch\u00e8que"
+    ],
     "name:oci_x_preferred":[
         "Republica Ch\u00e8ca"
     ],
+    "name:olo_x_preferred":[
+        "\u010ceehi"
+    ],
     "name:ori_x_preferred":[
         "\u0b1a\u0b47\u0b15\u0b4d \u0b17\u0b23\u0b30\u0b3e\u0b1c\u0b4d\u0b5f"
+    ],
+    "name:ori_x_variant":[
+        "\u0b1a\u0b47\u0b15\u0b4d \u0b38\u0b3e\u0b27\u0b3e\u0b30\u0b23\u0b24\u0b28\u0b4d\u0b24\u0b4d\u0b30"
     ],
     "name:orm_x_preferred":[
         "Cheekiyaa"
@@ -565,6 +750,9 @@
     ],
     "name:pam_x_preferred":[
         "Republika ning Tseka"
+    ],
+    "name:pam_x_variant":[
+        "Czech Republic"
     ],
     "name:pan_x_preferred":[
         "\u0a1a\u0a48\u0a71\u0a15 \u0a17\u0a23\u0a30\u0a3e\u0a1c"
@@ -603,7 +791,9 @@
         "Rep\u00fablica Checa"
     ],
     "name:por_x_variant":[
-        "Rep\u00fablica Tcheca"
+        "Rep\u00fablica Tcheca",
+        "Tch\u00e9quia",
+        "Ch\u00e9quia"
     ],
     "name:pus_x_preferred":[
         "\u0686\u06d0\u06a9 \u062c\u0645\u0647\u0648\u0631\u064a\u062a"
@@ -611,14 +801,23 @@
     "name:que_x_preferred":[
         "Chiksuyu"
     ],
+    "name:que_x_variant":[
+        "Chik Suyu"
+    ],
     "name:rmy_x_preferred":[
         "Chexiya"
     ],
     "name:roh_x_preferred":[
         "Tschechia"
     ],
+    "name:roh_x_variant":[
+        "Republica Tscheca"
+    ],
     "name:ron_x_preferred":[
         "Cehia"
+    ],
+    "name:ron_x_variant":[
+        "Republica Ceh\u0103"
     ],
     "name:rue_x_preferred":[
         "\u0427\u0435\u0441\u044c\u043a\u043e"
@@ -629,8 +828,17 @@
     "name:rum_x_variant":[
         "Republica Ceh\u0103"
     ],
+    "name:run_x_preferred":[
+        "Repubulika ya Ceke"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee Ty\u00eaki"
     ],
     "name:sah_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044f"
@@ -650,11 +858,20 @@
     "name:slk_x_preferred":[
         "\u010cesko"
     ],
+    "name:slk_x_variant":[
+        "\u010cesk\u00e1 republika"
+    ],
     "name:slv_x_preferred":[
         "\u010ce\u0161ka"
     ],
+    "name:slv_x_variant":[
+        "\u010ce\u0161ka republika"
+    ],
     "name:sme_x_preferred":[
         "\u010ceahkka"
+    ],
+    "name:sme_x_variant":[
+        "\u010chekkia"
     ],
     "name:smo_x_preferred":[
         "Ripapelika o Sieki"
@@ -662,11 +879,17 @@
     "name:sna_x_preferred":[
         "Czechia"
     ],
+    "name:sna_x_variant":[
+        "Czech Republic"
+    ],
     "name:snd_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0647 \u0686\u064a\u06aa"
     ],
     "name:som_x_preferred":[
         "Jamhuuriyadda Tashik"
+    ],
+    "name:som_x_variant":[
+        "Jamhuuriyadda Jek"
     ],
     "name:spa_x_preferred":[
         "Rep\u00fablica Checa"
@@ -679,6 +902,10 @@
     "name:sqi_x_preferred":[
         "Republika \u00c7eke"
     ],
+    "name:sqi_x_variant":[
+        "Republika e \u00c7ekis\u00eb",
+        "\u00c7ekia"
+    ],
     "name:srd_x_preferred":[
         "Rep\u00f9blica Ceca"
     ],
@@ -687,6 +914,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0448\u043a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0435\u0448\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
     "name:ssw_x_preferred":[
         "Shekhi"
@@ -699,6 +929,9 @@
     ],
     "name:swa_x_preferred":[
         "Ucheki"
+    ],
+    "name:swa_x_variant":[
+        "Jamhuri ya Cheki"
     ],
     "name:swe_x_preferred":[
         "Tjeckien"
@@ -718,6 +951,9 @@
     "name:tel_x_preferred":[
         "\u0c1a\u0c46\u0c15\u0c4d \u0c30\u0c3f\u0c2a\u0c2c\u0c4d\u0c32\u0c3f\u0c15\u0c4d"
     ],
+    "name:tel_x_variant":[
+        "\u0c1a\u0c46\u0c15\u0c4d \u0c17\u0c23\u0c30\u0c3e\u0c1c\u0c4d\u0c2f\u0c02"
+    ],
     "name:tet_x_preferred":[
         "Rep\u00fablika Xeka"
     ],
@@ -727,8 +963,17 @@
     "name:tgl_x_preferred":[
         "Republikang Tseko"
     ],
+    "name:tgl_x_variant":[
+        "Czech Republic"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e40\u0e0a\u0e47\u0e01"
+    ],
+    "name:tir_x_preferred":[
+        "\u127c\u12ad \u122a\u1351\u1265\u120a\u12ad"
+    ],
+    "name:ton_x_preferred":[
+        "Lipapilika Seki"
     ],
     "name:tpi_x_preferred":[
         "Sek Ripablik"
@@ -742,6 +987,9 @@
     "name:tur_x_preferred":[
         "\u00c7ek Cumhuriyeti"
     ],
+    "name:tur_x_variant":[
+        "\u00c7ekya"
+    ],
     "name:udm_x_preferred":[
         "\u0427\u0435\u0445\u0438\u044f"
     ],
@@ -750,6 +998,10 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0445\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0435\u0441\u044c\u043a\u0430 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+        "\u0427\u0435\u0445i\u044f"
     ],
     "name:und_x_colloquial":[
         "Tekkland",
@@ -765,6 +1017,9 @@
         "Tsech\u00eda",
         "Tsjekkia"
     ],
+    "name:unk_x_variant":[
+        "Czech Socialist Republic"
+    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u06a9 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
     ],
@@ -779,6 +1034,9 @@
     ],
     "name:vie_x_preferred":[
         "C\u1ed9ng h\u00f2a S\u00e9c"
+    ],
+    "name:vie_x_variant":[
+        "C\u1ed9ng h\u00f2a S\u00e9c (Czech)"
     ],
     "name:vls_x_preferred":[
         "Tsjechi\u00eb"
@@ -804,8 +1062,14 @@
     "name:yid_x_preferred":[
         "\u05d8\u05e9\u05e2\u05db\u05d9\u05d9"
     ],
+    "name:yid_x_variant":[
+        "\u05d8\u05e9\u05e2\u05db\u05d9\u05e2"
+    ],
     "name:yor_x_preferred":[
         "Ts\u1eb9\u0301k\u00ec Ol\u00f3m\u00ecnira"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u1e63\u1eb9\u0301\u1eb9\u0301k\u00ec"
     ],
     "name:zea_x_preferred":[
         "Tsjehhi\u00eb"
@@ -817,13 +1081,17 @@
         "\u6377\u514b"
     ],
     "name:zho_x_variant":[
-        "\u6377\u514b"
+        "\u6377\u514b",
+        "\u6377\u514b\u5171\u548c\u56fd"
     ],
     "name:zho_yue_x_preferred":[
         "\u6377\u514b"
     ],
     "name:zul_x_preferred":[
         "ITsheki"
+    ],
+    "name:zul_x_variant":[
+        "i-Czech Republic"
     ],
     "ne:abbrev":"Cz. Rep.",
     "ne:abbrev_len":8,
@@ -836,14 +1104,12 @@
     "ne:admin":"Czech Republic",
     "ne:brk_a3":"CZE",
     "ne:brk_diff":0,
-    "ne:brk_group":null,
     "ne:brk_name":"Czech Rep.",
     "ne:continent":"Europe",
     "ne:economy":"2. Developed region: nonG7",
     "ne:featurecla":"Admin-0 country",
     "ne:fips_10_":"EZ",
     "ne:formal_en":"Czech Republic",
-    "ne:formal_fr":null,
     "ne:gdp_md_est":265200,
     "ne:gdp_year":-99,
     "ne:geou_dif":0,
@@ -853,7 +1119,7 @@
     "ne:income_grp":"1. High income: OECD",
     "ne:iso_a2":"CZ",
     "ne:iso_a3":"CZE",
-    "ne:iso_n3":"203",
+    "ne:iso_n3":203,
     "ne:labelrank":5,
     "ne:lastcensus":2011,
     "ne:level":2,
@@ -863,12 +1129,9 @@
     "ne:mapcolor8":1,
     "ne:mapcolor9":2,
     "ne:name":"Czech Rep.",
-    "ne:name_alt":null,
     "ne:name_len":10,
     "ne:name_long":"Czech Republic",
     "ne:name_sort":"Czech Republic",
-    "ne:note_adm0":null,
-    "ne:note_brk":null,
     "ne:pop_est":10211904,
     "ne:pop_year":-99,
     "ne:postal":"CZ",
@@ -883,7 +1146,7 @@
     "ne:subunit":"Czech Republic",
     "ne:tiny":-99,
     "ne:type":"Sovereign country",
-    "ne:un_a3":"203",
+    "ne:un_a3":203,
     "ne:wb_a2":"CZ",
     "ne:wb_a3":"CZE",
     "ne:wikipedia":-99,
@@ -898,14 +1161,31 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633105-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
-    "wk:area":78866.0,
-    "wk:latitude":50.0,
-    "wk:longitude":16.0,
+    "src:population":"wk",
+    "statoids:dial":"420",
+    "statoids:ds":"CZ",
+    "statoids:fifa":"CZE",
+    "statoids:gaul":"65",
+    "statoids:gec":"EZ",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"CZE",
+    "statoids:iso_a2":"CZ",
+    "statoids:iso_a3":"CZE",
+    "statoids:iso_num":"203",
+    "statoids:itu":"CZE",
+    "statoids:marc":"xr",
+    "statoids:name":"Czech Republic",
+    "statoids:wmo":"CZ",
+    "wk:area":78866,
+    "wk:latitude":50,
+    "wk:longitude":16,
     "wk:population":10538275,
     "wk:wordcount":15021,
     "wof:belongsto":[
@@ -915,19 +1195,29 @@
     "wof:concordances":{
         "dbp:id":"Czech_Republic",
         "fb:id":"en.czech_republic",
+        "fifa:id":"CZE",
+        "fips:code":"EZ",
+        "gaul:id":"65",
         "gn:id":3077311,
         "gp:id":23424810,
         "hasc:id":"CZ",
+        "ioc:id":"CZE",
+        "itu:id":"CZE",
         "loc:id":"n90718759",
+        "m49:code":"203",
+        "marc:id":"xr",
         "mzb:id":"czech-republic",
-        "nyt:id":"30505766457569326121",
+        "ne:adm0_a3":"CZE",
+        "nyt:id":9223372036854775807,
         "qs:id":374798,
+        "uncrt:id":"CZ",
         "wd:id":"Q213",
-        "wk:page":"Czech Republic"
+        "wk:page":"Czech Republic",
+        "wmo:id":"CZ"
     },
     "wof:country":"CZ",
     "wof:country_alpha3":"CZE",
-    "wof:geomhash":"e875f57f68d87dce89de1ec09464a440",
+    "wof:geomhash":"b6ebb1d3510195a85aeab4302db7c594",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -944,11 +1234,14 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1493230194,
+    "wof:lastmodified":1509142714,
     "wof:name":"Czech Republic",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":10538275,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"CZE",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
