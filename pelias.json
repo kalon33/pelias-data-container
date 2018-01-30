@@ -27,33 +27,33 @@
       "enabled": true
     },
     "openstreetmap": {
-      "datapath": "/mnt/data/openstreetmap/",
+      "datapath": "/var/data/openstreetmap/",
       "leveldbpath": "/tmp",
       "import": [{
-        "filename": "osm.pbf"
+        "filename": "france-latest.osm.pbf"
       }]
     },
     "openaddresses": {
       "datapath": "/mnt/data/openaddresses/",
-      "files": ["us/ny/city_of_new_york.csv","us/nj/statewide.csv"]
+      "files": ["fr/*.csv"]
     },
     "geonames": {
       "datapath": "/mnt/data/geonames/",
-      "countryCode": "US" 
+      "countryCode": "FR" 
     },
     "polyline": {
       "datapath": "/mnt/data/",
       "files": [
-        "new_york.polylines"
+        "france.polylines"
       ]
     },
     "whosonfirst": {
       "datapath": "/mnt/data/whosonfirst/wof_data"
     },
     "wofPipNames": {
-      "localadmin": ["name:eng_x_preferred"],
-      "region": ["name:eng_x_preferred"],
-      "neighbourhood": ["name:eng_x_preferred"]
+      "localadmin": ["name:fr_x_preferred"],
+      "region": ["name:fr_x_preferred"],
+      "neighbourhood": ["name:fr_x_preferred"]
     }
   },
   "schema": {
