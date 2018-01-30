@@ -24,6 +24,7 @@ wait
 ok_count=$(cat /tmp/loadresults | grep 'OK' | wc -l )
 if [ $ok_count -ne 5 ]; then
     echo 'Data loading failed'
+    cat /tmp/loadresults
     exit 1;
 fi
 
@@ -40,6 +41,7 @@ wait
 ok_count=$(cat /tmp/indexresults | grep 'OK' | wc -l )
 if [ $ok_count -ne 2 ]; then
     echo 'Indexing failed'
+    cat /tmp/indexresults
     exit 1;
 fi
 

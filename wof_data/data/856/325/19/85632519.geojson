@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":92.699221,
+    "geom:area_square_m":1141685020482.572998,
     "geom:bbox":"-81.737724304,-4.22711,-66.851923,14.471972466",
     "geom:latitude":3.906986,
     "geom:longitude":-73.080551,
     "gn:id":"",
     "gn:population":47790000,
     "iso:country":"CO",
+    "itu:country_code":[
+        "57"
+    ],
     "lbl:latitude":3.420497,
     "lbl:longitude":-73.166783,
     "mps:latitude":3.420497,
     "mps:longitude":-73.166783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Kolombia"
     ],
@@ -24,6 +31,12 @@
     ],
     "name:afr_x_preferred":[
         "Colombia"
+    ],
+    "name:afr_x_variant":[
+        "Kolombi\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Kolombia"
     ],
     "name:als_x_preferred":[
         "Kolumbien"
@@ -58,6 +71,9 @@
     "name:bak_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Kolombi"
+    ],
     "name:bar_x_preferred":[
         "Kolumbien"
     ],
@@ -73,11 +89,18 @@
     "name:ben_x_preferred":[
         "\u0995\u09b2\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09cb\u09b2\u09cb\u09ae\u09cd\u09ac\u09bf\u09df\u09be",
+        "\u0995\u09cb\u09b2\u09cb\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bis_x_preferred":[
         "Colombia"
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0f7c\u0f0b\u0f63\u0f7c\u0f58\u0f0b\u0f56\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f40\u0f7c\u0f0b\u0f63\u0f7c\u0f58\u0f0b\u0f56\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Kolumbija"
@@ -112,12 +135,6 @@
     "name:che_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u54e5\u502b\u6bd4\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u54e5\u4f26\u6bd4\u4e9a"
-    ],
     "name:chr_x_preferred":[
         "\u13aa\u13b8\u13bb\u13c8\u13a2\u13a0"
     ],
@@ -147,6 +164,9 @@
     ],
     "name:deu_x_preferred":[
         "Kolumbien"
+    ],
+    "name:deu_x_variant":[
+        "Republik Kolumbien"
     ],
     "name:diq_x_preferred":[
         "Kolombiya"
@@ -181,17 +201,26 @@
     "name:est_x_preferred":[
         "Colombia"
     ],
+    "name:est_x_variant":[
+        "Columbia"
+    ],
     "name:eus_x_preferred":[
         "Kolonbia"
     ],
     "name:ewe_x_preferred":[
         "Colombia"
     ],
+    "name:ewe_x_variant":[
+        "Kolombia nutome"
+    ],
     "name:ext_x_preferred":[
         "Col\u00f3mbia"
     ],
     "name:fao_x_preferred":[
         "Kolumbia"
+    ],
+    "name:fao_x_variant":[
+        "Kolombia"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0644\u0645\u0628\u06cc\u0627"
@@ -208,9 +237,6 @@
     "name:fra_x_preferred":[
         "Colombie"
     ],
-    "name:fre_x_preferred":[
-        "Colombie"
-    ],
     "name:frp_x_preferred":[
         "Colombie"
     ],
@@ -220,17 +246,14 @@
     "name:fry_x_preferred":[
         "Kolombia"
     ],
+    "name:ful_x_preferred":[
+        "Kolombiya"
+    ],
     "name:gag_x_preferred":[
         "Kolumbiya"
     ],
     "name:gan_x_preferred":[
         "\u54e5\u502b\u6bd4\u4e9e"
-    ],
-    "name:ger_x_preferred":[
-        "Kolumbien"
-    ],
-    "name:ger_x_variant":[
-        "Republik Kolumbien"
     ],
     "name:gla_x_preferred":[
         "Coloimbia"
@@ -258,6 +281,9 @@
     ],
     "name:hat_x_preferred":[
         "Kolonbi"
+    ],
+    "name:hau_x_preferred":[
+        "Kolambiya"
     ],
     "name:hbs_x_preferred":[
         "Kolumbija"
@@ -298,6 +324,9 @@
     "name:ind_x_preferred":[
         "Kolombia"
     ],
+    "name:ind_x_variant":[
+        "Kolumbia"
+    ],
     "name:isl_x_preferred":[
         "K\u00f3lumb\u00eda"
     ],
@@ -331,6 +360,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb2\u0cca\u0c82\u0cac\u0cbf\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0c95\u0cca\u0cb2\u0c82\u0cac\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10da\u10e3\u10db\u10d1\u10d8\u10d0"
     ],
@@ -342,6 +374,9 @@
     ],
     "name:kik_x_preferred":[
         "Colombia"
+    ],
+    "name:kik_x_variant":[
+        "Kolombia"
     ],
     "name:kin_x_preferred":[
         "Kolombiya"
@@ -358,11 +393,17 @@
     "name:kur_x_preferred":[
         "Kolombiya"
     ],
+    "name:kur_x_variant":[
+        "\u06a9\u06c6\u0644\u06c6\u0645\u0628\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Kolombia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec2\u0e81\u0ea5\u0ebb\u0ea1\u0e9a\u0eb5"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec2\u0e84\u0ea5\u0eb3\u0ec0\u0e9a\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Columbia"
@@ -397,11 +438,20 @@
     "name:ltz_x_preferred":[
         "Kolumbien"
     ],
+    "name:lub_x_preferred":[
+        "Kolombi"
+    ],
+    "name:lug_x_preferred":[
+        "Kolombya"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4a\u0d33\u0d02\u0d2c\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0932\u0902\u092c\u093f\u092f\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0915\u094b\u0932\u092e\u094d\u092c\u093f\u092f\u093e"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u0439"
@@ -412,8 +462,14 @@
     "name:mlg_x_preferred":[
         "Kolombia"
     ],
+    "name:mlg_x_variant":[
+        "K\u00f4l\u00f4mbia"
+    ],
     "name:mlt_x_preferred":[
         "Kolombja"
+    ],
+    "name:mlt_x_variant":[
+        "Kolumbja"
     ],
     "name:mon_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431"
@@ -427,6 +483,9 @@
     "name:mya_x_preferred":[
         "\u1000\u102d\u102f\u101c\u1036\u1018\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1000\u102d\u102f\u101c\u1036\u1018\u102e\u101a\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u06a9\u0644\u0645\u0628\u06cc\u0627"
     ],
@@ -436,11 +495,17 @@
     "name:nav_x_preferred":[
         "Kol\u00e1mbiya"
     ],
+    "name:nde_x_preferred":[
+        "Kholombiya"
+    ],
     "name:nds_x_preferred":[
         "Kolumbien"
     ],
     "name:nep_x_preferred":[
         "\u0915\u094b\u0932\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:nep_x_variant":[
+        "\u0915\u094b\u0932\u094b\u092e\u094d\u092c\u093f\u092f\u093e"
     ],
     "name:new_x_preferred":[
         "\u0915\u094b\u0932\u094b\u092e\u094d\u092c\u093f\u092f\u093e"
@@ -449,6 +514,9 @@
         "Colombia"
     ],
     "name:nno_x_preferred":[
+        "Colombia"
+    ],
+    "name:nob_x_preferred":[
         "Colombia"
     ],
     "name:nor_x_preferred":[
@@ -465,6 +533,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b15\u0b32\u0b2e\u0b4d\u0b2c\u0b3f\u0b06"
+    ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b4b\u0b32\u0b2e\u0b4d\u0b2c\u0b3f\u0b06"
     ],
     "name:orm_x_preferred":[
         "Kolombiyaa"
@@ -499,8 +570,17 @@
     "name:por_x_preferred":[
         "Col\u00f4mbia"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
+    ],
+    "name:pus_x_variant":[
+        "\u06a9\u0648\u0644\u0645\u0628\u064a\u0627"
+    ],
     "name:que_x_preferred":[
         "Kulumbya"
+    ],
+    "name:que_x_variant":[
+        "Kulumbiya"
     ],
     "name:rmy_x_preferred":[
         "Kolombiya"
@@ -508,14 +588,23 @@
     "name:roh_x_preferred":[
         "Columbia"
     ],
+    "name:roh_x_variant":[
+        "Colombia"
+    ],
     "name:ron_x_preferred":[
         "Columbia"
     ],
     "name:rum_x_preferred":[
         "Columbia"
     ],
+    "name:run_x_preferred":[
+        "Kolombiya"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Kolomb\u00efi"
     ],
     "name:sah_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
@@ -529,6 +618,9 @@
     "name:sco_x_preferred":[
         "Colombie"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dc5\u0ddc\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
     "name:slk_x_preferred":[
         "Kolumbia"
     ],
@@ -541,14 +633,23 @@
     "name:sna_x_preferred":[
         "Colombia"
     ],
+    "name:sna_x_variant":[
+        "Kolombia"
+    ],
     "name:som_x_preferred":[
         "Kolombiya"
     ],
     "name:spa_x_preferred":[
         "Colombia"
     ],
+    "name:spa_x_variant":[
+        "Rep\u00fablica de Colombia"
+    ],
     "name:sqi_x_preferred":[
         "Kolumbia"
+    ],
+    "name:sqi_x_variant":[
+        "Kolumbi"
     ],
     "name:srd_x_preferred":[
         "Col\u00f2mbia"
@@ -577,6 +678,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bca\u0bb2\u0bca\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
     ],
@@ -594,6 +698,16 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e04\u0e25\u0e2d\u0e21\u0e40\u0e1a\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e04\u0e25\u0e31\u0e21\u0e40\u0e1a\u0e35\u0e22",
+        "\u0e42\u0e04\u0e25\u0e2d\u0e21\u0e40\u0e1a\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u12ae\u120e\u121d\u1262\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Kolomipia"
     ],
     "name:tso_x_preferred":[
         "Colombia"
@@ -624,6 +738,9 @@
         "K\u00f3lomb\u00eda",
         "Republika Kolumbija"
     ],
+    "name:unk_x_variant":[
+        "Rep\u00fablica de Colombia"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
     ],
@@ -638,6 +755,10 @@
     ],
     "name:vie_x_preferred":[
         "Colombia"
+    ],
+    "name:vie_x_variant":[
+        "C\u00f4-l\u00f4m-bi-a",
+        "C\u00f4-l\u00f4m-bi-a (Colombia)"
     ],
     "name:vls_x_preferred":[
         "Colombia"
@@ -672,6 +793,9 @@
     "name:yor_x_preferred":[
         "K\u00f2l\u00f3mb\u00ec\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de K\u00f2l\u00f3m\u00edb\u00eca"
+    ],
     "name:zea_x_preferred":[
         "Colombia"
     ],
@@ -685,13 +809,18 @@
         "\u54e5\u4f26\u6bd4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u54e5\u502b\u6bd4\u4e9e"
+        "\u54e5\u502b\u6bd4\u4e9e",
+        "\u54e5\u4f26\u6bd4\u4e9a",
+        "\u54e5\u4f26\u6bd4\u4e9a\u5171\u548c\u56fd"
     ],
     "name:zho_yue_x_preferred":[
         "\u54e5\u502b\u6bd4\u4e9e"
     ],
     "name:zul_x_preferred":[
         "IKolombiya"
+    ],
+    "name:zul_x_variant":[
+        "i-Colombia"
     ],
     "ne:abbrev":"Col.",
     "ne:abbrev_len":4,
@@ -771,6 +900,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"57",
+    "statoids:ds":"CO",
+    "statoids:fifa":"COL",
+    "statoids:gaul":"57",
+    "statoids:gec":"CO",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"COL",
+    "statoids:iso_a2":"CO",
+    "statoids:iso_a3":"COL",
+    "statoids:iso_num":"170",
+    "statoids:itu":"CLM",
+    "statoids:marc":"ck",
+    "statoids:name":"Colombia",
+    "statoids:wmo":"CO",
     "wk:latitude":3.816667,
     "wk:longitude":-73.916667,
     "wk:population":47704427,
@@ -782,18 +926,28 @@
     "wof:concordances":{
         "dbp:id":"Colombia",
         "fb:id":"en.colombia",
+        "fifa:id":"COL",
+        "fips:code":"CO",
+        "gaul:id":"57",
         "gn:id":3686110,
         "gp:id":23424787,
         "hasc:id":"CO",
+        "ioc:id":"COL",
+        "itu:id":"CLM",
+        "m49:code":"170",
+        "marc:id":"ck",
         "mzb:id":"colombia",
+        "ne:adm0_a3":"COL",
         "nyt:id":"N7998362261849978901",
         "qs:id":479710,
+        "uncrt:id":"CO",
         "wd:id":"Q739",
-        "wk:page":"Colombia"
+        "wk:page":"Colombia",
+        "wmo:id":"CO"
     },
     "wof:country":"CO",
     "wof:country_alpha3":"COL",
-    "wof:geomhash":"f9f0c72e21a5656b15662d95468efd37",
+    "wof:geomhash":"9288b25902331788e525312e35fc7462",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -810,11 +964,14 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1493229991,
+    "wof:lastmodified":1509142705,
     "wof:name":"Colombia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
+    "wof:population":47704427,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"COL",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

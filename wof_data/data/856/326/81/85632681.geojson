@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232378,
+    "geom:area_square_m":2790987584.011662,
     "geom:bbox":"-172.782582,-14.05283,-171.437693,-13.462823",
     "geom:latitude":-13.754596,
     "geom:longitude":-172.161249,
     "gn:id":"",
     "gn:population":192001,
     "iso:country":"WS",
+    "itu:country_code":[
+        "685"
+    ],
     "lbl:latitude":-13.63914,
     "lbl:longitude":-172.438241,
     "mps:latitude":-13.63914,
     "mps:longitude":-172.438241,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Samoa"
     ],
     "name:afr_x_preferred":[
+        "Samoa"
+    ],
+    "name:aka_x_preferred":[
         "Samoa"
     ],
     "name:als_x_preferred":[
@@ -27,6 +37,9 @@
     ],
     "name:amh_x_preferred":[
         "\u1233\u121e\u12d3"
+    ],
+    "name:amh_x_variant":[
+        "\u1233\u121e\u12a0"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0627"
@@ -49,6 +62,9 @@
     "name:bam_x_preferred":[
         "Samoa"
     ],
+    "name:bam_x_variant":[
+        "Samowa"
+    ],
     "name:bcl_x_preferred":[
         "Samoa"
     ],
@@ -56,7 +72,8 @@
         "\u0421\u0430\u043c\u043e\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0421\u0430\u043c\u043e\u0430"
+        "\u0421\u0430\u043c\u043e\u0430",
+        "\u0421\u0430\u043c\u043e\u0430 (\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u0435)"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ae\u09cb\u09af\u09bc\u09be"
@@ -66,6 +83,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f0b\u0f58\u0f7c\u0f60\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f53\u0f74\u0f0b\u0f56\u0f0b\u0f66\u0f0b\u0f58\u0f7c\u0f0b\u0f60\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Samoa"
@@ -96,13 +116,6 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u85a9\u6469\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u8428\u6469\u4e9a",
-        "\u85a9\u6469\u4e9e"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0627"
@@ -156,6 +169,9 @@
     "name:eus_x_preferred":[
         "Samoa"
     ],
+    "name:ewe_x_preferred":[
+        "Samoa nutome"
+    ],
     "name:ext_x_preferred":[
         "Samoa"
     ],
@@ -164,6 +180,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0622"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0645\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Samoa"
@@ -179,6 +198,9 @@
     ],
     "name:fry_x_preferred":[
         "Samo\u00e4"
+    ],
+    "name:ful_x_preferred":[
+        "Samowaa"
     ],
     "name:gag_x_preferred":[
         "Samoa"
@@ -211,6 +233,9 @@
     "name:hat_x_preferred":[
         "Samoa"
     ],
+    "name:hau_x_preferred":[
+        "Samowa"
+    ],
     "name:hbs_x_preferred":[
         "Samoa"
     ],
@@ -231,6 +256,9 @@
     ],
     "name:hun_x_preferred":[
         "Szamoa"
+    ],
+    "name:hun_x_variant":[
+        "Samoa"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0574\u0578\u0561"
@@ -272,14 +300,26 @@
         "\u30b5\u30e2\u30a2\u72ec\u7acb\u56fd",
         "\u897f\u30b5\u30e2\u30a2"
     ],
+    "name:kal_x_preferred":[
+        "Samoa"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cae\u0ccb\u0c85"
+    ],
+    "name:kan_x_variant":[
+        "\u0cb8\u0cae\u0ccb\u0cb5\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10db\u10dd\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u1798\u17bc\u17a2\u17b6"
+    ],
+    "name:kik_x_preferred":[
+        "Samoa"
     ],
     "name:kin_x_preferred":[
         "Samowa y\u2019Uburengerazuba"
@@ -293,16 +333,25 @@
     "name:kur_x_preferred":[
         "Samoa"
     ],
+    "name:kur_x_variant":[
+        "\u0633\u0627\u0645\u0648\u0627"
+    ],
     "name:lat_x_preferred":[
         "Samoa"
     ],
     "name:lav_x_preferred":[
         "Samoa"
     ],
+    "name:lav_x_variant":[
+        "Rietumsamoa"
+    ],
     "name:lij_x_preferred":[
         "Samoa"
     ],
     "name:lim_x_preferred":[
+        "Samoa"
+    ],
+    "name:lin_x_preferred":[
         "Samoa"
     ],
     "name:lit_x_preferred":[
@@ -314,11 +363,23 @@
     "name:ltz_x_preferred":[
         "Samoa"
     ],
+    "name:lub_x_preferred":[
+        "Samoa"
+    ],
+    "name:lug_x_preferred":[
+        "Samowa"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d2e\u0d4b\u0d35"
     ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d3e\u0d2e\u0d4b\u0d35"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u092e\u094b\u200c\u0906"
+    ],
+    "name:mar_x_variant":[
+        "\u0938\u093e\u092e\u094b\u0906"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
@@ -331,6 +392,9 @@
     ],
     "name:mri_x_preferred":[
         "H\u0101moa ki te Uru"
+    ],
+    "name:mri_x_variant":[
+        "Hamoa"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
@@ -347,13 +411,22 @@
     "name:nav_x_preferred":[
         "Sam\u00f3a"
     ],
+    "name:nde_x_preferred":[
+        "Samowa"
+    ],
     "name:nds_x_preferred":[
         "Samoa"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093e\u092e\u094b\u0906"
     ],
     "name:nld_x_preferred":[
         "Samoa"
     ],
     "name:nno_x_preferred":[
+        "Samoa"
+    ],
+    "name:nob_x_preferred":[
         "Samoa"
     ],
     "name:nor_x_preferred":[
@@ -364,6 +437,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b38\u0b2e\u0b4b\u0b06"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b3e\u0b2e\u0b4b\u0b06"
     ],
     "name:oss_x_preferred":[
         "\u0421\u0430\u043c\u043e\u00e6"
@@ -398,11 +474,20 @@
     "name:que_x_preferred":[
         "Samwa"
     ],
+    "name:roh_x_preferred":[
+        "Samoa"
+    ],
     "name:ron_x_preferred":[
         "Samoa"
     ],
+    "name:run_x_preferred":[
+        "Samowa"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Samo\u00e4a"
     ],
     "name:sah_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0430"
@@ -432,11 +517,18 @@
     "name:smo_x_preferred":[
         "S\u0101moa"
     ],
+    "name:smo_x_variant":[
+        "Malo Sa\u2019oloto Tuto\u2019atasi o Samoa",
+        "Samoa"
+    ],
     "name:sna_x_preferred":[
         "Samoa"
     ],
     "name:snd_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0627"
+    ],
+    "name:som_x_preferred":[
+        "Samoa"
     ],
     "name:spa_x_preferred":[
         "Samoa"
@@ -483,6 +575,12 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e0b\u0e32\u0e21\u0e31\u0e27"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e21\u0e31\u0e27"
+    ],
+    "name:tir_x_preferred":[
+        "\u1233\u121e\u12a0"
+    ],
     "name:ton_x_preferred":[
         "Ha\u02bbamoa"
     ],
@@ -491,6 +589,9 @@
     ],
     "name:tur_x_preferred":[
         "Samoa"
+    ],
+    "name:tur_x_variant":[
+        "Ba\u011f\u0131ms\u0131z Samoa Devleti"
     ],
     "name:uig_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0626\u0627"
@@ -501,8 +602,14 @@
     "name:und_x_preferred":[
         "Samoa i Sisifo"
     ],
+    "name:unk_x_variant":[
+        "Western Samoa"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0648\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0645\u0648\u0622"
     ],
     "name:uzb_x_preferred":[
         "Samoa"
@@ -512,6 +619,10 @@
     ],
     "name:vie_x_preferred":[
         "Samoa"
+    ],
+    "name:vie_x_variant":[
+        "Xa-moa",
+        "Xa-moa (Samoa)"
     ],
     "name:vol_x_preferred":[
         "Samovu\u00e4ns"
@@ -534,14 +645,24 @@
     "name:yor_x_preferred":[
         "S\u00e0m\u00f3\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Sam\u1ecd"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Samoa"
     ],
     "name:zho_x_preferred":[
         "\u8428\u6469\u4e9a"
     ],
+    "name:zho_x_variant":[
+        "\u8428\u6469\u4e9a",
+        "\u85a9\u6469\u4e9e"
+    ],
     "name:zho_yue_x_preferred":[
         "\u85a9\u6469\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "i-Samoa"
     ],
     "ne:abbrev":"Samoa",
     "ne:abbrev_len":5,
@@ -615,11 +736,28 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "reversegeo:geometry":"85632681-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"685",
+    "statoids:ds":"WS",
+    "statoids:fifa":"SAM",
+    "statoids:gaul":"212",
+    "statoids:gec":"WS",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SAM",
+    "statoids:iso_a2":"WS",
+    "statoids:iso_a3":"WSM",
+    "statoids:iso_num":"882",
+    "statoids:itu":"SMO",
+    "statoids:marc":"ws",
+    "statoids:name":"Samoa",
+    "statoids:wmo":"ZM",
     "wk:latitude":-14.0,
     "wk:longitude":-172.0,
     "wk:population":190372,
@@ -632,18 +770,28 @@
     "wof:concordances":{
         "dbp:id":"Samoa",
         "fb:id":"en.samoa",
+        "fifa:id":"SAM",
+        "fips:code":"WS",
+        "gaul:id":"212",
         "gn:id":4034894,
         "gp:id":23424992,
         "hasc:id":"WS",
+        "ioc:id":"SAM",
+        "itu:id":"SMO",
+        "m49:code":"882",
+        "marc:id":"ws",
         "mzb:id":"samoa",
+        "ne:adm0_a3":"WSM",
         "nyt:id":"66213477211554447361",
         "qs:id":220233,
+        "uncrt:id":"WS",
         "wd:id":"Q683",
-        "wk:page":"Samoa"
+        "wk:page":"Samoa",
+        "wmo:id":"ZM"
     },
     "wof:country":"WS",
     "wof:country_alpha3":"WSM",
-    "wof:geomhash":"19b7d1c29e58e4d82ece3ce73b973a79",
+    "wof:geomhash":"c90204d71f0b733cc1e4b08152e62e51",
     "wof:hierarchy":[
         {
             "continent_id":"102191583",
@@ -662,11 +810,14 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1493230030,
+    "wof:lastmodified":1509143019,
     "wof:name":"Samoa",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":190372,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"WSM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

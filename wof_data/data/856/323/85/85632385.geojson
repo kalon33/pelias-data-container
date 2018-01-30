@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.191534,
+    "geom:area_square_m":109397740596.741013,
     "geom:bbox":"-92.231153152,13.740028,-88.2310572985,17.815687",
     "geom:latitude":15.697019,
     "geom:longitude":-90.357506,
     "gn:id":"",
     "gn:population":13550440,
     "iso:country":"GT",
+    "itu:country_code":[
+        "502"
+    ],
     "lbl:latitude":14.989397,
     "lbl:longitude":-90.522408,
     "mps:latitude":14.989397,
     "mps:longitude":-90.522408,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Guatemala"
     ],
@@ -25,14 +32,23 @@
     "name:afr_x_preferred":[
         "Guatemala"
     ],
+    "name:aka_x_preferred":[
+        "Guwatemala"
+    ],
     "name:als_x_preferred":[
         "Guatemala"
     ],
     "name:amh_x_preferred":[
         "\u1313\u1274\u121b\u120b"
     ],
+    "name:amh_x_variant":[
+        "\u1309\u12cb\u1272\u121b\u120b"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627"
     ],
     "name:arg_x_preferred":[
         "Guatemala"
@@ -58,6 +74,9 @@
     "name:bam_x_preferred":[
         "Gatemala"
     ],
+    "name:bam_x_variant":[
+        "Gwatemala"
+    ],
     "name:bar_x_preferred":[
         "Guatemala"
     ],
@@ -73,8 +92,16 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u09a4\u09c7\u09ae\u09be\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09cb\u09df\u09be\u099f\u09bf\u09ae\u09be\u09b2\u09be",
+        "\u0997\u09cb\u09af\u09bc\u09be\u09a4\u09bf\u09ae\u09be\u09b2\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f42\u0f74\u0f0b\u0f5d\u0f7a\u0f0b\u0f50\u0f72\u0f0b\u0f58\u0f0b\u0f63\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f42\u0fad\u0f0b\u0f4f\u0f7a\u0f0b\u0f58\u0f0b\u0f63",
+        "\u0f42\u0fb7\u0f7c\u0f0b\u0f4a\u0f7a\u0f0b\u0f58\u0f0b\u0f63\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Gvatemala"
@@ -106,12 +133,6 @@
     "name:che_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u5730\u99ac\u62c9"
-    ],
-    "name:chi_x_variant":[
-        "\u5371\u5730\u9a6c\u62c9"
-    ],
     "name:ckb_x_preferred":[
         "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
     ],
@@ -123,6 +144,9 @@
     ],
     "name:cym_x_preferred":[
         "Gwatemala"
+    ],
+    "name:cym_x_variant":[
+        "Guatemala"
     ],
     "name:dan_x_preferred":[
         "Guatemala"
@@ -167,6 +191,9 @@
     "name:ewe_x_preferred":[
         "Guatemala"
     ],
+    "name:ewe_x_variant":[
+        "Guatemala nutome"
+    ],
     "name:ext_x_preferred":[
         "Guatemala"
     ],
@@ -194,6 +221,9 @@
     "name:fry_x_preferred":[
         "G\u00fbatemala"
     ],
+    "name:ful_x_preferred":[
+        "Gwaatemalaa"
+    ],
     "name:gag_x_preferred":[
         "Gvatemala"
     ],
@@ -218,11 +248,17 @@
     "name:grn_x_preferred":[
         "Guatem\u00e1la"
     ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0aae\u0abe\u0ab2\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Guatemala"
     ],
     "name:hat_x_preferred":[
         "Gwatemala"
+    ],
+    "name:hau_x_preferred":[
+        "Gwatamala"
     ],
     "name:hbs_x_preferred":[
         "Gvatemala"
@@ -230,11 +266,19 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d5\u05d5\u05d0\u05d8\u05de\u05d0\u05dc\u05d4",
+        "\u05d2\u05d5\u05d5\u05d0\u05d8\u05de\u05dc\u05d4",
+        "\u05d2\u05d5\u05d5\u05d8\u05de\u05dc\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Guatemala"
     ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0935\u093e\u091f\u0947\u092e\u093e\u0932\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0917\u094b\u0924\u0947\u0926\u093e\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
         "Gvatemala"
@@ -287,8 +331,14 @@
     "name:kab_x_preferred":[
         "Gwatimala"
     ],
+    "name:kal_x_preferred":[
+        "Guatemala"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0cb5\u0cbe\u0c9f\u0cc6\u0cae\u0cbe\u0cb2"
+    ],
+    "name:kan_x_variant":[
+        "\u0c97\u0ccd\u0cb5\u0cbe\u0c9f\u0cc6\u0cae\u0cbe\u0cb2\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10d0"
@@ -298,6 +348,9 @@
     ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u1782\u17b6\u178f\u17c1\u1798\u17c9\u17b6\u17a1\u17b6"
+    ],
+    "name:kik_x_preferred":[
+        "Gwatemala"
     ],
     "name:kin_x_preferred":[
         "Gwatemala"
@@ -314,14 +367,24 @@
     "name:kur_x_preferred":[
         "Guatemala"
     ],
+    "name:kur_x_variant":[
+        "G\u00fbatemala",
+        "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
+    ],
     "name:lad_x_preferred":[
         "Guatemala"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e81\u0ebb\u0ea7\u0ec0\u0e95\u0ea1\u0eb2\u0ea5\u0eb2"
     ],
+    "name:lao_x_variant":[
+        "\u0e81\u0ebb\u0ea7\u0ec0\u0e95\u0ea1\u0eb2\u0ea5\u0eb2"
+    ],
     "name:lat_x_preferred":[
         "Guatimalia"
+    ],
+    "name:lat_x_variant":[
+        "Guatemala"
     ],
     "name:lav_x_preferred":[
         "Gvatemala"
@@ -335,6 +398,9 @@
     "name:lin_x_preferred":[
         "Gwatemala"
     ],
+    "name:lin_x_variant":[
+        "Gwat\u00e9mala"
+    ],
     "name:lit_x_preferred":[
         "Gvatemala"
     ],
@@ -347,11 +413,23 @@
     "name:ltz_x_preferred":[
         "Guatemala"
     ],
+    "name:lub_x_preferred":[
+        "Ngwatemala"
+    ],
+    "name:lug_x_preferred":[
+        "Gwatemala"
+    ],
     "name:mal_x_preferred":[
         "\u0d17\u0d4d\u0d35\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d2e\u0d3e\u0d32"
     ],
+    "name:mal_x_variant":[
+        "\u0d17\u0d4d\u0d35\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d2e\u0d3e\u0d32\u0d3e"
+    ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u093e\u0924\u0947\u092e\u093e\u0932\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0917\u094d\u0935\u093e\u091f\u0947\u092e\u093e\u0932\u093e"
     ],
     "name:mhr_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0435"
@@ -361,6 +439,9 @@
     ],
     "name:mlg_x_preferred":[
         "Goatemala"
+    ],
+    "name:mlg_x_variant":[
+        "Goatemal\u00e0"
     ],
     "name:mlt_x_preferred":[
         "Gwatemala"
@@ -377,11 +458,26 @@
     "name:mya_x_preferred":[
         "\u1002\u103d\u102b\u1010\u102e\u1019\u102c\u101c\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1002\u103d\u102c\u1010\u102e\u1019\u102c\u101c\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627"
     ],
+    "name:nah_x_preferred":[
+        "Cuauhtemallan"
+    ],
+    "name:nah_x_variant":[
+        "Cuauhtemall\u0101n"
+    ],
     "name:nau_x_preferred":[
         "Guatemara"
+    ],
+    "name:nau_x_variant":[
+        "Guatemala"
+    ],
+    "name:nde_x_preferred":[
+        "Guatemala"
     ],
     "name:nds_x_preferred":[
         "Guatemala"
@@ -398,6 +494,9 @@
     "name:nno_x_preferred":[
         "Guatemala"
     ],
+    "name:nob_x_preferred":[
+        "Guatemala"
+    ],
     "name:nor_x_preferred":[
         "Guatemala"
     ],
@@ -406,6 +505,9 @@
     ],
     "name:oci_x_preferred":[
         "Guatemala"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b17\u0b41\u0b0f\u0b24\u0b2e\u0b3e\u0b32\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Gu'aatimaalaa"
@@ -443,8 +545,15 @@
     "name:pus_x_preferred":[
         "\u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u06ab\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627",
+        "\u06ab\u0648\u0627\u062a\u0645\u0627\u0644\u0627"
+    ],
     "name:que_x_preferred":[
         "Watimala"
+    ],
+    "name:roh_x_preferred":[
+        "Guatemala"
     ],
     "name:ron_x_preferred":[
         "Guatemala"
@@ -452,8 +561,14 @@
     "name:rue_x_preferred":[
         "\u0490\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
     ],
+    "name:run_x_preferred":[
+        "Gwatemala"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Guat\u00eam\u00e4l\u00e4"
     ],
     "name:sah_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
@@ -470,6 +585,9 @@
     "name:slk_x_preferred":[
         "Guatemala (\u0161t\u00e1t)"
     ],
+    "name:slk_x_variant":[
+        "Guatemala"
+    ],
     "name:slv_x_preferred":[
         "Gvatemala"
     ],
@@ -485,11 +603,20 @@
     "name:som_x_preferred":[
         "Guatemala"
     ],
+    "name:som_x_variant":[
+        "Guwaatamaala"
+    ],
     "name:spa_x_preferred":[
         "Guatemala"
     ],
+    "name:spa_x_variant":[
+        "Rep\u00fablica de Guatemala"
+    ],
     "name:sqi_x_preferred":[
         "Guatemala"
+    ],
+    "name:sqi_x_variant":[
+        "Guatemal\u00eb"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
@@ -503,6 +630,9 @@
     "name:swa_x_preferred":[
         "Guatemala"
     ],
+    "name:swa_x_variant":[
+        "Gwatemala"
+    ],
     "name:swe_x_preferred":[
         "Guatemala"
     ],
@@ -512,8 +642,14 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0bb2\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bbe\u0bb2\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c35\u0c3e\u0c1f\u0c3f\u0c2e\u0c3e\u0c32"
     ],
     "name:tet_x_preferred":[
         "Guatemala"
@@ -524,8 +660,21 @@
     "name:tgl_x_preferred":[
         "Guwatemala"
     ],
+    "name:tgl_x_variant":[
+        "Guatemala"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e01\u0e31\u0e27\u0e40\u0e15\u0e21\u0e32\u0e25\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e31\u0e27\u0e40\u0e15\u0e21\u0e32\u0e25\u0e32",
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e01\u0e31\u0e27\u0e40\u0e15\u0e21\u0e32\u0e25\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u1309\u12cb\u1272\u121b\u120b"
+    ],
+    "name:ton_x_preferred":[
+        "Kuatamala"
     ],
     "name:tuk_x_preferred":[
         "Gwatemala"
@@ -539,6 +688,9 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0490\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
     "name:und_x_preferred":[
         "Gvatemala"
     ],
@@ -547,6 +699,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0648\u0627\u0679\u06d2 \u0645\u0627\u0644\u0627"
     ],
     "name:uzb_x_preferred":[
         "Gvatemala"
@@ -557,8 +712,14 @@
     "name:vie_x_preferred":[
         "Guatemala"
     ],
+    "name:vie_x_variant":[
+        "Goa-t\u00ea-ma-la"
+    ],
     "name:vol_x_preferred":[
         "Gvatem\u00e4n"
+    ],
+    "name:vol_x_variant":[
+        "Gvatemal\u00e4n"
     ],
     "name:war_x_preferred":[
         "Guatemala"
@@ -581,6 +742,9 @@
     "name:yor_x_preferred":[
         "Guat\u1eb9m\u00e1l\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Guatemala"
+    ],
     "name:zea_x_preferred":[
         "Guatemala"
     ],
@@ -593,11 +757,18 @@
     "name:zho_x_preferred":[
         "\u5371\u5730\u9a6c\u62c9"
     ],
+    "name:zho_x_variant":[
+        "\u5371\u5730\u9a6c\u62c9",
+        "\u74dc\u5730\u99ac\u62c9"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5371\u5730\u99ac\u62c9"
     ],
     "name:zul_x_preferred":[
         "Guatemala"
+    ],
+    "name:zul_x_variant":[
+        "i-Guatemala"
     ],
     "ne:abbrev":"Guat.",
     "ne:abbrev_len":5,
@@ -677,6 +848,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"502",
+    "statoids:ds":"GCA",
+    "statoids:fifa":"GUA",
+    "statoids:gaul":"103",
+    "statoids:gec":"GT",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GUA",
+    "statoids:iso_a2":"GT",
+    "statoids:iso_a3":"GTM",
+    "statoids:iso_num":"320",
+    "statoids:itu":"GTM",
+    "statoids:marc":"gt",
+    "statoids:name":"Guatemala",
+    "statoids:wmo":"GU",
     "wk:latitude":15.5,
     "wk:longitude":-90.25,
     "wk:population":15468203,
@@ -688,19 +874,29 @@
     "wof:concordances":{
         "dbp:id":"Guatemala",
         "fb:id":"en.guatemala",
+        "fifa:id":"GUA",
+        "fips:code":"GT",
+        "gaul:id":"103",
         "gn:id":3595528,
         "gp:id":23424834,
         "hasc:id":"GT",
+        "ioc:id":"GUA",
+        "itu:id":"GTM",
         "loc:id":"n79054016",
+        "m49:code":"320",
+        "marc:id":"gt",
         "mzb:id":"guatemala",
+        "ne:adm0_a3":"GTM",
         "nyt:id":"55828053398718781341",
         "qs:id":466459,
+        "uncrt:id":"GCA",
         "wd:id":"Q774",
-        "wk:page":"Guatemala"
+        "wk:page":"Guatemala",
+        "wmo:id":"GU"
     },
     "wof:country":"GT",
     "wof:country_alpha3":"GTM",
-    "wof:geomhash":"d29baabdcbe0d939bcf20b0654798ec0",
+    "wof:geomhash":"7cba542d9c31ba2edc7bd5651fcd8804",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -718,11 +914,14 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1493229941,
+    "wof:lastmodified":1509142734,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":15468203,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GTM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

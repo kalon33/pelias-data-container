@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.439496,
+    "geom:area_square_m":89200876940.630157,
     "geom:bbox":"34.955471039,29.185036,39.301154,33.374735",
     "geom:latitude":31.249689,
     "geom:longitude":36.787824,
     "gn:id":"",
     "gn:population":6407085,
     "iso:country":"JO",
+    "itu:country_code":[
+        "962"
+    ],
     "lbl:latitude":30.802278,
     "lbl:longitude":36.391378,
     "mps:latitude":30.802278,
     "mps:longitude":36.391378,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Yordania"
     ],
@@ -25,11 +32,17 @@
     "name:afr_x_preferred":[
         "Jordani\u00eb"
     ],
+    "name:aka_x_preferred":[
+        "Gy\u0254dan"
+    ],
     "name:als_x_preferred":[
         "Jordanien"
     ],
     "name:amh_x_preferred":[
         "\u12ee\u122d\u12f3\u1296\u1235"
+    ],
+    "name:amh_x_variant":[
+        "\u1306\u122d\u12f3\u1295"
     ],
     "name:ang_x_preferred":[
         "Hascemisc Cyner\u012bce \u00fe\u00e6s Iordanes"
@@ -38,10 +51,15 @@
         "\u0627\u0644\u0623\u0631\u062f\u0646"
     ],
     "name:ara_x_variant":[
-        "Al Urdun"
+        "Al Urdun",
+        "\u0627\u0644\u0627\u0631\u062f\u0646",
+        "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0627\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
     ],
     "name:arc_x_preferred":[
         "\u071d\u0718\u072a\u0715\u0722\u0722"
+    ],
+    "name:arc_x_variant":[
+        "\u0718\u072a\u0715\u0722"
     ],
     "name:arg_x_preferred":[
         "Chordania"
@@ -58,11 +76,17 @@
     "name:aze_x_preferred":[
         "\u0130ordaniya"
     ],
+    "name:aze_x_variant":[
+        "\u00dcrd\u00fcn"
+    ],
     "name:bak_x_preferred":[
         "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"
     ],
     "name:bam_x_preferred":[
         "Ordon"
+    ],
+    "name:bam_x_variant":[
+        "Z\u0254rdani"
     ],
     "name:bar_x_preferred":[
         "Jordanien"
@@ -79,11 +103,18 @@
     "name:ben_x_preferred":[
         "\u099c\u09b0\u09cd\u09a6\u09be\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u099c\u09b0\u09cd\u09a1\u09a8",
+        "\u099c\u09b0\u09cd\u09a1\u09be\u09a8"
+    ],
     "name:bjn_x_preferred":[
         "Yordania"
     ],
     "name:bod_x_preferred":[
         "\u0f62\u0f97\u0f7c\u0f62\u0f0b\u0f4c\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f47\u0f7c\u0f62\u0f0b\u0f4c\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Jordan"
@@ -118,12 +149,6 @@
     "name:che_x_preferred":[
         "\u0423\u0440\u0434\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u7d04\u65e6"
-    ],
-    "name:chi_x_variant":[
-        "\u7ea6\u65e6"
-    ],
     "name:chv_x_preferred":[
         "\u0418\u043e\u0440\u0434\u0430\u043d\u0438"
     ],
@@ -142,6 +167,9 @@
     "name:cym_x_preferred":[
         "Gwlad Iorddonen"
     ],
+    "name:cym_x_variant":[
+        "Yr Iorddonen"
+    ],
     "name:cze_x_preferred":[
         "Jord\u00e1nsko"
     ],
@@ -159,9 +187,6 @@
     ],
     "name:dsb_x_preferred":[
         "Jordaniska"
-    ],
-    "name:dut_x_preferred":[
-        "Jordani\u00eb"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03bf\u03c1\u03b4\u03b1\u03bd\u03af\u03b1"
@@ -183,8 +208,14 @@
     "name:est_x_preferred":[
         "Jordaania"
     ],
+    "name:est_x_variant":[
+        "Jordan"
+    ],
     "name:eus_x_preferred":[
         "Jordania"
+    ],
+    "name:ewe_x_preferred":[
+        "Yordan nutome"
     ],
     "name:ext_x_preferred":[
         "Jordania"
@@ -194,6 +225,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u062f\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0631\u062f\u0646"
     ],
     "name:fin_x_preferred":[
         "Jordaniaan",
@@ -208,20 +242,17 @@
     "name:fra_x_preferred":[
         "Jordanie"
     ],
-    "name:fre_x_preferred":[
-        "Jordanie"
-    ],
     "name:frp_x_preferred":[
         "J\u00b7ordanie"
     ],
     "name:fry_x_preferred":[
         "Jordaanje"
     ],
+    "name:ful_x_preferred":[
+        "Jordani"
+    ],
     "name:gag_x_preferred":[
         "\u0130ordaniya"
-    ],
-    "name:ger_x_preferred":[
-        "Jordanien"
     ],
     "name:gla_x_preferred":[
         "I\u00f2rdan (d\u00f9thaich)"
@@ -231,6 +262,9 @@
     ],
     "name:glg_x_preferred":[
         "Xordania"
+    ],
+    "name:glg_x_variant":[
+        "Xordania - \u0627\u0644\u0623\u0631\u062f\u0646"
     ],
     "name:glv_x_preferred":[
         "Yn Jordaan"
@@ -243,6 +277,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac9\u0ab0\u0acd\u0aa1\u0aa8"
+    ],
+    "name:guj_x_variant":[
+        "\u0a9c\u0acb\u0ab0\u0acd\u0aa1\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Yok-tan"
@@ -267,6 +304,10 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u0949\u0930\u094d\u0921\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u091c\u094b\u0930\u094d\u0921\u0928",
+        "\u092f\u093e\u0930\u094d\u0926\u0928"
     ],
     "name:hrv_x_preferred":[
         "Jordan"
@@ -340,8 +381,14 @@
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u179f\u1780\u178a\u1784\u17cb"
     ],
+    "name:khm_x_variant":[
+        "\u17a0\u17ca\u17d2\u179f\u1780\u178a\u17b6\u1793\u17b8"
+    ],
     "name:kik_x_preferred":[
         "Jordan"
+    ],
+    "name:kik_x_variant":[
+        "Njorondani"
     ],
     "name:kin_x_preferred":[
         "Yorudani"
@@ -364,6 +411,12 @@
     "name:kur_x_preferred":[
         "Urdun"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u0648\u0631\u062f\u0646"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e88\u0ecd\u0ec1\u0e94\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Iordania"
     ],
@@ -382,6 +435,9 @@
     "name:lin_x_preferred":[
         "Zordan\u00ed"
     ],
+    "name:lin_x_variant":[
+        "Z\u0254dani"
+    ],
     "name:lit_x_preferred":[
         "Jordanija"
     ],
@@ -394,11 +450,20 @@
     "name:ltz_x_preferred":[
         "Jordanien"
     ],
+    "name:lub_x_preferred":[
+        "Jodani"
+    ],
+    "name:lug_x_preferred":[
+        "Yorodani"
+    ],
     "name:mai_x_preferred":[
         "\u091c\u094b\u0930\u094d\u0921\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d4b\u0d7c\u0d26\u0d3e\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d1c\u0d4b\u0d30\u0d4d\u200d\u0d26\u0d4d\u0d26\u0d3e\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u091c\u0949\u0930\u094d\u0921\u0928"
@@ -424,6 +489,9 @@
     "name:mya_x_preferred":[
         "\u1002\u103b\u1031\u102c\u103a\u1012\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1002\u103b\u1031\u102c\u103a\u1012\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0631\u062f\u0648\u0646"
     ],
@@ -435,6 +503,9 @@
     ],
     "name:nav_x_preferred":[
         "J\u00f3o\u02bcdan"
+    ],
+    "name:nde_x_preferred":[
+        "Jodani"
     ],
     "name:nds_x_preferred":[
         "Jordanien"
@@ -451,6 +522,9 @@
     "name:nno_x_preferred":[
         "Jordan"
     ],
+    "name:nob_x_preferred":[
+        "Jordan"
+    ],
     "name:nor_x_preferred":[
         "Jordan"
     ],
@@ -462,6 +536,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b1c\u0b4b\u0b30\u0b4d\u0b21\u0b3e\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b1c\u0b4b\u0b30\u0b4d\u0b21\u0b3e\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Joordaan"
@@ -502,6 +579,9 @@
     "name:que_x_preferred":[
         "Hurdanya"
     ],
+    "name:roh_x_preferred":[
+        "Jordania"
+    ],
     "name:ron_x_preferred":[
         "Iordania"
     ],
@@ -511,8 +591,14 @@
     "name:rum_x_preferred":[
         "Iordania"
     ],
+    "name:run_x_preferred":[
+        "Yorudaniya"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Zordan\u00efi"
     ],
     "name:sah_x_preferred":[
         "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"
@@ -535,6 +621,9 @@
     "name:slv_x_preferred":[
         "Jordanija"
     ],
+    "name:slv_x_variant":[
+        "Jordan"
+    ],
     "name:sme_x_preferred":[
         "Jord\u00e1nia"
     ],
@@ -552,6 +641,9 @@
     ],
     "name:sqi_x_preferred":[
         "Jordania"
+    ],
+    "name:sqi_x_variant":[
+        "Jordani"
     ],
     "name:srn_x_preferred":[
         "Jordanikondre"
@@ -580,11 +672,17 @@
     "name:tam_x_preferred":[
         "\u0b9c\u0bcb\u0bb0\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9c\u0bca\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u04ae\u0440\u0434\u04af\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c4b\u0c30\u0c4d\u0c21\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c1c\u0c3e\u0c30\u0c4d\u0c21\u0c3e\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Jord\u00e1nia"
@@ -594,6 +692,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e08\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u1306\u122d\u12f3\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Soatane"
     ],
     "name:tuk_x_preferred":[
         "Iordani\u00fda"
@@ -618,6 +725,9 @@
         "J\u00f3rdan\u00eda",
         "Urdunn"
     ],
+    "name:unk_x_variant":[
+        "Al Mamlakah al Urdun\u012byah al H\u0101shim\u012byah"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u062f\u0646"
     ],
@@ -632,6 +742,10 @@
     ],
     "name:vie_x_preferred":[
         "Jordan"
+    ],
+    "name:vie_x_variant":[
+        "Gi\u00f3c-\u0111a-ni",
+        "Gio\u00f3c-\u0111a-ni (Jordan)"
     ],
     "name:vol_x_preferred":[
         "Yord\u00e4n"
@@ -654,8 +768,14 @@
     "name:yid_x_preferred":[
         "\u05d9\u05d0\u05e8\u05d3\u05d0\u05e0\u05d9\u05e2"
     ],
+    "name:yid_x_variant":[
+        "\u05d9\u05d0\u05b7\u05e8\u05d3\u05df"
+    ],
     "name:yor_x_preferred":[
         "J\u1ecd\u0301rd\u00e1n\u00ec"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de J\u1ecddani"
     ],
     "name:zea_x_preferred":[
         "Jordaoni\u00eb"
@@ -666,8 +786,15 @@
     "name:zho_x_preferred":[
         "\u7ea6\u65e6"
     ],
+    "name:zho_x_variant":[
+        "\u7d04\u65e6",
+        "\u7ea6\u65e6"
+    ],
     "name:zho_yue_x_preferred":[
         "\u7d04\u65e6"
+    ],
+    "name:zul_x_preferred":[
+        "i-Jordan"
     ],
     "ne:abbrev":"Jord.",
     "ne:abbrev_len":5,
@@ -746,6 +873,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"962",
+    "statoids:ds":"HKJ",
+    "statoids:fifa":"JOR",
+    "statoids:gaul":"130",
+    "statoids:gec":"JO",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"JOR",
+    "statoids:iso_a2":"JO",
+    "statoids:iso_a3":"JOR",
+    "statoids:iso_num":"400",
+    "statoids:itu":"JOR",
+    "statoids:marc":"jo",
+    "statoids:name":"Jordan",
+    "statoids:wmo":"JD",
     "wk:latitude":31.016667,
     "wk:longitude":36.616667,
     "wk:wordcount":15294,
@@ -756,19 +898,29 @@
     "wof:concordances":{
         "dbp:id":"Jordan",
         "fb:id":"en.jordan",
+        "fifa:id":"JOR",
+        "fips:code":"JO",
+        "gaul:id":"130",
         "gn:id":248816,
         "gp:id":23424860,
         "hasc:id":"JO",
+        "ioc:id":"JOR",
+        "itu:id":"JOR",
         "loc:id":"n79072819",
+        "m49:code":"400",
+        "marc:id":"jo",
         "mzb:id":"jordan",
+        "ne:adm0_a3":"JOR",
         "nyt:id":"59436041772069601281",
         "qs:id":1060792,
+        "uncrt:id":"HKJ",
         "wd:id":"Q810",
-        "wk:page":"Jordan"
+        "wk:page":"Jordan",
+        "wmo:id":"JD"
     },
     "wof:country":"JO",
     "wof:country_alpha3":"JOR",
-    "wof:geomhash":"28699274175b2c9b57b62fa11acd3781",
+    "wof:geomhash":"d5041892c3175a15ce57e31977754844",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -785,11 +937,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1493229953,
+    "wof:lastmodified":1509142784,
     "wof:name":"Jordan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":6407085,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"JOR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

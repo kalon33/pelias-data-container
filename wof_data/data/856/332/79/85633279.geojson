@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.504865,
+    "geom:area_square_m":64263425505.213943,
     "geom:bbox":"20.968598,55.666991,28.217275,58.075138",
     "geom:latitude":56.851819,
     "geom:longitude":24.908622,
     "gn:population":2217969,
     "iso:country":"LV",
+    "itu:country_code":[
+        "371"
+    ],
     "lbl:latitude":57.06689,
     "lbl:longitude":25.458464,
     "mps:latitude":57.06689,
     "mps:longitude":25.458464,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Latvia"
     ],
@@ -23,6 +30,9 @@
     ],
     "name:afr_x_preferred":[
         "Letland"
+    ],
+    "name:aka_x_preferred":[
+        "Latvia"
     ],
     "name:als_x_preferred":[
         "Lettland"
@@ -57,6 +67,9 @@
     "name:bak_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Letoni"
+    ],
     "name:bar_x_preferred":[
         "Lettland"
     ],
@@ -72,14 +85,23 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09a4\u09ad\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be\u09a4\u09cd\u09ad\u09bf\u09df\u09be"
+    ],
     "name:bis_x_preferred":[
         "Latvia"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f0b\u0f4a\u0f0b\u0f5d\u0f72\u0f61\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f63\u0f4f\u0f0b\u0f56\u0f72\u0f0b\u0f61\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Latvija"
+    ],
+    "name:bos_x_variant":[
+        "Letonija"
     ],
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09a4\u09ad\u09bf\u09af\u09bc\u09be"
@@ -107,12 +129,6 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u62c9\u812b\u7dad\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u62c9\u8131\u7ef4\u4e9a"
     ],
     "name:chr_x_preferred":[
         "\u13b3\u13d8\u13eb\u13a0"
@@ -150,6 +166,9 @@
     "name:deu_x_preferred":[
         "Lettland"
     ],
+    "name:deu_x_variant":[
+        "Republik Lettland"
+    ],
     "name:diq_x_preferred":[
         "Letonya"
     ],
@@ -159,14 +178,14 @@
     "name:dsb_x_preferred":[
         "Letiska"
     ],
-    "name:dut_x_preferred":[
-        "Letland"
-    ],
     "name:dzo_x_preferred":[
         "\u0f63\u0f7a\u0f4a\u0f72\u0f0b\u0f56\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b5\u03c4\u03bf\u03bd\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c4\u03c4\u03bf\u03bd\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Latvia"
@@ -183,6 +202,9 @@
     "name:epo_x_preferred":[
         "Latvio"
     ],
+    "name:epo_x_variant":[
+        "Latvujo"
+    ],
     "name:est_x_preferred":[
         "L\u00e4ti"
     ],
@@ -191,6 +213,9 @@
     ],
     "name:ewe_x_preferred":[
         "Latvia"
+    ],
+    "name:ewe_x_variant":[
+        "Latvia nutome"
     ],
     "name:ext_x_preferred":[
         "Letonia"
@@ -201,6 +226,9 @@
     "name:fas_x_preferred":[
         "\u0644\u062a\u0648\u0646\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u062a\u0648\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Latvia"
     ],
@@ -208,9 +236,6 @@
         "Latvian"
     ],
     "name:fra_x_preferred":[
-        "Lettonie"
-    ],
-    "name:fre_x_preferred":[
         "Lettonie"
     ],
     "name:frp_x_preferred":[
@@ -225,17 +250,14 @@
     "name:ful_x_preferred":[
         "Latvia"
     ],
+    "name:ful_x_variant":[
+        "Letonii"
+    ],
     "name:fur_x_preferred":[
         "Letonie"
     ],
     "name:gag_x_preferred":[
         "Latviya"
-    ],
-    "name:ger_x_preferred":[
-        "Lettland"
-    ],
-    "name:ger_x_variant":[
-        "Republik Lettland"
     ],
     "name:gla_x_preferred":[
         "An Laitbhe"
@@ -245,6 +267,9 @@
     ],
     "name:glg_x_preferred":[
         "Letonia"
+    ],
+    "name:glg_x_variant":[
+        "Letonia - Latvija"
     ],
     "name:glv_x_preferred":[
         "Yn Latvey"
@@ -258,6 +283,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a9f\u0ab5\u0abf\u0aaf\u0abe"
     ],
+    "name:guj_x_variant":[
+        "\u0ab2\u0abe\u0aa4\u0acd\u0ab5\u0abf\u0aaf\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Latvia"
     ],
@@ -266,6 +294,9 @@
     ],
     "name:hau_x_preferred":[
         "Laitfiya"
+    ],
+    "name:hau_x_variant":[
+        "latibiya"
     ],
     "name:haw_x_preferred":[
         "Lakawia"
@@ -276,14 +307,24 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d8\u05d1\u05d9\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d0\u05d8\u05d1\u05d9\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Latvia"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0924\u0935\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0932\u093e\u0924\u094d\u0935\u093f\u092f\u093e",
+        "\u0932\u093e\u091f\u0935\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Latvija"
+    ],
+    "name:hrv_x_variant":[
+        "Letonija"
     ],
     "name:hsb_x_preferred":[
         "Letiska"
@@ -308,6 +349,9 @@
     ],
     "name:ina_x_preferred":[
         "Latvia"
+    ],
+    "name:ina_x_variant":[
+        "Lettonia"
     ],
     "name:ind_x_preferred":[
         "Latvia"
@@ -339,6 +383,9 @@
     "name:kal_x_preferred":[
         "Letlandi"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe\u0c9f\u0ccd\u0cb5\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d0\u10e2\u10d5\u10d8\u10d0"
     ],
@@ -347,6 +394,12 @@
     ],
     "name:kbd_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438\u044d"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a1\u17b6\u178f\u179c\u17b8\u1799\u17c9\u17b6"
+    ],
+    "name:kik_x_preferred":[
+        "Lativia"
     ],
     "name:kin_x_preferred":[
         "Lativiya"
@@ -372,17 +425,26 @@
     "name:kur_x_preferred":[
         "Letonya"
     ],
+    "name:kur_x_variant":[
+        "\u0644\u0627\u062a\u06a4\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Letonia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec1\u0ea5\u0e94\u0ec2\u0e95\u0e99\u0eb5"
     ],
+    "name:lao_x_variant":[
+        "\u0ea5\u0ebc\u0eb2\u0e94\u0ec0\u0ea7\u0e8d"
+    ],
     "name:lat_x_preferred":[
         "Lettonia"
     ],
     "name:lav_x_preferred":[
         "Latvija"
+    ],
+    "name:lav_x_variant":[
+        "Latvijas Republika"
     ],
     "name:lez_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438\u044f"
@@ -411,11 +473,23 @@
     "name:ltz_x_preferred":[
         "Lettland"
     ],
+    "name:lub_x_preferred":[
+        "Letoni"
+    ],
+    "name:lug_x_preferred":[
+        "Lativya"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3e\u0d24\u0d4d\u200c\u0d35\u0d3f\u0d2f"
     ],
+    "name:mal_x_variant":[
+        "\u0d32\u0d3e\u0d24\u0d4d\u0d35\u0d3f\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0924\u094d\u0935\u094d\u0939\u093f\u092f\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0932\u093e\u091f\u094d\u200c\u0935\u093f\u092f\u093e"
     ],
     "name:mdf_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438\u0435"
@@ -428,6 +502,9 @@
     ],
     "name:mlg_x_preferred":[
         "Latvia"
+    ],
+    "name:mlg_x_variant":[
+        "Letonia"
     ],
     "name:mlt_x_preferred":[
         "Latvja"
@@ -447,6 +524,9 @@
     "name:mya_x_preferred":[
         "\u101c\u1010\u103a\u1017\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u101c\u1010\u103a\u1017\u102e\u1038\u101a\u102c\u1038"
+    ],
     "name:myv_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -459,6 +539,9 @@
     "name:nav_x_preferred":[
         "L\u00e9tbiiya"
     ],
+    "name:nde_x_preferred":[
+        "Latvia"
+    ],
     "name:nds_nld_x_preferred":[
         "Letlaand"
     ],
@@ -468,6 +551,9 @@
     "name:nep_x_preferred":[
         "\u0932\u093e\u0924\u094d\u092d\u093f\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0932\u093e\u091f\u094d\u092d\u093f\u092f\u093e"
+    ],
     "name:new_x_preferred":[
         "\u0932\u093e\u0924\u094d\u092d\u093f\u092f\u093e"
     ],
@@ -475,6 +561,9 @@
         "Letland"
     ],
     "name:nno_x_preferred":[
+        "Latvia"
+    ],
+    "name:nob_x_preferred":[
         "Latvia"
     ],
     "name:nor_x_preferred":[
@@ -540,6 +629,9 @@
     "name:que_x_preferred":[
         "Litunya"
     ],
+    "name:que_x_variant":[
+        "Lituniya"
+    ],
     "name:rmy_x_preferred":[
         "Latviya"
     ],
@@ -549,14 +641,23 @@
     "name:ron_x_preferred":[
         "Letonia"
     ],
+    "name:ron_x_variant":[
+        "\u041b\u0435\u0442\u043e\u043d\u0438\u044f"
+    ],
     "name:rue_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0456\u044f"
     ],
     "name:rum_x_preferred":[
         "Letonia"
     ],
+    "name:run_x_preferred":[
+        "Lativa"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Leton\u00f9ii"
     ],
     "name:sah_x_preferred":[
         "\u041b\u0430\u0442\u0432\u0438\u044f"
@@ -569,6 +670,9 @@
     ],
     "name:sco_x_preferred":[
         "Latvie"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd0\u0da7\u0dca\u0dc0\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Loty\u0161sko"
@@ -597,6 +701,9 @@
     "name:sqi_x_preferred":[
         "Letonia"
     ],
+    "name:sqi_x_variant":[
+        "Letoni"
+    ],
     "name:srd_x_preferred":[
         "Lettonia"
     ],
@@ -618,6 +725,9 @@
     "name:swa_x_preferred":[
         "Latvia"
     ],
+    "name:swa_x_variant":[
+        "Lativia"
+    ],
     "name:swe_x_preferred":[
         "Lettland"
     ],
@@ -627,11 +737,17 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe\u0ba4\u0bcd\u0bb5\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bb2\u0bbe\u0b9f\u0bcd\u0bb5\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "Latvi\u00e4"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c1f\u0c4d\u0c35\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c32\u0c3e\u0c1f\u0c4d\u0c35\u0c3f\u0c2f"
     ],
     "name:tet_x_preferred":[
         "Let\u00f3nia"
@@ -644,6 +760,16 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e31\u0e15\u0e40\u0e27\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e31\u0e15\u0e40\u0e27\u0e35\u0e22",
+        "\u0e25\u0e31\u0e17\u0e40\u0e27\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u120b\u1275\u126a\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Lativia"
     ],
     "name:tpi_x_preferred":[
         "Latvia"
@@ -678,6 +804,9 @@
         "Let\u00f2nia",
         "Republika Latvija"
     ],
+    "name:unk_x_variant":[
+        "Latviyskaya Sovetskaya Sotsialisticheskaya Respublika"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0679\u0648\u06cc\u0627"
     ],
@@ -692,6 +821,9 @@
     ],
     "name:vie_x_preferred":[
         "Latvia"
+    ],
+    "name:vie_x_variant":[
+        "L\u00e1t-vi-a"
     ],
     "name:vls_x_preferred":[
         "Letland"
@@ -720,6 +852,9 @@
     "name:yor_x_preferred":[
         "L\u00e1tf\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Latifia"
+    ],
     "name:zea_x_preferred":[
         "Letland"
     ],
@@ -730,6 +865,7 @@
         "\u62c9\u812b\u7dad\u4e9e"
     ],
     "name:zho_x_variant":[
+        "\u62c9\u8131\u7ef4\u4e9a",
         "\u62c9\u812b\u7dad\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -737,6 +873,9 @@
     ],
     "name:zul_x_preferred":[
         "ILatviya"
+    ],
+    "name:zul_x_variant":[
+        "i-Latvia"
     ],
     "ne:abbrev":"Lat.",
     "ne:abbrev_len":4,
@@ -811,11 +950,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633279-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"371",
+    "statoids:ds":"LV",
+    "statoids:fifa":"LVA",
+    "statoids:gaul":"140",
+    "statoids:gec":"LG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"LAT",
+    "statoids:iso_a2":"LV",
+    "statoids:iso_a3":"LVA",
+    "statoids:iso_num":"428",
+    "statoids:itu":"LVA",
+    "statoids:marc":"lv",
+    "statoids:name":"Latvia",
+    "statoids:wmo":"LV",
     "wk:latitude":57.0,
     "wk:longitude":25.0,
     "wk:population":1989500,
@@ -827,19 +983,29 @@
     "wof:concordances":{
         "dbp:id":"Latvia",
         "fb:id":"en.latvia",
+        "fifa:id":"LVA",
+        "fips:code":"LG",
+        "gaul:id":"140",
         "gn:id":458258,
         "gp:id":23424874,
         "hasc:id":"LV",
+        "ioc:id":"LAT",
+        "itu:id":"LVA",
         "loc:id":"n80150219",
+        "m49:code":"428",
+        "marc:id":"lv",
         "mzb:id":"latvia",
+        "ne:adm0_a3":"LVA",
         "nyt:id":"66221088401957355521",
         "qs:id":80369,
+        "uncrt:id":"LV",
         "wd:id":"Q211",
-        "wk:page":"Latvia"
+        "wk:page":"Latvia",
+        "wmo:id":"LV"
     },
     "wof:country":"LV",
     "wof:country_alpha3":"LVA",
-    "wof:geomhash":"a1dd6eeebb3218d20e998a00105c7167",
+    "wof:geomhash":"0e22a5004fea4b9539dd4e12f6f07954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -856,11 +1022,14 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1493230204,
+    "wof:lastmodified":1509142793,
     "wof:name":"Latvia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":1989500,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"LVA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

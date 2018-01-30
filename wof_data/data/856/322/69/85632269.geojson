@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":100.458237,
+    "geom:area_square_m":1183942322680.455566,
     "geom:bbox":"0.166667,11.693756,15.999034,23.499999964",
     "geom:latitude":17.410127,
     "geom:longitude":9.402888,
     "gn:id":"",
     "gn:population":15878271,
     "iso:country":"NE",
+    "itu:country_code":[
+        "227"
+    ],
     "lbl:latitude":17.431408,
     "lbl:longitude":9.521564,
     "mps:latitude":17.431408,
     "mps:longitude":9.521564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Niger"
     ],
@@ -26,14 +33,26 @@
     "name:afr_x_preferred":[
         "Niger"
     ],
+    "name:afr_x_variant":[
+        "Nigeri\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Nigy\u025b"
+    ],
     "name:als_x_preferred":[
         "Niger"
     ],
     "name:amh_x_preferred":[
         "\u1292\u1304\u122d"
     ],
+    "name:amh_x_variant":[
+        "\u1292\u1300\u122d"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u064a\u062c\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u062c\u0631"
     ],
     "name:arc_x_preferred":[
         "\u0722\u071d\u0713\u072a"
@@ -49,6 +68,9 @@
     ],
     "name:aze_x_preferred":[
         "Niger"
+    ],
+    "name:aze_x_variant":[
+        "Nijer"
     ],
     "name:bak_x_preferred":[
         "\u041d\u0438\u0433\u0435\u0440"
@@ -73,6 +95,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f53\u0f72\u0f0b\u0f47\u0f62\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f53\u0f60\u0f72\u0f0b\u0f47\u0f62\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Niger"
@@ -103,13 +128,6 @@
     ],
     "name:che_x_preferred":[
         "\u041d\u0438\u0433\u0435\u0440"
-    ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u65e5"
-    ],
-    "name:chi_x_variant":[
-        "\u5c3c\u65e5",
-        "\u5c3c\u65e5\u5c14"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u062c\u06d5\u0631"
@@ -144,6 +162,9 @@
     "name:ell_x_preferred":[
         "\u039d\u03af\u03b3\u03b7\u03c1\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03af\u03b3\u03b7\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Niger"
     ],
@@ -168,6 +189,9 @@
     "name:ewe_x_preferred":[
         "Nidz\u025b"
     ],
+    "name:ewe_x_variant":[
+        "Niger nutome"
+    ],
     "name:ext_x_preferred":[
         "Nigi"
     ],
@@ -183,8 +207,8 @@
     "name:fra_x_preferred":[
         "Niger"
     ],
-    "name:fre_x_preferred":[
-        "Niger"
+    "name:fra_x_variant":[
+        "R\u00e9publique du Niger"
     ],
     "name:frp_x_preferred":[
         "Nig\u00b7\u00e8r"
@@ -195,6 +219,9 @@
     "name:ful_x_preferred":[
         "Niiser"
     ],
+    "name:ful_x_variant":[
+        "Nijeer"
+    ],
     "name:gag_x_preferred":[
         "Niger"
     ],
@@ -203,6 +230,9 @@
     ],
     "name:gla_x_preferred":[
         "N\u00ecgeir"
+    ],
+    "name:gla_x_variant":[
+        "Niger"
     ],
     "name:gle_x_preferred":[
         "An N\u00edgir"
@@ -215,6 +245,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a88\u0a9c\u0ab0"
+    ],
+    "name:guj_x_variant":[
+        "\u0aa8\u0abe\u0a87\u0a9c\u0ab0"
     ],
     "name:hak_x_preferred":[
         "Niger"
@@ -230,6 +263,10 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d6'\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d9\u05d6\u05f3\u05e8",
+        "\u05e0\u05d9\u05d2\u05e8\u05d9\u05d4"
     ],
     "name:hif_x_preferred":[
         "Niger"
@@ -289,14 +326,32 @@
     "name:kab_x_preferred":[
         "Nijir"
     ],
+    "name:kal_x_preferred":[
+        "Niger"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc8\u0c9c\u0cb0\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "\u0928\u0940\u091c\u0947"
+    ],
+    "name:kas_x_variant":[
+        "N\u012bj\u0113"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10d2\u10d4\u10e0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u0438\u0433\u0435\u0440"
     ],
+    "name:khm_x_preferred":[
+        "\u1793\u17b8\u17a0\u17d2\u179f\u17c1\u179a"
+    ],
     "name:kik_x_preferred":[
         "Niger"
+    ],
+    "name:kik_x_variant":[
+        "Nijeri"
     ],
     "name:kin_x_preferred":[
         "Nigeri"
@@ -313,8 +368,17 @@
     "name:kur_x_preferred":[
         "N\u00eejer"
     ],
+    "name:kur_x_variant":[
+        "\u0646\u06cc\u062c\u06d5\u0631"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec4\u0e99\u0ec0\u0e88\u0eb5"
+    ],
     "name:lat_x_preferred":[
         "Nigritania"
+    ],
+    "name:lat_x_variant":[
+        "Niger"
     ],
     "name:lav_x_preferred":[
         "Nig\u0113ra"
@@ -328,6 +392,9 @@
     "name:lin_x_preferred":[
         "Nizer"
     ],
+    "name:lin_x_variant":[
+        "Niz\u025br\u025b"
+    ],
     "name:lit_x_preferred":[
         "Nigeris"
     ],
@@ -340,20 +407,35 @@
     "name:ltz_x_preferred":[
         "Niger"
     ],
+    "name:lub_x_preferred":[
+        "Nijere"
+    ],
     "name:lug_x_preferred":[
         "Niger"
+    ],
+    "name:lug_x_variant":[
+        "Nije"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d40\u0d37\u0d7c"
     ],
+    "name:mal_x_variant":[
+        "\u0d28\u0d48\u0d1c\u0d30\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u092f\u091c\u0930"
+    ],
+    "name:mar_x_variant":[
+        "\u0928\u093e\u0907\u091c\u0930"
     ],
     "name:min_x_preferred":[
         "Niger"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0438\u0433\u0435\u0440"
+    ],
+    "name:mlg_x_preferred":[
+        "Niger"
     ],
     "name:mlt_x_preferred":[
         "Ni\u0121er"
@@ -370,8 +452,14 @@
     "name:mya_x_preferred":[
         "\u1014\u102d\u102f\u1004\u103a\u1002\u103b\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1014\u102d\u102f\u1004\u103a\u1002\u103b\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u062c\u0631"
+    ],
+    "name:nde_x_preferred":[
+        "Niger"
     ],
     "name:nds_nld_x_preferred":[
         "Niger (laand)",
@@ -380,8 +468,14 @@
     "name:nds_x_preferred":[
         "Republiek Niger"
     ],
+    "name:nds_x_variant":[
+        "Republik Niger"
+    ],
     "name:nep_x_preferred":[
         "\u0928\u093e\u0908\u091c\u0930"
+    ],
+    "name:nep_x_variant":[
+        "\u0928\u093e\u0907\u091c\u0930"
     ],
     "name:new_x_preferred":[
         "\u0928\u093e\u0907\u091c\u0930"
@@ -391,6 +485,9 @@
         "Niger"
     ],
     "name:nno_x_preferred":[
+        "Niger"
+    ],
+    "name:nob_x_preferred":[
         "Niger"
     ],
     "name:nor_x_preferred":[
@@ -408,6 +505,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b28\u0b3e\u0b07\u0b1c\u0b30"
+    ],
+    "name:ori_x_variant":[
+        "\u0b28\u0b3e\u0b07\u0b1c\u0b30\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Niijer"
@@ -446,11 +546,17 @@
     "name:que_x_preferred":[
         "Niqir"
     ],
+    "name:roh_x_preferred":[
+        "Niger"
+    ],
     "name:ron_x_preferred":[
         "Niger"
     ],
     "name:rue_x_preferred":[
         "\u041d\u0456\u0491\u0435\u0440"
+    ],
+    "name:run_x_preferred":[
+        "Nijeri"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0433\u0435\u0440"
@@ -488,6 +594,9 @@
     "name:som_x_preferred":[
         "Nayjar"
     ],
+    "name:som_x_variant":[
+        "Nayjer"
+    ],
     "name:sot_x_preferred":[
         "Niger"
     ],
@@ -515,6 +624,9 @@
     "name:swa_x_preferred":[
         "Niger"
     ],
+    "name:swa_x_variant":[
+        "Nijeri"
+    ],
     "name:swe_x_preferred":[
         "Niger"
     ],
@@ -536,8 +648,17 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e19\u0e40\u0e08\u0e2d\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e19\u0e40\u0e08\u0e2d\u0e23\u0e4c"
+    ],
     "name:tir_x_preferred":[
         "\u1293\u12ed\u1300\u122d"
+    ],
+    "name:tir_x_variant":[
+        "\u1292\u1300\u122d"
+    ],
+    "name:ton_x_preferred":[
+        "Naisia"
     ],
     "name:tso_x_preferred":[
         "Niger"
@@ -554,11 +675,17 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0433\u0435\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u041d\u0456\u0491\u0435\u0440"
+    ],
     "name:und_x_variant":[
         "Republika Niger"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0626\u062c\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u041d\u0438\u0433\u0435\u0440"
     ],
     "name:uzb_x_preferred":[
         "Niger"
@@ -571,6 +698,10 @@
     ],
     "name:vie_x_preferred":[
         "Niger"
+    ],
+    "name:vie_x_variant":[
+        "Ni-gi\u00ea",
+        "Ni-gi\u00ea (Niger)"
     ],
     "name:vol_x_preferred":[
         "Niger\u00e4n"
@@ -593,10 +724,17 @@
     "name:yor_x_preferred":[
         "N\u00ecj\u1eb9\u0300r"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de N\u00e0\u00ecj\u00e1"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Niger"
     ],
     "name:zho_x_preferred":[
+        "\u5c3c\u65e5\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u65e5",
         "\u5c3c\u65e5\u5c14"
     ],
     "name:zho_yue_x_preferred":[
@@ -604,6 +742,9 @@
     ],
     "name:zul_x_preferred":[
         "INayighe"
+    ],
+    "name:zul_x_variant":[
+        "i-Niger"
     ],
     "ne:abbrev":"Niger",
     "ne:abbrev_len":5,
@@ -683,6 +824,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"227",
+    "statoids:ds":"RN",
+    "statoids:fifa":"NIG",
+    "statoids:gaul":"181",
+    "statoids:gec":"NG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"NIG",
+    "statoids:iso_a2":"NE",
+    "statoids:iso_a3":"NER",
+    "statoids:iso_num":"562",
+    "statoids:itu":"NGR",
+    "statoids:marc":"ng",
+    "statoids:name":"Niger",
+    "statoids:wmo":"NR",
     "wk:latitude":16.0,
     "wk:longitude":10.0,
     "wk:population":17831270,
@@ -694,19 +850,29 @@
     "wof:concordances":{
         "dbp:id":"Niger",
         "fb:id":"en.niger",
+        "fifa:id":"NIG",
+        "fips:code":"NG",
+        "gaul:id":"181",
         "gn:id":2440476,
         "gp:id":23424906,
         "hasc:id":"NE",
+        "ioc:id":"NIG",
+        "itu:id":"NGR",
         "loc:id":"n79065240",
+        "m49:code":"562",
+        "marc:id":"ng",
         "mzb:id":"niger",
+        "ne:adm0_a3":"NER",
         "nyt:id":"47730220596765655041",
         "qs:id":91450,
+        "uncrt:id":"RN",
         "wd:id":"Q1032",
-        "wk:page":"Niger"
+        "wk:page":"Niger",
+        "wmo:id":"NR"
     },
     "wof:country":"NE",
     "wof:country_alpha3":"NER",
-    "wof:geomhash":"e21ed6bd51772edcd29ee6f63276eee6",
+    "wof:geomhash":"a3e2f268e2c59c0142e8d1aae206742a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -723,11 +889,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493229905,
+    "wof:lastmodified":1509142975,
     "wof:name":"Niger",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":17831270,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"NER",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

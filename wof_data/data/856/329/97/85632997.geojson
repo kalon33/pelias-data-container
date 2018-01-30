@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.897028,
+    "geom:area_square_m":30558539374.825443,
     "geom:bbox":"2.546011,49.497238,6.406391,51.5048445",
     "geom:latitude":50.640991,
     "geom:longitude":4.66092,
     "gn:population":10403000,
     "iso:country":"BE",
+    "itu:country_code":[
+        "32"
+    ],
     "lbl:latitude":50.780688,
     "lbl:longitude":4.792712,
     "mps:latitude":50.780688,
     "mps:longitude":4.792712,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "B\u00e8lgia"
     ],
@@ -24,14 +31,26 @@
     "name:afr_x_preferred":[
         "Belgi\u00eb"
     ],
+    "name:aka_x_preferred":[
+        "B\u025blgyium"
+    ],
+    "name:alb_x_preferred":[
+        "Belgjika"
+    ],
     "name:als_x_preferred":[
         "Belgien"
     ],
     "name:amh_x_preferred":[
         "\u1264\u120d\u1305\u130d"
     ],
+    "name:amh_x_variant":[
+        "\u1264\u120d\u1304\u121d"
+    ],
     "name:ang_x_preferred":[
         "Belgice"
+    ],
+    "name:ang_x_variant":[
+        "Belgium"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062c\u064a\u0643\u0627"
@@ -39,8 +58,14 @@
     "name:arc_x_preferred":[
         "\u0712\u0720\u0713\u071d\u0729\u0710"
     ],
+    "name:arc_x_variant":[
+        "\u0712\u0720\u0713\u071d\u071f\u0710"
+    ],
     "name:arg_x_preferred":[
         "Belchica"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0565\u056c\u0563\u056b\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0644\u062c\u064a\u0643\u0627"
@@ -66,8 +91,15 @@
     "name:bam_x_preferred":[
         "B\u025bliziki"
     ],
+    "name:baq_x_preferred":[
+        "Belgika"
+    ],
     "name:bar_x_preferred":[
         "Bejgien"
+    ],
+    "name:bar_x_variant":[
+        "Belgien",
+        "B\u00e4igien"
     ],
     "name:bcl_x_preferred":[
         "Belhika"
@@ -81,11 +113,24 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u099c\u09bf\u09af\u09bc\u09be\u09ae"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u09b2\u09cd\u099c\u09bf\u09df\u09ae"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0628\u0644\u062c\u06cc\u0645"
+    ],
+    "name:bho_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    ],
     "name:bis_x_preferred":[
         "Beljiom"
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f7a\u0f62\u0f0b\u0f45\u0f72\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f54\u0f7a\u0f62\u0f0b\u0f45\u0f72\u0f53",
+        "\u0f56\u0f7a\u0f63\u0f0b\u0f47\u0f72\u0f0b\u0f61\u0f58\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Belgija"
@@ -101,6 +146,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0438\u044f"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u101a\u1019\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0433\u0438"
@@ -124,9 +172,6 @@
         "\u0411\u0435\u043b\u044c\u0433\u0438"
     ],
     "name:chi_x_preferred":[
-        "\u6bd4\u5229\u6642"
-    ],
-    "name:chi_x_variant":[
         "\u6bd4\u5229\u65f6"
     ],
     "name:chr_x_preferred":[
@@ -162,8 +207,15 @@
     "name:dan_x_preferred":[
         "Belgien"
     ],
+    "name:deu_x_colloquial":[
+        "Koenigreich Belgien",
+        "Konigreich Belgien"
+    ],
     "name:deu_x_preferred":[
         "Belgien"
+    ],
+    "name:deu_x_variant":[
+        "K\u00f6nigreich Belgien"
     ],
     "name:diq_x_preferred":[
         "Bel\u00e7\u0131ka"
@@ -174,17 +226,20 @@
     "name:dsb_x_preferred":[
         "Belgiska"
     ],
+    "name:dty_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    ],
     "name:dut_x_preferred":[
         "Belgi\u00eb"
-    ],
-    "name:dut_x_variant":[
-        "Koninkrijk Belgi\u00eb"
     ],
     "name:dzo_x_preferred":[
         "\u0f56\u0f7a\u0f63\u0f0b\u0f47\u0f72\u0f61\u0f58"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03ad\u03bb\u03b3\u03b9\u03bf"
+    ],
+    "name:eml_x_preferred":[
+        "B\u00e9lgi"
     ],
     "name:eng_x_preferred":[
         "Belgium"
@@ -201,6 +256,9 @@
     "name:epo_x_preferred":[
         "Belgio"
     ],
+    "name:epo_x_variant":[
+        "Belgujo"
+    ],
     "name:est_x_preferred":[
         "Belgia"
     ],
@@ -209,6 +267,9 @@
     ],
     "name:ewe_x_preferred":[
         "Belgium"
+    ],
+    "name:ewe_x_variant":[
+        "Belgium nutome"
     ],
     "name:ext_x_preferred":[
         "B\u00e9lgica"
@@ -231,11 +292,11 @@
     "name:fra_x_preferred":[
         "Belgique"
     ],
+    "name:fra_x_variant":[
+        "Royaume de Belgique"
+    ],
     "name:fre_x_preferred":[
         "Belgique"
-    ],
-    "name:fre_x_variant":[
-        "Royaume de Belgique"
     ],
     "name:frp_x_preferred":[
         "B\u00e8lg\u00b7ique"
@@ -255,18 +316,17 @@
     "name:gag_x_preferred":[
         "Belgiya"
     ],
-    "name:ger_x_colloquial":[
-        "Koenigreich Belgien",
-        "Konigreich Belgien"
+    "name:geo_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d2\u10d8\u10d0"
     ],
     "name:ger_x_preferred":[
         "Belgien"
     ],
-    "name:ger_x_variant":[
-        "K\u00f6nigreich Belgien"
-    ],
     "name:gla_x_preferred":[
         "A' Bheilg"
+    ],
+    "name:gla_x_variant":[
+        "A'Bheilg"
     ],
     "name:gle_x_preferred":[
         "An Bheilg"
@@ -274,17 +334,29 @@
     "name:glg_x_preferred":[
         "B\u00e9lxica"
     ],
+    "name:glg_x_variant":[
+        "B\u00e9lxica - Belgi\u00eb"
+    ],
     "name:glv_x_preferred":[
         "Yn Velg"
     ],
     "name:gom_x_preferred":[
         "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
     ],
+    "name:gre_x_preferred":[
+        "\u0392\u03ad\u03bb\u03b3\u03b9\u03bf"
+    ],
     "name:grn_x_preferred":[
         "V\u00e9yhika"
     ],
+    "name:gsw_x_preferred":[
+        "Belgie"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab2\u0acd\u0a9c\u0abf\u0aaf\u0aae"
+    ],
+    "name:guj_x_variant":[
+        "\u0aac\u0ac7\u0ab2\u0acd\u0a9c\u0ac0\u0aaf\u0aae"
     ],
     "name:hak_x_preferred":[
         "P\u00ed-li-s\u1e73\u0300"
@@ -294,6 +366,9 @@
     ],
     "name:hau_x_preferred":[
         "Beljik"
+    ],
+    "name:hau_x_variant":[
+        "Belgiyom"
     ],
     "name:haw_x_preferred":[
         "Pelekiuma"
@@ -325,6 +400,9 @@
     "name:ibo_x_preferred":[
         "Belgium"
     ],
+    "name:ice_x_preferred":[
+        "Belg\u00eda"
+    ],
     "name:ido_x_preferred":[
         "Belgia"
     ],
@@ -333,6 +411,9 @@
     ],
     "name:ilo_x_preferred":[
         "Belhika"
+    ],
+    "name:ilo_x_variant":[
+        "Belgium"
     ],
     "name:ina_x_preferred":[
         "Belgica"
@@ -352,8 +433,15 @@
     "name:jav_x_preferred":[
         "B\u00e8lgia"
     ],
+    "name:jav_x_variant":[
+        "Belgia",
+        "B\u00e9lgi\u00e9"
+    ],
     "name:jbo_x_preferred":[
         "beldjym"
+    ],
+    "name:jbo_x_variant":[
+        "gugdrbelgi"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30ae\u30fc"
@@ -370,6 +458,9 @@
     "name:kal_x_preferred":[
         "Belgia"
     ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0cb2\u0ccd\u0c9c\u0cbf\u0caf\u0cae\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10da\u10d2\u10d8\u10d0"
     ],
@@ -378,6 +469,15 @@
     ],
     "name:kbd_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0438\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "P\u025bliziki"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17c2\u179b\u17a0\u17d2\u179f\u17c9\u17b7\u1780"
+    ],
+    "name:kik_x_preferred":[
+        "Ubelgiji"
     ],
     "name:kin_x_preferred":[
         "Ububiligi"
@@ -406,14 +506,24 @@
     "name:kur_x_preferred":[
         "Bel\u00e7\u00eeka"
     ],
+    "name:kur_x_variant":[
+        "\u0628\u06d5\u0644\u0698\u06cc\u06a9",
+        "Belgiya"
+    ],
     "name:lad_x_preferred":[
         "Beljika"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec1\u0e9a\u0e99\u0e8a\u0eb4\u0e81"
     ],
+    "name:lao_x_variant":[
+        "\u0ec0\u0e9a\u0ea7\u0ea2\u0ebd\u0ea1"
+    ],
     "name:lat_x_preferred":[
         "Belgica"
+    ],
+    "name:lat_x_variant":[
+        "Belgia"
     ],
     "name:lav_x_preferred":[
         "Be\u013c\u0123ija"
@@ -430,8 +540,14 @@
     "name:lin_x_preferred":[
         "B\u025b\u0301ljika"
     ],
+    "name:lin_x_variant":[
+        "Beleziki"
+    ],
     "name:lit_x_preferred":[
         "Belgija"
+    ],
+    "name:liv_x_preferred":[
+        "Be\u013cgij"
     ],
     "name:lmo_x_preferred":[
         "Belgi"
@@ -445,11 +561,35 @@
     "name:ltz_x_preferred":[
         "Belsch"
     ],
+    "name:lub_x_preferred":[
+        "Belejiki"
+    ],
+    "name:lug_x_preferred":[
+        "Bubirigi"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6bd4\u5229\u6642"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0435\u043b\u0433\u0438\u0458\u0430"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d46\u0d7d\u0d1c\u0d3f\u0d2f\u0d02"
     ],
+    "name:mal_x_variant":[
+        "\u0d2c\u0d46\u0d32\u0d4d\u200d\u0d1c\u0d3f\u0d2f\u0d02"
+    ],
+    "name:mao_x_preferred":[
+        "Pehiamu"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    ],
+    "name:may_x_preferred":[
+        "Belgium"
     ],
     "name:mdf_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0433\u0438\u0435"
@@ -475,8 +615,14 @@
     "name:msa_x_preferred":[
         "Belgium"
     ],
+    "name:mwl_x_preferred":[
+        "B\u00e9lgica"
+    ],
     "name:mya_x_preferred":[
         "\u1018\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u101a\u1019\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1018\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u101a\u1019\u103a"
     ],
     "name:myv_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0433\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
@@ -484,14 +630,26 @@
     "name:mzn_x_preferred":[
         "\u0628\u0644\u0698\u06cc\u06a9"
     ],
+    "name:nah_x_preferred":[
+        "Belgica"
+    ],
+    "name:nan_x_preferred":[
+        "Belgien"
+    ],
     "name:nap_x_preferred":[
         "Belge"
     ],
     "name:nau_x_preferred":[
         "Berdjiyum"
     ],
+    "name:nau_x_variant":[
+        "Belgium"
+    ],
     "name:nav_x_preferred":[
         "B\u00e9lgii Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Bhelgium"
     ],
     "name:nds_nld_x_preferred":[
         "Belgi\u00eb"
@@ -508,7 +666,13 @@
     "name:nld_x_preferred":[
         "Belgi\u00eb"
     ],
+    "name:nld_x_variant":[
+        "Koninkrijk Belgi\u00eb"
+    ],
     "name:nno_x_preferred":[
+        "Belgia"
+    ],
+    "name:nob_x_preferred":[
         "Belgia"
     ],
     "name:nor_x_preferred":[
@@ -520,11 +684,20 @@
     "name:nrm_x_preferred":[
         "Belgique"
     ],
+    "name:nso_x_preferred":[
+        "Belgium"
+    ],
     "name:oci_x_preferred":[
         "Belgica"
     ],
+    "name:olo_x_preferred":[
+        "Bel\u2019gii"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b47\u0b32\u0b1c\u0b3f\u0b05\u0b2e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2c\u0b47\u0b32\u0b1c\u0b3f\u0b5f\u0b2e\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Beeljiyeem"
@@ -538,6 +711,10 @@
     "name:pam_x_preferred":[
         "Belgika"
     ],
+    "name:pam_x_variant":[
+        "Belgium",
+        "Belhika"
+    ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a48\u0a32\u0a1c\u0a40\u0a05\u0a2e"
     ],
@@ -550,6 +727,9 @@
     "name:pdc_x_preferred":[
         "Belgien"
     ],
+    "name:per_x_preferred":[
+        "\u0628\u0644\u0698\u06cc\u06a9"
+    ],
     "name:pfl_x_preferred":[
         "Belgien"
     ],
@@ -561,6 +741,9 @@
     ],
     "name:pms_x_preferred":[
         "Belgi"
+    ],
+    "name:pms_x_variant":[
+        "Belgio"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0644\u062c\u06cc\u0645"
@@ -580,8 +763,15 @@
     "name:pus_x_preferred":[
         "\u0628\u06d0\u0644\u062c\u06cc\u0645"
     ],
+    "name:pus_x_variant":[
+        "\u0628\u0644\u062c\u064a\u0645",
+        "\u0628\u0644\u062c\u06cc\u0645"
+    ],
     "name:que_x_preferred":[
         "Bilhika"
+    ],
+    "name:que_x_variant":[
+        "Bilgasuyu"
     ],
     "name:rmy_x_preferred":[
         "Beljiya"
@@ -601,11 +791,20 @@
     "name:run_x_preferred":[
         "Ububirigi"
     ],
+    "name:run_x_variant":[
+        "Ububiligi"
+    ],
+    "name:rup_x_preferred":[
+        "Belghia"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
     ],
     "name:sag_x_preferred":[
         "B\u00ealeze"
+    ],
+    "name:sag_x_variant":[
+        "B\u00ealeze, Belez\u00eeki"
     ],
     "name:sah_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
@@ -613,11 +812,17 @@
     "name:san_x_preferred":[
         "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e\u094d"
     ],
+    "name:san_x_variant":[
+        "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e"
+    ],
     "name:scn_x_preferred":[
         "Belgiu"
     ],
     "name:sco_x_preferred":[
         "Belgium"
+    ],
+    "name:sgs_x_preferred":[
+        "Belg\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd9\u0dbd\u0dca\u0da2\u0dd2\u0dba\u0db8"
@@ -625,8 +830,14 @@
     "name:slk_x_preferred":[
         "Belgicko"
     ],
+    "name:slo_x_preferred":[
+        "Belgicko"
+    ],
     "name:slv_x_preferred":[
         "Belgija"
+    ],
+    "name:sma_x_preferred":[
+        "Belgia"
     ],
     "name:sme_x_preferred":[
         "Belgia"
@@ -637,8 +848,17 @@
     "name:sna_x_preferred":[
         "Belgium"
     ],
+    "name:sna_x_variant":[
+        "Beljium"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u064a\u0644\u062c\u064a\u0645"
+    ],
     "name:som_x_preferred":[
         "Beljim"
+    ],
+    "name:som_x_variant":[
+        "Biljam"
     ],
     "name:spa_x_colloquial":[
         "Belgica"
@@ -648,6 +868,9 @@
     ],
     "name:sqi_x_preferred":[
         "Belgjika"
+    ],
+    "name:sqi_x_variant":[
+        "Belgjik\u00eb"
     ],
     "name:srd_x_preferred":[
         "B\u00e8lgiu"
@@ -676,6 +899,9 @@
     "name:szl_x_preferred":[
         "Belgijo"
     ],
+    "name:tah_x_preferred":[
+        "Peretita"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0bb2\u0bcd\u0b9c\u0bbf\u0baf\u0bae\u0bcd"
     ],
@@ -697,8 +923,23 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e22\u0e21"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e22\u0e21"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f54\u0f7a\u0f62\u0f0b\u0f45\u0f72\u0f53\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u1264\u120d\u1304\u121d"
+    ],
+    "name:ton_x_preferred":[
+        "Pelesiume"
+    ],
     "name:tpi_x_preferred":[
         "Beljiam"
+    ],
+    "name:tpi_x_variant":[
+        "Belsum"
     ],
     "name:tso_x_preferred":[
         "Belgium"
@@ -724,6 +965,9 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0433\u0456\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u043b\u044c\u0491\u0456\u044f"
+    ],
     "name:und_x_colloquial":[
         "Velgio"
     ],
@@ -738,8 +982,14 @@
         "Kraljevina Belgija",
         "V\u00e9lgio"
     ],
+    "name:unk_x_variant":[
+        "Belgien"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u062c\u0626\u06cc\u0645"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u0644\u062c\u06cc\u0645"
     ],
     "name:uzb_x_preferred":[
         "Belgiya"
@@ -756,11 +1006,20 @@
     "name:vls_x_preferred":[
         "Belgi\u00eb"
     ],
+    "name:vls_x_variant":[
+        "Belgje"
+    ],
     "name:vol_x_preferred":[
         "Belg\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Belgi\u00e4"
+    ],
     "name:war_x_preferred":[
         "Belhika"
+    ],
+    "name:wel_x_preferred":[
+        "Gwlad Belg"
     ],
     "name:wln_x_preferred":[
         "Beldjike"
@@ -783,8 +1042,17 @@
     "name:yor_x_preferred":[
         "B\u1eb9\u0301lj\u00ed\u1ecd\u0300m"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de B\u00e9g\u00ed\u1ecd\u0301m\u00f9"
+    ],
+    "name:yue_x_preferred":[
+        "\u6bd4\u5229\u6642"
+    ],
     "name:zea_x_preferred":[
         "Belhi\u00eb"
+    ],
+    "name:zea_x_variant":[
+        "Belgi\u00eb"
     ],
     "name:zho_min_nan_x_preferred":[
         "P\u00ed-l\u012b-s\u00ee"
@@ -793,10 +1061,14 @@
         "\u6bd4\u5229\u65f6"
     ],
     "name:zho_x_variant":[
+        "\u6bd4\u5229\u65f6",
         "\u6bd4\u5229\u6642"
     ],
     "name:zho_yue_x_preferred":[
         "\u6bd4\u5229\u6642"
+    ],
+    "name:zul_x_preferred":[
+        "i-Belgium"
     ],
     "ne:abbrev":"Belg.",
     "ne:abbrev_len":5,
@@ -876,6 +1148,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"32",
+    "statoids:ds":"B",
+    "statoids:fifa":"BEL",
+    "statoids:gaul":"27",
+    "statoids:gec":"BE",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"BEL",
+    "statoids:iso_a2":"BE",
+    "statoids:iso_a3":"BEL",
+    "statoids:iso_num":"56",
+    "statoids:itu":"BEL",
+    "statoids:marc":"be",
+    "statoids:name":"Belgium",
+    "statoids:wmo":"BX",
     "wk:latitude":51.0,
     "wk:longitude":5.0,
     "wk:population":11150516,
@@ -887,19 +1174,29 @@
     "wof:concordances":{
         "dbp:id":"Belgium",
         "fb:id":"en.belgium",
+        "fifa:id":"BEL",
+        "fips:code":"BE",
+        "gaul:id":"27",
         "gn:id":2802361,
         "gp:id":23424757,
         "hasc:id":"BE",
+        "ioc:id":"BEL",
+        "itu:id":"BEL",
         "loc:id":"n80126041",
+        "m49:code":"056",
+        "marc:id":"be",
         "mzb:id":"belgium",
+        "ne:adm0_a3":"BEL",
         "nyt:id":"58158782237762599361",
         "qs:id":1032691,
+        "uncrt:id":"B",
         "wd:id":"Q31",
-        "wk:page":"Belgium"
+        "wk:page":"Belgium",
+        "wmo:id":"BX"
     },
     "wof:country":"BE",
     "wof:country_alpha3":"BEL",
-    "wof:geomhash":"dc288747079426fe5d824cafe7f6dcb8",
+    "wof:geomhash":"de2c21e46dad1faaf9b148fa306439de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -920,11 +1217,14 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1493230163,
+    "wof:lastmodified":1514559247,
     "wof:name":"Belgium",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":11150516,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"BEL",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

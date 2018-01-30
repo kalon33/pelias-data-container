@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.228207,
+    "geom:area_square_m":245933158067.150818,
     "geom:bbox":"-15.394583702,7.190909,-7.637853,12.6745792",
     "geom:latitude":10.439596,
     "geom:longitude":-10.932205,
     "gn:id":"",
     "gn:population":10324025,
     "iso:country":"GN",
+    "itu:country_code":[
+        "224"
+    ],
     "lbl:latitude":10.625075,
     "lbl:longitude":-9.951975,
     "mps:latitude":10.625075,
     "mps:longitude":-9.951975,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Guinea"
     ],
@@ -25,11 +32,17 @@
     "name:afr_x_preferred":[
         "Guinee"
     ],
+    "name:aka_x_preferred":[
+        "Gini"
+    ],
     "name:als_x_preferred":[
         "Guinea"
     ],
     "name:amh_x_preferred":[
         "\u130a\u1294"
+    ],
+    "name:amh_x_variant":[
+        "\u130a\u1292"
     ],
     "name:ang_x_preferred":[
         "Guinea"
@@ -73,6 +86,9 @@
     "name:bod_x_preferred":[
         "\u0f42\u0f72\u0f0b\u0f53\u0f7a\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f42\u0fb7\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Gvineja"
     ],
@@ -91,6 +107,9 @@
     "name:cat_x_preferred":[
         "Rep\u00fablica de Guinea"
     ],
+    "name:cat_x_variant":[
+        "Guinea"
+    ],
     "name:cdo_x_preferred":[
         "Guinea"
     ],
@@ -102,12 +121,6 @@
     ],
     "name:che_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0439"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e7e\u5167\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u51e0\u5185\u4e9a"
     ],
     "name:chv_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0439"
@@ -127,6 +140,9 @@
     "name:cym_x_preferred":[
         "Gini"
     ],
+    "name:cym_x_variant":[
+        "Guin\u00e9e"
+    ],
     "name:dan_x_preferred":[
         "Guinea"
     ],
@@ -141,9 +157,6 @@
     ],
     "name:dsb_x_preferred":[
         "Guineja"
-    ],
-    "name:dut_x_preferred":[
-        "Guinee"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03bf\u03c5\u03b9\u03bd\u03ad\u03b1"
@@ -172,6 +185,9 @@
     "name:ewe_x_preferred":[
         "Gini"
     ],
+    "name:ewe_x_variant":[
+        "Guini nutome"
+    ],
     "name:ext_x_preferred":[
         "Guinea"
     ],
@@ -181,19 +197,19 @@
     "name:fas_x_preferred":[
         "\u06af\u06cc\u0646\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u06cc\u0646\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Guinea"
+    ],
+    "name:fra_x_colloquial":[
+        "Guinee"
     ],
     "name:fra_x_preferred":[
         "Guin\u00e9e"
     ],
-    "name:fre_x_colloquial":[
-        "Guinee"
-    ],
-    "name:fre_x_preferred":[
-        "Guin\u00e9e"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Guin\u00e9e-Conakry",
         "R\u00e9publique de Guin\u00e9e"
     ],
@@ -221,8 +237,14 @@
     "name:glg_x_preferred":[
         "Guinea"
     ],
+    "name:glg_x_variant":[
+        "Guinea - Guin\u00e9e"
+    ],
     "name:glv_x_preferred":[
         "Yn Ghuinea"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0abf\u0aa8\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Guinea"
@@ -233,11 +255,17 @@
     "name:hau_x_preferred":[
         "Gine"
     ],
+    "name:hau_x_variant":[
+        "Gini"
+    ],
     "name:hbs_x_preferred":[
         "Gvineja"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05e0\u05d0\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d9\u05e0\u05d9\u05d0\u05d4"
     ],
     "name:hif_x_preferred":[
         "Guinea"
@@ -296,6 +324,9 @@
     "name:kab_x_preferred":[
         "Ginya"
     ],
+    "name:kal_x_preferred":[
+        "Guinea"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0cbf\u0ca8\u0cbf"
     ],
@@ -305,8 +336,14 @@
     "name:kaz_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f"
     ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u1782\u17b8\u178e\u17c1"
+    ],
     "name:kik_x_preferred":[
         "Guinea"
+    ],
+    "name:kik_x_variant":[
+        "Gine"
     ],
     "name:kin_x_preferred":[
         "Gineya"
@@ -323,6 +360,12 @@
     "name:kur_x_preferred":[
         "G\u00eene"
     ],
+    "name:kur_x_variant":[
+        "\u06af\u06cc\u0646\u06ce"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e81\u0eb4\u0ea7\u0e99\u0eb5"
+    ],
     "name:lat_x_preferred":[
         "Guinea"
     ],
@@ -338,6 +381,9 @@
     "name:lin_x_preferred":[
         "Gine-Konakry"
     ],
+    "name:lin_x_variant":[
+        "Gin\u025b"
+    ],
     "name:lit_x_preferred":[
         "Gvin\u0117ja"
     ],
@@ -350,11 +396,20 @@
     "name:ltz_x_preferred":[
         "Guinea"
     ],
+    "name:lub_x_preferred":[
+        "Ngine"
+    ],
     "name:lug_x_preferred":[
         "Guinea"
     ],
+    "name:lug_x_variant":[
+        "Gini"
+    ],
     "name:mal_x_preferred":[
         "\u0d17\u0d3f\u0d28\u0d3f"
+    ],
+    "name:mal_x_variant":[
+        "\u0d17\u0d4d\u0d35\u0d3f\u0d28\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0917\u093f\u0928\u0940"
@@ -371,6 +426,9 @@
     "name:mlt_x_preferred":[
         "Ginea"
     ],
+    "name:mlt_x_variant":[
+        "Gineja"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0439"
     ],
@@ -383,6 +441,9 @@
     "name:mya_x_preferred":[
         "\u1002\u102e\u1014\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1002\u102e\u101b\u102c\u1014\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u06af\u06cc\u0646\u0647"
     ],
@@ -391,6 +452,9 @@
     ],
     "name:nav_x_preferred":[
         "G\u00edn\u00ed"
+    ],
+    "name:nde_x_preferred":[
+        "Guinea"
     ],
     "name:nds_x_preferred":[
         "Guinea"
@@ -404,7 +468,13 @@
     "name:nld_x_preferred":[
         "Guinee"
     ],
+    "name:nld_x_variant":[
+        "Guinea"
+    ],
     "name:nno_x_preferred":[
+        "Guinea"
+    ],
+    "name:nob_x_preferred":[
         "Guinea"
     ],
     "name:nor_x_preferred":[
@@ -421,6 +491,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b17\u0b3f\u0b28\u0b3f"
+    ],
+    "name:ori_x_variant":[
+        "\u0b17\u0b41\u0b0f\u0b28\u0b47\u0b06"
     ],
     "name:orm_x_preferred":[
         "Giinii"
@@ -455,17 +528,32 @@
     "name:por_x_preferred":[
         "Guin\u00e9"
     ],
+    "name:pus_x_preferred":[
+        "\u06ab\u06cc\u0627\u0646\u0627"
+    ],
+    "name:pus_x_variant":[
+        "\u06ab\u0648\u0646\u06d0"
+    ],
     "name:que_x_preferred":[
         "Khiniya"
     ],
+    "name:roh_x_preferred":[
+        "Guinea"
+    ],
     "name:ron_x_preferred":[
         "Guineea"
+    ],
+    "name:ron_x_variant":[
+        "Guinea"
     ],
     "name:rue_x_preferred":[
         "\u0490\u0432\u0456\u043d\u0435\u044f"
     ],
     "name:rum_x_preferred":[
         "Guineea"
+    ],
+    "name:run_x_preferred":[
+        "Guneya"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f"
@@ -476,11 +564,17 @@
     "name:sah_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f"
     ],
+    "name:san_x_preferred":[
+        "\u0917\u093f\u0928\u0940"
+    ],
     "name:scn_x_preferred":[
         "Guinia"
     ],
     "name:sco_x_preferred":[
         "Guinea"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dd2\u0dab\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Guinea (\u0161t\u00e1t)",
@@ -501,6 +595,9 @@
     "name:som_x_preferred":[
         "Guinea"
     ],
+    "name:som_x_variant":[
+        "Gini"
+    ],
     "name:sot_x_preferred":[
         "Guinea"
     ],
@@ -509,6 +606,10 @@
     ],
     "name:sqi_x_preferred":[
         "Guinea"
+    ],
+    "name:sqi_x_variant":[
+        "Guine",
+        "Guineja"
     ],
     "name:srd_x_preferred":[
         "Guinea"
@@ -528,6 +629,9 @@
     "name:swa_x_preferred":[
         "Guinea"
     ],
+    "name:swa_x_variant":[
+        "Gine"
+    ],
     "name:swe_x_preferred":[
         "Guinea"
     ],
@@ -537,8 +641,14 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0ba9\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0ba9\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3f\u0c28\u0c3f\u0c2f\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u044f"
@@ -548,6 +658,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e01\u0e34\u0e19\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e34\u0e19\u0e35"
+    ],
+    "name:tir_x_preferred":[
+        "\u130a\u1292"
+    ],
+    "name:ton_x_preferred":[
+        "Kini"
     ],
     "name:tso_x_preferred":[
         "Gineya"
@@ -564,14 +683,23 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0456\u043d\u0435\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u0490\u0432\u0456\u043d\u0435\u044f"
+    ],
     "name:und_x_preferred":[
         "Gvineja"
     ],
     "name:und_x_variant":[
         "Republika Gvineja"
     ],
+    "name:unk_x_variant":[
+        "Guinean People\u2019s Republic"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0646\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Gvineya"
@@ -584,6 +712,10 @@
     ],
     "name:vie_x_preferred":[
         "Guin\u00e9e"
+    ],
+    "name:vie_x_variant":[
+        "Ghi-n\u00ea",
+        "Ghi-n\u00ea (Guinea)"
     ],
     "name:vol_x_preferred":[
         "Giney\u00e4n"
@@ -606,6 +738,9 @@
     "name:yor_x_preferred":[
         "Guinea"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Gene"
+    ],
     "name:zea_x_preferred":[
         "Guinee"
     ],
@@ -615,11 +750,18 @@
     "name:zho_x_preferred":[
         "\u51e0\u5185\u4e9a"
     ],
+    "name:zho_x_variant":[
+        "\u5e7e\u5167\u4e9e",
+        "\u51e0\u5185\u4e9a"
+    ],
     "name:zho_yue_x_preferred":[
         "\u757f\u5167\u4e9e"
     ],
     "name:zul_x_preferred":[
         "IGini"
+    ],
+    "name:zul_x_variant":[
+        "i-Guinea"
     ],
     "ne:abbrev":"Gin.",
     "ne:abbrev_len":4,
@@ -699,6 +841,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"224",
+    "statoids:ds":"RG",
+    "statoids:fifa":"GUI",
+    "statoids:gaul":"106",
+    "statoids:gec":"GV",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GUI",
+    "statoids:iso_a2":"GN",
+    "statoids:iso_a3":"GIN",
+    "statoids:iso_num":"324",
+    "statoids:itu":"GUI",
+    "statoids:marc":"gv",
+    "statoids:name":"Guinea",
+    "statoids:wmo":"GN",
     "wk:latitude":10.966667,
     "wk:longitude":-10.766667,
     "wk:population":10628972,
@@ -710,19 +867,29 @@
     "wof:concordances":{
         "dbp:id":"Guinea",
         "fb:id":"en.guinea",
+        "fifa:id":"GUI",
+        "fips:code":"GV",
+        "gaul:id":"106",
         "gn:id":2420477,
         "gp:id":23424835,
         "hasc:id":"GN",
+        "ioc:id":"GUI",
+        "itu:id":"GUI",
         "loc:id":"n79088885",
+        "m49:code":"324",
+        "marc:id":"gv",
         "mzb:id":"guinea",
+        "ne:adm0_a3":"GIN",
         "nyt:id":"66239885191146414081",
         "qs:id":898865,
+        "uncrt:id":"RG",
         "wd:id":"Q1006",
-        "wk:page":"Guinea"
+        "wk:page":"Guinea",
+        "wmo:id":"GN"
     },
     "wof:country":"GN",
     "wof:country_alpha3":"GIN",
-    "wof:geomhash":"c34661739c567dd227b91027591d9088",
+    "wof:geomhash":"2adec76d8cd3f706673435ba32eb58e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -739,11 +906,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493230054,
+    "wof:lastmodified":1509142735,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":10628972,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GIN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

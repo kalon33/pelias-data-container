@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016274,
+    "geom:area_square_m":136886498.061487,
     "geom:bbox":"9.475886,47.0524,9.615723,47.262801",
     "geom:latitude":47.138206,
     "geom:longitude":9.5409,
     "gn:population":35000,
     "iso:country":"LI",
+    "itu:country_code":[
+        "423"
+    ],
     "lbl:latitude":47.111405,
     "lbl:longitude":9.559439,
     "mps:latitude":47.111405,
     "mps:longitude":9.559439,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0430\u0438\u043d"
     ],
@@ -24,11 +31,17 @@
     "name:afr_x_preferred":[
         "Liechtenstein"
     ],
+    "name:aka_x_preferred":[
+        "Lektenstaen"
+    ],
     "name:als_x_preferred":[
         "Liechtenstein"
     ],
     "name:amh_x_preferred":[
         "\u120a\u12ad\u1270\u1295\u1235\u1273\u12ed\u1295"
+    ],
+    "name:amh_x_variant":[
+        "\u120a\u127d\u1270\u1295\u1235\u1273\u12ed\u1295"
     ],
     "name:ang_x_preferred":[
         "L\u0113ohtenst\u0101n"
@@ -57,8 +70,14 @@
     "name:bak_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
     ],
+    "name:bam_x_preferred":[
+        "Lis\u025bnsitayini"
+    ],
     "name:bar_x_preferred":[
         "Liachtnstoa"
+    ],
+    "name:bar_x_variant":[
+        "Liechtnst\u00e2"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0456\u0445\u0442\u044d\u043d\u0448\u0442\u044d\u0439\u043d"
@@ -69,11 +88,17 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09b6\u099f\u09c7\u09a8\u09b8\u09cd\u099f\u09be\u0987\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09bf\u099a\u09c7\u09a8\u09b8\u09cd\u099f\u09c7\u0987\u09a8"
+    ],
     "name:bis_x_preferred":[
         "Liechtenstein"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f72\u0f0b\u0f46\u0f7a\u0f0b\u0f4f\u0f53\u0f0b\u0f66\u0f4f\u0f72\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f63\u0f7a\u0f42\u0f0b\u0f4f\u0f7a\u0f53\u0f0b\u0f5a\u0f72\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Lihten\u0161tajn"
@@ -104,13 +129,6 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u5217\u652f\u6566\u65af\u767b"
-    ],
-    "name:chi_x_variant":[
-        "\u5217\u652f\u6566\u58eb\u767b",
-        "\u5217\u652f\u6566\u65af\u767b"
     ],
     "name:chr_x_preferred":[
         "\u13b5\u13a6\u13d7\u13c2\u13cd\u13d3\u13c2"
@@ -145,8 +163,15 @@
     "name:dan_x_preferred":[
         "Liechtenstein"
     ],
+    "name:deu_x_colloquial":[
+        "Fuerstentum Liechtenstein",
+        "Furstentum Liechtenstein"
+    ],
     "name:deu_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:deu_x_variant":[
+        "F\u00fcrstentum Liechtenstein"
     ],
     "name:diq_x_preferred":[
         "Liechtenstein"
@@ -159,6 +184,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03af\u03c7\u03c4\u03b5\u03bd\u03c3\u03c4\u03b1\u03ca\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03c7\u03c4\u03b5\u03bd\u03c3\u03c4\u03ac\u03b9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Liechtenstein"
     ],
     "name:eng_x_unknown":[
         "LI",
@@ -177,8 +208,14 @@
     "name:eus_x_preferred":[
         "Liechtenstein"
     ],
+    "name:eus_x_variant":[
+        "Liechtestein"
+    ],
     "name:ewe_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:ewe_x_variant":[
+        "Litsenstein nutome"
     ],
     "name:ext_x_preferred":[
         "L\u00edstestain"
@@ -186,22 +223,26 @@
     "name:fao_x_preferred":[
         "Liktinstein"
     ],
+    "name:fao_x_variant":[
+        "Liktenstein"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u062e\u062a\u0646\u0634\u062a\u0627\u06cc\u0646",
+        "\u0644\u06cc\u06a9\u062a\u0646\u0633\u062a\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Liechtenstein"
     ],
+    "name:fra_x_colloquial":[
+        "Principalite de Liechtenstein"
+    ],
     "name:fra_x_preferred":[
         "Liechtenstein"
     ],
-    "name:fre_x_colloquial":[
-        "Principalite de Liechtenstein"
-    ],
-    "name:fre_x_preferred":[
-        "Liechtenstein"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Principalit\u00e9 de Liechtenstein"
     ],
     "name:frp_x_preferred":[
@@ -216,21 +257,14 @@
     "name:ful_x_preferred":[
         "Liechtenstein"
     ],
+    "name:ful_x_variant":[
+        "Lincenstayn"
+    ],
     "name:fur_x_preferred":[
         "Liechtenstein"
     ],
     "name:gag_x_preferred":[
         "Lihten\u015fteyn"
-    ],
-    "name:ger_x_colloquial":[
-        "Fuerstentum Liechtenstein",
-        "Furstentum Liechtenstein"
-    ],
-    "name:ger_x_preferred":[
-        "Liechtenstein"
-    ],
-    "name:ger_x_variant":[
-        "F\u00fcrstentum Liechtenstein"
     ],
     "name:gla_x_preferred":[
         "Liechtenstein"
@@ -250,6 +284,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0a9a\u0ac7\u0ab8\u0acd\u0a9f\u0ac7\u0a88\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0ab2\u0ac8\u0a9a\u0a9f\u0ac7\u0a82\u0ab8\u0acd\u0a9f\u0ac7\u0a87\u0aa8"
+    ],
     "name:hak_x_preferred":[
         "Liechtenstein"
     ],
@@ -258,6 +295,9 @@
     ],
     "name:hau_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:hau_x_variant":[
+        "Licansitan"
     ],
     "name:haw_x_preferred":[
         "Likenekaina"
@@ -274,6 +314,10 @@
     "name:hin_x_preferred":[
         "\u0932\u093f\u0916\u094d\u091f\u0947\u0902\u0936\u094d\u091f\u093e\u0907\u0928"
     ],
+    "name:hin_x_variant":[
+        "\u0932\u093f\u0915\u091f\u0947\u0902\u0938\u094d\u091f\u0940\u0928",
+        "\u0932\u093f\u092f\u0915\u093c\u094d\u091f\u0901\u0938\u094d\u091f\u0940\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Lihten\u0161tajn"
     ],
@@ -288,6 +332,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u056d\u057f\u0565\u0576\u0577\u057f\u0561\u0575\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u056b\u056d\u057f\u0565\u0576\u0577\u057f\u0565\u0575\u0576"
     ],
     "name:ido_x_preferred":[
         "Liechtenstein"
@@ -309,6 +356,9 @@
     ],
     "name:ita_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:ita_x_variant":[
+        "Principato del Liechtenstein"
     ],
     "name:jam_x_preferred":[
         "Liktenstain"
@@ -334,17 +384,32 @@
     "name:kal_x_preferred":[
         "Liechtensteini"
     ],
+    "name:kal_x_variant":[
+        "Liechtenstein"
+    ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cc0\u0c9a\u0ccd\u0c9f\u0cc6\u0ca8\u0ccd\u0cb8\u0ccd\u0c9f\u0cc0\u0ca8\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0cb2\u0cbf\u0c9a\u0cc6\u0ca8\u0ccd\u200c\u0cb8\u0ccd\u0c9f\u0cc8\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10ee\u10e2\u10d4\u10dc\u10e8\u10e2\u10d0\u10d8\u10dc\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d8\u10ee\u10e2\u10d4\u10dc\u10e8\u10e2\u10d4\u10d8\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
     ],
     "name:kbd_x_preferred":[
         "\u041b\u0438\u0445\u0442\u044d\u043d\u0448\u0442\u0435\u0439\u043d"
+    ],
+    "name:khm_x_preferred":[
+        "\u179b\u17b7\u1785\u1791\u17c1\u1793\u179f\u17d2\u178f\u17c2\u1793"
+    ],
+    "name:kik_x_preferred":[
+        "Lishenteni"
     ],
     "name:kin_x_preferred":[
         "Liyeshitensiteyine"
@@ -370,11 +435,18 @@
     "name:kur_x_preferred":[
         "Liechtenstein"
     ],
+    "name:kur_x_variant":[
+        "L\u00ee\u015ftin\u015ftayn",
+        "\u0644\u06cc\u062e\u062a\u0646\u0634\u062a\u0627\u06cc\u0646"
+    ],
     "name:lad_x_preferred":[
         "Liechtenstein"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb4\u0e81\u0ec0\u0e95\u0e99\u0eaa\u0eb0\u0e95\u0eb2\u0e8d"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec4\u0ea5\u0ec0\u0e97\u0e99\u0eaa\u0eb0\u0ec4\u0e95"
     ],
     "name:lat_x_preferred":[
         "Lichtenstenum"
@@ -394,6 +466,9 @@
     "name:lin_x_preferred":[
         "Liechtenstein"
     ],
+    "name:lin_x_variant":[
+        "Lish\u025bteni"
+    ],
     "name:lit_x_preferred":[
         "Lichten\u0161teinas"
     ],
@@ -406,11 +481,23 @@
     "name:ltz_x_preferred":[
         "Liechtenstein"
     ],
+    "name:lub_x_preferred":[
+        "Lishuteni"
+    ],
+    "name:lug_x_preferred":[
+        "Licitensitayini"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d15\u0d4d\u0d31\u0d4d\u0d31\u0d7b\u200c\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d48\u0d7b"
     ],
+    "name:mal_x_variant":[
+        "\u0d32\u0d48\u0d1a\u0d4d\u0d1f\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d3f\u0d28\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0936\u094d\u091f\u0928\u0938\u094d\u091f\u093e\u0907\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0932\u093f\u0902\u091a\u0947\u0928\u0938\u094d\u091f\u093e\u0907\u0928"
     ],
     "name:mdf_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
@@ -423,6 +510,9 @@
     ],
     "name:mlg_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:mlg_x_variant":[
+        "Listenstein"
     ],
     "name:mlt_x_preferred":[
         "Liechtenstein"
@@ -454,11 +544,20 @@
     "name:nav_x_preferred":[
         "\u0141\u00ed\u00edhtensain"
     ],
+    "name:nde_x_preferred":[
+        "Liechtenstein"
+    ],
     "name:nds_nld_x_preferred":[
         "Liechtenstein"
     ],
     "name:nds_x_preferred":[
         "Liechtensteen"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u0940\u0936\u094d\u091f\u0947\u0928\u0938\u094d\u091f\u093e\u0908\u0928"
+    ],
+    "name:nep_x_variant":[
+        "\u0932\u093f\u090f\u0916\u091f\u0947\u0928\u094d\u0938\u094d\u091f\u093e\u0907\u0928"
     ],
     "name:new_x_preferred":[
         "\u0932\u0940\u0936\u094d\u091f\u0947\u0928\u0938\u094d\u091f\u093e\u0908\u0928"
@@ -467,6 +566,9 @@
         "Liechtenstein"
     ],
     "name:nno_x_preferred":[
+        "Liechtenstein"
+    ],
+    "name:nob_x_preferred":[
         "Liechtenstein"
     ],
     "name:nor_x_preferred":[
@@ -478,8 +580,14 @@
     "name:oci_x_preferred":[
         "Liechtenstein"
     ],
+    "name:oci_x_variant":[
+        "Categoria:Liechtenstein"
+    ],
     "name:ori_x_preferred":[
         "\u0b32\u0b3f\u0b15\u0b4d\u0b1f\u0b47\u0b28\u0b37\u0b4d\u0b1f\u0b3e\u0b07\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b32\u0b3f\u0b1a\u0b47\u0b38\u0b4d\u0b24\u0b3f\u0b06\u0b28\u0b3e\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Liikteenistaayin"
@@ -517,6 +625,9 @@
     "name:pms_x_preferred":[
         "Liechtenstein"
     ],
+    "name:pms_x_variant":[
+        "Lichtenst\u00e0in"
+    ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u062e\u062a\u0646\u0634\u0679\u0627\u06cc\u0646"
     ],
@@ -525,6 +636,9 @@
     ],
     "name:pol_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:pol_x_variant":[
+        "Lichtenstein"
     ],
     "name:por_x_preferred":[
         "Liechtenstein"
@@ -545,8 +659,14 @@
     "name:rue_x_preferred":[
         "\u041b\u0456\u0445\u0442\u0435\u043d\u0448\u0442\u0430\u0439\u043d\u044c\u0441\u043a\u043e"
     ],
+    "name:run_x_preferred":[
+        "Lishyitenshitayini"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Liechtenstein,"
     ],
     "name:sah_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
@@ -569,6 +689,9 @@
     "name:slv_x_preferred":[
         "Lihten\u0161tajn"
     ],
+    "name:slv_x_variant":[
+        "Liechtenstein"
+    ],
     "name:sme_x_preferred":[
         "Liechtenstein"
     ],
@@ -583,6 +706,9 @@
     ],
     "name:sqi_x_preferred":[
         "Lihtenshtajni"
+    ],
+    "name:sqi_x_variant":[
+        "Liht\u00ebnshtajn"
     ],
     "name:srd_x_preferred":[
         "Liechtenstein"
@@ -605,8 +731,14 @@
     "name:swa_x_preferred":[
         "Liechtenstein"
     ],
+    "name:swa_x_variant":[
+        "Lishenteni"
+    ],
     "name:swe_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:swe_x_variant":[
+        "Lichtenstein"
     ],
     "name:szl_x_preferred":[
         "Liechtenstein"
@@ -614,8 +746,14 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb2\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0ba3\u0bcd\u0bb8\u0bcd\u0b9f\u0bc6\u0baf\u0bcd\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3f\u0c15\u0c4d\u0c1f\u0c46\u0c38\u0c4d\u0c1f\u0c47\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Listenstaina"
@@ -629,6 +767,15 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e34\u0e01\u0e40\u0e15\u0e19\u0e2a\u0e44\u0e15\u0e19\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e34\u0e01\u0e40\u0e15\u0e19\u0e2a\u0e44\u0e15\u0e19\u0e4c"
+    ],
+    "name:tir_x_preferred":[
+        "\u120a\u127d\u1270\u1295\u1235\u1273\u12ed\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Lekitenisaini"
+    ],
     "name:tuk_x_preferred":[
         "Lihten\u015fte\u00fdn"
     ],
@@ -637,6 +784,9 @@
     ],
     "name:tur_x_preferred":[
         "Lihten\u015ftayn"
+    ],
+    "name:tur_x_variant":[
+        "Liechtenstein"
     ],
     "name:udm_x_preferred":[
         "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
@@ -653,8 +803,14 @@
     "name:und_x_variant":[
         "Lichtenst\u00e1in"
     ],
+    "name:unk_x_variant":[
+        "Lichtenstein"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u06cc\u0634\u0679\u0646\u0633\u0679\u0627\u0626\u0646"
     ],
     "name:uzb_x_preferred":[
         "Lixtenshteyn"
@@ -667,6 +823,10 @@
     ],
     "name:vie_x_preferred":[
         "Liechtenstein"
+    ],
+    "name:vie_x_variant":[
+        "Lich-ten-xt\u00ean",
+        "Lich-ten-xt\u00ean (Liechtenstein)"
     ],
     "name:vls_x_preferred":[
         "Liechtnstein"
@@ -698,8 +858,14 @@
     "name:yor_x_preferred":[
         "L\u00edkt\u1eb9\u0301nst\u00e1\u00ecn\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de L\u1eb9\u1e63it\u1eb9nisiteni"
+    ],
     "name:zea_x_preferred":[
         "Liechenstein"
+    ],
+    "name:zha_x_preferred":[
+        "Luliilu"
     ],
     "name:zho_min_nan_x_preferred":[
         "Liechtenstein"
@@ -708,10 +874,14 @@
         "\u5217\u652f\u6566\u65af\u767b"
     ],
     "name:zho_x_variant":[
+        "\u5217\u652f\u6566\u65af\u767b",
         "\u5217\u652f\u6566\u58eb\u767b"
     ],
     "name:zho_yue_x_preferred":[
         "\u5217\u652f\u6566\u58eb\u767b"
+    ],
+    "name:zul_x_preferred":[
+        "i-Liechtenstein"
     ],
     "ne:abbrev":"Liech.",
     "ne:abbrev_len":6,
@@ -784,11 +954,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"SwissTopo",
+    "reversegeo:geometry":"85633267-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"423",
+    "statoids:ds":"FL",
+    "statoids:fifa":"LIE",
+    "statoids:gaul":"146",
+    "statoids:gec":"LS",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"LIE",
+    "statoids:iso_a2":"LI",
+    "statoids:iso_a3":"LIE",
+    "statoids:iso_num":"438",
+    "statoids:itu":"LIE",
+    "statoids:marc":"lh",
+    "statoids:name":"Liechtenstein",
+    "statoids:wmo":"",
     "wk:latitude":47.145,
     "wk:longitude":9.553889,
     "wk:population":36925,
@@ -800,19 +987,28 @@
     "wof:concordances":{
         "dbp:id":"Liechtenstein",
         "fb:id":"en.liechtenstein",
+        "fifa:id":"LIE",
+        "fips:code":"LS",
+        "gaul:id":"146",
         "gn:id":3042058,
         "gp:id":23424879,
         "hasc:id":"LI",
+        "ioc:id":"LIE",
+        "itu:id":"LIE",
         "loc:id":"n80158592",
+        "m49:code":"438",
+        "marc:id":"lh",
         "mzb:id":"liechtenstein",
+        "ne:adm0_a3":"LIE",
         "nyt:id":"N76549231480595749851",
         "qs:id":94398,
+        "uncrt:id":"FL",
         "wd:id":"Q347",
         "wk:page":"Liechtenstein"
     },
     "wof:country":"LI",
     "wof:country_alpha3":"LIE",
-    "wof:geomhash":"2829da0e4818b1914d1202e947317ada",
+    "wof:geomhash":"d9a7920b105f1e63578fbcb2308f9886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -831,11 +1027,14 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1493230203,
+    "wof:lastmodified":1509142796,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":36925,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"LIE",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,22 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":37.93757,
+    "geom:area_square_m":466363241042.346924,
     "geom:bbox":"8.505056,1.654551,16.207723,13.081141",
     "geom:latitude":5.693058,
     "geom:longitude":12.736984,
     "gn:id":"",
     "gn:population":19294149,
     "iso:country":"CM",
+    "itu:country_code":[
+        "237"
+    ],
     "lbl:latitude":4.585076,
     "lbl:longitude":12.473672,
     "mps:latitude":4.585076,
     "mps:longitude":12.473672,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ady_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
     "name:afr_x_preferred":[
         "Kameroen"
+    ],
+    "name:aka_x_preferred":[
+        "Kam\u025brun"
     ],
     "name:als_x_preferred":[
         "Kamerun"
@@ -33,6 +43,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0645\u064a\u0631\u0648\u0646"
     ],
     "name:arc_x_preferred":[
         "\u0729\u0710\u0721\u072a\u0718\u0722"
@@ -55,6 +68,9 @@
     "name:bam_x_preferred":[
         "Kamerun"
     ],
+    "name:bam_x_variant":[
+        "Kameruni"
+    ],
     "name:bar_x_preferred":[
         "Kamerun"
     ],
@@ -75,6 +91,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0f58\u0f0b\u0f58\u0f74\u0f0b\u0f62\u0f7c\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f40\u0f0b\u0f58\u0f7a\u0f0b\u0f62\u0f74\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Kamerun"
@@ -106,12 +125,6 @@
     "name:che_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5580\u9ea5\u9686"
-    ],
-    "name:chi_x_variant":[
-        "\u5580\u9ea6\u9686"
-    ],
     "name:chr_x_preferred":[
         "\u13a7\u13b9\u13b7\u13c2"
     ],
@@ -130,14 +143,23 @@
     "name:cym_x_preferred":[
         "Camer\u0175n"
     ],
+    "name:cym_x_variant":[
+        "Y Camer\u0175n"
+    ],
     "name:cze_x_preferred":[
         "Kamerun"
     ],
     "name:dan_x_preferred":[
         "Cameroun"
     ],
+    "name:dan_x_variant":[
+        "Cameroon"
+    ],
     "name:deu_x_preferred":[
         "Kamerun"
+    ],
+    "name:deu_x_variant":[
+        "Republik Kamerun"
     ],
     "name:diq_x_preferred":[
         "Kamerun"
@@ -147,9 +169,6 @@
     ],
     "name:dsb_x_preferred":[
         "Kamerun"
-    ],
-    "name:dut_x_preferred":[
-        "Kameroen"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bc\u03b5\u03c1\u03bf\u03cd\u03bd"
@@ -178,6 +197,9 @@
     "name:ewe_x_preferred":[
         "Kamerun"
     ],
+    "name:ewe_x_variant":[
+        "Kamerun nutome"
+    ],
     "name:ext_x_preferred":[
         "Camer\u00fan"
     ],
@@ -199,10 +221,7 @@
     "name:fra_x_preferred":[
         "Cameroun"
     ],
-    "name:fre_x_preferred":[
-        "Cameroun"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "R\u00e9publique du Cameroun"
     ],
     "name:frp_x_preferred":[
@@ -214,17 +233,17 @@
     "name:ful_x_preferred":[
         "Kamerun"
     ],
+    "name:ful_x_variant":[
+        "Kameruun"
+    ],
     "name:gag_x_preferred":[
         "Kamerun"
     ],
-    "name:ger_x_preferred":[
-        "Kamerun"
-    ],
-    "name:ger_x_variant":[
-        "Republik Kamerun"
-    ],
     "name:gla_x_preferred":[
         "Camarun"
+    ],
+    "name:gla_x_variant":[
+        "Cameroon"
     ],
     "name:gle_x_preferred":[
         "Camar\u00fan"
@@ -232,11 +251,17 @@
     "name:glg_x_preferred":[
         "Camer\u00fan"
     ],
+    "name:glg_x_variant":[
+        "Camer\u00fan - Cameroun"
+    ],
     "name:glv_x_preferred":[
         "Cameroon"
     ],
     "name:grn_x_preferred":[
         "Kamer\u0169"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac5\u0aae\u0ab0\u0ac2\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Cameroon"
@@ -247,17 +272,27 @@
     "name:hau_x_preferred":[
         "Kameru"
     ],
+    "name:hau_x_variant":[
+        "Kamaru"
+    ],
     "name:hbs_x_preferred":[
         "Kamerun"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05de\u05e8\u05d5\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d0\u05de\u05e8\u05d5\u05df"
+    ],
     "name:hif_x_preferred":[
         "Cameroon"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u092e\u0930\u0941\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0915\u093e\u092e\u0947\u0930\u093e\u0928",
+        "\u0915\u0948\u092e\u0930\u0942\u0928"
     ],
     "name:hrv_x_preferred":[
         "Kamerun"
@@ -282,6 +317,9 @@
     ],
     "name:ilo_x_preferred":[
         "Kamerun"
+    ],
+    "name:ilo_x_variant":[
+        "Camerun"
     ],
     "name:ina_x_preferred":[
         "Camerun"
@@ -319,14 +357,23 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cae\u0cb0\u0cc2\u0ca8\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0c95\u0ccd\u0caf\u0cbe\u0cae\u0cb0\u0ccb\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10db\u10d4\u10e0\u10e3\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
+    "name:khm_x_preferred":[
+        "\u1780\u17b6\u1798\u17c1\u179a\u17bc\u1793"
+    ],
     "name:kik_x_preferred":[
         "Cameroon"
+    ],
+    "name:kik_x_variant":[
+        "Kameruni"
     ],
     "name:kin_x_preferred":[
         "Kameruni"
@@ -343,11 +390,20 @@
     "name:kur_x_preferred":[
         "Kamer\u00fbn"
     ],
+    "name:kur_x_variant":[
+        "\u06a9\u0627\u0645\u06cc\u0631\u0648\u0648\u0646"
+    ],
     "name:lad_x_preferred":[
         "Kamerun"
     ],
+    "name:lao_x_preferred":[
+        "\u0e84\u0eb2\u0ec0\u0ea1\u0ea5\u0eb9\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Cammarunia"
+    ],
+    "name:lat_x_variant":[
+        "Cameronia"
     ],
     "name:lav_x_preferred":[
         "Kamer\u016bna"
@@ -361,6 +417,9 @@
     "name:lin_x_preferred":[
         "Kamerun"
     ],
+    "name:lin_x_variant":[
+        "Kam\u025brune"
+    ],
     "name:lit_x_preferred":[
         "Kamer\u016bnas"
     ],
@@ -373,11 +432,23 @@
     "name:ltz_x_preferred":[
         "Kamerun"
     ],
+    "name:lub_x_preferred":[
+        "Kamerune"
+    ],
+    "name:lug_x_preferred":[
+        "Kameruuni"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3e\u0d2e\u0d31\u0d42\u0d7a"
     ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d3e\u0d2e\u0d31\u0d42\u0d23\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u092e\u0947\u0930\u0942\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0915\u0945\u092e\u0947\u0930\u0942\u0928"
     ],
     "name:min_x_preferred":[
         "Kamerun"
@@ -400,8 +471,14 @@
     "name:msa_x_preferred":[
         "Cameroon"
     ],
+    "name:msa_x_variant":[
+        "Kamerun"
+    ],
     "name:mya_x_preferred":[
         "\u1000\u1004\u103a\u1019\u101b\u103d\u1014\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1000\u1004\u103a\u1019\u101b\u103d\u1014\u103a\u1038"
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0645\u0631\u0648\u0646"
@@ -409,8 +486,14 @@
     "name:nau_x_preferred":[
         "Kamerun"
     ],
+    "name:nau_x_variant":[
+        "Camerun"
+    ],
     "name:nav_x_preferred":[
         "T\u00e1\u0142t\u0142\u02bc\u00e1\u00e1h Ch\u02bcosh Daad\u00e1n\u00edg\u00ed\u00ed Bitooh (\u0141izhinii Bik\u00e9yahdi)"
+    ],
+    "name:nde_x_preferred":[
+        "Khameruni"
     ],
     "name:nds_nld_x_preferred":[
         "Kameroen"
@@ -430,6 +513,9 @@
     "name:nno_x_preferred":[
         "Kamerun"
     ],
+    "name:nob_x_preferred":[
+        "Kamerun"
+    ],
     "name:nor_x_preferred":[
         "Kamerun"
     ],
@@ -444,6 +530,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b15\u0b3e\u0b2e\u0b47\u0b30\u0b41\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b3e\u0b2e\u0b47\u0b30\u0b41\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Kaameruun"
@@ -487,6 +576,9 @@
     "name:pus_x_preferred":[
         "\u06a9\u0627\u0645\u0631\u0648\u0646"
     ],
+    "name:pus_x_variant":[
+        "\u06a9\u06d0\u0645\u0631\u0648\u0646"
+    ],
     "name:que_x_preferred":[
         "Kamirun"
     ],
@@ -499,11 +591,17 @@
     "name:rum_x_preferred":[
         "Camerun"
     ],
+    "name:run_x_preferred":[
+        "Kameruni"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
     "name:sag_x_preferred":[
         "Kamer\u00fcn"
+    ],
+    "name:sag_x_variant":[
+        "Kamer\u00fbne"
     ],
     "name:sah_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
@@ -517,6 +615,9 @@
     "name:sco_x_preferred":[
         "Cameroon"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd0\u0db8\u0dbb\u0dd6\u0db1\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Kamerun"
     ],
@@ -529,8 +630,14 @@
     "name:sna_x_preferred":[
         "Cameroon"
     ],
+    "name:sna_x_variant":[
+        "Kameruni"
+    ],
     "name:som_x_preferred":[
         "Kamiruun"
+    ],
+    "name:som_x_variant":[
+        "Kaameruun"
     ],
     "name:sot_x_preferred":[
         "Cameroon"
@@ -540,6 +647,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kameruni"
+    ],
+    "name:sqi_x_variant":[
+        "Kamerun"
     ],
     "name:srd_x_preferred":[
         "Camer\u00f9n"
@@ -559,6 +669,9 @@
     "name:swa_x_preferred":[
         "Kamerun"
     ],
+    "name:swa_x_variant":[
+        "Kameruni"
+    ],
     "name:swe_x_preferred":[
         "Kamerun"
     ],
@@ -568,11 +681,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bae\u0bb0\u0bc2\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bc7\u0bae\u0bb0\u0bc2\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2e\u0c46\u0c30\u0c42\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c15\u0c46\u0c2e\u0c30\u0c42\u0c28\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
@@ -582,6 +701,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e41\u0e04\u0e40\u0e21\u0e2d\u0e23\u0e39\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e40\u0e21\u0e2d\u0e23\u0e39\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u12ab\u121c\u1229\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Kemaluni"
     ],
     "name:tso_x_preferred":[
         "Cameroon"
@@ -595,6 +723,9 @@
     "name:uig_x_preferred":[
         "\u0643\u0627\u0645\u06d0\u0631\u06c7\u0646"
     ],
+    "name:uig_x_variant":[
+        "\u0643\u0627\u0645\u06d0\u0631\u0648\u0646"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
     ],
@@ -603,6 +734,9 @@
     ],
     "name:und_x_variant":[
         "Republika Kamerun"
+    ],
+    "name:unk_x_variant":[
+        "United Republic of Cameroon"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0645\u0631\u0648\u0646"
@@ -618,6 +752,10 @@
     ],
     "name:vie_x_preferred":[
         "Cameroon"
+    ],
+    "name:vie_x_variant":[
+        "Ca-m\u01a1-run",
+        "Ca-m\u01a1-run (Cameroon)"
     ],
     "name:vls_x_preferred":[
         "Kameroen"
@@ -646,10 +784,17 @@
     "name:yor_x_preferred":[
         "Kam\u1eb9r\u00fa\u00f9n"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Kamer\u00fa\u00fan\u00ec"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Cameroon"
     ],
     "name:zho_x_preferred":[
+        "\u5580\u9ea6\u9686"
+    ],
+    "name:zho_x_variant":[
+        "\u5580\u9ea5\u9686",
         "\u5580\u9ea6\u9686"
     ],
     "name:zho_yue_x_preferred":[
@@ -657,6 +802,9 @@
     ],
     "name:zul_x_preferred":[
         "IKamerooni"
+    ],
+    "name:zul_x_variant":[
+        "i-Cameroon"
     ],
     "ne:abbrev":"Cam.",
     "ne:abbrev_len":4,
@@ -730,13 +878,29 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "reversegeo:geometry":"85632245-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
         "quattroshapes",
         "meso",
-        "meso"
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"237",
+    "statoids:ds":"CAM",
+    "statoids:fifa":"CMR",
+    "statoids:gaul":"45",
+    "statoids:gec":"CM",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"CMR",
+    "statoids:iso_a2":"CM",
+    "statoids:iso_a3":"CMR",
+    "statoids:iso_num":"120",
+    "statoids:itu":"CME",
+    "statoids:marc":"cm",
+    "statoids:name":"Cameroon",
+    "statoids:wmo":"CM",
     "wk:latitude":5.116667,
     "wk:longitude":11.916667,
     "wk:population":22253959,
@@ -748,18 +912,28 @@
     "wof:concordances":{
         "dbp:id":"Cameroon",
         "fb:id":"en.cameroon",
+        "fifa:id":"CMR",
+        "fips:code":"CM",
+        "gaul:id":"45",
         "gn:id":2233387,
         "gp:id":23424785,
         "hasc:id":"CM",
+        "ioc:id":"CMR",
+        "itu:id":"CME",
+        "m49:code":"120",
+        "marc:id":"cm",
         "mzb:id":"cameroon",
+        "ne:adm0_a3":"CMR",
         "nyt:id":"N1835878520559585621",
         "qs:id":501483,
+        "uncrt:id":"CAM",
         "wd:id":"Q1009",
-        "wk:page":"Cameroon"
+        "wk:page":"Cameroon",
+        "wmo:id":"CM"
     },
     "wof:country":"CM",
     "wof:country_alpha3":"CMR",
-    "wof:geomhash":"1dbeb8f2f1926ff9249ada44b593d863",
+    "wof:geomhash":"8a36849463fec18a50092616be502e94",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -778,11 +952,14 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1493229898,
+    "wof:lastmodified":1509142668,
     "wof:name":"Cameroon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":22253959,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"CMR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

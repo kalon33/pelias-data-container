@@ -5,17 +5,30 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014119,
+    "geom:area_square_m":170433169.976521,
     "geom:bbox":"-70.062408,12.41767,-69.87682,12.632148",
     "geom:latitude":12.516935,
     "geom:longitude":-69.974201,
     "gn:population":71566,
     "iso:country":"AW",
+    "itu:country_code":[
+        "297"
+    ],
     "lbl:latitude":12.517399,
     "lbl:longitude":-69.972795,
     "mps:latitude":12.517399,
     "mps:longitude":-69.972795,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.5,
+    "mz:min_zoom":4.5,
     "name:afr_x_preferred":[
+        "Aruba"
+    ],
+    "name:aka_x_preferred":[
+        "Aruba"
+    ],
+    "name:alb_x_preferred":[
         "Aruba"
     ],
     "name:als_x_preferred":[
@@ -27,8 +40,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0648\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0622\u0631\u0648\u0628\u0627"
+    ],
     "name:arg_x_preferred":[
         "Aruba"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u0580\u0578\u0582\u0562\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0631\u0648\u0628\u0627"
@@ -39,17 +58,23 @@
     "name:bak_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
     ],
+    "name:bam_x_preferred":[
+        "Aruba"
+    ],
+    "name:baq_x_preferred":[
+        "Aruba"
+    ],
     "name:bar_x_preferred":[
         "Aruba"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0410\u0440\u0443\u0431\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09c1\u09ac\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f68\u0f0b\u0f62\u0f74\u0f0b\u0f56\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Aruba"
@@ -76,7 +101,7 @@
         "\u0410\u0440\u0443\u0431\u0430"
     ],
     "name:chi_x_preferred":[
-        "\u963f\u9c81\u5df4"
+        "\u963f\u9b6f\u5df4"
     ],
     "name:chr_x_preferred":[
         "\u13a0\u13b7\u13c6"
@@ -95,6 +120,12 @@
     ],
     "name:cym_x_preferred":[
         "Arwba"
+    ],
+    "name:cym_x_variant":[
+        "Aruba"
+    ],
+    "name:cze_x_preferred":[
+        "Aruba"
     ],
     "name:dan_x_preferred":[
         "Aruba"
@@ -136,6 +167,9 @@
     "name:eus_x_preferred":[
         "Aruba"
     ],
+    "name:ewe_x_preferred":[
+        "Aruba nutome"
+    ],
     "name:ext_x_preferred":[
         "Aruba"
     ],
@@ -151,20 +185,47 @@
     "name:fra_x_preferred":[
         "Aruba"
     ],
+    "name:fre_x_preferred":[
+        "Aruba"
+    ],
     "name:frr_x_preferred":[
         "Aruuba"
     ],
     "name:fry_x_preferred":[
         "Ar\u00fbba"
     ],
+    "name:ful_x_preferred":[
+        "Aruuba"
+    ],
     "name:gag_x_preferred":[
         "Aruba"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e0\u10e3\u10d1\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Aruba"
+    ],
+    "name:gle_x_preferred":[
+        "Ar\u00faba"
     ],
     "name:glg_x_preferred":[
         "Aruba"
     ],
     "name:gom_x_preferred":[
         "\u0905\u0930\u0941\u092c\u093e"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03bf\u03cd\u03bc\u03c0\u03b1"
+    ],
+    "name:gsw_x_preferred":[
+        "Aruba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab0\u0ac1\u0aac\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Aruba"
     ],
     "name:hbs_x_preferred":[
         "Aruba"
@@ -191,6 +252,9 @@
     "name:hye_x_preferred":[
         "\u0531\u0580\u0578\u0582\u0562\u0561"
     ],
+    "name:ice_x_preferred":[
+        "Ar\u00faba"
+    ],
     "name:ido_x_preferred":[
         "Aruba"
     ],
@@ -212,8 +276,17 @@
     "name:jav_x_preferred":[
         "Aruba"
     ],
+    "name:jbo_x_preferred":[
+        "lo gugde'ave"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30d0"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30eb\u30d0\u5cf6"
+    ],
+    "name:kal_x_preferred":[
+        "Aruba"
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0cb0\u0cc1\u0cac\u0cbe"
@@ -224,6 +297,9 @@
     "name:kaz_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
     ],
+    "name:kik_x_preferred":[
+        "Aruba"
+    ],
     "name:kin_x_preferred":[
         "Aruba"
     ],
@@ -233,8 +309,14 @@
     "name:kor_x_preferred":[
         "\uc544\ub8e8\ubc14"
     ],
+    "name:kur_x_preferred":[
+        "\u0626\u0627\u0631\u0648\u0648\u0628\u0627"
+    ],
     "name:lad_x_preferred":[
         "Aruba"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0eb2\u0ea5\u0eb9\u0e9a\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Aruba"
@@ -260,14 +342,38 @@
     "name:ltz_x_preferred":[
         "Aruba"
     ],
+    "name:lub_x_preferred":[
+        "Aruba"
+    ],
+    "name:lug_x_preferred":[
+        "Aruba"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0440\u0443\u0431\u0430"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d30\u0d42\u0d2c"
+    ],
+    "name:mal_x_variant":[
+        "\u0d05\u0d31\u0d41\u0d2c"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u0942\u092c\u093e"
     ],
+    "name:mar_x_variant":[
+        "\u0905\u0930\u0941\u092c\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Aruba"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Arob\u00e0"
+    ],
+    "name:mlt_x_preferred":[
+        "Aruba"
     ],
     "name:mon_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
@@ -275,8 +381,14 @@
     "name:msa_x_preferred":[
         "Aruba"
     ],
+    "name:nan_x_preferred":[
+        "Aruba"
+    ],
     "name:nau_x_preferred":[
         "Aruba"
+    ],
+    "name:nde_x_preferred":[
+        "Arubha"
     ],
     "name:nds_x_preferred":[
         "Aruba"
@@ -284,10 +396,16 @@
     "name:nep_x_preferred":[
         "\u0905\u0930\u0941\u092c\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0906\u0930\u0942\u092c\u093e"
+    ],
     "name:nld_x_preferred":[
         "Aruba"
     ],
     "name:nno_x_preferred":[
+        "Aruba"
+    ],
+    "name:nob_x_preferred":[
         "Aruba"
     ],
     "name:nor_x_preferred":[
@@ -302,6 +420,9 @@
     "name:ori_x_preferred":[
         "\u0b05\u0b30\u0b41\u0b2c"
     ],
+    "name:ori_x_variant":[
+        "\u0b06\u0b30\u0b41\u0b2c\u0b3e"
+    ],
     "name:oss_x_preferred":[
         "\u0410\u0440\u0443\u0431\u00e6"
     ],
@@ -310,6 +431,9 @@
     ],
     "name:pap_x_preferred":[
         "Aruba"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0631\u0648\u0628\u0627"
     ],
     "name:pms_x_preferred":[
         "Aruba"
@@ -323,14 +447,26 @@
     "name:por_x_preferred":[
         "Aruba"
     ],
+    "name:roh_x_preferred":[
+        "Aruba"
+    ],
     "name:ron_x_preferred":[
         "Aruba"
     ],
     "name:rue_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
     ],
+    "name:rum_x_preferred":[
+        "Aruba"
+    ],
+    "name:run_x_preferred":[
+        "Aruba"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Ar\u00fbba"
     ],
     "name:sah_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
@@ -338,11 +474,26 @@
     "name:sco_x_preferred":[
         "Aruba"
     ],
+    "name:sgs_x_preferred":[
+        "Aruba"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbb\u0dd4\u0db6\u0dcf\u0dc0"
+    ],
     "name:slk_x_preferred":[
+        "Aruba"
+    ],
+    "name:slo_x_preferred":[
         "Aruba"
     ],
     "name:slv_x_preferred":[
         "Aruba"
+    ],
+    "name:sme_x_preferred":[
+        "Aruba"
+    ],
+    "name:sna_x_preferred":[
+        "Arubha"
     ],
     "name:som_x_preferred":[
         "Aruba"
@@ -371,6 +522,9 @@
     "name:tam_x_preferred":[
         "\u0b85\u0bb0\u0bc2\u0baa\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b85\u0bb0\u0bc1\u0baa\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
     ],
@@ -382,6 +536,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e23\u0e39\u0e1a\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a0\u1229\u1263"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbAlupa"
     ],
     "name:tur_x_preferred":[
         "Aruba"
@@ -410,6 +570,9 @@
     "name:war_x_preferred":[
         "Aruba"
     ],
+    "name:wel_x_preferred":[
+        "Aruba"
+    ],
     "name:wol_x_preferred":[
         "Aruba"
     ],
@@ -419,16 +582,28 @@
     "name:yor_x_preferred":[
         "\u00c0r\u00fab\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u00c1r\u00fab\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u9b6f\u5df4\u5cf6"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Aruba"
     ],
     "name:zho_x_preferred":[
         "\u963f\u9b6f\u5df4"
     ],
+    "name:zho_x_variant":[
+        "\u963f\u9c81\u5df4"
+    ],
     "name:zho_yue_x_preferred":[
         "\u963f\u9b6f\u5df4\u5cf6"
     ],
-    "ne:abbrev":"Aruba",
+    "name:zul_x_preferred":[
+        "i-Aruba"
+    ],
+    "ne:abbrev":"",
     "ne:abbrev_len":5,
     "ne:adm0_a3":"ABW",
     "ne:adm0_a3_is":"ABW",
@@ -436,62 +611,102 @@
     "ne:adm0_a3_us":"ABW",
     "ne:adm0_a3_wb":-99,
     "ne:adm0_dif":1,
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"ABW-5150",
+    "ne:adm1_code":"ABW-5150",
     "ne:admin":"Aruba",
+    "ne:area_sqkm":"0.00000000000",
     "ne:brk_a3":"ABW",
     "ne:brk_diff":0,
     "ne:brk_group":null,
     "ne:brk_name":"Aruba",
+    "ne:check_me":"0",
+    "ne:code_hasc":"AW.",
+    "ne:code_local":"",
     "ne:continent":"North America",
+    "ne:datarank":"10",
+    "ne:diss_me":"5150",
     "ne:economy":"6. Developing region",
-    "ne:featurecla":"Admin-0 country",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
     "ne:fips_10_":"AA",
+    "ne:fips_alt":"",
     "ne:formal_en":"Aruba",
     "ne:formal_fr":null,
+    "ne:gadm_level":"0",
     "ne:gdp_md_est":2258,
     "ne:gdp_year":-99,
+    "ne:geonunit":"Aruba",
     "ne:geou_dif":0,
     "ne:geounit":"Aruba",
+    "ne:gn_a1_code":"AW.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
     "ne:gu_a3":"ABW",
+    "ne:hasc_maybe":"",
     "ne:homepart":-99,
     "ne:income_grp":"2. High income: nonOECD",
+    "ne:iso_3166_2":"AW-",
     "ne:iso_a2":"AW",
     "ne:iso_a3":"ABW",
     "ne:iso_n3":"533",
-    "ne:labelrank":5,
+    "ne:labelrank":"20",
     "ne:lastcensus":2010,
+    "ne:latitude":"12.51470000000",
     "ne:level":2,
     "ne:long_len":5,
-    "ne:mapcolor13":9,
+    "ne:longitude":"-69.96890000000",
+    "ne:mapcolor13":"9",
     "ne:mapcolor7":4,
     "ne:mapcolor8":2,
-    "ne:mapcolor9":2,
+    "ne:mapcolor9":"2",
     "ne:name":"Aruba",
-    "ne:name_alt":null,
-    "ne:name_len":5,
+    "ne:name_alt":"",
+    "ne:name_len":"5",
+    "ne:name_local":"",
     "ne:name_long":"Aruba",
     "ne:name_sort":"Aruba",
+    "ne:note":"",
     "ne:note_adm0":"Neth.",
     "ne:note_brk":null,
     "ne:pop_est":103065,
     "ne:pop_year":-99,
-    "ne:postal":"AW",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
     "ne:region_un":"Americas",
     "ne:region_wb":"Latin America & Caribbean",
-    "ne:scalerank":3,
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
     "ne:sov_a3":"NL1",
     "ne:sovereignt":"Netherlands",
     "ne:su_a3":"ABW",
     "ne:su_dif":0,
+    "ne:sub_code":"",
     "ne:subregion":"Caribbean",
     "ne:subunit":"Aruba",
     "ne:tiny":4,
-    "ne:type":"Country",
+    "ne:type":"",
+    "ne:type_en":"",
     "ne:un_a3":"533",
     "ne:wb_a2":"AW",
     "ne:wb_a3":"ABW",
-    "ne:wikipedia":-99,
-    "ne:woe_id":23424736,
+    "ne:wikipedia":"",
+    "ne:woe_id":"23424736",
     "ne:woe_id_eh":23424736,
+    "ne:woe_label":"",
+    "ne:woe_name":"Aruba",
     "ne:woe_note":"Exact WOE match as country",
     "qs:a0":"Aruba",
     "qs:a0_alt":"Aruba",
@@ -501,35 +716,60 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "reversegeo:geometry":"85632295-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"297",
+    "statoids:ds":"AW",
+    "statoids:fifa":"ARU",
+    "statoids:gaul":"14",
+    "statoids:gec":"AA",
+    "statoids:independent":"Part of NL",
+    "statoids:ioc":"ARU",
+    "statoids:iso_a2":"AW",
+    "statoids:iso_a3":"ABW",
+    "statoids:iso_num":"533",
+    "statoids:itu":"ABW",
+    "statoids:marc":"aw",
+    "statoids:name":"Aruba",
+    "statoids:wmo":"NU",
     "wk:wordcount":4007,
     "wof:belongsto":[
-        102191575,
-        "136253051"
+        102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "dbp:id":"Aruba",
         "fb:id":"en.aruba",
+        "fifa:id":"ARU",
+        "fips:code":"AA",
+        "gaul:id":"14",
         "gn:id":3577279,
         "gp:id":23424736,
         "hasc:id":"AW",
+        "ioc:id":"ARU",
+        "itu:id":"ABW",
+        "m49:code":"533",
+        "marc:id":"aw",
+        "ne:adm0_a3":"ABW",
         "nyt:id":"66228667234448834561",
         "qs:id":95975,
-        "wd:id":"Q21203"
+        "uncrt:id":"AW",
+        "wd:id":"Q21203",
+        "wmo:id":"NU"
     },
     "wof:country":"AW",
     "wof:country_alpha3":"ABW",
-    "wof:geomhash":"c5192bd375334b470e8f015ce1df5eff",
+    "wof:geomhash":"63ecb5dcae598ed20467878aa52dca7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":85632295,
-            "empire_id":"136253051"
+            "country_id":85632295
         }
     ],
     "wof:id":85632295,
@@ -547,11 +787,14 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1493229912,
+    "wof:lastmodified":1514558720,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":71566,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ABW",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

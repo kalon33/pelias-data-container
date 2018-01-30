@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":184.666944,
+    "geom:area_square_m":1560903532525.393311,
     "geom:bbox":"87.73762,41.58152,119.931949,52.148696",
     "geom:latitude":46.836005,
     "geom:longitude":103.06909,
     "gn:id":"",
     "gn:population":3086918,
     "iso:country":"MN",
+    "itu:country_code":[
+        "976"
+    ],
     "lbl:latitude":45.99339,
     "lbl:longitude":104.159557,
     "mps:latitude":45.99339,
     "mps:longitude":104.159557,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Mongolia"
     ],
@@ -25,11 +32,17 @@
     "name:afr_x_preferred":[
         "Mongoli\u00eb"
     ],
+    "name:aka_x_preferred":[
+        "M\u0254ngolia"
+    ],
     "name:als_x_preferred":[
         "Mongolei"
     ],
     "name:amh_x_preferred":[
         "\u121e\u1295\u130e\u120d\u12eb"
+    ],
+    "name:amh_x_variant":[
+        "\u121e\u1295\u130e\u120a\u12eb"
     ],
     "name:ang_x_preferred":[
         "Mongolland"
@@ -55,8 +68,14 @@
     "name:aze_x_preferred":[
         "Monqolustan"
     ],
+    "name:aze_x_variant":[
+        "Monqoliya"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f"
+    ],
+    "name:bam_x_preferred":[
+        "Mo\u014boli"
     ],
     "name:bar_x_preferred":[
         "Mongolei"
@@ -73,8 +92,18 @@
     "name:ben_x_preferred":[
         "\u09ae\u0999\u09cd\u0997\u09cb\u09b2\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u0999\u09cd\u0997\u09cb\u09b2\u09bf\u09df\u09be",
+        "\u09ae\u09cb\u0999\u09cd\u0997\u09cb\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u092e\u0902\u0917\u094b\u0932\u093f\u092f\u093e"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0f7c\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f7c\u0f44\u0f0b\u0f42\u0f7c\u0f63\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Mongolija"
@@ -108,9 +137,6 @@
     ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u8499\u53e4"
     ],
     "name:chr_x_preferred":[
         "\u13b9\u13c2\u13aa\u13b5\u13a0"
@@ -154,11 +180,11 @@
     "name:dsb_x_preferred":[
         "Mongolska"
     ],
-    "name:dut_x_preferred":[
-        "Mongoli\u00eb"
-    ],
     "name:dzo_x_preferred":[
         "\u0f66\u0f7c\u0f42\u0f0b\u0f54\u0f7c\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f66\u0f7c\u0f42\u0f0b\u0f54\u0f7c"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03b3\u03b3\u03bf\u03bb\u03af\u03b1"
@@ -171,10 +197,15 @@
         "MNG"
     ],
     "name:eng_x_variant":[
-        "Mongolian"
+        "Mongolian",
+        "Mongolian People\u2019s Republic",
+        "Mongol Peoples Republic"
     ],
     "name:epo_x_preferred":[
         "Mongolio"
+    ],
+    "name:epo_x_variant":[
+        "Mongolujo"
     ],
     "name:est_x_preferred":[
         "Mongoolia"
@@ -185,6 +216,9 @@
     "name:ewe_x_preferred":[
         "Mongolia"
     ],
+    "name:ewe_x_variant":[
+        "Mongolia nutome"
+    ],
     "name:ext_x_preferred":[
         "Mongolia"
     ],
@@ -194,13 +228,13 @@
     "name:fas_x_preferred":[
         "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u063a\u0644\u0633\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Mongolia"
     ],
     "name:fra_x_preferred":[
-        "Mongolie"
-    ],
-    "name:fre_x_preferred":[
         "Mongolie"
     ],
     "name:frp_x_preferred":[
@@ -209,11 +243,11 @@
     "name:fry_x_preferred":[
         "Mongoalje"
     ],
+    "name:ful_x_preferred":[
+        "Monngolii"
+    ],
     "name:gag_x_preferred":[
         "Mongoliya"
-    ],
-    "name:ger_x_preferred":[
-        "Mongolei"
     ],
     "name:gla_x_preferred":[
         "Mong\u00f2ilia"
@@ -223,6 +257,9 @@
     ],
     "name:glg_x_preferred":[
         "Mongolia"
+    ],
+    "name:glg_x_variant":[
+        "Mongolia - \u041c\u043e\u043d\u0433\u043e\u043b \u0423\u043b\u0441"
     ],
     "name:glv_x_preferred":[
         "Yn Vongoil"
@@ -241,6 +278,9 @@
     ],
     "name:hau_x_preferred":[
         "Mangolia"
+    ],
+    "name:hau_x_variant":[
+        "Mangoliya"
     ],
     "name:haw_x_preferred":[
         "Monokolia"
@@ -315,6 +355,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0c82\u0c97\u0ccb\u0cb2\u0cbf\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cca\u0c82\u0c97\u0ccb\u0cb2\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10e6\u10dd\u10da\u10d4\u10d7\u10d8"
     ],
@@ -348,8 +391,17 @@
     "name:kur_x_preferred":[
         "Mongolya"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06d5\u0646\u06af\u06c6\u0644\u06cc\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0ebb\u0e87\u0ec2\u0e81\u0ea5\u0eb5"
+    ],
     "name:lat_x_preferred":[
         "Mongolia"
+    ],
+    "name:lat_x_variant":[
+        "Mogolia"
     ],
     "name:lav_x_preferred":[
         "Mongolija"
@@ -378,6 +430,15 @@
     "name:ltz_x_preferred":[
         "Mongolei"
     ],
+    "name:lub_x_preferred":[
+        "Mongoli"
+    ],
+    "name:lug_x_preferred":[
+        "Mongoliya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8499\u53e4\u570b"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d02\u0d17\u0d4b\u0d33\u0d3f\u0d2f"
     ],
@@ -393,8 +454,19 @@
     "name:mlg_x_preferred":[
         "Mongolia"
     ],
+    "name:mlg_x_variant":[
+        "M\u00f4ng\u00f4lia"
+    ],
+    "name:mlt_x_preferred":[
+        "Mongolja"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441"
+    ],
+    "name:mon_x_variant":[
+        "Mongol Uls",
+        "\u041c\u043e\u043d\u0433\u043e\u043f \u0423\u043b\u0441",
+        "B\u00fcgd Nayramdah Mongol Ard Uls"
     ],
     "name:mri_x_preferred":[
         "Mong\u014dria"
@@ -408,14 +480,23 @@
     "name:mya_x_preferred":[
         "\u1019\u103d\u1014\u103a\u1002\u102d\u102f\u1038\u101c\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u103d\u1014\u103a\u1002\u102d\u102f\u1038\u101c\u102e\u1038\u101a\u102c\u1038"
+    ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u063a\u0648\u0644\u0626\u0648\u0646"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00f4ng-k\u00f3\u0358"
     ],
     "name:nau_x_preferred":[
         "Mongoriya"
     ],
     "name:nav_x_preferred":[
         "Ch\u02bcah Di\u02bcilii Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Mongolia"
     ],
     "name:nds_nld_x_preferred":[
         "Mongoli\u00eb"
@@ -433,6 +514,9 @@
         "Mongoli\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Mongolia"
+    ],
+    "name:nob_x_preferred":[
         "Mongolia"
     ],
     "name:nor_x_preferred":[
@@ -489,11 +573,23 @@
     "name:que_x_preferred":[
         "Mungul suyu"
     ],
+    "name:roh_x_preferred":[
+        "Mongolia"
+    ],
     "name:ron_x_preferred":[
         "Mongolia"
     ],
+    "name:ron_x_variant":[
+        "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f"
+    ],
+    "name:run_x_preferred":[
+        "Mongoliya"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Mongol\u00efi"
     ],
     "name:sah_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f"
@@ -507,8 +603,14 @@
     "name:sco_x_preferred":[
         "Mongolie"
     ],
+    "name:sgs_x_preferred":[
+        "Monguol\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0d82\u0d9c\u0ddd\u0dbd\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:sin_x_variant":[
+        "\u0db8\u0ddc\u0db1\u0dca\u0d9c\u0ddd\u0dbd\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Mongolsko"
@@ -528,11 +630,17 @@
     "name:som_x_preferred":[
         "Mongolia"
     ],
+    "name:som_x_variant":[
+        "Mongooliya"
+    ],
     "name:spa_x_preferred":[
         "Mongolia"
     ],
     "name:sqi_x_preferred":[
         "Mongolia"
+    ],
+    "name:sqi_x_variant":[
+        "Mongoli"
     ],
     "name:srn_x_preferred":[
         "Mongolikondre"
@@ -575,6 +683,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e2d\u0e07\u0e42\u0e01\u0e40\u0e25\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e07\u0e42\u0e01\u0e40\u0e25\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u121e\u1295\u130e\u120a\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Mongok\u014dlia"
     ],
     "name:tuk_x_preferred":[
         "Mongoli\u00fda"
@@ -647,6 +764,12 @@
     "name:yor_x_preferred":[
         "M\u00f2ng\u00f3l\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Mogolia"
+    ],
+    "name:yue_x_preferred":[
+        "\u8499\u53e4\u570b"
+    ],
     "name:zea_x_preferred":[
         "Monholi\u00eb"
     ],
@@ -660,10 +783,14 @@
         "\u8499\u53e4\u56fd"
     ],
     "name:zho_x_variant":[
-        "\u8499\u53e4\u570b"
+        "\u8499\u53e4\u570b",
+        "\u8499\u53e4"
     ],
     "name:zho_yue_x_preferred":[
         "\u8499\u53e4\u570b"
+    ],
+    "name:zul_x_preferred":[
+        "i-Mongolia"
     ],
     "ne:abbrev":"Mong.",
     "ne:abbrev_len":5,
@@ -743,6 +870,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"976",
+    "statoids:ds":"MGL",
+    "statoids:fifa":"MNG",
+    "statoids:gaul":"167",
+    "statoids:gec":"MG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MGL",
+    "statoids:iso_a2":"MN",
+    "statoids:iso_a3":"MNG",
+    "statoids:iso_num":"496",
+    "statoids:itu":"MNG",
+    "statoids:marc":"mp",
+    "statoids:name":"Mongolia",
+    "statoids:wmo":"MO",
     "wk:latitude":47.0,
     "wk:longitude":104.0,
     "wk:population":2953190,
@@ -754,18 +896,28 @@
     "wof:concordances":{
         "dbp:id":"Mongolia",
         "fb:id":"en.mongolia",
+        "fifa:id":"MNG",
+        "fips:code":"MG",
+        "gaul:id":"167",
         "gn:id":2029969,
         "gp:id":23424887,
         "hasc:id":"MN",
+        "ioc:id":"MGL",
+        "itu:id":"MNG",
+        "m49:code":"496",
+        "marc:id":"mp",
         "mzb:id":"mongolia",
+        "ne:adm0_a3":"MNG",
         "nyt:id":"N44027248480153466981",
         "qs:id":1263241,
+        "uncrt:id":"MGL",
         "wd:id":"Q711",
-        "wk:page":"Mongolia"
+        "wk:page":"Mongolia",
+        "wmo:id":"MO"
     },
     "wof:country":"MN",
     "wof:country_alpha3":"MNG",
-    "wof:geomhash":"93ee8a327cba771eab5eb73097a909fa",
+    "wof:geomhash":"72f72d007dc1db36c6fb3c1f92a99307",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -782,11 +934,14 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1493229961,
+    "wof:lastmodified":1509142803,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":2953190,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MNG",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

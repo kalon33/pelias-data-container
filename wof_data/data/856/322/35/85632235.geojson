@@ -5,22 +5,35 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":50.663716,
+    "geom:area_square_m":579683363205.897949,
     "geom:bbox":"19.998903,-26.907545,29.375304,-17.778158",
     "geom:latitude":-22.187383,
     "geom:longitude":23.814767,
     "gn:id":"",
     "gn:population":2029307,
     "iso:country":"BW",
+    "itu:country_code":[
+        "267"
+    ],
     "lbl:latitude":-22.108313,
     "lbl:longitude":24.191388,
     "mps:latitude":-22.108313,
     "mps:longitude":24.191388,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Botswana"
     ],
     "name:afr_x_preferred":[
         "Botswana"
+    ],
+    "name:aka_x_preferred":[
+        "B\u0254tswana"
+    ],
+    "name:alb_x_preferred":[
+        "Bocvana"
     ],
     "name:als_x_preferred":[
         "Botsuana"
@@ -31,17 +44,32 @@
     "name:ang_x_preferred":[
         "Botswana"
     ],
+    "name:ang_x_variant":[
+        "Bots\u01bfana"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
     "name:arg_x_preferred":[
         "Botswana"
+    ],
+    "name:arg_x_variant":[
+        "Botsuana"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u057f\u057d\u057e\u0561\u0576\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
     "name:ast_x_preferred":[
         "Botswana"
+    ],
+    "name:ast_x_variant":[
+        "Botsuana"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
@@ -55,23 +83,38 @@
     "name:bam_x_preferred":[
         "Botswana"
     ],
+    "name:bam_x_variant":[
+        "B\u0254tisiwana"
+    ],
+    "name:baq_x_preferred":[
+        "Botswana"
+    ],
     "name:bcl_x_preferred":[
         "Botswana"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0442\u0441\u0432\u0430\u043d\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u0430\u0442\u0441\u0432\u0430\u043d\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09a4\u09b8\u09cb\u09af\u09bc\u09be\u09a8\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09cb\u09a4\u09cd\u200d\u09b8\u0993\u09af\u09bc\u09be\u09a8\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:bho_x_preferred":[
+        "\u092c\u094b\u0924\u094d\u0938\u0935\u093e\u0928\u093e"
     ],
     "name:bjn_x_preferred":[
         "Botswana"
     ],
     "name:bod_x_preferred":[
         "\u0f56\u0fb7\u0f7c\u0f0b\u0f59\u0f72\u0f0b\u0f5d\u0f0b\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f56\u0f7c\u0f59\u0f0b\u0f5d\u0f0b\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Bocvana"
@@ -85,11 +128,20 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u043e\u0442\u0441\u0443\u0430\u043d\u0430"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u1031\u102c\u1037\u1006\u103d\u102c\u1014\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
     "name:bxr_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
     ],
     "name:cat_x_preferred":[
         "Botswana"
+    ],
+    "name:cat_x_variant":[
+        "Rep\u00fablica de Botswana"
     ],
     "name:cdo_x_preferred":[
         "Botswana"
@@ -104,10 +156,6 @@
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
     ],
     "name:chi_x_preferred":[
-        "\u6ce2\u672d\u90a3"
-    ],
-    "name:chi_x_variant":[
-        "\u535a\u8328\u74e6\u7eb3",
         "\u6ce2\u672d\u90a3"
     ],
     "name:chr_x_preferred":[
@@ -128,11 +176,17 @@
     "name:cym_x_preferred":[
         "Botswana"
     ],
+    "name:cze_x_preferred":[
+        "Botswana"
+    ],
     "name:dan_x_preferred":[
         "Botswana"
     ],
     "name:deu_x_preferred":[
         "Botswana"
+    ],
+    "name:deu_x_variant":[
+        "Botsuana"
     ],
     "name:diq_x_preferred":[
         "Botswana"
@@ -142,6 +196,12 @@
     ],
     "name:dsb_x_preferred":[
         "Botsuana"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u094b\u0924\u094d\u0938\u0935\u093e\u0928\u093e"
+    ],
+    "name:dut_x_preferred":[
+        "Botswana"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c4\u03c3\u03bf\u03c5\u03ac\u03bd\u03b1"
@@ -171,6 +231,9 @@
     "name:ewe_x_preferred":[
         "Botswana"
     ],
+    "name:ewe_x_variant":[
+        "Botswana nutome"
+    ],
     "name:ext_x_preferred":[
         "Botsuana"
     ],
@@ -183,11 +246,20 @@
     "name:fin_x_preferred":[
         "Botswana"
     ],
+    "name:fit_x_preferred":[
+        "Botswana"
+    ],
     "name:fra_x_preferred":[
+        "Botswana"
+    ],
+    "name:fre_x_preferred":[
         "Botswana"
     ],
     "name:frp_x_preferred":[
         "Botsouana"
+    ],
+    "name:frr_x_preferred":[
+        "Botswana"
     ],
     "name:fry_x_preferred":[
         "Botswana"
@@ -195,8 +267,17 @@
     "name:ful_x_preferred":[
         "Botswana"
     ],
+    "name:ful_x_variant":[
+        "Botswaana"
+    ],
     "name:gag_x_preferred":[
         "Botsvana"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10e2\u10e1\u10d5\u10d0\u10dc\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Botswana"
     ],
     "name:ger_x_variant":[
         "Botsuana",
@@ -211,11 +292,24 @@
     "name:glg_x_preferred":[
         "Botswana"
     ],
+    "name:glg_x_variant":[
+        "Rep\u00fablica de Botsuana",
+        "Botsuana"
+    ],
     "name:glv_x_preferred":[
         "Yn Votswaan"
     ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c4\u03c3\u03bf\u03c5\u03ac\u03bd\u03b1"
+    ],
     "name:grn_x_preferred":[
         "Votusuana"
+    ],
+    "name:gsw_x_preferred":[
+        "Botsuana"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0aa4\u0acd\u0ab8\u0acd\u0ab5\u0abe\u0aa8\u0abe"
     ],
     "name:hak_x_preferred":[
         "Botswana"
@@ -226,17 +320,26 @@
     "name:hau_x_preferred":[
         "Botswana"
     ],
+    "name:hau_x_variant":[
+        "Baswana"
+    ],
     "name:hbs_x_preferred":[
         "Bocvana"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d8\u05e1\u05d5\u05d0\u05e0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d5\u05d8\u05e1\u05d5\u05d5\u05d0\u05e0\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Botswana"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0924\u094d\u0938\u0935\u093e\u0928\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u092c\u094b\u0924\u094d\u0938\u094d\u0935\u093e\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Bocvana"
@@ -252,6 +355,9 @@
     ],
     "name:ibo_x_preferred":[
         "Botswana"
+    ],
+    "name:ice_x_preferred":[
+        "Botsvana"
     ],
     "name:ido_x_preferred":[
         "Botswana"
@@ -295,14 +401,29 @@
     "name:kab_x_preferred":[
         "Butswana"
     ],
+    "name:kal_x_preferred":[
+        "Botswana"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccb\u0c9f\u0ccd\u0cb8\u0ccd\u0cb5\u0cbe\u0ca8"
+    ],
+    "name:kan_x_variant":[
+        "\u0cac\u0ccb\u0c9f\u0ccd\u0cb8\u0ccd\u200c\u0cb5\u0cbe\u0ca8\u0cbe"
+    ],
+    "name:kas_x_preferred":[
+        "\u092c\u094b\u0924\u094d\u0938\u0935\u093e\u0928\u093e"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10e2\u10e1\u10d5\u10d0\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
+    ],
+    "name:kbp_x_preferred":[
+        "P\u0254c\u0269waanaa"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17bb\u178f\u179f\u17d2\u179c\u17b6\u178e\u17b6"
     ],
     "name:kik_x_preferred":[
         "Botswana"
@@ -325,11 +446,23 @@
     "name:kur_x_preferred":[
         "Botswana"
     ],
+    "name:kur_x_variant":[
+        "\u0628\u06c6\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9a\u0ead\u0eb1\u0e94\u0eaa\u0eb0\u0ea7\u0eb2\u0e99\u0eb2"
+    ],
     "name:lat_x_preferred":[
         "Botswana"
     ],
+    "name:lat_x_variant":[
+        "Botsuana"
+    ],
     "name:lav_x_preferred":[
         "Botsvana"
+    ],
+    "name:lav_x_variant":[
+        "Botsv\u0101na"
     ],
     "name:lez_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
@@ -358,14 +491,32 @@
     "name:ltz_x_preferred":[
         "Botswana"
     ],
+    "name:lub_x_preferred":[
+        "Mbotswana"
+    ],
     "name:lug_x_preferred":[
         "Botswana"
+    ],
+    "name:lug_x_variant":[
+        "Botiswana"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6ce2\u672d\u90a3"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u043e\u0446\u0432\u0430\u043d\u0430"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4b\u0d1f\u0d4d\u0d38\u0d4d\u0d35\u0d3e\u0d28"
     ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0924\u094d\u0938\u094d\u0935\u093e\u0928\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u092c\u094b\u091f\u094d\u0938\u0935\u093e\u0928\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Botswana"
     ],
     "name:min_x_preferred":[
         "Botswana"
@@ -388,8 +539,17 @@
     "name:mya_x_preferred":[
         "\u1018\u1031\u102c\u1037\u1006\u103d\u102c\u1014\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1018\u1031\u102c\u1037\u1005\u103a\u101d\u102b\u1014\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Botzhuana"
+    ],
+    "name:nan_x_preferred":[
+        "Botswana"
     ],
     "name:nau_x_preferred":[
         "Botwana"
@@ -397,11 +557,17 @@
     "name:nav_x_preferred":[
         "Tswana Dine\u02bc\u00e9 Bik\u00e9yah"
     ],
+    "name:nde_x_preferred":[
+        "Botswana"
+    ],
     "name:nds_x_preferred":[
         "Botswana"
     ],
     "name:nep_x_preferred":[
         "\u092c\u094b\u0924\u094d\u0938\u094d\u0935\u093e\u0928\u093e"
+    ],
+    "name:nep_x_variant":[
+        "\u092c\u094b\u091f\u094d\u0938\u094d\u0935\u093e\u0928\u093e"
     ],
     "name:new_x_preferred":[
         "\u092c\u094b\u0924\u094d\u0938\u094d\u0935\u093e\u0928\u093e"
@@ -410,6 +576,9 @@
         "Botswana"
     ],
     "name:nno_x_preferred":[
+        "Botswana"
+    ],
+    "name:nob_x_preferred":[
         "Botswana"
     ],
     "name:nor_x_preferred":[
@@ -424,8 +593,15 @@
     "name:oci_x_preferred":[
         "Botswana"
     ],
+    "name:olo_x_preferred":[
+        "Botsvana"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b4b\u0b24\u0b4d\u0b38\u0b71\u0b3e\u0b28\u0b3e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2c\u0b4b\u0b1f\u0b38\u0b4d\u0b2c\u0b3e\u0b28\u0b4d",
+        "\u0b2c\u0b4b\u0b38\u0b1a\u0b71\u0b3e\u0b28\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Bootiswaanaa"
@@ -445,6 +621,9 @@
     "name:pdc_x_preferred":[
         "Botswana"
     ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+    ],
     "name:pih_x_preferred":[
         "Botswana"
     ],
@@ -463,6 +642,9 @@
     "name:por_x_preferred":[
         "Botswana"
     ],
+    "name:por_x_variant":[
+        "Botsuana"
+    ],
     "name:pus_x_preferred":[
         "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
@@ -477,6 +659,15 @@
     ],
     "name:rue_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Botswana"
+    ],
+    "name:run_x_preferred":[
+        "Botswana"
+    ],
+    "name:rup_x_preferred":[
+        "Botswana"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
@@ -496,7 +687,16 @@
     "name:sco_x_preferred":[
         "Botswana"
     ],
+    "name:sgs_x_preferred":[
+        "Botsvana"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0dc3\u0dca\u0da7\u0dca\u0dc0\u0dcf\u0db1\u0dcf"
+    ],
     "name:slk_x_preferred":[
+        "Botswana"
+    ],
+    "name:slo_x_preferred":[
         "Botswana"
     ],
     "name:slv_x_preferred":[
@@ -511,6 +711,9 @@
     "name:som_x_preferred":[
         "Botswana"
     ],
+    "name:som_x_variant":[
+        "Botuswaana"
+    ],
     "name:sot_x_preferred":[
         "Botswana"
     ],
@@ -519,6 +722,9 @@
     ],
     "name:sqi_x_preferred":[
         "Bocuana"
+    ],
+    "name:sqi_x_variant":[
+        "Botsvana"
     ],
     "name:srd_x_preferred":[
         "Botzuana"
@@ -547,11 +753,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0b9f\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0ba9\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bcb\u0b9f\u0bcd\u0bb8\u0bcd\u0bb5\u0bbe\u0ba9\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c24\u0c4d\u0c38\u0c41\u0c35\u0c3e\u0c28\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2c\u0c4b\u0c1f\u0c4d\u0c38\u0c4d\u0c35\u0c3e\u0c28\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
@@ -562,8 +774,17 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e2d\u0e15\u0e2a\u0e27\u0e32\u0e19\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e2d\u0e15\u0e2a\u0e27\u0e32\u0e19\u0e32"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f56\u0fb7\u0f7c\u0f0b\u0f59\u0f72\u0f0b\u0f5d\u0f0b\u0f53\u0f0d"
+    ],
     "name:tir_x_preferred":[
         "\u1266\u1275\u1235\u12cb\u1293"
+    ],
+    "name:ton_x_preferred":[
+        "Potisiuana"
     ],
     "name:tsn_x_preferred":[
         "Botswana"
@@ -576,6 +797,10 @@
     ],
     "name:tur_x_preferred":[
         "Botsvana"
+    ],
+    "name:tur_x_variant":[
+        "Botsvana Cumhuriyeti",
+        "Botswana"
     ],
     "name:udm_x_preferred":[
         "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
@@ -592,8 +817,14 @@
     "name:und_x_variant":[
         "Republika Bocvana"
     ],
+    "name:unk_x_variant":[
+        "Betsjoeanaland"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
     ],
     "name:uzb_x_preferred":[
         "Botsvana"
@@ -610,10 +841,20 @@
     "name:vie_x_preferred":[
         "Botswana"
     ],
+    "name:vie_x_variant":[
+        "B\u1ed1t-xoa-na",
+        "B\u1ed1t-xoa-na (Botswana)"
+    ],
     "name:vol_x_preferred":[
         "Zvan\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Botswana"
+    ],
     "name:war_x_preferred":[
+        "Botswana"
+    ],
+    "name:wel_x_preferred":[
         "Botswana"
     ],
     "name:wln_x_preferred":[
@@ -637,6 +878,12 @@
     "name:yor_x_preferred":[
         "B\u00f2tsw\u00e1n\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de B\u1ecd\u0300t\u00ecs\u00faw\u00e1n\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u6ce2\u8328\u83ef\u62ff"
+    ],
     "name:zea_x_preferred":[
         "Botswana"
     ],
@@ -647,13 +894,17 @@
         "\u6ce2\u672d\u90a3"
     ],
     "name:zho_x_variant":[
-        "\u6ce2\u672d\u90a3"
+        "\u6ce2\u672d\u90a3",
+        "\u535a\u8328\u74e6\u7eb3"
     ],
     "name:zho_yue_x_preferred":[
         "\u6ce2\u8328\u83ef\u62ff"
     ],
     "name:zul_x_preferred":[
         "IButswana"
+    ],
+    "name:zul_x_variant":[
+        "i-Botswana"
     ],
     "ne:abbrev":"Bwa.",
     "ne:abbrev_len":4,
@@ -732,6 +983,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"267",
+    "statoids:ds":"BW",
+    "statoids:fifa":"BOT",
+    "statoids:gaul":"35",
+    "statoids:gec":"BC",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"BOT",
+    "statoids:iso_a2":"BW",
+    "statoids:iso_a3":"BWA",
+    "statoids:iso_num":"72",
+    "statoids:itu":"BOT",
+    "statoids:marc":"bs",
+    "statoids:name":"Botswana",
+    "statoids:wmo":"BC",
     "wk:latitude":-24.666667,
     "wk:longitude":25.916667,
     "wk:population":2021144,
@@ -743,19 +1009,29 @@
     "wof:concordances":{
         "dbp:id":"Botswana",
         "fb:id":"en.botswana",
+        "fifa:id":"BOT",
+        "fips:code":"BC",
+        "gaul:id":"35",
         "gn:id":933860,
         "gp:id":23424755,
         "hasc:id":"BW",
+        "ioc:id":"BOT",
+        "itu:id":"BOT",
         "loc:id":"n79079238",
+        "m49:code":"072",
+        "marc:id":"bs",
         "mzb:id":"botswana",
+        "ne:adm0_a3":"BWA",
         "nyt:id":"1358072323741829111",
         "qs:id":1263199,
+        "uncrt:id":"BW",
         "wd:id":"Q963",
-        "wk:page":"Botswana"
+        "wk:page":"Botswana",
+        "wmo:id":"BC"
     },
     "wof:country":"BW",
     "wof:country_alpha3":"BWA",
-    "wof:geomhash":"6cc18037efc3bb917a2996288f0ebb57",
+    "wof:geomhash":"25c0d25e5cfa0975bcdcea2b2adc3d20",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -774,11 +1050,14 @@
         "eng",
         "tsn"
     ],
-    "wof:lastmodified":1493229894,
+    "wof:lastmodified":1514562413,
     "wof:name":"Botswana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":2021144,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"BWA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

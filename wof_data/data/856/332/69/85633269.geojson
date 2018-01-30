@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.190398,
+    "geom:area_square_m":64645697632.212967,
     "geom:bbox":"20.924569,53.886841,26.80072,56.442602",
     "geom:latitude":55.327024,
     "geom:longitude":23.888249,
     "gn:population":2944459,
     "iso:country":"LT",
+    "itu:country_code":[
+        "370"
+    ],
     "lbl:latitude":55.103703,
     "lbl:longitude":24.089932,
     "mps:latitude":55.103703,
     "mps:longitude":24.089932,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
     ],
@@ -30,17 +37,29 @@
     "name:aka_x_preferred":[
         "Lituania"
     ],
+    "name:aka_x_variant":[
+        "Lituwenia"
+    ],
     "name:als_x_preferred":[
         "Litauen"
     ],
     "name:amh_x_preferred":[
         "\u120a\u1275\u12cc\u1292\u12eb"
     ],
+    "name:amh_x_variant":[
+        "\u120a\u1271\u12cc\u1292\u12eb"
+    ],
     "name:ang_x_preferred":[
         "Li\u00fe\u00feuania"
     ],
+    "name:ang_x_variant":[
+        "Lithuania"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0648\u0627\u0646\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u062a\u0648\u0627\u0646\u064a\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0720\u072c\u0718\u0722\u071d\u0710"
@@ -57,6 +76,9 @@
     "name:aym_x_preferred":[
         "Litua\u00f1a"
     ],
+    "name:aym_x_variant":[
+        "Lituania"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc"
     ],
@@ -65,6 +87,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
+    ],
+    "name:bam_x_preferred":[
+        "Lituyani"
     ],
     "name:bar_x_preferred":[
         "Litaun"
@@ -80,6 +105,10 @@
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09a5\u09c1\u09af\u09bc\u09be\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09bf\u09a4\u09cd\u09ad\u09be",
+        "\u09b2\u09bf\u09a5\u09c1\u09af\u09bc\u09c7\u09a8\u09bf\u09af\u09bc\u09be"
     ],
     "name:bis_x_preferred":[
         "Litwania"
@@ -111,6 +140,9 @@
     "name:ceb_x_preferred":[
         "Litwanya"
     ],
+    "name:ceb_x_variant":[
+        "Lituanya"
+    ],
     "name:ces_x_preferred":[
         "Litva"
     ],
@@ -119,9 +151,6 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u7acb\u9676\u5b9b"
     ],
     "name:chr_x_preferred":[
         "\u13b5\u13d7\u13ea\u13c2\u13a0"
@@ -153,6 +182,9 @@
     "name:cym_x_preferred":[
         "Lithwania"
     ],
+    "name:cym_x_variant":[
+        "Lithuania"
+    ],
     "name:cze_x_preferred":[
         "Litva"
     ],
@@ -165,6 +197,9 @@
     "name:deu_x_preferred":[
         "Litauen"
     ],
+    "name:deu_x_variant":[
+        "Republik Litauen"
+    ],
     "name:diq_x_preferred":[
         "Litwanya"
     ],
@@ -174,14 +209,14 @@
     "name:dsb_x_preferred":[
         "Litawska"
     ],
-    "name:dut_x_preferred":[
-        "Litouwen"
-    ],
     "name:dzo_x_preferred":[
         "\u0f63\u0f72\u0f0b\u0f50\u0f74\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03b8\u03bf\u03c5\u03b1\u03bd\u03af\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Lithuanian Soviet Socialist Republic"
     ],
     "name:eng_x_preferred":[
         "Lithuania"
@@ -193,10 +228,14 @@
     "name:eng_x_variant":[
         "Lithuanian",
         "Rep. Lithuania",
-        "Republic of Lithuania"
+        "Republic of Lithuania",
+        "Lithuanian Soviet Socialist Republic"
     ],
     "name:epo_x_preferred":[
         "Litovio"
+    ],
+    "name:epo_x_variant":[
+        "Litovujo"
     ],
     "name:est_x_preferred":[
         "Leedu"
@@ -207,6 +246,9 @@
     "name:ewe_x_preferred":[
         "Lithuania"
     ],
+    "name:ewe_x_variant":[
+        "Lituania nutome"
+    ],
     "name:ext_x_preferred":[
         "Lituania"
     ],
@@ -215,6 +257,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627"
     ],
     "name:fij_x_preferred":[
         "Lituani"
@@ -231,9 +276,6 @@
     "name:fra_x_preferred":[
         "Lituanie"
     ],
-    "name:fre_x_preferred":[
-        "Lituanie"
-    ],
     "name:frp_x_preferred":[
         "Lituanie"
     ],
@@ -246,26 +288,29 @@
     "name:ful_x_preferred":[
         "Lituwaniya"
     ],
+    "name:ful_x_variant":[
+        "Lituaanii"
+    ],
     "name:fur_x_preferred":[
         "Lituanie"
     ],
     "name:gag_x_preferred":[
         "Litvaniya"
     ],
-    "name:ger_x_preferred":[
-        "Litauen"
-    ],
-    "name:ger_x_variant":[
-        "Republik Litauen"
-    ],
     "name:gla_x_preferred":[
         "Liotu\u00e0inia"
+    ],
+    "name:gla_x_variant":[
+        "Lituania"
     ],
     "name:gle_x_preferred":[
         "An Liotu\u00e1in"
     ],
     "name:glg_x_preferred":[
         "Lituania"
+    ],
+    "name:glg_x_variant":[
+        "Lituania - Lietuva"
     ],
     "name:glv_x_preferred":[
         "Yn Litaan"
@@ -279,6 +324,9 @@
     "name:grn_x_preferred":[
         "Litu\u00e1\u00f1a"
     ],
+    "name:grn_x_variant":[
+        "Lituania"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aa5\u0ac1\u0a86\u0aa8\u0abf\u0aaf\u0abe"
     ],
@@ -291,11 +339,17 @@
     "name:hau_x_preferred":[
         "Lithuania"
     ],
+    "name:hau_x_variant":[
+        "Lituweniya"
+    ],
     "name:haw_x_preferred":[
         "Lituania"
     ],
     "name:hbs_x_preferred":[
         "Litvanija"
+    ],
+    "name:hbs_x_variant":[
+        "Litva"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05d8\u05d0"
@@ -339,6 +393,9 @@
     "name:ind_x_preferred":[
         "Lituania"
     ],
+    "name:ind_x_variant":[
+        "Lithuania"
+    ],
     "name:isl_x_preferred":[
         "Lith\u00e1en"
     ],
@@ -372,6 +429,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cbf\u0ca5\u0cc1\u0cb5\u0cc7\u0ca8\u0cbf\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0cb2\u0cbf\u0ca5\u0cc1\u0cb5\u0cc7\u0ca8\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10e2\u10d5\u10d0"
     ],
@@ -381,8 +441,14 @@
     "name:kbd_x_preferred":[
         "\u041b\u0438\u0442\u043e\u0443"
     ],
+    "name:khm_x_preferred":[
+        "\u179b\u17b8\u1791\u17bb\u1799\u17a2\u17b6\u1793\u17b8"
+    ],
     "name:kik_x_preferred":[
         "Rithu\u0129nia"
+    ],
+    "name:kik_x_variant":[
+        "Litwania"
     ],
     "name:kin_x_preferred":[
         "Lituwaniya"
@@ -405,14 +471,23 @@
     "name:krc_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
     ],
+    "name:ksh_x_preferred":[
+        "Littaue"
+    ],
     "name:kur_x_preferred":[
         "L\u00eetvanya"
+    ],
+    "name:kur_x_variant":[
+        "\u0644\u06cc\u062a\u0648\u0627\u0646\u0627\u06cc\u0627"
     ],
     "name:lad_x_preferred":[
         "Lituania"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb5\u0e95\u0ebb\u0ea7\u0e99\u0eb5"
+    ],
+    "name:lao_x_variant":[
+        "\u0ea5\u0eb4\u0ec0\u0e97\u0eb5\u0ec0\u0e99\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Lituania"
@@ -426,6 +501,9 @@
     "name:lij_x_preferred":[
         "Lituannia"
     ],
+    "name:lij_x_variant":[
+        "Lituania"
+    ],
     "name:lim_x_preferred":[
         "Litouwe"
     ],
@@ -435,8 +513,14 @@
     "name:lit_x_preferred":[
         "Lietuva"
     ],
+    "name:lit_x_variant":[
+        "Lietuvos Respublika"
+    ],
     "name:lmo_x_preferred":[
         "Lituania"
+    ],
+    "name:lmo_x_variant":[
+        "Litu\u00e0nia"
     ],
     "name:ltg_x_preferred":[
         "L\u012btova"
@@ -444,14 +528,23 @@
     "name:ltz_x_preferred":[
         "Litauen"
     ],
+    "name:lub_x_preferred":[
+        "Litwani"
+    ],
     "name:lug_x_preferred":[
         "Lithueenia"
+    ],
+    "name:lug_x_variant":[
+        "Lisuwenya"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d24\u0d4d\u0d35\u0d3e\u0d28\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0925\u0941\u090f\u0928\u093f\u092f\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0932\u093f\u0925\u0941\u0906\u0928\u093f\u092f\u093e"
     ],
     "name:mdf_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
@@ -474,6 +567,9 @@
     "name:mri_x_preferred":[
         "Ritu\u0101nia"
     ],
+    "name:mri_x_variant":[
+        "Litovia"
+    ],
     "name:mrj_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
     ],
@@ -483,11 +579,17 @@
     "name:mya_x_preferred":[
         "\u101c\u1005\u103a\u101e\u1030\u101a\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u101c\u1005\u103a\u101e\u1030\u101a\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038"
+    ],
     "name:myv_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430 \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Lituantl\u0101n\u200e"
     ],
     "name:nap_x_preferred":[
         "Lituania"
@@ -495,8 +597,14 @@
     "name:nau_x_preferred":[
         "Rituainiya"
     ],
+    "name:nau_x_variant":[
+        "Lithuania"
+    ],
     "name:nav_x_preferred":[
         "\u0141it\u02bcoow\u0119\u0301\u0119ya"
+    ],
+    "name:nde_x_preferred":[
+        "Lithuania"
     ],
     "name:nds_nld_x_preferred":[
         "Litouwen"
@@ -507,6 +615,9 @@
     "name:nep_x_preferred":[
         "\u0932\u093f\u0925\u0941\u0906\u0928\u093f\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0932\u093f\u0925\u0941\u0905\u0928\u093f\u092f\u093e"
+    ],
     "name:new_x_preferred":[
         "\u0932\u093f\u0925\u0941\u0906\u0928\u093f\u092f\u093e"
     ],
@@ -514,6 +625,9 @@
         "Litouwen"
     ],
     "name:nno_x_preferred":[
+        "Litauen"
+    ],
+    "name:nob_x_preferred":[
         "Litauen"
     ],
     "name:nor_x_preferred":[
@@ -531,8 +645,14 @@
     "name:oci_x_preferred":[
         "Litu\u00e0nia"
     ],
+    "name:olo_x_preferred":[
+        "Litvu"
+    ],
     "name:ori_x_preferred":[
         "\u0b32\u0b3f\u0b25\u0b41\u0b06\u0b28\u0b3f\u0b06"
+    ],
+    "name:ori_x_variant":[
+        "\u0b32\u0b3f\u0b25\u0b3e\u0b06\u0b28\u0b3f\u0b06"
     ],
     "name:orm_x_preferred":[
         "Lituheeniyaa"
@@ -545,6 +665,9 @@
     ],
     "name:pam_x_preferred":[
         "Lituania"
+    ],
+    "name:pam_x_variant":[
+        "Lithuania"
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a3f\u0a25\u0a41\u0a06\u0a28\u0a40\u0a06"
@@ -573,11 +696,17 @@
     "name:por_x_preferred":[
         "Litu\u00e2nia"
     ],
+    "name:prg_x_preferred":[
+        "La\u012btawa"
+    ],
     "name:pus_x_preferred":[
         "\u0644\u06d0\u062a\u0648\u0627\u0646\u064a\u0627"
     ],
     "name:que_x_preferred":[
         "Lituwa"
+    ],
+    "name:que_x_variant":[
+        "Lituwaniya"
     ],
     "name:rmy_x_preferred":[
         "Lituaniya"
@@ -588,6 +717,9 @@
     "name:ron_x_preferred":[
         "Lituania"
     ],
+    "name:ron_x_variant":[
+        "\u041b\u0438\u0442\u0443\u0430\u043d\u0438\u044f"
+    ],
     "name:rue_x_preferred":[
         "\u041b\u0456\u0442\u0432\u0430"
     ],
@@ -596,6 +728,9 @@
     ],
     "name:run_x_preferred":[
         "Lituania"
+    ],
+    "name:run_x_variant":[
+        "Lituwaniya"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
@@ -609,11 +744,20 @@
     "name:san_x_preferred":[
         "\u0932\u0947\u0924\u0941\u0935\u093e"
     ],
+    "name:san_x_variant":[
+        "\u0932\u093f\u0925\u094d\u0935\u093e\u0928\u093f\u092f\u093e"
+    ],
     "name:scn_x_preferred":[
         "Lituania"
     ],
     "name:sco_x_preferred":[
         "Lithuanie"
+    ],
+    "name:sco_x_variant":[
+        "Lithuania"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0dad\u0dd4\u0dc0\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Litva"
@@ -633,6 +777,9 @@
     "name:som_x_preferred":[
         "Lithuaniya"
     ],
+    "name:som_x_variant":[
+        "Lituweeniya"
+    ],
     "name:sot_x_preferred":[
         "Lituania"
     ],
@@ -642,8 +789,14 @@
     "name:sqi_x_preferred":[
         "Lituania"
     ],
+    "name:sqi_x_variant":[
+        "Lituani"
+    ],
     "name:srd_x_preferred":[
         "Litu\u00e0nia"
+    ],
+    "name:srd_x_variant":[
+        "Lituana"
     ],
     "name:srn_x_preferred":[
         "Lituwaniyakondre"
@@ -663,6 +816,9 @@
     "name:swa_x_preferred":[
         "Lituanya"
     ],
+    "name:swa_x_variant":[
+        "Litwania"
+    ],
     "name:swe_x_preferred":[
         "Litauen"
     ],
@@ -678,8 +834,14 @@
     "name:tat_x_preferred":[
         "\u041b\u0438\u0442\u0432\u0430"
     ],
+    "name:tat_x_variant":[
+        "Litua"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c25\u0c41\u0c35\u0c47\u0c28\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c32\u0c3f\u0c25\u0c41\u0c2f\u0c47\u0c28\u0c3f\u0c2f\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Litu\u00e1nia"
@@ -693,8 +855,20 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e34\u0e17\u0e31\u0e27\u0e40\u0e19\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e34\u0e17\u0e31\u0e27\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u120a\u1271\u12cc\u1292\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Lifiuenia"
+    ],
     "name:tpi_x_preferred":[
         "Lituwenia"
+    ],
+    "name:tpi_x_variant":[
+        "Litva"
     ],
     "name:tso_x_preferred":[
         "Lithuania"
@@ -733,8 +907,14 @@
         "Lytva",
         "Republika Litva"
     ],
+    "name:unk_x_variant":[
+        "Litovskaya Sovetskaya Sotsialisticheskaya Respublika"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u062a\u06be\u0648\u0627\u0646\u06cc\u0627"
     ],
     "name:uzb_x_preferred":[
         "Litva"
@@ -751,8 +931,15 @@
     "name:vie_x_preferred":[
         "Litva"
     ],
+    "name:vie_x_variant":[
+        "Li-tu-a-ni-a",
+        "Li-tu-a-ni-a (Lithuania)"
+    ],
     "name:vls_x_preferred":[
         "Litouwn"
+    ],
+    "name:vls_x_variant":[
+        "Litown"
     ],
     "name:vol_x_preferred":[
         "Lietuv\u00e4n"
@@ -781,6 +968,9 @@
     "name:yor_x_preferred":[
         "Litu\u00e9n\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Lituania"
+    ],
     "name:zea_x_preferred":[
         "Litouwen"
     ],
@@ -798,6 +988,9 @@
     ],
     "name:zul_x_preferred":[
         "ILithuwaniya"
+    ],
+    "name:zul_x_variant":[
+        "i-Lithuania"
     ],
     "ne:abbrev":"Lith.",
     "ne:abbrev_len":5,
@@ -872,11 +1065,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633269-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"370",
+    "statoids:ds":"LT",
+    "statoids:fifa":"LTU",
+    "statoids:gaul":"147",
+    "statoids:gec":"LH",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"LTU",
+    "statoids:iso_a2":"LT",
+    "statoids:iso_a3":"LTU",
+    "statoids:iso_num":"440",
+    "statoids:itu":"LTU",
+    "statoids:marc":"li",
+    "statoids:name":"Lithuania",
+    "statoids:wmo":"LT",
     "wk:latitude":55.5,
     "wk:longitude":24.0,
     "wk:population":3043429,
@@ -888,18 +1098,28 @@
     "wof:concordances":{
         "dbp:id":"Lithuania",
         "fb:id":"en.lithuania",
+        "fifa:id":"LTU",
+        "fips:code":"LH",
+        "gaul:id":"147",
         "gn:id":597427,
         "gp:id":23424875,
         "hasc:id":"LT",
+        "ioc:id":"LTU",
+        "itu:id":"LTU",
+        "m49:code":"440",
+        "marc:id":"li",
         "mzb:id":"lithuania",
+        "ne:adm0_a3":"LTU",
         "nyt:id":"29257591924808600541",
         "qs:id":550193,
+        "uncrt:id":"LT",
         "wd:id":"Q37",
-        "wk:page":"Lithuania"
+        "wk:page":"Lithuania",
+        "wmo:id":"LT"
     },
     "wof:country":"LT",
     "wof:country_alpha3":"LTU",
-    "wof:geomhash":"48852d97345dedcc8b69692fc79e6020",
+    "wof:geomhash":"860f9ace1e622616bebcae3da5330607",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -916,11 +1136,14 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1493230203,
+    "wof:lastmodified":1509142796,
     "wof:name":"Lithuania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":3043429,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"LTU",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

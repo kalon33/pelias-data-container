@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":41.035549,
+    "geom:area_square_m":311406699307.466675,
     "geom:bbox":"14.1234075,49.0020255,24.145796,54.835812",
     "geom:latitude":52.128666,
     "geom:longitude":19.393453,
     "gn:population":38500000,
     "iso:country":"PL",
+    "itu:country_code":[
+        "48"
+    ],
     "lbl:latitude":51.899304,
     "lbl:longitude":20.388926,
     "mps:latitude":51.899304,
     "mps:longitude":20.388926,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:abk_x_preferred":[
         "\u041f\u043e\u043b\u0448\u0430"
     ],
@@ -66,6 +73,9 @@
     "name:bak_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0448\u0430"
     ],
+    "name:bam_x_preferred":[
+        "Polo\u0272i"
+    ],
     "name:bar_x_preferred":[
         "Poin"
     ],
@@ -76,16 +86,23 @@
         "\u041f\u043e\u043b\u044c\u0448\u0447\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041f\u043e\u043b\u044c\u0448\u0447\u0430"
+        "\u041f\u043e\u043b\u044c\u0448\u0447\u0430",
+        "\u041f\u043e\u043b\u044c\u0448\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09cb\u09b2\u09cd\u09af\u09be\u09a3\u09cd\u09a1"
     ],
     "name:bis_x_preferred":[
         "Poland"
     ],
     "name:bod_x_preferred":[
         "\u0f55\u0f7c\u0f0b\u0f63\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f54\u0f7c\u0f0b\u0f63\u0f53\u0f9c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Poljska"
@@ -119,12 +136,6 @@
     ],
     "name:che_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0448\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u862d"
-    ],
-    "name:chi_x_variant":[
-        "\u6ce2\u5170"
     ],
     "name:chr_x_preferred":[
         "\u13c9\u13b3\u13c2"
@@ -165,6 +176,9 @@
     "name:deu_x_preferred":[
         "Polen"
     ],
+    "name:deu_x_variant":[
+        "Republik Polen"
+    ],
     "name:diq_x_preferred":[
         "Polonya"
     ],
@@ -173,9 +187,6 @@
     ],
     "name:dsb_x_preferred":[
         "P\u00f3lska"
-    ],
-    "name:dut_x_preferred":[
-        "Polen"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03bb\u03c9\u03bd\u03af\u03b1"
@@ -195,6 +206,10 @@
     "name:epo_x_preferred":[
         "Pollando"
     ],
+    "name:epo_x_variant":[
+        "Polujo",
+        "Polio"
+    ],
     "name:est_x_preferred":[
         "Poola"
     ],
@@ -204,6 +219,9 @@
     "name:ewe_x_preferred":[
         "Poland"
     ],
+    "name:ewe_x_variant":[
+        "Poland nutome"
+    ],
     "name:ext_x_preferred":[
         "Polo\u00f1a"
     ],
@@ -212,6 +230,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u0647\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u062a\u0631\u06cc\u0634"
     ],
     "name:fin_x_preferred":[
         "Puola"
@@ -223,9 +244,6 @@
         "Puolasta"
     ],
     "name:fra_x_preferred":[
-        "Pologne"
-    ],
-    "name:fre_x_preferred":[
         "Pologne"
     ],
     "name:frp_x_preferred":[
@@ -240,6 +258,9 @@
     "name:ful_x_preferred":[
         "Poloonya"
     ],
+    "name:ful_x_variant":[
+        "Polo\u00f1"
+    ],
     "name:fur_x_preferred":[
         "Polonie"
     ],
@@ -249,20 +270,20 @@
     "name:gan_x_preferred":[
         "\u6ce2\u862d"
     ],
-    "name:ger_x_preferred":[
-        "Polen"
-    ],
-    "name:ger_x_variant":[
-        "Republik Polen"
-    ],
     "name:gla_x_preferred":[
         "A' Ph\u00f2lainn"
+    ],
+    "name:gla_x_variant":[
+        "A Ph\u00f2lainn"
     ],
     "name:gle_x_preferred":[
         "An Pholainn"
     ],
     "name:glg_x_preferred":[
         "Polonia"
+    ],
+    "name:glg_x_variant":[
+        "Polonia - Polska"
     ],
     "name:glv_x_preferred":[
         "Yn Pholynn"
@@ -287,6 +308,9 @@
     ],
     "name:hau_x_preferred":[
         "Poland"
+    ],
+    "name:hau_x_variant":[
+        "Polan"
     ],
     "name:haw_x_preferred":[
         "P\u014dlani"
@@ -333,6 +357,9 @@
     "name:ilo_x_preferred":[
         "Polonia"
     ],
+    "name:ilo_x_variant":[
+        "Polandia"
+    ],
     "name:ina_x_preferred":[
         "Polonia"
     ],
@@ -369,6 +396,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb2\u0cc6\u0c82\u0ca1\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0caa\u0ccb\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10da\u10dd\u10dc\u10d4\u10d7\u10d8"
     ],
@@ -380,6 +410,12 @@
     ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u1791\u17c1\u179f\u1794\u17c9\u17bc\u17a1\u17bc\u1789"
+    ],
+    "name:khm_x_variant":[
+        "\u1794\u17c9\u17bc\u179b\u17bc\u1789"
+    ],
+    "name:kik_x_preferred":[
+        "Polandi"
     ],
     "name:kin_x_preferred":[
         "Polonye"
@@ -408,11 +444,17 @@
     "name:kur_x_preferred":[
         "Polonya"
     ],
+    "name:kur_x_variant":[
+        "\u067e\u06c6\u06b5\u06d5\u0646\u062f\u0627"
+    ],
     "name:lad_x_preferred":[
         "Polonia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec2\u0e9b\u0ec2\u0ea5\u0e8d"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec2\u0e9b\u0ec1\u0ea5\u0e99"
     ],
     "name:lat_x_preferred":[
         "Polonia"
@@ -450,8 +492,14 @@
     "name:ltz_x_preferred":[
         "Polen"
     ],
+    "name:lub_x_preferred":[
+        "Mpoloni"
+    ],
     "name:lug_x_preferred":[
         "Bupoolo"
+    ],
+    "name:lug_x_variant":[
+        "Polandi"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d4b\u0d33\u0d23\u0d4d\u0d1f\u0d4d"
@@ -470,6 +518,9 @@
     ],
     "name:mlg_x_preferred":[
         "Polonia"
+    ],
+    "name:mlg_x_variant":[
+        "P\u00f4l\u00f4na"
     ],
     "name:mlt_x_preferred":[
         "Polonja"
@@ -492,6 +543,9 @@
     "name:mya_x_preferred":[
         "\u1015\u102d\u102f\u101c\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1015\u102d\u102f\u101c\u1014\u103a"
+    ],
     "name:myv_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0448\u0430 \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -506,6 +560,9 @@
     ],
     "name:nav_x_preferred":[
         "P\u00f3olish Dine\u02bc\u00e9 Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Pholandi"
     ],
     "name:nds_nld_x_preferred":[
         "Pooln"
@@ -525,6 +582,9 @@
     "name:nno_x_preferred":[
         "Polen"
     ],
+    "name:nob_x_preferred":[
+        "Polen"
+    ],
     "name:nor_x_preferred":[
         "Polen"
     ],
@@ -539,6 +599,12 @@
     ],
     "name:oci_x_preferred":[
         "Polonha"
+    ],
+    "name:olo_x_preferred":[
+        "Pol\u2019\u0161u"
+    ],
+    "name:olo_x_variant":[
+        "Pol'\u0161u"
     ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b4b\u0b32\u0b3e\u0b23\u0b4d\u0b21"
@@ -603,6 +669,9 @@
     "name:que_x_preferred":[
         "Pulunya"
     ],
+    "name:que_x_variant":[
+        "Pulska"
+    ],
     "name:rmy_x_preferred":[
         "Polska"
     ],
@@ -612,6 +681,9 @@
     "name:ron_x_preferred":[
         "Polonia"
     ],
+    "name:ron_x_variant":[
+        "\u041f\u043e\u043b\u043e\u043d\u0438\u044f"
+    ],
     "name:rue_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0441\u043a\u043e"
     ],
@@ -620,6 +692,9 @@
     ],
     "name:run_x_preferred":[
         "Pologne"
+    ],
+    "name:run_x_variant":[
+        "Polonye"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0448\u0430"
@@ -651,6 +726,9 @@
     "name:sme_x_preferred":[
         "Polska"
     ],
+    "name:sme_x_variant":[
+        "Polen"
+    ],
     "name:smo_x_preferred":[
         "Polani"
     ],
@@ -663,6 +741,9 @@
     "name:som_x_preferred":[
         "Boland"
     ],
+    "name:som_x_variant":[
+        "Booland"
+    ],
     "name:sot_x_preferred":[
         "Poland"
     ],
@@ -674,6 +755,9 @@
     ],
     "name:sqi_x_preferred":[
         "Polonia"
+    ],
+    "name:sqi_x_variant":[
+        "Poloni"
     ],
     "name:srd_x_preferred":[
         "Polonia"
@@ -695,6 +779,9 @@
     ],
     "name:swa_x_preferred":[
         "Poland"
+    ],
+    "name:swa_x_variant":[
+        "Polandi"
     ],
     "name:swe_x_preferred":[
         "Polen"
@@ -723,11 +810,24 @@
     "name:tgl_x_preferred":[
         "Poland"
     ],
+    "name:tgl_x_variant":[
+        "poland",
+        "Polonya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e1b\u0e41\u0e25\u0e19\u0e14\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1b\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tir_x_preferred":[
+        "\u1356\u120b\u1295\u12f5"
+    ],
     "name:ton_x_preferred":[
         "Polani"
+    ],
+    "name:ton_x_variant":[
+        "Poleni"
     ],
     "name:tpi_x_preferred":[
         "Polan"
@@ -770,6 +870,9 @@
         "Puola",
         "Republika Poljska",
         "Rzeczpospolita Polska"
+    ],
+    "name:unk_x_variant":[
+        "Polija"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u06cc\u0646\u0688"
@@ -819,6 +922,9 @@
     "name:yor_x_preferred":[
         "P\u00f3l\u00e0nd\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Polandi"
+    ],
     "name:zea_x_preferred":[
         "Po\u00f4l'n"
     ],
@@ -829,13 +935,17 @@
         "\u6ce2\u5170"
     ],
     "name:zho_x_variant":[
-        "\u6ce2\u862d"
+        "\u6ce2\u862d",
+        "\u6ce2\u5170"
     ],
     "name:zho_yue_x_preferred":[
         "\u6ce2\u862d"
     ],
     "name:zul_x_preferred":[
         "IPolandi"
+    ],
+    "name:zul_x_variant":[
+        "i-Poland"
     ],
     "ne:abbrev":"Pol.",
     "ne:abbrev_len":4,
@@ -915,6 +1025,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"48",
+    "statoids:ds":"PL",
+    "statoids:fifa":"POL",
+    "statoids:gaul":"198",
+    "statoids:gec":"PL",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"POL",
+    "statoids:iso_a2":"PL",
+    "statoids:iso_a3":"POL",
+    "statoids:iso_num":"616",
+    "statoids:itu":"POL",
+    "statoids:marc":"pl",
+    "statoids:name":"Poland",
+    "statoids:wmo":"PL",
     "wk:latitude":52.0,
     "wk:longitude":19.0,
     "wk:population":38483957,
@@ -926,19 +1051,29 @@
     "wof:concordances":{
         "dbp:id":"Poland",
         "fb:id":"en.poland",
+        "fifa:id":"POL",
+        "fips:code":"PL",
+        "gaul:id":"198",
         "gn:id":798544,
         "gp:id":23424923,
         "hasc:id":"PL",
+        "ioc:id":"POL",
+        "itu:id":"POL",
         "loc:id":"n79131071",
+        "m49:code":"616",
+        "marc:id":"pl",
         "mzb:id":"poland",
+        "ne:adm0_a3":"POL",
         "nyt:id":"66705302047208898561",
         "qs:id":1026829,
+        "uncrt:id":"PL",
         "wd:id":"Q36",
-        "wk:page":"Poland"
+        "wk:page":"Poland",
+        "wmo:id":"PL"
     },
     "wof:country":"PL",
     "wof:country_alpha3":"POL",
-    "wof:geomhash":"8c7340582f4305776571567a8a3134d2",
+    "wof:geomhash":"2f55f12187a36e7068e52f3ac25ee77f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -958,11 +1093,14 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1493230357,
+    "wof:lastmodified":1509142989,
     "wof:name":"Poland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":38483957,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"POL",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

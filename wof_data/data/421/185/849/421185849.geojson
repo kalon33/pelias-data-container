@@ -6,6 +6,7 @@
     "edtf:deprecated":"2016-03-29",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"59.327545,47.999248,59.327545,47.999248",
     "geom:latitude":47.999248,
     "geom:longitude":59.327545,
@@ -13,6 +14,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"deprecated because it should never have been imported (20160329); quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kazakhstan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":null,
@@ -32,6 +36,7 @@
     "qs:woe_adm0":23424871,
     "qs:woe_id":23424871,
     "src:geom":"quattroshapes",
+    "src:population":"wk",
     "wk:latitude":48.0,
     "wk:longitude":68.0,
     "wk:population":17948816,
@@ -47,7 +52,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1459009456,
-    "wof:geomhash":"6fbd83c3b27373a30258a97ff8b8175f",
+    "wof:geomhash":"c4abd2c20149593d384b02d632e5386a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,10 +60,12 @@
         }
     ],
     "wof:id":421185849,
-    "wof:lastmodified":1467182935,
+    "wof:lastmodified":1505340694,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":17948816,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,20 +5,33 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.183108,
+    "geom:area_square_m":26946965846.803509,
     "geom:bbox":"29.000993,-4.4691805,30.850173,-2.309987",
     "geom:latitude":-3.365469,
     "geom:longitude":29.891759,
     "gn:population":9863117,
     "iso:country":"BI",
+    "itu:country_code":[
+        "257"
+    ],
     "lbl:latitude":-3.397104,
     "lbl:longitude":29.877803,
     "mps:latitude":-3.397104,
     "mps:longitude":29.877803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Burundi"
     ],
     "name:afr_x_preferred":[
+        "Burundi"
+    ],
+    "name:aka_x_preferred":[
+        "Burundi"
+    ],
+    "name:alb_x_preferred":[
         "Burundi"
     ],
     "name:als_x_preferred":[
@@ -27,17 +40,26 @@
     "name:amh_x_preferred":[
         "\u1261\u1229\u1295\u12f2"
     ],
+    "name:amh_x_variant":[
+        "\u1265\u1229\u1295\u12f2"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0646\u062f\u064a"
     ],
     "name:arg_x_preferred":[
         "Burundi"
     ],
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u0582\u0580\u0578\u0582\u0576\u0564\u056b"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0646\u062f\u0649"
     ],
     "name:ast_x_preferred":[
         "Burundi"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
     ],
     "name:aze_x_preferred":[
         "Burundi"
@@ -48,17 +70,26 @@
     "name:bam_x_preferred":[
         "Burundi"
     ],
+    "name:baq_x_preferred":[
+        "Burundi"
+    ],
     "name:bcl_x_preferred":[
         "Burundi"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043d\u0434\u0437\u0456"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u0443\u0440\u0443\u043d\u0434\u0437\u0456"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09c1\u09a8\u09cd\u09a1\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c1\u09b0\u09c1\u09a3\u09cd\u09a1\u09bf"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0646\u062f\u0627"
+    ],
+    "name:bho_x_preferred":[
+        "\u092c\u0941\u0930\u0941\u0902\u0921\u0940"
     ],
     "name:bjn_x_preferred":[
         "Burundi"
@@ -77,6 +108,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u1030\u101b\u103d\u1014\u103a\u1012\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
@@ -99,10 +133,6 @@
     "name:chi_x_preferred":[
         "\u84b2\u9686\u5730"
     ],
-    "name:chi_x_variant":[
-        "\u5e03\u9686\u8fea",
-        "\u84b2\u9686\u5730"
-    ],
     "name:chr_x_preferred":[
         "\u13cb\u13b7\u13c2\u13d7"
     ],
@@ -121,11 +151,20 @@
     "name:cym_x_preferred":[
         "Bwrwndi"
     ],
+    "name:cym_x_variant":[
+        "Burundi"
+    ],
+    "name:cze_x_preferred":[
+        "Burundi"
+    ],
     "name:dan_x_preferred":[
         "Burundi"
     ],
     "name:deu_x_preferred":[
         "Burundi"
+    ],
+    "name:din_x_preferred":[
+        "Brundi"
     ],
     "name:diq_x_preferred":[
         "Burundi"
@@ -134,6 +173,12 @@
         "\u0784\u07aa\u0783\u07aa\u0782\u07b0\u0791\u07a9"
     ],
     "name:dsb_x_preferred":[
+        "Burundi"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u0941\u0930\u0941\u0928\u094d\u0921\u0940"
+    ],
+    "name:dut_x_preferred":[
         "Burundi"
     ],
     "name:ell_x_preferred":[
@@ -163,6 +208,9 @@
     "name:ewe_x_preferred":[
         "Burundi"
     ],
+    "name:ewe_x_variant":[
+        "Burundi nutome"
+    ],
     "name:ext_x_preferred":[
         "Burundi"
     ],
@@ -172,16 +220,25 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u0631\u0627\u0646\u062f\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Burundi"
     ],
     "name:fra_x_preferred":[
         "Burundi"
     ],
+    "name:fra_x_variant":[
+        "R\u00e9publique du Burundi"
+    ],
     "name:fre_x_preferred":[
         "Burundi"
     ],
     "name:frp_x_preferred":[
+        "Burundi"
+    ],
+    "name:frr_x_preferred":[
         "Burundi"
     ],
     "name:fry_x_preferred":[
@@ -191,6 +248,12 @@
         "Burunndi"
     ],
     "name:gag_x_preferred":[
+        "Burundi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10e3\u10dc\u10d3\u10d8"
+    ],
+    "name:ger_x_preferred":[
         "Burundi"
     ],
     "name:ger_x_variant":[
@@ -205,14 +268,26 @@
     "name:glg_x_preferred":[
         "Burundi"
     ],
+    "name:glg_x_variant":[
+        "Rep\u00fablica de Burundi"
+    ],
     "name:glv_x_preferred":[
         "Burundee"
     ],
     "name:gom_x_preferred":[
         "\u092c\u0941\u0930\u0941\u0902\u0921\u0940"
     ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03bf\u03cd\u03bd\u03c4\u03b9"
+    ],
     "name:grn_x_preferred":[
         "Vurundi"
+    ],
+    "name:gsw_x_preferred":[
+        "Burundi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac1\u0ab0\u0ac1\u0a82\u0aa1\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Burundi"
@@ -235,6 +310,10 @@
     "name:hin_x_preferred":[
         "\u092c\u0941\u0930\u0941\u0923\u094d\u0921\u0940"
     ],
+    "name:hin_x_variant":[
+        "\u092c\u0941\u0930\u0941\u0902\u0921\u0940",
+        "\u092c\u0930\u0902\u0921\u0940"
+    ],
     "name:hrv_x_preferred":[
         "Burundi"
     ],
@@ -249,6 +328,9 @@
     ],
     "name:ibo_x_preferred":[
         "Burundi"
+    ],
+    "name:ice_x_preferred":[
+        "B\u00far\u00fand\u00ed"
     ],
     "name:ido_x_preferred":[
         "Burundi"
@@ -289,8 +371,14 @@
     "name:kab_x_preferred":[
         "Burundi"
     ],
+    "name:kal_x_preferred":[
+        "Burundi"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0cb0\u0cc1\u0c82\u0ca1\u0cbf"
+    ],
+    "name:kas_x_preferred":[
+        "\u092c\u0941\u0930\u0941\u0902\u0921\u0940"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10e0\u10e3\u10dc\u10d3\u10d8"
@@ -298,8 +386,17 @@
     "name:kaz_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
     ],
+    "name:kbp_x_preferred":[
+        "Purundi"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17ca\u17bc\u179a\u17bb\u1793\u178c\u17b8"
+    ],
     "name:kik_x_preferred":[
         "Burundi"
+    ],
+    "name:kik_x_variant":[
+        "Mburundi"
     ],
     "name:kin_x_preferred":[
         "Uburundi"
@@ -315,6 +412,15 @@
     ],
     "name:kur_x_preferred":[
         "Burund\u00ee"
+    ],
+    "name:kur_x_variant":[
+        "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
+    ],
+    "name:lad_x_preferred":[
+        "Burundi"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9a\u0eb9\u0ea5\u0eb1\u0e99\u0e95\u0eb4"
     ],
     "name:lat_x_preferred":[
         "Burundia"
@@ -346,14 +452,26 @@
     "name:ltz_x_preferred":[
         "Burundi"
     ],
+    "name:lub_x_preferred":[
+        "Burundi"
+    ],
     "name:lug_x_preferred":[
         "Burundi"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d31\u0d41\u0d23\u0d4d\u0d1f\u0d3f"
     ],
+    "name:mal_x_variant":[
+        "\u0d2c\u0d41\u0d31\u0d41\u0d23\u0d4d\u0d1f\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u0930\u0941\u0902\u0921\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Burundi"
     ],
     "name:min_x_preferred":[
         "Burundi"
@@ -363,6 +481,10 @@
     ],
     "name:mlg_x_preferred":[
         "Borondy"
+    ],
+    "name:mlg_x_variant":[
+        "Borondi",
+        "Borondia"
     ],
     "name:mlt_x_preferred":[
         "Burundi"
@@ -382,11 +504,20 @@
     "name:mzn_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
     ],
+    "name:nah_x_preferred":[
+        "Burundi"
+    ],
+    "name:nan_x_preferred":[
+        "Burundi"
+    ],
     "name:nau_x_preferred":[
         "Burundi"
     ],
     "name:nav_x_preferred":[
         "W\u00f3ndii Dine\u02bc\u00e9 Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Bhurundi"
     ],
     "name:nds_x_preferred":[
         "Burundi"
@@ -403,6 +534,9 @@
     "name:nno_x_preferred":[
         "Burundi"
     ],
+    "name:nob_x_preferred":[
+        "Burundi"
+    ],
     "name:nor_x_preferred":[
         "Burundi"
     ],
@@ -415,8 +549,14 @@
     "name:oci_x_preferred":[
         "Burundi"
     ],
+    "name:olo_x_preferred":[
+        "Burundi"
+    ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b41\u0b30\u0b41\u0b23\u0b4d\u0b21\u0b3f"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2c\u0b41\u0b30\u0b41\u0b28\u0b4d\u0b26\u0b3f"
     ],
     "name:orm_x_preferred":[
         "Buruundii"
@@ -429,6 +569,12 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a41\u0a30\u0a42\u0a70\u0a21\u0a40"
+    ],
+    "name:pap_x_preferred":[
+        "Burundi"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
     ],
     "name:pih_x_preferred":[
         "Burundi"
@@ -463,8 +609,17 @@
     "name:rue_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043d\u0434\u0456"
     ],
+    "name:rum_x_preferred":[
+        "Burundi"
+    ],
     "name:run_x_preferred":[
         "Uburundi"
+    ],
+    "name:run_x_variant":[
+        "Republika y\u2019u Burundi"
+    ],
+    "name:rup_x_preferred":[
+        "Burundi"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
@@ -484,7 +639,16 @@
     "name:sco_x_preferred":[
         "Burundi"
     ],
+    "name:sgs_x_preferred":[
+        "Burundis"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd4\u0dbb\u0dd4\u0db1\u0dca\u0da9\u0dd2"
+    ],
     "name:slk_x_preferred":[
+        "Burundi"
+    ],
+    "name:slo_x_preferred":[
         "Burundi"
     ],
     "name:slv_x_preferred":[
@@ -550,6 +714,18 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e38\u0e23\u0e38\u0e19\u0e14\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e38\u0e23\u0e38\u0e19\u0e14\u0e35"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f56\u0f74\u0f0b\u0f62\u0f74\u0f53\u0f0b\u0f4c\u0f72\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u1265\u1229\u1295\u12f2"
+    ],
+    "name:ton_x_preferred":[
+        "Pelaniti"
+    ],
     "name:tso_x_preferred":[
         "Burundi"
     ],
@@ -558,6 +734,9 @@
     ],
     "name:tur_x_preferred":[
         "Burundi"
+    ],
+    "name:udm_x_preferred":[
+        "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
     ],
     "name:uig_x_preferred":[
         "\u0628\u06c7\u0631\u06c7\u0646\u062f\u0649"
@@ -569,8 +748,14 @@
         "B\u00farund\u00ed",
         "Republika Burundi"
     ],
+    "name:unk_x_variant":[
+        "Urundi"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u0646\u0688\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0631\u0646\u0688\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Burundi"
@@ -584,11 +769,21 @@
     "name:vie_x_preferred":[
         "Burundi"
     ],
+    "name:vie_x_variant":[
+        "Bu-run-\u0111i",
+        "Bu-run-\u0111i (Burundi)"
+    ],
     "name:vol_x_preferred":[
         "Rundiy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Burundi"
+    ],
     "name:war_x_preferred":[
         "Burundi"
+    ],
+    "name:wel_x_preferred":[
+        "Bwrwndi"
     ],
     "name:wln_x_preferred":[
         "Bouroundi"
@@ -611,6 +806,12 @@
     "name:yor_x_preferred":[
         "B\u00f9r\u00fand\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de B\u00f9\u00f9r\u00fand\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e03\u9686\u8fea"
+    ],
     "name:zea_x_preferred":[
         "Burundi"
     ],
@@ -620,11 +821,18 @@
     "name:zho_x_preferred":[
         "\u84b2\u9686\u5730"
     ],
+    "name:zho_x_variant":[
+        "\u5e03\u9686\u8fea",
+        "\u84b2\u9686\u5730"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5e03\u9686\u8fea"
     ],
     "name:zul_x_preferred":[
         "IBurundi"
+    ],
+    "name:zul_x_variant":[
+        "i-Burundi"
     ],
     "ne:abbrev":"Bur.",
     "ne:abbrev_len":4,
@@ -705,6 +913,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"257",
+    "statoids:ds":"RU",
+    "statoids:fifa":"BDI",
+    "statoids:gaul":"43",
+    "statoids:gec":"BY",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"BDI",
+    "statoids:iso_a2":"BI",
+    "statoids:iso_a3":"BDI",
+    "statoids:iso_num":"108",
+    "statoids:itu":"BDI",
+    "statoids:marc":"bd",
+    "statoids:name":"Burundi",
+    "statoids:wmo":"BI",
     "wk:latitude":-3.666667,
     "wk:longitude":29.816667,
     "wk:population":10162532,
@@ -716,18 +939,28 @@
     "wof:concordances":{
         "dbp:id":"Burundi",
         "fb:id":"en.burundi",
+        "fifa:id":"BDI",
+        "fips:code":"BY",
+        "gaul:id":"43",
         "gn:id":433561,
         "gp:id":23424774,
         "hasc:id":"BI",
+        "ioc:id":"BDI",
+        "itu:id":"BDI",
+        "m49:code":"108",
+        "marc:id":"bd",
         "mzb:id":"burundi",
+        "ne:adm0_a3":"BDI",
         "nyt:id":"62275133523722320321",
         "qs:id":80327,
+        "uncrt:id":"RU",
         "wd:id":"Q967",
-        "wk:page":"Burundi"
+        "wk:page":"Burundi",
+        "wmo:id":"BI"
     },
     "wof:country":"BI",
     "wof:country_alpha3":"BDI",
-    "wof:geomhash":"34c72e59b108dd0e1c7b2f198f011a95",
+    "wof:geomhash":"4bd9bbaa99d1ac96fecd027901d1de7e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -746,11 +979,14 @@
         "run",
         "fra"
     ],
-    "wof:lastmodified":1493229907,
+    "wof:lastmodified":1514559496,
     "wof:name":"Burundi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":10162532,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"BDI",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

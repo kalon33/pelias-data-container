@@ -5,22 +5,35 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066409,
+    "geom:area_square_m":814558788.023863,
     "geom:bbox":"137.37461853,1.025388837,163.035827637,10.090389252",
     "geom:latitude":7.162667,
     "geom:longitude":154.491969,
     "gn:id":"",
     "gn:population":107708,
     "iso:country":"FM",
+    "itu:country_code":[
+        "691"
+    ],
     "lbl:latitude":6.881557,
     "lbl:longitude":158.221135,
     "mps:latitude":6.881557,
     "mps:longitude":158.221135,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Federasi Mikronesia"
     ],
     "name:afr_x_preferred":[
         "Gefedereerde State van Mikronesi\u00eb"
+    ],
+    "name:afr_x_variant":[
+        "Mikronesi\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Maekronehyia"
     ],
     "name:als_x_preferred":[
         "F\u00f6derierte Staaten von Mikronesien"
@@ -28,8 +41,14 @@
     "name:amh_x_preferred":[
         "\u121b\u12ed\u12ad\u122e\u1294\u12e5\u12eb"
     ],
+    "name:amh_x_variant":[
+        "\u121a\u12ad\u122e\u1294\u12e2\u12eb"
+    ],
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0627\u062a \u0645\u064a\u0643\u0631\u0648\u0646\u064a\u0633\u064a\u0627 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0643\u0631\u0648\u0646\u064a\u0632\u064a\u0627"
     ],
     "name:arg_x_preferred":[
         "Estatos Federatos de Micronesia"
@@ -43,8 +62,14 @@
     "name:aze_x_preferred":[
         "Mikroneziya Federativ \u015etatlar\u0131"
     ],
+    "name:aze_x_variant":[
+        "Mikronesiya"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432 \u0428\u0442\u0430\u0442\u0442\u0430\u0440\u044b"
+    ],
+    "name:bam_x_preferred":[
+        "Mikironesi"
     ],
     "name:bcl_x_preferred":[
         "Maykronisya"
@@ -53,10 +78,14 @@
         "\u0424\u0435\u0434\u044d\u0440\u0430\u0442\u044b\u045e\u043d\u044b\u044f \u0428\u0442\u0430\u0442\u044b \u041c\u0456\u043a\u0440\u0430\u043d\u0435\u0437\u0456\u0456"
     ],
     "name:bel_x_variant":[
-        "\u0424\u044d\u0434\u044d\u0440\u0430\u0442\u044b\u045e\u043d\u044b\u044f \u0428\u0442\u0430\u0442\u044b \u041c\u0456\u043a\u0440\u0430\u043d\u044d\u0437\u0456\u0456"
+        "\u0424\u044d\u0434\u044d\u0440\u0430\u0442\u044b\u045e\u043d\u044b\u044f \u0428\u0442\u0430\u0442\u044b \u041c\u0456\u043a\u0440\u0430\u043d\u044d\u0437\u0456\u0456",
+        "\u041c\u0456\u043a\u0440\u0430\u043d\u0435\u0437\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0987\u0995\u09cd\u09b0\u09cb\u09a8\u09c7\u09b6\u09bf\u09af\u09bc\u09be \u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u099c\u09cd\u09af"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u0987\u0995\u09cd\u09b0\u09cb\u09a8\u09c7\u09b6\u09bf\u09af\u09bc\u09be"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f60\u0f72\u0f0b\u0f40\u0f7c\u0f0b\u0f62\u0f7c\u0f0b\u0f53\u0f7a\u0f0b\u0f64\u0f72\u0f0b\u0f61\u0f0d (\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d)",
@@ -65,21 +94,33 @@
     "name:bos_x_preferred":[
         "Savezne Dr\u017eave Mikronezije"
     ],
+    "name:bos_x_variant":[
+        "Mikronezija"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0987\u0995\u09cd\u09b0\u09cb\u09a8\u09c7\u09b6\u09bf\u09af\u09bc\u09be \u09a4\u09bf\u09b2\u09aa\u09be\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0"
     ],
     "name:bre_x_preferred":[
         "Stado\u00f9 Kevreet Mikronezia"
     ],
+    "name:bre_x_variant":[
+        "Mikronezia"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f (\u0434\u044a\u0440\u0436\u0430\u0432\u0430)",
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f, \u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u0438 \u0429\u0430\u0442\u0438"
     ],
     "name:bxr_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438"
     ],
     "name:cat_x_preferred":[
         "Estats Federats de Micron\u00e8sia"
+    ],
+    "name:cat_x_variant":[
+        "Micron\u00e8sia"
     ],
     "name:cdo_x_preferred":[
         "Micronesia Li\u00e8ng-b\u0103ng"
@@ -90,14 +131,11 @@
     "name:ces_x_preferred":[
         "Federativn\u00ed st\u00e1ty Mikron\u00e9sie"
     ],
+    "name:ces_x_variant":[
+        "Mikron\u00e9zie"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u043d \u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0438 \u0448\u0442\u0430\u0442\u0430\u0448"
-    ],
-    "name:chi_x_preferred":[
-        "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
-    ],
-    "name:chi_x_variant":[
-        "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u043d \u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043b\u0103 \u0428\u0442\u0430\u0447\u0115\u0441\u0435\u043c"
@@ -115,6 +153,9 @@
     "name:cym_x_preferred":[
         "Taleithiau Ffederal Micronesia"
     ],
+    "name:cym_x_variant":[
+        "Micronesia"
+    ],
     "name:cze_x_preferred":[
         "Federativn\u00ed St\u00e1ty Mikron\u00e9sie"
     ],
@@ -129,10 +170,20 @@
         "Mikronesien"
     ],
     "name:dan_x_variant":[
-        "Mikronesiske F\u00f8deration"
+        "Mikronesiske F\u00f8deration",
+        "Mikronesiens Forenede Stater"
+    ],
+    "name:deu_x_colloquial":[
+        "Foderierte Staaten von Mikronesien",
+        "Foederierte Staaten von Mikronesien"
     ],
     "name:deu_x_preferred":[
         "F\u00f6derierte Staaten von Mikronesien"
+    ],
+    "name:deu_x_variant":[
+        "Micronesien, F\u00f6derierte Staaten von",
+        "F\u00f6derierte Staaten von Mikronesien",
+        "Mikronesien"
     ],
     "name:diq_x_preferred":[
         "Dewlet\u00ea Mikronezyay\u00ea Federali"
@@ -140,17 +191,11 @@
     "name:div_x_preferred":[
         "\u0789\u07a6\u0787\u07a8\u0786\u07b0\u0783\u07ae\u0782\u07ad\u079d\u07a8\u0787\u07a7"
     ],
-    "name:dut_x_colloquial":[
-        "Micronesie, Federale Staten van"
-    ],
-    "name:dut_x_preferred":[
-        "Micronesia"
-    ],
-    "name:dut_x_variant":[
-        "Micronesi\u00eb, Federale Staten van"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03bc\u03cc\u03c3\u03c0\u03bf\u03bd\u03b4\u03b5\u03c2 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b5\u03c2 \u03c4\u03b7\u03c2 \u039c\u03b9\u03ba\u03c1\u03bf\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03bf\u03bd\u03b7\u03c3\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Federated States of Micronesia"
@@ -162,16 +207,29 @@
     "name:eng_x_variant":[
         "Micronesia",
         "Micronesia, Fed Stat",
-        "Micronesia, Federated States of"
+        "Micronesia, Federated States of",
+        "Micronesia, Federated States Of"
     ],
     "name:epo_x_preferred":[
         "Federacio de Mikronezio"
     ],
+    "name:epo_x_variant":[
+        "Mikronezio"
+    ],
     "name:est_x_preferred":[
         "Mikroneesia Liiduriigid"
     ],
+    "name:est_x_variant":[
+        "Microneesia"
+    ],
     "name:eus_x_preferred":[
         "Mikronesiako Estatu Federatuak"
+    ],
+    "name:eus_x_variant":[
+        "Mikronesia"
+    ],
+    "name:ewe_x_preferred":[
+        "Mikronesia nutome"
     ],
     "name:ext_x_preferred":[
         "Estaus Federaus de Micron\u00e9sia"
@@ -179,8 +237,14 @@
     "name:fao_x_preferred":[
         "Mikronesiasamveldi\u00f0"
     ],
+    "name:fao_x_variant":[
+        "Mikronesia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u0627\u062a \u0641\u062f\u0631\u0627\u0644 \u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc"
     ],
     "name:fin_x_preferred":[
         "Mikronesian liittovaltio"
@@ -188,19 +252,17 @@
     "name:fin_x_variant":[
         "Mikronesia"
     ],
+    "name:fra_x_colloquial":[
+        "Etats federes de Micronesie"
+    ],
     "name:fra_x_preferred":[
         "Micron\u00e9sie (pays)",
         "Micron\u00e9sie"
     ],
-    "name:fre_x_colloquial":[
-        "Etats federes de Micronesie"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9tats f\u00e9d\u00e9r\u00e9s de Micron\u00e9sie"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
+        "Micron\u00e9sie (\u00c9tats f\u00e9d\u00e9r\u00e9s de)",
         "Micron\u00e9sie",
-        "Micron\u00e9sie (\u00c9tats f\u00e9d\u00e9r\u00e9s de)"
+        "\u00c9tats f\u00e9d\u00e9r\u00e9s de Micron\u00e9sie"
     ],
     "name:frp_x_preferred":[
         "Micron\u00e8sie (payis)",
@@ -210,19 +272,11 @@
         "Mikroneezje (l\u00e2n)",
         "Mikroneezje"
     ],
+    "name:ful_x_preferred":[
+        "Mikoronesii"
+    ],
     "name:gag_x_preferred":[
         "Mikroneziya"
-    ],
-    "name:ger_x_colloquial":[
-        "Foderierte Staaten von Mikronesien",
-        "Foederierte Staaten von Mikronesien"
-    ],
-    "name:ger_x_preferred":[
-        "Mikronesien"
-    ],
-    "name:ger_x_variant":[
-        "F\u00f6derierte Staaten von Mikronesien",
-        "Micronesien, F\u00f6derierte Staaten von"
     ],
     "name:gla_x_preferred":[
         "Na Meanbh Eileanan"
@@ -230,8 +284,14 @@
     "name:gle_x_preferred":[
         "St\u00e1it Ch\u00f3naidhme na Micrin\u00e9ise"
     ],
+    "name:gle_x_variant":[
+        "An Mhicrin\u00e9is"
+    ],
     "name:glg_x_preferred":[
         "Estados Federados de Micronesia"
+    ],
+    "name:glg_x_variant":[
+        "Micronesia"
     ],
     "name:glv_x_preferred":[
         "Steatyn Conastit y Vynneeys"
@@ -242,12 +302,18 @@
     "name:grn_x_preferred":[
         "Tet\u00e3voreku\u00e9ra \u00d1embyatypyre Mikyon\u00e9siagua"
     ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0a87\u0a95\u0acd\u0ab0\u0acb\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Micronesia Li\u00e8n-p\u00e2ng"
     ],
     "name:hat_x_preferred":[
         "Mikwonezi (peyi)",
         "Mikwonezi"
+    ],
+    "name:hau_x_preferred":[
+        "Mikuronesiya"
     ],
     "name:hbs_x_preferred":[
         "Federalne Dr\u017eave Mikronezije"
@@ -261,8 +327,15 @@
     "name:hin_x_preferred":[
         "\u0938\u0902\u0918\u0940\u0915\u0943\u0924 \u0930\u093e\u091c\u094d\u092f \u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0928\u0947\u0936\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0928\u0947\u0936\u093f\u092f\u093e",
+        "\u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0928\u0947\u0936\u093f\u092f\u093e \u0915\u0947 \u0938\u0902\u0918\u0940\u0915\u0943\u0924 \u0930\u093e\u091c\u094d\u092f"
+    ],
     "name:hrv_x_preferred":[
         "Savezne Dr\u017eave Mikronezije"
+    ],
+    "name:hrv_x_variant":[
+        "Mikronezija"
     ],
     "name:hun_x_preferred":[
         "Mikron\u00e9ziai Sz\u00f6vets\u00e9gi \u00c1llamok"
@@ -274,6 +347,9 @@
     "name:hye_x_preferred":[
         "\u0544\u056b\u056f\u0580\u0578\u0576\u0565\u0566\u056b\u0561\u0575\u056b \u0534\u0561\u0577\u0576\u0561\u0575\u056b\u0576 \u0546\u0561\u0570\u0561\u0576\u0563\u0576\u0565\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u0544\u056b\u056f\u0580\u0578\u0576\u0565\u0566\u056b\u0561"
+    ],
     "name:ido_x_preferred":[
         "Federata Stati di Mikronezia"
     ],
@@ -283,18 +359,28 @@
     "name:ina_x_preferred":[
         "Statos Federate de Micronesia"
     ],
+    "name:ina_x_variant":[
+        "Micronesia"
+    ],
     "name:ind_x_preferred":[
         "Federasi Mikronesia"
+    ],
+    "name:ind_x_variant":[
+        "Mikronesia"
     ],
     "name:isl_x_preferred":[
         "M\u00edkr\u00f3nes\u00eda (r\u00edki)",
         "M\u00edkr\u00f3nes\u00eda"
     ],
+    "name:isl_x_variant":[
+        "Mikr\u00f3nes\u00eda"
+    ],
     "name:ita_x_preferred":[
         "Stati Federati di Micronesia"
     ],
     "name:ita_x_variant":[
-        "Micronesia, Stati Federati"
+        "Micronesia, Stati Federati",
+        "Micronesia"
     ],
     "name:jam_x_preferred":[
         "Fedarietid Stiet a Maikroniija"
@@ -302,17 +388,35 @@
     "name:jav_x_preferred":[
         "F\u00e9derasi Mikron\u00e9sia"
     ],
+    "name:jav_x_variant":[
+        "Mikronesia"
+    ],
     "name:jpn_x_preferred":[
         "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6"
+    ],
+    "name:kal_x_preferred":[
+        "Micronesia"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc8\u0c95\u0ccd\u0cb0\u0cca\u0ca8\u0cc7\u0cb7\u0ccd\u0caf\u0ca6 \u0cb8\u0c82\u0caf\u0cc1\u0c95\u0ccd\u0ca4 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cc1"
     ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cc8\u0c95\u0ccd\u0cb0\u0ccb\u0ca8\u0cc7\u0cb6\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10d9\u10e0\u10dd\u10dc\u10d4\u10d6\u10d8\u10d8\u10e1 \u10e4\u10d4\u10d3\u10d4\u10e0\u10d0\u10ea\u10d8\u10e3\u10da\u10d8 \u10e8\u10e2\u10d0\u10e2\u10d4\u10d1\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10db\u10d8\u10d9\u10e0\u10dd\u10dc\u10d4\u10d6\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f\u043b\u044b\u049b \u0428\u0442\u0430\u0442\u0442\u0430\u0440\u044b"
+    ],
+    "name:khm_x_preferred":[
+        "\u1798\u17b7\u1780\u17d2\u179a\u17bc\u1793\u17c1\u179f\u17ca\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Mikronesia"
     ],
     "name:kin_x_preferred":[
         "Mikoronesiya"
@@ -330,8 +434,17 @@
     "name:kur_x_preferred":[
         "Dewlet\u00ean Federal \u00ean M\u00eekronezyay\u00ea"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u0627\u06cc\u06a9\u0631\u06c6\u0646\u06cc\u0632\u06cc\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec4\u0ea1\u0ec2\u0e84\u0e99\u0eb4\u0ec0\u0e8a\u0e8d"
+    ],
     "name:lat_x_preferred":[
         "Civitates Foederatae Micronesiae"
+    ],
+    "name:lat_x_variant":[
+        "Foederatae Micronesiae Civitates"
     ],
     "name:lav_x_preferred":[
         "Mikron\u0113zija (valsts)",
@@ -343,11 +456,26 @@
     "name:lim_x_preferred":[
         "Federaol Staote vaan Micronesi\u00eb"
     ],
+    "name:lin_x_preferred":[
+        "Mikronezi"
+    ],
     "name:lit_x_preferred":[
         "Mikronezijos Federacin\u0117s Valstijos"
     ],
+    "name:lit_x_variant":[
+        "Mikronezija"
+    ],
     "name:lmo_x_preferred":[
         "Statt Federaa de Micronesia"
+    ],
+    "name:ltz_x_preferred":[
+        "Mikronesien"
+    ],
+    "name:lub_x_preferred":[
+        "Mikronezi"
+    ],
+    "name:lug_x_preferred":[
+        "Mikuronezya"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d48\u0d15\u0d4d\u0d30\u0d4b\u0d28\u0d47\u0d37\u0d4d\u0d2f"
@@ -362,6 +490,9 @@
     "name:mlg_x_preferred":[
         "Mikr\u00f4nezia"
     ],
+    "name:mlt_x_preferred":[
+        "Mikronesja"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0439\u043d \u0425\u043e\u043b\u0431\u043e\u043e\u043d\u044b \u0423\u043b\u0441"
     ],
@@ -374,20 +505,42 @@
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u0627\u062a \u0641\u062f\u0631\u0627\u0644 \u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc"
     ],
+    "name:nan_x_preferred":[
+        "Micronesia Li\u00e2n-pang-kok"
+    ],
     "name:nau_x_preferred":[
         "Eben Oning"
     ],
     "name:nav_x_preferred":[
         "E\u02bce\u02bcaahj\u00ed T\u00f3nteel bik\u00e1a\u02bcgi K\u00e9yah Y\u00e1zh\u00ed dah Ndaa\u02bcee\u0142go A\u0142hidadiidzoo\u00edg\u00ed\u00ed"
     ],
+    "name:nde_x_preferred":[
+        "Micronesia"
+    ],
     "name:nds_x_preferred":[
         "Mikronesien (Republiek)",
         "Mikronesien"
     ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0928\u0947\u0938\u093f\u092f\u093e"
+    ],
+    "name:nld_x_colloquial":[
+        "Micronesie, Federale Staten van"
+    ],
     "name:nld_x_preferred":[
         "Micronesia"
     ],
+    "name:nld_x_variant":[
+        "Micronesi\u00eb, Federale Staten van",
+        "Micronesi\u00eb"
+    ],
     "name:nno_x_preferred":[
+        "Mikronesiaf\u00f8derasjonen"
+    ],
+    "name:nno_x_variant":[
+        "Mikronesia"
+    ],
+    "name:nob_x_preferred":[
         "Mikronesiaf\u00f8derasjonen"
     ],
     "name:nor_x_colloquial":[
@@ -415,6 +568,9 @@
     "name:pih_x_preferred":[
         "Fedaraeted Staits o' Mikronesya"
     ],
+    "name:pih_x_variant":[
+        "Fedaraeted Staits o Mikronesya"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627"
     ],
@@ -422,7 +578,8 @@
         "Mikronezja"
     ],
     "name:pol_x_variant":[
-        "Mikronezja, Stany Sfederowane"
+        "Mikronezja, Stany Sfederowane",
+        "Federalne Stany Mikronezji"
     ],
     "name:por_x_preferred":[
         "Estados Federados da Micron\u00e9sia"
@@ -435,8 +592,14 @@
         "Mikrunisya (mama llaqta)",
         "Mikrunisya"
     ],
+    "name:roh_x_preferred":[
+        "Micronesia"
+    ],
     "name:ron_x_preferred":[
         "Statele Federate ale Microneziei"
+    ],
+    "name:ron_x_variant":[
+        "Micronezia"
     ],
     "name:rum_x_preferred":[
         "Statele Federate Ale Microneziei"
@@ -444,8 +607,17 @@
     "name:rum_x_variant":[
         "Micronezia, Republica Federal\u0103"
     ],
+    "name:run_x_preferred":[
+        "Mikoroniziya"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Mikronez\u00efi"
     ],
     "name:sah_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432 \u0428\u0442\u0430\u0442\u0442\u0430\u0440\u0430"
@@ -456,12 +628,18 @@
     "name:sco_x_preferred":[
         "Federatit States o Micronesie"
     ],
+    "name:sgs_x_preferred":[
+        "Mikronez\u0117j\u0117"
+    ],
     "name:slk_x_preferred":[
         "Mikron\u00e9zia (\u0161t\u00e1t)",
         "Mikron\u00e9zia"
     ],
     "name:slv_x_preferred":[
         "Federativne dr\u017eave Mikronezije"
+    ],
+    "name:slv_x_variant":[
+        "Mikronezija"
     ],
     "name:sme_x_preferred":[
         "Mikronesia"
@@ -472,17 +650,30 @@
     "name:sna_x_preferred":[
         "Federated States of Micronesia"
     ],
+    "name:sna_x_variant":[
+        "Micronesia"
+    ],
+    "name:som_x_preferred":[
+        "Micronesia"
+    ],
     "name:spa_x_preferred":[
         "Estados Federados de Micronesia"
     ],
     "name:spa_x_variant":[
-        "Micronesia, Estados Federados de"
+        "Micronesia, Estados Federados de",
+        "Micronesia"
     ],
     "name:sqi_x_preferred":[
         "Federata Mikroneziane"
     ],
+    "name:sqi_x_variant":[
+        "Mikronezi"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u0432\u0435\u0437\u043d\u0435 \u0414\u0440\u0436\u0430\u0432\u0435 \u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0458\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0458\u0430"
     ],
     "name:sun_x_preferred":[
         "F\u00e9derasi Mikron\u00e9sia"
@@ -490,13 +681,17 @@
     "name:swa_x_preferred":[
         "Shirikisho la Mikronesia"
     ],
+    "name:swa_x_variant":[
+        "Mikronesia"
+    ],
     "name:swe_x_preferred":[
         "Mikronesiens Federerade Stater",
         "Mikronesiens federerade stater"
     ],
     "name:swe_x_variant":[
         "Mikronesiens Federedade Stater",
-        "Mikronesiska federationen"
+        "Mikronesiska federationen",
+        "Mikronesien"
     ],
     "name:tah_x_preferred":[
         "Mitoronetia"
@@ -504,8 +699,14 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bcb\u0ba9\u0bc0\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc8\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bc7\u0bb7\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432 \u0428\u0442\u0430\u0442\u043b\u0430\u0440\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c48\u0c15\u0c4d\u0c30\u0c4b\u0c28\u0c47\u0c36\u0c3f\u0c2f"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f"
@@ -516,8 +717,20 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e21\u0e42\u0e04\u0e23\u0e19\u0e35\u0e40\u0e0b\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e21\u0e42\u0e04\u0e23\u0e19\u0e35\u0e40\u0e0b\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u121a\u12ad\u122e\u1294\u12e2\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Mikolonisia"
+    ],
     "name:tur_x_preferred":[
         "Mikronezya Federal Devletleri"
+    ],
+    "name:tur_x_variant":[
+        "Mikronezya Federal Eyaletleri"
     ],
     "name:uig_x_preferred":[
         "\u0645\u0649\u0643\u0631\u0648\u0646\u06d0\u0632\u0649\u064a\u06d5 \u0641\u06d0\u062f\u06d0\u0631\u0627\u062a\u0633\u0649\u064a\u0649\u0633\u0649"
@@ -525,11 +738,20 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0456 \u0428\u0442\u0430\u0442\u0438 \u041c\u0456\u043a\u0440\u043e\u043d\u0435\u0437\u0456\u0457"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0456\u043a\u0440\u043e\u043d\u0435\u0437\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Mikronezija"
     ],
+    "name:unk_x_variant":[
+        "Micronesia"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0648\u0641\u0627\u0642\u06cc\u06c1 \u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627"
     ],
     "name:uzb_x_preferred":[
         "Mikroneziya Federativ Shtatlari"
@@ -539,6 +761,9 @@
     ],
     "name:vie_x_preferred":[
         "Li\u00ean bang Micronesia"
+    ],
+    "name:vie_x_variant":[
+        "Mi-cr\u00f4-n\u00ea-xi-a"
     ],
     "name:vol_x_preferred":[
         "Smala-Seanu\u00e4ns"
@@ -559,14 +784,27 @@
     "name:yor_x_preferred":[
         "\u00c0w\u1ecdn \u00ccp\u00ednl\u1eb9\u0300 \u00c0\u1e63epap\u1ecd\u0300 il\u1eb9\u0300 Mikron\u00e9s\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Makoronesia"
+    ],
+    "name:yue_x_preferred":[
+        "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Micronesia Li\u00e2n-pang-kok"
     ],
     "name:zho_x_preferred":[
         "\u5bc6\u514b\u7f57\u5c3c\u897f\u4e9a\u8054\u90a6"
     ],
+    "name:zho_x_variant":[
+        "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6",
+        "\u5bc6\u514b\u7f57\u5c3c\u897f\u4e9a"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
+    ],
+    "name:zul_x_preferred":[
+        "i-Micronesia"
     ],
     "ne:abbrev":"F.S.M.",
     "ne:abbrev_len":6,
@@ -645,6 +883,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"691",
+    "statoids:ds":"",
+    "statoids:fifa":"FSM",
+    "statoids:gaul":"163",
+    "statoids:gec":"FM",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"FSM",
+    "statoids:iso_a2":"FM",
+    "statoids:iso_a3":"FSM",
+    "statoids:iso_num":"583",
+    "statoids:itu":"FSM",
+    "statoids:marc":"fm",
+    "statoids:name":"Micronesia",
+    "statoids:wmo":"",
     "wk:latitude":6.916667,
     "wk:longitude":158.183333,
     "wk:population":103549,
@@ -657,11 +910,19 @@
     "wof:concordances":{
         "dbp:id":"Micronesia",
         "fb:id":"en.micronesia",
+        "fifa:id":"FSM",
+        "fips:code":"FM",
+        "gaul:id":"163",
         "gn:id":2081918,
         "gp:id":23424815,
         "hasc:id":"FM",
+        "ioc:id":"FSM",
+        "itu:id":"FSM",
         "loc:id":"n83074223",
+        "m49:code":"583",
+        "marc:id":"fm",
         "mzb:id":"federated-states-of-micronesia",
+        "ne:adm0_a3":"FSM",
         "nyt:id":"N87763078038093941201",
         "qs:id":890608,
         "wd:id":"Q702",
@@ -669,7 +930,7 @@
     },
     "wof:country":"FM",
     "wof:country_alpha3":"FSM",
-    "wof:geomhash":"8a0c5fe1564cb2b359dc558900403cf1",
+    "wof:geomhash":"86097d6a34225faedd269b8159f95714",
     "wof:hierarchy":[
         {
             "continent_id":"102191583",
@@ -686,11 +947,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1493229959,
+    "wof:lastmodified":1509142803,
     "wof:name":"Federated States of Micronesia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":103549,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"FSM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

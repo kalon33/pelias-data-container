@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1867-07-01",
     "geom:area":1690.309601,
-    "geom:area_square_m":9886956709331.443359,
+    "geom:area_square_m":9886956709331.494141,
     "geom:bbox":"-141.005549,41.669086,-52.615931,83.116116",
     "geom:latitude":61.373126,
     "geom:longitude":-98.316063,
     "gn:population":33679000,
     "iso:country":"CA",
+    "itu:country_code":[
+        "1"
+    ],
     "lbl:latitude":58.33747,
     "lbl:longitude":-112.384858,
     "mps:latitude":58.33747,
     "mps:longitude":-112.384858,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":5.7,
+    "mz:min_zoom":1.7,
     "name:abk_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
     ],
@@ -27,6 +33,12 @@
     ],
     "name:afr_x_preferred":[
         "Kanada"
+    ],
+    "name:aka_x_preferred":[
+        "Kanada"
+    ],
+    "name:alb_x_preferred":[
+        "Kanadaja"
     ],
     "name:als_x_preferred":[
         "Kanada"
@@ -46,6 +58,12 @@
     "name:arg_x_preferred":[
         "Canad\u00e1"
     ],
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0576\u0561\u0564\u0561"
+    ],
+    "name:ary_x_preferred":[
+        "\u0643\u0627\u0646\u0627\u062f\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0643\u0646\u062f\u0627"
     ],
@@ -54,6 +72,9 @@
     ],
     "name:ast_x_preferred":[
         "Canad\u00e1"
+    ],
+    "name:atj_x_preferred":[
+        "Kanata"
     ],
     "name:ava_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
@@ -73,6 +94,9 @@
     "name:bam_x_preferred":[
         "Kanada"
     ],
+    "name:baq_x_preferred":[
+        "Kanada"
+    ],
     "name:bar_x_preferred":[
         "Kanada"
     ],
@@ -82,17 +106,23 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0430\u043d\u0430\u0434\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09be\u09a1\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u06a9\u0627\u0646\u0627\u062f\u0627"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u0928\u093e\u0921\u093e"
     ],
     "name:bis_x_preferred":[
         "Kanada"
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0f0b\u0f53\u0f0b\u0f4c\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f41\u0f7a\u0f0b\u0f53\u0f0b\u0f4c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Kanada"
@@ -105,6 +135,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
+    ],
+    "name:bur_x_preferred":[
+        "\u1000\u1014\u1031\u1012\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:bxr_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
@@ -178,11 +211,23 @@
     "name:dsb_x_preferred":[
         "Kanada"
     ],
+    "name:dty_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u0928\u093e\u0921\u093e"
+    ],
+    "name:dut_x_preferred":[
+        "Canada"
+    ],
     "name:dzo_x_preferred":[
         "\u0f40\u0f7a\u0f0b\u0f53\u0f0b\u0f4c\u0f0b"
     ],
+    "name:dzo_x_variant":[
+        "\u0f40\u0f7a\u0f0b\u0f53\u0f0b\u0f4c"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2"
+    ],
+    "name:eml_x_preferred":[
+        "C\u00e0nada"
     ],
     "name:eng_x_preferred":[
         "Canada"
@@ -206,6 +251,9 @@
     "name:ewe_x_preferred":[
         "Canada"
     ],
+    "name:ewe_x_variant":[
+        "Kanada nutome"
+    ],
     "name:ext_x_preferred":[
         "Canad\u00e1"
     ],
@@ -227,6 +275,9 @@
     "name:fra_x_preferred":[
         "Canada"
     ],
+    "name:fre_x_preferred":[
+        "Canada"
+    ],
     "name:frp_x_preferred":[
         "Canada"
     ],
@@ -236,6 +287,9 @@
     "name:fry_x_preferred":[
         "Kanada"
     ],
+    "name:ful_x_preferred":[
+        "Kanadaa"
+    ],
     "name:fur_x_preferred":[
         "Canad\u00e0"
     ],
@@ -244,6 +298,9 @@
     ],
     "name:gan_x_preferred":[
         "\u52a0\u62ff\u5927"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d0\u10d3\u10d0"
     ],
     "name:ger_x_preferred":[
         "Kanada"
@@ -263,8 +320,14 @@
     "name:gom_x_preferred":[
         "\u0915\u0945\u0928\u0921\u093e"
     ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2"
+    ],
     "name:grn_x_preferred":[
         "Kanat\u00e3"
+    ],
+    "name:gsw_x_preferred":[
+        "Kanada"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0ac7\u0aa1\u0abe"
@@ -308,6 +371,9 @@
     "name:ibo_x_preferred":[
         "K\u00e1nada"
     ],
+    "name:ice_x_preferred":[
+        "Kanada"
+    ],
     "name:ido_x_preferred":[
         "Kanada"
     ],
@@ -325,6 +391,9 @@
     ],
     "name:ind_x_preferred":[
         "Kanada"
+    ],
+    "name:inh_x_preferred":[
+        "\u041aI\u0430\u044c\u043d\u0430\u0434\u043c\u043e\u0445\u043a"
     ],
     "name:ipk_x_preferred":[
         "Kanada"
@@ -368,11 +437,17 @@
     "name:kbd_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u044d"
     ],
+    "name:kbp_x_preferred":[
+        "Kanadaa"
+    ],
     "name:khm_x_preferred":[
         "\u1780\u17b6\u178e\u17b6\u178a\u17b6"
     ],
     "name:kik_x_preferred":[
         "Canada"
+    ],
+    "name:kik_x_variant":[
+        "Kanada"
     ],
     "name:kin_x_preferred":[
         "Kanada"
@@ -392,11 +467,17 @@
     "name:kur_x_preferred":[
         "Kanada"
     ],
+    "name:kur_x_variant":[
+        "\u06a9\u0627\u0646\u06d5\u062f\u0627"
+    ],
     "name:lad_x_preferred":[
         "Kanada"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e81\u0eb2\u0e99\u0eb2\u0e94\u0eb2"
+    ],
+    "name:lao_x_variant":[
+        "\u0e81\u0eb2\u0e99\u0eb2\u0e94\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Canada"
@@ -416,6 +497,9 @@
     "name:lin_x_preferred":[
         "Kanad\u00e1"
     ],
+    "name:lin_x_variant":[
+        "Kanada"
+    ],
     "name:lit_x_preferred":[
         "Kanada"
     ],
@@ -431,11 +515,32 @@
     "name:ltz_x_preferred":[
         "Kanada"
     ],
+    "name:lub_x_preferred":[
+        "Kanada"
+    ],
+    "name:lug_x_preferred":[
+        "Kanada"
+    ],
+    "name:lzh_x_preferred":[
+        "\u52a0\u62ff\u5927"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0434\u0430"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u0928\u093e\u0921\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3e\u0d28\u0d21"
     ],
+    "name:mao_x_preferred":[
+        "K\u0101nata"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u0921\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Kanada"
     ],
     "name:mdf_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
@@ -467,11 +572,26 @@
     "name:msa_x_preferred":[
         "Kanada"
     ],
+    "name:mwl_x_preferred":[
+        "Canad\u00e1"
+    ],
     "name:mya_x_preferred":[
         "\u1000\u1014\u1031\u1012\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1000\u1014\u1031\u1012\u102b"
+    ],
+    "name:myv_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0434\u0430 \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0646\u0627\u062f\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Canada"
+    ],
+    "name:nan_x_preferred":[
+        "Canada"
     ],
     "name:nap_x_preferred":[
         "Canad\u00e0"
@@ -481,6 +601,9 @@
     ],
     "name:nav_x_preferred":[
         "Deeteel Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Khanada"
     ],
     "name:nds_nld_x_preferred":[
         "Kannede"
@@ -500,6 +623,9 @@
     "name:nno_x_preferred":[
         "Canada"
     ],
+    "name:nob_x_preferred":[
+        "Canada"
+    ],
     "name:nor_x_preferred":[
         "Canada"
     ],
@@ -515,8 +641,14 @@
     "name:oci_x_preferred":[
         "Canad\u00e0"
     ],
+    "name:olo_x_preferred":[
+        "Kanuadu"
+    ],
     "name:ori_x_preferred":[
         "\u0b15\u0b3e\u0b28\u0b3e\u0b21\u0b3c\u0b3e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b3e\u0b28\u0b3e\u0b21\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Kanaadaa"
@@ -541,6 +673,9 @@
     ],
     "name:pdc_x_preferred":[
         "Kanadaa"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0646\u0627\u062f\u0627"
     ],
     "name:pih_x_preferred":[
         "Kaneda"
@@ -578,8 +713,14 @@
     "name:rue_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
     ],
+    "name:rum_x_preferred":[
+        "Canada"
+    ],
     "name:run_x_preferred":[
         "Kanada"
+    ],
+    "name:rup_x_preferred":[
+        "Canada"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
@@ -599,10 +740,16 @@
     "name:sco_x_preferred":[
         "Canadae"
     ],
+    "name:sgs_x_preferred":[
+        "Kanada"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
+        "Kanada"
+    ],
+    "name:slo_x_preferred":[
         "Kanada"
     ],
     "name:slv_x_preferred":[
@@ -617,6 +764,9 @@
     "name:sna_x_preferred":[
         "Canada"
     ],
+    "name:sna_x_variant":[
+        "Kanada"
+    ],
     "name:snd_x_preferred":[
         "\u06aa\u0626\u0646\u0627\u068a\u0627"
     ],
@@ -628,6 +778,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kanadaja"
+    ],
+    "name:sqi_x_variant":[
+        "Kanada"
     ],
     "name:srd_x_preferred":[
         "Canada"
@@ -680,6 +833,18 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e41\u0e04\u0e19\u0e32\u0e14\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e19\u0e32\u0e14\u0e32"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f41\u0f0b\u0f53\u0f0b\u0f4c\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12ab\u1293\u12f3"
+    ],
+    "name:ton_x_preferred":[
+        "K\u0101nata"
+    ],
     "name:tpi_x_preferred":[
         "Kanada"
     ],
@@ -719,14 +884,24 @@
     "name:vie_x_preferred":[
         "Canada"
     ],
+    "name:vie_x_variant":[
+        "Ca-na-\u0111a",
+        "Canada (Gia N\u00e3 \u0110\u1ea1i)"
+    ],
     "name:vls_x_preferred":[
         "Canada"
     ],
     "name:vol_x_preferred":[
         "Kanad\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Kanada"
+    ],
     "name:war_x_preferred":[
         "Kanada"
+    ],
+    "name:wel_x_preferred":[
+        "Canada"
     ],
     "name:wln_x_preferred":[
         "Canada (payis)"
@@ -749,6 +924,12 @@
     "name:yor_x_preferred":[
         "K\u00e1n\u00e1d\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de K\u00e1n\u00e1d\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u52a0\u62ff\u5927"
+    ],
     "name:zea_x_preferred":[
         "Canada"
     ],
@@ -769,6 +950,9 @@
     ],
     "name:zul_x_preferred":[
         "IKhanada"
+    ],
+    "name:zul_x_variant":[
+        "i-Canada"
     ],
     "ne:abbrev":"Can.",
     "ne:adm0_a3":"CAN",
@@ -807,12 +991,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"Canada Census",
+    "reversegeo:geometry":"85633041-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"geonames",
+    "statoids:dial":"1",
+    "statoids:ds":"CDN",
+    "statoids:fifa":"CAN",
+    "statoids:gaul":"46",
+    "statoids:gec":"CA",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"CAN",
+    "statoids:iso_a2":"CA",
+    "statoids:iso_a3":"CAN",
+    "statoids:iso_num":"124",
+    "statoids:itu":"CAN",
+    "statoids:marc":"xxc",
+    "statoids:name":"Canada",
+    "statoids:wmo":"CN",
     "wk:latitude":56.0,
     "wk:longitude":-109.0,
     "wk:population":35702707,
@@ -824,19 +1024,29 @@
     "wof:concordances":{
         "dbp:id":"Canada",
         "fb:id":"en.canada",
+        "fifa:id":"CAN",
+        "fips:code":"CA",
+        "gaul:id":"46",
         "gn:id":6251999,
         "gp:id":23424775,
         "hasc:id":"CA",
+        "ioc:id":"CAN",
+        "itu:id":"CAN",
         "loc:id":"n79007233",
+        "m49:code":"124",
+        "marc:id":"xxc",
         "mzb:id":"canada",
+        "ne:adm0_a3":"CAN",
         "nyt:id":"66238405489982709761",
         "qs:id":279551,
+        "uncrt:id":"CDN",
         "wd:id":"Q16",
-        "wk:page":"Canada"
+        "wk:page":"Canada",
+        "wmo:id":"CN"
     },
     "wof:country":"CA",
     "wof:country_alpha3":"CAN",
-    "wof:geomhash":"37c667dd9074e244311e12471b36998e",
+    "wof:geomhash":"d5ffe3852f2890a8993d66487f7dcd42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -857,13 +1067,14 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1493162764,
+    "wof:lastmodified":1514563532,
     "wof:name":"Canada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":35702707,
+    "wof:population":33679000,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"CAN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

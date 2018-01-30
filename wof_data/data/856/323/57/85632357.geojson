@@ -5,19 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175365,
+    "geom:area_square_m":2035686684.223476,
     "geom:bbox":"56.572029114,-20.528722763,63.502082825,-10.326333046",
     "geom:latitude":-20.119972,
     "geom:longitude":57.882687,
     "gn:id":"",
     "gn:population":1294104,
     "iso:country":"MU",
+    "itu:country_code":[
+        "230"
+    ],
     "lbl:latitude":-20.321973,
     "lbl:longitude":57.534935,
     "mps:latitude":-20.321973,
     "mps:longitude":57.534935,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Mauritius"
+    ],
+    "name:aka_x_preferred":[
+        "M\u0254rehye\u0254s"
     ],
     "name:als_x_preferred":[
         "Mauritius"
@@ -25,8 +35,14 @@
     "name:amh_x_preferred":[
         "\u121e\u122a\u1238\u1235"
     ],
+    "name:amh_x_variant":[
+        "\u121b\u1229\u1238\u1235"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u0634\u064a\u0648\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0631\u064a\u0634\u0648\u0633"
     ],
     "name:arg_x_preferred":[
         "Mauricio"
@@ -40,8 +56,14 @@
     "name:aze_x_preferred":[
         "Mavriki"
     ],
+    "name:aze_x_variant":[
+        "Mavritis"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
+    ],
+    "name:bam_x_preferred":[
+        "Morisi"
     ],
     "name:bcl_x_preferred":[
         "Maurisyo"
@@ -55,20 +77,32 @@
     "name:ben_x_preferred":[
         "\u09ae\u09b0\u09bf\u09b6\u09be\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u0989\u09b0\u09bf\u09b6\u09be\u09b8"
+    ],
     "name:bjn_x_preferred":[
         "Mauritius"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f60\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f4a\u0f72\u0f60\u0f74\u0f0b\u0f66\u0f74\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f7d\u0f0b\u0f62\u0f72\u0f64\u0f66\u0f84\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Mauricijus"
+    ],
+    "name:bos_x_variant":[
+        "Mauricius"
     ],
     "name:bpy_x_preferred":[
         "\u09ae\u09b0\u09bf\u09b6\u09be\u09b8"
     ],
     "name:bre_x_preferred":[
         "Maoris"
+    ],
+    "name:bre_x_variant":[
+        "Moris"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0446\u0438\u0439"
@@ -91,13 +125,6 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6a21\u91cc\u897f\u65af"
-    ],
-    "name:chi_x_variant":[
-        "\u6a21\u91cc\u897f\u65af",
-        "\u6bdb\u91cc\u6c42\u65af"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u043a\u0438"
     ],
@@ -113,6 +140,9 @@
     "name:cym_x_preferred":[
         "Mawrisiws"
     ],
+    "name:cym_x_variant":[
+        "Mauritius"
+    ],
     "name:cze_x_preferred":[
         "Mauricius"
     ],
@@ -127,6 +157,9 @@
     ],
     "name:div_x_preferred":[
         "\u0789\u07ae\u0783\u07a8\u079d\u07a6\u0790\u07b0"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f58\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f64\u0f72\u0f61\u0f66\u0f72"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c5\u03c1\u03af\u03ba\u03b9\u03bf\u03c2 (\u03ba\u03c1\u03ac\u03c4\u03bf\u03c2)",
@@ -157,6 +190,9 @@
     "name:ewe_x_preferred":[
         "Mauritius"
     ],
+    "name:ewe_x_variant":[
+        "mauritiusduk\u0254"
+    ],
     "name:ext_x_preferred":[
         "Mauriciu"
     ],
@@ -166,21 +202,26 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0631\u06cc\u062a\u06cc\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Mauritius"
+    ],
+    "name:fra_x_colloquial":[
+        "Ile Maurice"
+    ],
+    "name:fra_x_historical":[
+        "\u00cele de France"
     ],
     "name:fra_x_preferred":[
         "Maurice (pays)",
         "Maurice"
     ],
-    "name:fre_x_colloquial":[
-        "Ile Maurice"
-    ],
-    "name:fre_x_preferred":[
-        "Maurice"
-    ],
-    "name:fre_x_variant":[
-        "\u00cele Maurice"
+    "name:fra_x_variant":[
+        "\u00cele Maurice",
+        "Maurice",
+        "\u00cele de France"
     ],
     "name:frp_x_preferred":[
         "M\u00f4ris (payis)",
@@ -188,6 +229,9 @@
     ],
     "name:fry_x_preferred":[
         "Mauritsius"
+    ],
+    "name:ful_x_preferred":[
+        "Moriis"
     ],
     "name:gag_x_preferred":[
         "Mavriki"
@@ -204,14 +248,23 @@
     "name:glg_x_preferred":[
         "Mauricio"
     ],
+    "name:glg_x_variant":[
+        "Mauricio - Maurice"
+    ],
     "name:glv_x_preferred":[
         "Ellan Wirrish"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0ab0\u0abf\u0ab6\u0abf\u0aaf\u0ab8"
     ],
     "name:hak_x_preferred":[
         "Mauritius"
     ],
     "name:hat_x_preferred":[
         "Moris"
+    ],
+    "name:hau_x_preferred":[
+        "Moritus"
     ],
     "name:haw_x_preferred":[
         "Mauritiusa"
@@ -228,6 +281,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0949\u0930\u093f\u0936\u0938"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u094c\u0930\u093f\u0938"
+    ],
     "name:hrv_x_preferred":[
         "Mauricijus"
     ],
@@ -239,6 +295,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u057e\u0580\u056b\u056f\u056b\u0578\u057d"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u057e\u0580\u056b\u057f\u0578\u057d"
     ],
     "name:ibo_x_preferred":[
         "Mauritius"
@@ -279,17 +338,32 @@
     "name:jpn_x_variant":[
         "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u5171\u548c\u56fd"
     ],
+    "name:kal_x_preferred":[
+        "Mauritius"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb0\u0cbf\u0cb7\u0cb8\u0ccd"
+    ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cbe\u0cb0\u0cbf\u0cb6\u0cbf\u0caf\u0cb8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d5\u10e0\u10d8\u10d9\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10d5\u10e0\u10d8\u10d9\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
     ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17bc\u179a\u17b8\u1791\u17bb\u179f"
+    ],
     "name:kik_x_preferred":[
         "Mauritius"
+    ],
+    "name:kik_x_variant":[
+        "Morisi"
     ],
     "name:kin_x_preferred":[
         "Morise"
@@ -309,6 +383,9 @@
     "name:lad_x_preferred":[
         "Maurisio"
     ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0ecd\u0ea3\u0eb4\u0e95\u0ebd\u0e94"
+    ],
     "name:lat_x_preferred":[
         "Mauritia"
     ],
@@ -324,6 +401,9 @@
     "name:lin_x_preferred":[
         "Morisi"
     ],
+    "name:lin_x_variant":[
+        "Moris\u025b"
+    ],
     "name:lit_x_preferred":[
         "Mauricijus"
     ],
@@ -336,20 +416,35 @@
     "name:ltz_x_preferred":[
         "Mauritius"
     ],
+    "name:lub_x_preferred":[
+        "Morise"
+    ],
     "name:lug_x_preferred":[
         "Mauritius"
+    ],
+    "name:lug_x_variant":[
+        "Mawulisyasi"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d57\u0d31\u0d40\u0d37\u0d4d\u0d2f\u0d38\u0d4d"
     ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d4c\u0d31\u0d40\u0d37\u0d4d\u0d2f\u0d38\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u0949\u0930\u093f\u0936\u0938"
+    ],
+    "name:mar_x_variant":[
+        "\u092e\u0949\u0930\u093f\u0936\u093f\u0905\u0938"
     ],
     "name:min_x_preferred":[
         "Mauritius"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u0446\u0438\u0443\u0441"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0430\u0443\u0440\u0438\u0446\u0438\u0443\u0441"
     ],
     "name:mlg_x_preferred":[
         "Maorisy"
@@ -366,6 +461,9 @@
     "name:mya_x_preferred":[
         "\u1019\u1031\u102c\u101b\u1005\u103a\u101b\u103e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:nde_x_preferred":[
+        "Mauritius"
+    ],
     "name:nds_nld_x_preferred":[
         "Maurisius"
     ],
@@ -375,11 +473,17 @@
     "name:nep_x_preferred":[
         "\u092e\u094c\u0930\u093f\u0938\u0938"
     ],
+    "name:nep_x_variant":[
+        "\u092e\u093e\u0909\u0930\u093f\u091f\u0938"
+    ],
     "name:nld_x_preferred":[
         "Mauritius (land)",
         "Mauritius"
     ],
     "name:nno_x_preferred":[
+        "Mauritius"
+    ],
+    "name:nob_x_preferred":[
         "Mauritius"
     ],
     "name:nor_x_preferred":[
@@ -397,6 +501,9 @@
     "name:ori_x_preferred":[
         "\u0b2e\u0b30\u0b3f\u0b38\u0b38"
     ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b4c\u0b30\u0b3f\u0b38\u0b38\u0b4d"
+    ],
     "name:orm_x_preferred":[
         "Mooriishes"
     ],
@@ -412,6 +519,9 @@
     "name:pms_x_preferred":[
         "Mauritius"
     ],
+    "name:pms_x_variant":[
+        "Maurissi"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u0634\u0633"
     ],
@@ -425,7 +535,8 @@
         "Maur\u00edcia"
     ],
     "name:por_x_variant":[
-        "Maur\u00edcio"
+        "Maur\u00edcio",
+        "Rep\u00fablica de Maur\u00edcio"
     ],
     "name:pus_x_preferred":[
         "\u0645\u0627\u0648\u0631\u06cc\u062a\u0648\u0633"
@@ -433,8 +544,17 @@
     "name:que_x_preferred":[
         "Mawrisyu"
     ],
+    "name:roh_x_preferred":[
+        "Mauritius"
+    ],
     "name:ron_x_preferred":[
         "Mauritius"
+    ],
+    "name:ron_x_variant":[
+        "Mauri\u021bius"
+    ],
+    "name:run_x_preferred":[
+        "Izinga rya Morise"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
@@ -457,11 +577,17 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd4\u0dbb\u0dd4\u0dc3\u0dd2 \u0dc3\u0db8\u0dd4\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0"
     ],
+    "name:sin_x_variant":[
+        "\u0db8\u0dd4\u0dbb\u0dd4\u0dc3\u0dd2\u0dba"
+    ],
     "name:slk_x_preferred":[
         "Maur\u00edcius"
     ],
     "name:slv_x_preferred":[
         "Mavricij"
+    ],
+    "name:slv_x_variant":[
+        "Mauritius"
     ],
     "name:sme_x_preferred":[
         "Mauritius"
@@ -471,6 +597,9 @@
     ],
     "name:som_x_preferred":[
         "Mauritius"
+    ],
+    "name:som_x_variant":[
+        "Murishiyoos"
     ],
     "name:sot_x_preferred":[
         "Mauritius"
@@ -511,6 +640,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0b9a\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bca\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0bb8\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
     ],
@@ -523,8 +655,20 @@
     "name:tgl_x_preferred":[
         "Mauritius"
     ],
+    "name:tgl_x_variant":[
+        "Maurisyo"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e2a"
+    ],
+    "name:tir_x_preferred":[
+        "\u121b\u1229\u1238\u1235"
+    ],
+    "name:ton_x_preferred":[
+        "Maulitiusi"
     ],
     "name:tso_x_preferred":[
         "Mauritius"
@@ -550,8 +694,14 @@
     "name:und_x_variant":[
         "Republika Mauritius"
     ],
+    "name:unk_x_variant":[
+        "Isle de France"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u0634\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u06cc\u0634\u0633"
     ],
     "name:uzb_x_preferred":[
         "Mavritsiya"
@@ -564,6 +714,9 @@
     ],
     "name:vie_x_preferred":[
         "Mauritius"
+    ],
+    "name:vie_x_variant":[
+        "M\u00f4-ri-x\u01a1"
     ],
     "name:vol_x_preferred":[
         "Morise\u00e4n"
@@ -586,17 +739,27 @@
     "name:yor_x_preferred":[
         "M\u1ecd\u0301r\u00eds\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Maritiusi"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Mauritius"
     ],
     "name:zho_x_preferred":[
         "\u6bdb\u91cc\u6c42\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u6bdb\u91cc\u6c42\u65af",
+        "\u6a21\u91cc\u897f\u65af"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6bdb\u5398\u58eb"
     ],
     "name:zul_x_preferred":[
         "IMorishisi"
+    ],
+    "name:zul_x_variant":[
+        "i-Mauritius"
     ],
     "ne:abbrev":"Mus.",
     "ne:abbrev_len":4,
@@ -676,6 +839,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"230",
+    "statoids:ds":"MS",
+    "statoids:fifa":"MRI",
+    "statoids:gaul":"160",
+    "statoids:gec":"MP",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MRI",
+    "statoids:iso_a2":"MU",
+    "statoids:iso_a3":"MUS",
+    "statoids:iso_num":"480",
+    "statoids:itu":"MAU",
+    "statoids:marc":"mf",
+    "statoids:name":"Mauritius",
+    "statoids:wmo":"MA",
     "wk:latitude":-20.2,
     "wk:longitude":57.5,
     "wk:population":1258653,
@@ -688,19 +866,29 @@
     "wof:concordances":{
         "dbp:id":"Mauritius",
         "fb:id":"en.mauritius",
+        "fifa:id":"MRI",
+        "fips:code":"MP",
+        "gaul:id":"160",
         "gn:id":934292,
         "gp:id":23424894,
         "hasc:id":"MU",
+        "ioc:id":"MRI",
+        "itu:id":"MAU",
         "loc:id":"n79060078",
+        "m49:code":"480",
+        "marc:id":"mf",
         "mzb:id":"mauritius",
+        "ne:adm0_a3":"MUS",
         "nyt:id":"N16080242468809507411",
         "qs:id":83993,
+        "uncrt:id":"MS",
         "wd:id":"Q1027",
-        "wk:page":"Mauritius"
+        "wk:page":"Mauritius",
+        "wmo:id":"MA"
     },
     "wof:country":"MU",
     "wof:country_alpha3":"MUS",
-    "wof:geomhash":"7d7a43330ecd4570a4572f42a4805b7b",
+    "wof:geomhash":"4fe885c36b72aa680ac267a8faac09bc",
     "wof:hierarchy":[
         {
             "continent_id":"102193527",
@@ -719,11 +907,14 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1493229931,
+    "wof:lastmodified":1509142802,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
+    "wof:population":1258653,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MUS",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

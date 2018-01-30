@@ -2,31 +2,56 @@
   "id": 85632373,
   "type": "Feature",
   "properties": {
+    "abrv:eng_x_preferred":[
+        "ARYM"
+    ],
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1991-09~/1992-03~",
     "geom:area":2.747591,
+    "geom:area_square_m":25405473606.201439,
     "geom:bbox":"20.452423,40.853344,23.034093,42.3736305",
     "geom:latitude":41.600288,
     "geom:longitude":21.700726,
     "gn:id":"",
     "gn:population":2062294,
     "iso:country":"MK",
+    "itu:country_code":[
+        "389"
+    ],
     "lbl:latitude":41.569245,
     "lbl:longitude":21.547313,
     "mps:latitude":41.569245,
     "mps:longitude":21.547313,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Masedoni\u00eb (dubbelsinnig)"
+    ],
+    "name:afr_x_variant":[
+        "Macedoni\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Masedonia"
     ],
     "name:als_x_preferred":[
         "Mazedonien (Begriffskl\u00e4rung)"
     ],
+    "name:amh_x_preferred":[
+        "\u121b\u12a8\u12f6\u1292\u12eb"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 (\u062a\u0648\u0636\u064a\u062d)"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u062f\u0648\u0646\u064a\u0627"
+    ],
     "name:arc_x_preferred":[
         "\u0721\u0729\u0715\u0718\u0722\u071d\u0710"
+    ],
+    "name:arc_x_variant":[
+        "\u0729\u0718\u071b\u0722\u071d\u0718\u072c\u0710 \u0715\u0721\u0729\u0715\u0718\u0722\u071d\u0710"
     ],
     "name:arg_x_preferred":[
         "Macedonia"
@@ -37,11 +62,20 @@
     "name:ast_x_preferred":[
         "Macedonia (dixebra)"
     ],
+    "name:ast_x_variant":[
+        "Rep\u00fablica de Macedonia"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647"
     ],
     "name:aze_x_preferred":[
         "Makedoniya"
+    ],
+    "name:aze_x_variant":[
+        "Masedoniya"
+    ],
+    "name:bam_x_preferred":[
+        "Maced\u0254ni"
     ],
     "name:bar_x_preferred":[
         "Mazedonien (Begriffskl\u00e4rung)"
@@ -50,19 +84,41 @@
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f, \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0456"
     ],
     "name:bel_x_variant":[
-        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f",
+        "\u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f",
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f, \u0411\u042e\u0420"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09b8\u09be\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
         "Makedonija (\u010dvor)"
     ],
+    "name:bos_x_variant":[
+        "Republika Makedonija",
+        "Makedonija"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09b8\u09bf\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Republik Makedonia"
+    ],
+    "name:bre_x_variant":[
+        "Makedonia"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
+    "name:bul_x_variant":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f, \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
     "name:cat_x_preferred":[
         "Maced\u00f2nia"
+    ],
+    "name:cat_x_variant":[
+        "Rep\u00fablica de Maced\u00f2nia"
     ],
     "name:ceb_x_preferred":[
         "Macedonia (pagklaro)"
@@ -70,8 +126,10 @@
     "name:ces_x_preferred":[
         "Makedonie (rozcestn\u00edk)"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5176\u9813"
+    "name:ces_x_variant":[
+        "Macedonia",
+        "Republika Makedonie",
+        "Makedonie"
     ],
     "name:chu_x_preferred":[
         "\u041c\u0430\u043a\u0454\u0434\u043e\u043d\u0457\ua657 \u00b7 \u0441\u044a\u043c\ua651\u0441\u043b\u0438"
@@ -81,6 +139,9 @@
     ],
     "name:cym_x_preferred":[
         "Macedonia"
+    ],
+    "name:cym_x_variant":[
+        "Gweriniaeth Macedonia"
     ],
     "name:cze_x_preferred":[
         "Makedonie"
@@ -93,23 +154,31 @@
     ],
     "name:dan_x_variant":[
         "Republikken Makedonien",
-        "Tidligere jugoslaviske republik Makedonien"
+        "Tidligere jugoslaviske republik Makedonien",
+        "Tidligere Jugoslaviske Republik Makedonien"
     ],
     "name:deu_x_preferred":[
         "Mazedonien (Begriffskl\u00e4rung)"
     ],
-    "name:dut_x_colloquial":[
-        "Macedonie"
+    "name:deu_x_variant":[
+        "Mazedonien",
+        "Ehemalige Jugoslawische Republik Mazedonien",
+        "Ehemalige jugoslawische Republik Mazedonien"
     ],
-    "name:dut_x_preferred":[
-        "Macedoni\u00eb"
-    ],
-    "name:dut_x_variant":[
-        "Macedoni\u00eb, Republiek",
-        "Voormalige Joegoslavische Republiek Macedoni\u00eb"
+    "name:efi_x_preferred":[
+        "Macedonia"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1 (\u03b1\u03c0\u03bf\u03c3\u03b1\u03c6\u03ae\u03bd\u03b9\u03c3\u03b7)"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u0393\u0394 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "\u03a0\u03c1\u03ce\u03b7\u03bd \u0393\u03b9\u03bf\u03c5\u03b3\u03ba\u03bf\u03c3\u03bb\u03b1\u03b2\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "\u03a0.\u0393.\u0394. \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_colloquial":[
+        "Macedonia (FYR)",
+        "Macedonia, The Former Yugoslav Republic Of"
     ],
     "name:eng_x_preferred":[
         "Macedonia"
@@ -126,16 +195,41 @@
         "Rep. Macedonia",
         "Republic of Macedonia",
         "The FYR of Macedonia",
-        "The Former Yugoslav Republic of Macedonia"
+        "The Former Yugoslav Republic of Macedonia",
+        "Macedonia (FYR)",
+        "Macedonia, The Former Yugoslav Republic Of"
     ],
     "name:epo_x_preferred":[
         "Makedonio"
     ],
+    "name:epo_x_variant":[
+        "Makedonujo",
+        "Respubliko Makedonio"
+    ],
+    "name:est_x_preferred":[
+        "Makedoonia Vabariik"
+    ],
+    "name:est_x_variant":[
+        "Makedoonia"
+    ],
     "name:eus_x_preferred":[
         "Mazedonia (argipena)"
     ],
+    "name:eus_x_variant":[
+        "Mazedonia",
+        "Mazedoniako Errepublika"
+    ],
+    "name:ewe_x_preferred":[
+        "Makedonia nutome"
+    ],
+    "name:fao_x_preferred":[
+        "Maked\u00f3nia"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06a9\u062f\u0648\u0646\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Makedonia",
@@ -146,26 +240,24 @@
         "Makedonian tasavalta",
         "Makedonian valtakunta"
     ],
+    "name:fra_x_colloquial":[
+        "Macedoine"
+    ],
     "name:fra_x_preferred":[
         "Macedonia"
     ],
-    "name:fre_x_colloquial":[
-        "Macedoine"
-    ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
+        "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine",
         "Mac\u00e9doine"
     ],
-    "name:fre_x_variant":[
-        "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
+    "name:frp_x_preferred":[
+        "R\u00e8publica de Mac\u00e8donie"
     ],
     "name:fry_x_preferred":[
         "Masedoanje"
     ],
-    "name:ger_x_preferred":[
-        "Mazedonien"
-    ],
-    "name:ger_x_variant":[
-        "Ehemalige Jugoslawische Republik Mazedonien"
+    "name:ful_x_preferred":[
+        "Meceduwaan"
     ],
     "name:gle_x_preferred":[
         "An Mhacad\u00f3in"
@@ -173,14 +265,43 @@
     "name:glg_x_preferred":[
         "Macedonia"
     ],
+    "name:glg_x_variant":[
+        "Rep\u00fablica de Macedonia"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0ab8\u0ac7\u0aa1\u0acb\u0aa8\u0abf\u0aaf\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Masedoniya"
+    ],
     "name:hbs_x_preferred":[
         "Masidonija"
+    ],
+    "name:hbs_x_variant":[
+        "Republika Makedonija"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e7\u05d3\u05d5\u05e0\u05d9\u05d4 (\u05e4\u05d9\u05e8\u05d5\u05e9\u05d5\u05e0\u05d9\u05dd)"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05e7\u05d3\u05d5\u05e0\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u0948\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Makedonija (razdvojba)"
+    ],
+    "name:hrv_x_variant":[
+        "Makedonija, Republika",
+        "Republika Makedonija",
+        "Makedonija"
+    ],
+    "name:hsb_x_preferred":[
+        "Makedonska"
     ],
     "name:hun_x_preferred":[
         "Maced\u00f3nia",
@@ -194,8 +315,30 @@
     "name:hye_x_preferred":[
         "\u0544\u0561\u056f\u0565\u0564\u0578\u0576\u056b\u0561 (\u0561\u0575\u056c \u056f\u056b\u0580\u0561\u057c\u0578\u0582\u0574\u0576\u0565\u0580)"
     ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u056f\u0565\u0564\u0578\u0576\u056b\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Republiko Macedonia"
+    ],
     "name:ina_x_preferred":[
         "Macedonia (disambiguation)"
+    ],
+    "name:ina_x_variant":[
+        "Macedonia"
+    ],
+    "name:ind_x_preferred":[
+        "Macedonia"
+    ],
+    "name:ind_x_variant":[
+        "Republik Makedonia",
+        "Makedonia"
+    ],
+    "name:isl_x_preferred":[
+        "Maked\u00f3n\u00eda"
+    ],
+    "name:isl_x_variant":[
+        "L\u00fd\u00f0veldi\u00f0 Maked\u00f3n\u00eda"
     ],
     "name:ita_x_preferred":[
         "Repubblica di Macedonia",
@@ -203,7 +346,8 @@
     ],
     "name:ita_x_variant":[
         "Macedonia, Ex Repubblica Jugoslava",
-        "Macedonia, Repubblica"
+        "Macedonia, Repubblica",
+        "Ex Repubblica Jugoslava di Macedonia"
     ],
     "name:jam_x_preferred":[
         "Ripoblik a Masiduonia"
@@ -216,8 +360,23 @@
         "\u30de\u30b1\u30c9\u30cb\u30a2\u5171\u548c\u56fd",
         "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd"
     ],
+    "name:kal_x_preferred":[
+        "Makedonia"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccd\u0caf\u0cbe\u0cb8\u0cbf\u0ca1\u0ccb\u0ca8\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0 (\u10db\u10e0\u10d0\u10d5\u10d0\u10da\u10db\u10dc\u10d8\u10e8\u10d5\u10dc\u10d4\u10da\u10dd\u10d5\u10d0\u10dc\u10d8)"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17b6\u179f\u17c1\u178a\u1793"
+    ],
+    "name:kik_x_preferred":[
+        "Masedonia"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d",
@@ -228,23 +387,107 @@
         "\ub9c8\ucf00\ub3c4\ub2c8\uc544\uc5b4",
         "\uc804 \uc720\uace0\uc2ac\ub77c\ube44\uc544 \ub9c8\ucf00\ub3c4\ub2c8\uc544"
     ],
+    "name:kur_x_preferred":[
+        "Komara Makedonyay\u00ea"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec1\u0ea1\u0e8a\u0eb4\u0ec2\u0e84\u0ec0\u0e99\u0e8d"
+    ],
     "name:lat_x_preferred":[
         "Macedonia"
+    ],
+    "name:lat_x_variant":[
+        "Res publica Macedonica"
+    ],
+    "name:lav_x_preferred":[
+        "Ma\u0137edonija"
+    ],
+    "name:lav_x_variant":[
+        "Ma\u0137edonijas Republika"
+    ],
+    "name:lim_x_preferred":[
+        "Macedoni\u00eb"
+    ],
+    "name:lin_x_preferred":[
+        "Masedwan\u025b"
+    ],
+    "name:lit_x_preferred":[
+        "Makedonija"
+    ],
+    "name:lub_x_preferred":[
+        "Masedwane"
+    ],
+    "name:lug_x_preferred":[
+        "Masedoniya"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3e\u0d38\u0d3f\u0d21\u0d4b\u0d23\u0d3f\u0d2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0945\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430 (\u043f\u043e\u0458\u0430\u0441\u043d\u0443\u0432\u0430\u045a\u0435)"
     ],
+    "name:mkd_x_variant":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Makedonia"
+    ],
+    "name:mlt_x_preferred":[
+        "Ma\u010bedonja"
+    ],
     "name:msa_x_preferred":[
         "Macedonia"
     ],
+    "name:msa_x_variant":[
+        "Republik Macedonia"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u102c\u1005\u102e\u1012\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038"
+    ],
     "name:nau_x_preferred":[
+        "Macedonia"
+    ],
+    "name:nde_x_preferred":[
         "Macedonia"
     ],
     "name:nds_nld_x_preferred":[
         "Massedoni\u00eb"
     ],
+    "name:nds_x_preferred":[
+        "Makedonien"
+    ],
+    "name:nds_x_variant":[
+        "Republiek Makedonien"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:nep_x_variant":[
+        "\u092e\u094d\u092f\u093e\u0915\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:nld_x_colloquial":[
+        "Macedonie"
+    ],
     "name:nld_x_preferred":[
         "Macedonia"
+    ],
+    "name:nld_x_variant":[
+        "Voormalige Joegoslavische Republiek Macedoni\u00eb",
+        "Macedoni\u00eb, Republiek",
+        "Macedoni\u00eb"
+    ],
+    "name:nno_x_preferred":[
+        "Makedonia"
+    ],
+    "name:nno_x_variant":[
+        "Republikken Makedonia"
+    ],
+    "name:nob_x_preferred":[
+        "Makedonia"
     ],
     "name:nor_x_preferred":[
         "Republikken Makedonia"
@@ -255,11 +498,28 @@
     "name:oci_x_preferred":[
         "Maced\u00f2nia"
     ],
+    "name:oci_x_variant":[
+        "Republica de Maced\u00f2nia"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2e\u0b3e\u0b38\u0b47\u0b21\u0b4b\u0b28\u0b3f\u0b06"
+    ],
+    "name:pam_x_preferred":[
+        "Republika ning Makedonia"
+    ],
+    "name:pms_x_preferred":[
+        "Maced\u00f2nia"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
     ],
     "name:pol_x_preferred":[
         "Macedonia (ujednoznacznienie)"
+    ],
+    "name:pol_x_variant":[
+        "Macedonia, Republika",
+        "Macedonia",
+        "By\u0142a Jugos\u0142owia\u0144ska Republika Macedonii"
     ],
     "name:por_x_colloquial":[
         "Antiga Republica jugoslava da Macedonia"
@@ -271,13 +531,27 @@
     "name:por_x_variant":[
         "Antiga Rep\u00fablica jugoslava da Maced\u00f3nia",
         "Maced\u00f3nia",
-        "Maced\u00f4nia, Rep\u00fablica da"
+        "Maced\u00f4nia, Rep\u00fablica da",
+        "Maced\u00f4nia"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f \u0645\u0642\u062f\u0648\u0646\u064a\u06d0 \u0648\u0644\u0633\u0645\u0634\u0631\u064a\u0632\u0647"
     ],
     "name:que_x_preferred":[
         "Makiduniya"
     ],
+    "name:rmy_x_preferred":[
+        "Republika Makedoniya"
+    ],
+    "name:roh_x_preferred":[
+        "Macedonia"
+    ],
     "name:ron_x_preferred":[
         "Macedonia"
+    ],
+    "name:ron_x_variant":[
+        "Republica Macedonia",
+        "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
     ],
     "name:rue_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
@@ -288,14 +562,51 @@
     "name:rum_x_variant":[
         "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
     ],
+    "name:run_x_preferred":[
+        "Masedoniya"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Masedu\u00e4ni"
     ],
     "name:scn_x_preferred":[
         "Macedonia"
     ],
+    "name:scn_x_variant":[
+        "Macidonia",
+        "Rip\u00f9bblica di Macidonia"
+    ],
     "name:sco_x_preferred":[
         "Macedonie"
+    ],
+    "name:slk_x_preferred":[
+        "Maced\u00f3nsko, republika"
+    ],
+    "name:slk_x_variant":[
+        "Maced\u00f3nsko"
+    ],
+    "name:slv_x_preferred":[
+        "Republika Makedonija"
+    ],
+    "name:slv_x_variant":[
+        "Makedonija"
+    ],
+    "name:sme_x_preferred":[
+        "D\u00e1ssev\u00e1ldi Makedonia"
+    ],
+    "name:sme_x_variant":[
+        "Makedonia"
+    ],
+    "name:sna_x_preferred":[
+        "Macedonia"
+    ],
+    "name:som_x_preferred":[
+        "Makadooniya"
     ],
     "name:spa_x_colloquial":[
         "Antigua Republica Yugoslava de Macedonia",
@@ -313,11 +624,25 @@
     "name:sqi_x_preferred":[
         "Maqedonia (kthjellim)"
     ],
+    "name:sqi_x_variant":[
+        "Maqedoni",
+        "Republika e Maqedonis\u00eb"
+    ],
     "name:srn_x_preferred":[
         "Masedoniyakondre"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430 (\u0432\u0438\u0448\u0435\u0437\u043d\u0430\u0447\u043d\u0430 \u043e\u0434\u0440\u0435\u0434\u043d\u0438\u0446\u0430)"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Jamhuri ya Masedonia"
+    ],
+    "name:swa_x_variant":[
+        "Masedonia"
     ],
     "name:swe_x_preferred":[
         "Makedonien",
@@ -327,11 +652,32 @@
         "F.d. jugoslaviska republiken Makedonien",
         "FYROM"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c47\u0c38\u0c46\u0c21\u0c4b\u0c28\u0c3f\u0c2f\u0c3e"
+    ],
     "name:tet_x_preferred":[
         "Mased\u00f3nia"
     ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u041c\u0430\u049b\u0434\u0443\u043d\u0438\u044f"
+    ],
+    "name:tgl_x_preferred":[
+        "Republika ng Macedonia"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u121b\u12a8\u12f6\u1292\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Masit\u014dnia"
     ],
     "name:tum_x_preferred":[
         "Macedonia"
@@ -339,8 +685,15 @@
     "name:tur_x_preferred":[
         "Makedonya"
     ],
+    "name:uig_x_preferred":[
+        "\u0645\u0627\u0643\u06d0\u062f\u0648\u0646\u0649\u064a\u06d5"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f",
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f, \u043a\u043e\u043b\u0438\u0448\u043d\u044f \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
     "name:und_x_colloquial":[
         "Macedonsko",
@@ -358,6 +711,9 @@
         "Pr\u00f3in Giougkoslavik\u00ed Dimokrat\u00eda tis Makedon\u00edas",
         "Republika Makedonija"
     ],
+    "name:unk_x_variant":[
+        "Peoples Republic of Macedonia"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
     ],
@@ -367,11 +723,34 @@
     "name:vie_x_preferred":[
         "Macedonia (\u0111\u1ecbnh h\u01b0\u1edbng)"
     ],
+    "name:vie_x_variant":[
+        "Ma-x\u00ea-\u0111\u00f4-ni-a",
+        "Ma-x\u00ea-\u0111\u00f4-ni-a (Macedonia)"
+    ],
     "name:vol_x_preferred":[
         "Macedonia"
     ],
+    "name:vol_x_variant":[
+        "Makedon\u00e4n",
+        "Makedoniy\u00e4n"
+    ],
+    "name:war_x_preferred":[
+        "Republika han Macedonia"
+    ],
+    "name:yor_x_preferred":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Masidonia"
+    ],
     "name:zho_x_preferred":[
         "\u99ac\u5176\u9813 (\u6d88\u6b67\u7fa9)"
+    ],
+    "name:zho_x_variant":[
+        "\u99ac\u5176\u9813",
+        "\u9a6c\u5176\u987f\u738b\u56fd",
+        "\u99ac\u5176\u9813\u5171\u548c\u570b",
+        "\u524d\u5357\u65af\u62c9\u592b\u9a6c\u5176\u987f\u5171\u548c\u56fd"
+    ],
+    "name:zul_x_preferred":[
+        "I-Macedonia"
     ],
     "ne:abbrev":"Mkd.",
     "ne:abbrev_len":4,
@@ -451,6 +830,22 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"389",
+    "statoids:ds":"MK",
+    "statoids:fifa":"MKD",
+    "statoids:gaul":"241",
+    "statoids:gec":"MK",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MKD",
+    "statoids:iso_a2":"MK",
+    "statoids:iso_a3":"MKD",
+    "statoids:iso_num":"807",
+    "statoids:itu":"MKD",
+    "statoids:marc":"xn",
+    "statoids:name":"Macedonia",
+    "statoids:wmo":"MJ",
+    "wof:abbreviation":"ARYM",
     "wof:belongsto":[
         102191581
     ],
@@ -458,18 +853,28 @@
     "wof:concordances":{
         "dbp:id":"Republic_of_Macedonia",
         "fb:id":"en.republic_of_macedonia",
+        "fifa:id":"MKD",
+        "fips:code":"MK",
+        "gaul:id":"241",
         "gn:id":718075,
         "gp:id":23424890,
         "hasc:id":"MK",
+        "ioc:id":"MKD",
+        "itu:id":"MKD",
+        "m49:code":"807",
+        "marc:id":"xn",
         "mzb:id":"macedonia",
+        "ne:adm0_a3":"MKD",
         "nyt:id":"N10179867412688300691",
         "qs:id":220227,
+        "uncrt:id":"MK",
         "wd:id":"Q221",
-        "wk:page":"Republic of Macedonia"
+        "wk:page":"Republic of Macedonia",
+        "wmo:id":"MJ"
     },
     "wof:country":"MK",
     "wof:country_alpha3":"MKD",
-    "wof:geomhash":"8dc486006aaabb52937e449a5cf2632b",
+    "wof:geomhash":"3879dd936ab56da3855616a3cd0b655e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -487,13 +892,18 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1493229939,
+    "wof:lastmodified":1509143036,
     "wof:name":"Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":2062294,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MKD",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108955787
+    ],
     "wof:tags":[]
 },
   "bbox": [

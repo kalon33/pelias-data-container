@@ -5,22 +5,116 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.891857,
+    "geom:area_square_m":10725356581.011906,
     "geom:bbox":"-16.817083359,13.065307926,-13.798611,13.826389",
     "geom:latitude":13.4531,
     "geom:longitude":-15.387105,
     "gn:id":"",
     "gn:population":1593256,
     "iso:country":"GM",
+    "itu:country_code":[
+        "220"
+    ],
     "lbl:latitude":13.505929,
     "lbl:longitude":-15.362493,
     "mps:latitude":13.505929,
     "mps:longitude":-15.362493,
     "mz:hierarchy_label":1,
-    "name:chi_x_preferred":[
-        "\u7518\u6bd4\u4e9e"
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
+    "name:afr_x_preferred":[
+        "Gambi\u00eb"
     ],
-    "name:chi_x_variant":[
-        "\u5188\u6bd4\u4e9a"
+    "name:aka_x_preferred":[
+        "Gambia"
+    ],
+    "name:amh_x_preferred":[
+        "\u130b\u121d\u1262\u12eb"
+    ],
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0645\u0628\u064a\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Gambia"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0645\u0628\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Gambia"
+    ],
+    "name:aze_x_preferred":[
+        "Qambiya"
+    ],
+    "name:bak_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
+    "name:bam_x_preferred":[
+        "Ganbi"
+    ],
+    "name:bcl_x_preferred":[
+        "Gambya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0456\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0997\u09cd\u09af\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u0917\u093e\u0902\u092c\u093f\u092f\u093e"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f42\u0fb7\u0f58\u0f0b\u0f56\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f42\u0f7a\u0f58\u0f0b\u0f56\u0fb7\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Gambija"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0997\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Gambia"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "G\u00e0mbia"
+    ],
+    "name:ces_x_preferred":[
+        "Gambie"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438"
+    ],
+    "name:chv_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u06cc\u0627"
+    ],
+    "name:cor_x_preferred":[
+        "Gambi"
+    ],
+    "name:crh_x_preferred":[
+        "Gambiya"
+    ],
+    "name:cym_x_preferred":[
+        "Gambia"
+    ],
+    "name:cym_x_variant":[
+        "Y Gambia"
     ],
     "name:cze_x_preferred":[
         "Gambie"
@@ -28,8 +122,26 @@
     "name:dan_x_preferred":[
         "Gambia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gambia"
+    ],
+    "name:deu_x_variant":[
+        "Republik Gambia"
+    ],
+    "name:diq_x_preferred":[
+        "Gambiya"
+    ],
+    "name:div_x_preferred":[
+        "\u078e\u07ac\u0789\u07b0\u0784\u07a8\u0787\u07a7"
+    ],
+    "name:dsb_x_preferred":[
+        "Gambija"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f42\u0fb7\u0f7a\u0f58\u0f0b\u0f56\u0f72\u0f0b\u0f61"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ac\u03bc\u03c0\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "The Gambia"
@@ -43,22 +155,113 @@
         "Gambia, The",
         "Gambian",
         "Rep. the Gambia",
-        "Republic of the Gambia"
+        "Republic of the Gambia",
+        "Islamic Republic of The Gambia"
+    ],
+    "name:epo_x_preferred":[
+        "Gambio"
+    ],
+    "name:est_x_preferred":[
+        "Gambia"
+    ],
+    "name:eus_x_preferred":[
+        "Ganbia"
+    ],
+    "name:eus_x_variant":[
+        "Gambia"
+    ],
+    "name:ewe_x_preferred":[
+        "Gambia nutome"
+    ],
+    "name:fao_x_preferred":[
+        "Gambia"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0645\u0628\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Gambia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gambie"
     ],
-    "name:ger_x_preferred":[
+    "name:frp_x_preferred":[
+        "Gambie"
+    ],
+    "name:ful_x_preferred":[
+        "Gammbi"
+    ],
+    "name:gag_x_preferred":[
+        "Gambiya"
+    ],
+    "name:gla_x_preferred":[
+        "A Ghaimbia"
+    ],
+    "name:gle_x_preferred":[
+        "An Ghaimbia"
+    ],
+    "name:glg_x_preferred":[
+        "Rep\u00fablica de Gambia"
+    ],
+    "name:glg_x_variant":[
         "Gambia"
     ],
-    "name:ger_x_variant":[
-        "Republik Gambia"
+    "name:glv_x_preferred":[
+        "Yn Ghambia"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0ac7\u0aae\u0acd\u0aac\u0abf\u0aaf\u0abe"
+    ],
+    "name:hat_x_preferred":[
+        "Ganbi"
+    ],
+    "name:hau_x_preferred":[
+        "Gambiya"
+    ],
+    "name:hbs_x_preferred":[
+        "Gambija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05de\u05d1\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d0\u05de\u05d1\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Gambija"
+    ],
+    "name:hsb_x_preferred":[
+        "Gambija"
     ],
     "name:hun_x_preferred":[
         "Gambia"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0574\u0562\u056b\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Gambia"
+    ],
+    "name:ile_x_preferred":[
+        "The Gambia"
+    ],
+    "name:ilo_x_preferred":[
+        "Gambia"
+    ],
+    "name:ina_x_preferred":[
+        "Gambia"
+    ],
+    "name:ind_x_preferred":[
+        "Gambia"
+    ],
+    "name:isl_x_preferred":[
+        "Gamb\u00eda"
     ],
     "name:ita_x_preferred":[
         "Gambia"
@@ -69,11 +272,170 @@
     "name:jpn_x_variant":[
         "\u30ac\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
     ],
+    "name:kaa_x_preferred":[
+        "Gambiya"
+    ],
+    "name:kab_x_preferred":[
+        "Gambya"
+    ],
+    "name:kal_x_preferred":[
+        "Gambia"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccd\u0caf\u0cbe\u0c82\u0cac\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kan_x_variant":[
+        "\u0c97\u0ccd\u0caf\u0cbe\u0c82\u0cac\u0cbf\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10db\u10d1\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u1782\u17b6\u17c6\u1794\u17ca\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Gambia"
+    ],
+    "name:kin_x_preferred":[
+        "Gambiya"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
     "name:kor_x_preferred":[
         "\uac10\ube44\uc544"
     ],
+    "name:kur_x_preferred":[
+        "Gambiya"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0627\u0645\u0628\u06cc\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec1\u0e81\u0ea1\u0ec0\u0e9a\u0e8d"
+    ],
+    "name:lat_x_preferred":[
+        "Gambia"
+    ],
+    "name:lav_x_preferred":[
+        "Gambija"
+    ],
+    "name:lim_x_preferred":[
+        "Gambia"
+    ],
+    "name:lin_x_preferred":[
+        "Gambi"
+    ],
+    "name:lit_x_preferred":[
+        "Gambija"
+    ],
+    "name:lrc_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u06cc\u0627"
+    ],
+    "name:lub_x_preferred":[
+        "Gambi"
+    ],
+    "name:lug_x_preferred":[
+        "Gambya"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d3e\u0d02\u0d2c\u0d3f\u0d2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u0917\u093e\u0902\u092c\u093f\u092f\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u0458\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Gambia"
+    ],
+    "name:mlt_x_preferred":[
+        "Gambja"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Gambia"
+    ],
+    "name:mya_x_preferred":[
+        "\u1002\u1014\u103a\u1018\u102e\u101b\u102c"
+    ],
+    "name:mya_x_variant":[
+        "\u1002\u1019\u103a\u1018\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u06cc\u0627"
+    ],
+    "name:nau_x_preferred":[
+        "Gambiya"
+    ],
+    "name:nav_x_preferred":[
+        "G\u00e9\u00e9mbiya"
+    ],
+    "name:nde_x_preferred":[
+        "Gambiya"
+    ],
+    "name:nds_x_preferred":[
+        "Gambia"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u093e\u092e\u094d\u0935\u093f\u092f\u093e"
+    ],
+    "name:nep_x_variant":[
+        "\u0917\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Gambia"
+    ],
+    "name:nno_x_preferred":[
+        "Gambia"
+    ],
+    "name:nob_x_preferred":[
+        "Gambia"
+    ],
     "name:nor_x_preferred":[
         "Gambia"
+    ],
+    "name:oci_x_preferred":[
+        "Gambia"
+    ],
+    "name:oci_x_variant":[
+        "G\u00e0mbia"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b17\u0b3e\u0b2e\u0b4d\u0b2c\u0b3f\u0b06"
+    ],
+    "name:orm_x_preferred":[
+        "Gaambiyaa"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438"
+    ],
+    "name:pam_x_preferred":[
+        "The Gambia"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a17\u0a3e\u0a02\u0a2c\u0a40\u0a06"
+    ],
+    "name:pli_x_preferred":[
+        "\u0917\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06af\u06cc\u0645\u0628\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Gambia"
@@ -81,14 +443,137 @@
     "name:por_x_preferred":[
         "G\u00e2mbia"
     ],
+    "name:pus_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u064a\u0627"
+    ],
+    "name:que_x_preferred":[
+        "Gambya"
+    ],
+    "name:roh_x_preferred":[
+        "Gambia"
+    ],
+    "name:ron_x_preferred":[
+        "Gambia"
+    ],
     "name:rum_x_preferred":[
         "Gambia"
+    ],
+    "name:run_x_preferred":[
+        "Gambiya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Gamb\u00efi"
+    ],
+    "name:sah_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
+    "name:san_x_preferred":[
+        "\u0917\u093e\u092e\u094d\u092c\u093f\u092f\u093e"
+    ],
+    "name:sco_x_preferred":[
+        "The Gambie"
+    ],
+    "name:sgs_x_preferred":[
+        "Gamb\u0117j\u0117"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "Gambia"
+    ],
+    "name:slv_x_preferred":[
+        "Gambija"
+    ],
+    "name:sme_x_preferred":[
+        "G\u00e1mbia"
+    ],
+    "name:sme_x_variant":[
+        "Gambia"
+    ],
+    "name:sna_x_preferred":[
+        "Gambia"
+    ],
+    "name:som_x_preferred":[
+        "Gambiya"
     ],
     "name:spa_x_preferred":[
         "Gambia"
     ],
+    "name:sqi_x_preferred":[
+        "Gambi"
+    ],
+    "name:sqi_x_variant":[
+        "Gambia"
+    ],
+    "name:srd_x_preferred":[
+        "G\u00e0mbia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u0458\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "IGambiya"
+    ],
+    "name:swa_x_preferred":[
+        "Gambia"
+    ],
     "name:swe_x_preferred":[
         "Gambia"
+    ],
+    "name:szl_x_preferred":[
+        "Gambijo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3e\u0c02\u0c2c\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0438\u044f"
+    ],
+    "name:tgl_x_preferred":[
+        "Ang Gambiya"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e01\u0e21\u0e40\u0e1a\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e41\u0e01\u0e21\u0e40\u0e1a\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u130b\u121d\u1262\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Kamipia"
+    ],
+    "name:tso_x_preferred":[
+        "Gambiya"
+    ],
+    "name:tuk_x_preferred":[
+        "Gambi\u00fda"
+    ],
+    "name:tur_x_preferred":[
+        "Gambia"
+    ],
+    "name:tur_x_variant":[
+        "Gambiya"
+    ],
+    "name:uig_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u0649\u064a\u06d5"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0490\u0430\u043c\u0431\u0456\u044f"
     ],
     "name:und_x_preferred":[
         "Gambija",
@@ -96,6 +581,62 @@
     ],
     "name:und_x_variant":[
         "Republika Gambija"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u06cc\u0645\u0628\u06cc\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Gambii"
+    ],
+    "name:vie_x_preferred":[
+        "G\u0103m-bi-a"
+    ],
+    "name:vie_x_variant":[
+        "Gambia",
+        "G\u0103m-bi-a (Gambia)"
+    ],
+    "name:vol_x_preferred":[
+        "Gambiy\u00e4n"
+    ],
+    "name:wol_x_preferred":[
+        "G\u00e0mbi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5188\u6bd4\u4e9a"
+    ],
+    "name:xal_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0443\u0434\u0438\u043d \u041e\u0440\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10d0\u10db\u10d1\u10d8\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d9 \u05d2\u05d0\u05de\u05d1\u05d9\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Gambia"
+    ],
+    "name:yor_x_variant":[
+        "G\u00e1mb\u00ed\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u7518\u6bd4\u4e9e"
+    ],
+    "name:zho_x_preferred":[
+        "\u7518\u6bd4\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u5188\u6bd4\u4e9a",
+        "\u5188\u6bd4\u4e9a\u5171\u548c\u56fd"
+    ],
+    "name:zul_x_preferred":[
+        "i-Gambia"
+    ],
+    "name:zul_x_variant":[
+        "IGambia"
     ],
     "ne:abbrev":"Gambia",
     "ne:abbrev_len":6,
@@ -175,6 +716,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"220",
+    "statoids:ds":"WAG",
+    "statoids:fifa":"GAM",
+    "statoids:gaul":"90",
+    "statoids:gec":"GA",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GAM",
+    "statoids:iso_a2":"GM",
+    "statoids:iso_a3":"GMB",
+    "statoids:iso_num":"270",
+    "statoids:itu":"GMB",
+    "statoids:marc":"gm",
+    "statoids:name":"Gambia",
+    "statoids:wmo":"GB",
     "wof:belongsto":[
         "102191573"
     ],
@@ -182,18 +738,28 @@
     "wof:concordances":{
         "dbp:id":"The_Gambia",
         "fb:id":"en.the_gambia",
+        "fifa:id":"GAM",
+        "fips:code":"GA",
+        "gaul:id":"90",
         "gn:id":2413451,
         "gp:id":23424821,
         "hasc:id":"GM",
+        "ioc:id":"GAM",
+        "itu:id":"GMB",
+        "m49:code":"270",
+        "marc:id":"gm",
         "mzb:id":"the-gambia",
+        "ne:adm0_a3":"GMB",
         "nyt:id":"66220959598573035521",
         "qs:id":890609,
+        "uncrt:id":"WAG",
         "wd:id":"Q1005",
-        "wk:page":"The Gambia"
+        "wk:page":"The Gambia",
+        "wmo:id":"GB"
     },
     "wof:country":"GM",
     "wof:country_alpha3":"GMB",
-    "wof:geomhash":"f5e1430047cb7d1a450a9a2ad38da22a",
+    "wof:geomhash":"43ce0f638e112b0d0860d6989c190a6c",
     "wof:hierarchy":[
         {
             "continent_id":"102191573",
@@ -210,11 +776,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1493230012,
+    "wof:lastmodified":1509142730,
     "wof:name":"Gambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":1593256,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GMB",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

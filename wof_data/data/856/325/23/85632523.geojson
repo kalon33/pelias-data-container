@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-19",
     "edtf:inception":"uuuu",
     "geom:area":0.032792,
+    "geom:area_square_m":395373252.623279,
     "geom:bbox":"45.014556885,-13.004611015,45.297916412,-12.633749962",
     "geom:latitude":-12.819329,
     "geom:longitude":45.145812,
@@ -16,6 +18,7 @@
     "mps:latitude":-12.808077,
     "mps:longitude":45.149966,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "name:afr_x_preferred":[
         "Mayotte"
     ],
@@ -91,13 +94,15 @@
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b3\u03b9\u03cc\u03c4"
     ],
+    "name:eng_x_preferred":[
+        "Mayotte"
+    ],
     "name:eng_x_unknown":[
         "MYT",
         "YT"
     ],
     "name:eng_x_variant":[
-        "Mahorais",
-        "Mayotte"
+        "Mahorais"
     ],
     "name:epo_x_preferred":[
         "Majoto"
@@ -383,6 +388,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
     "wk:wordcount":2953,
     "wof:belongsto":[
         102191573
@@ -395,6 +401,7 @@
         "gp:id":23424886,
         "hasc:id":"YT",
         "loc:id":"n81141395",
+        "m49:code":"175",
         "nyt:id":"72504120267555379141",
         "qs:id":555036,
         "wd:id":"Q17063",
@@ -402,7 +409,7 @@
     },
     "wof:country":"FR",
     "wof:country_alpha3":"MYT",
-    "wof:geomhash":"c7e7ff152badf292e9570f375f38e3e9",
+    "wof:geomhash":"537528293845a2d8c15eb711134a00a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -419,12 +426,17 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493229996,
+    "wof:lastmodified":1509142802,
     "wof:name":"Mayotte",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":159042,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data",
-    "wof:superseded_by":[],
+    "wof:shortcode":"MYT",
+    "wof:superseded_by":[
+        85671203
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

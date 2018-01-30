@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002105,
+    "geom:area_square_m":18804695.075644,
     "geom:bbox":"7.36575,43.717969,7.437454,43.763506",
     "geom:latitude":43.739846,
     "geom:longitude":7.398974,
     "gn:population":32965,
     "iso:country":"MC",
+    "itu:country_code":[
+        "377"
+    ],
     "lbl:latitude":43.739652,
     "lbl:longitude":7.398291,
     "mps:latitude":43.739652,
     "mps:longitude":7.398291,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Monak\u00f4"
     ],
     "name:afr_x_preferred":[
         "Monaco"
+    ],
+    "name:aka_x_preferred":[
+        "M\u0254nako"
     ],
     "name:als_x_preferred":[
         "Monaco"
@@ -36,8 +46,14 @@
     "name:arc_x_preferred":[
         "\u0721\u0718\u0722\u0710\u0729\u0718"
     ],
+    "name:arc_x_variant":[
+        "\u0721\u0718\u0722\u071f\u0718"
+    ],
     "name:arg_x_preferred":[
         "M\u00fanegu"
+    ],
+    "name:arg_x_variant":[
+        "Monaco"
     ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0646\u0627\u0643\u0648"
@@ -53,6 +69,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
+    ],
+    "name:bam_x_preferred":[
+        "Monako"
     ],
     "name:bar_x_preferred":[
         "Monaco"
@@ -75,6 +94,9 @@
     "name:bod_x_preferred":[
         "\u0f58\u0f7c\u0f0b\u0f53\u0f0b\u0f41\u0f7c\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f7c\u0f0b\u0f53\u0f0b\u0f40\u0f7c\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Monako"
     ],
@@ -84,6 +106,9 @@
     "name:bre_x_preferred":[
         "Monako"
     ],
+    "name:bre_x_variant":[
+        "Monaco"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
@@ -92,6 +117,9 @@
     ],
     "name:cat_x_preferred":[
         "M\u00f2naco"
+    ],
+    "name:cat_x_variant":[
+        "Principat de M\u00f2naco"
     ],
     "name:cdo_x_preferred":[
         "Monaco"
@@ -104,12 +132,6 @@
     ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u6469\u7d0d\u54e5"
-    ],
-    "name:chi_x_variant":[
-        "\u6469\u7eb3\u54e5"
     ],
     "name:chr_x_preferred":[
         "\u13b9\u13be\u13aa"
@@ -156,6 +178,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bd\u03b1\u03ba\u03cc"
     ],
+    "name:eng_x_preferred":[
+        "Monaco"
+    ],
     "name:eng_x_unknown":[
         "MC",
         "MCO"
@@ -177,6 +202,9 @@
     "name:ewe_x_preferred":[
         "Monaco"
     ],
+    "name:ewe_x_variant":[
+        "Monako nutome"
+    ],
     "name:ext_x_preferred":[
         "M\u00f3nacu"
     ],
@@ -192,10 +220,7 @@
     "name:fra_x_preferred":[
         "Monaco"
     ],
-    "name:fre_x_preferred":[
-        "Monaco"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Principaut\u00e9 de Monaco"
     ],
     "name:frp_x_preferred":[
@@ -206,6 +231,9 @@
     ],
     "name:fry_x_preferred":[
         "Monako"
+    ],
+    "name:ful_x_preferred":[
+        "Monaakoo"
     ],
     "name:gag_x_preferred":[
         "Monako"
@@ -226,6 +254,9 @@
     "name:glg_x_preferred":[
         "M\u00f3naco"
     ],
+    "name:glg_x_variant":[
+        "M\u00f3naco - Monaco"
+    ],
     "name:glv_x_preferred":[
         "Monaco"
     ],
@@ -234,6 +265,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0ac5\u0a95\u0acb"
+    ],
+    "name:guj_x_variant":[
+        "\u0aae\u0acb\u0aa8\u0abe\u0a95\u0acb"
     ],
     "name:hak_x_preferred":[
         "Monaco"
@@ -244,6 +278,9 @@
     "name:hau_x_preferred":[
         "Monaco"
     ],
+    "name:hau_x_variant":[
+        "Monako"
+    ],
     "name:haw_x_preferred":[
         "Monako"
     ],
@@ -253,17 +290,26 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e0\u05d0\u05e7\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d5\u05e0\u05e7\u05d5"
+    ],
     "name:hif_x_preferred":[
         "Monaco"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0928\u093e\u0915\u094b"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u094b\u0928\u0948\u0915\u094b"
+    ],
     "name:hrv_x_preferred":[
         "Monako"
     ],
     "name:hsb_x_preferred":[
         "Monako"
+    ],
+    "name:hsb_x_variant":[
+        "Monaco"
     ],
     "name:hun_x_preferred":[
         "Monaco"
@@ -274,6 +320,9 @@
     "name:ido_x_preferred":[
         "Monako (lando)"
     ],
+    "name:ido_x_variant":[
+        "Monako"
+    ],
     "name:ile_x_preferred":[
         "M\u00f3naco"
     ],
@@ -283,14 +332,23 @@
     "name:ina_x_preferred":[
         "Monaco (principato)"
     ],
+    "name:ina_x_variant":[
+        "Monaco"
+    ],
     "name:ind_x_preferred":[
         "Monako"
+    ],
+    "name:ind_x_variant":[
+        "Monaco"
     ],
     "name:isl_x_preferred":[
         "M\u00f3nak\u00f3"
     ],
     "name:ita_x_preferred":[
         "Principato di Monaco"
+    ],
+    "name:ita_x_variant":[
+        "Monaco"
     ],
     "name:jam_x_preferred":[
         "Manako"
@@ -325,6 +383,12 @@
     "name:kbd_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17bc\u178e\u17b6\u1780\u17bc"
+    ],
+    "name:kik_x_preferred":[
+        "Monako"
+    ],
     "name:kin_x_preferred":[
         "Monako"
     ],
@@ -349,14 +413,23 @@
     "name:kur_x_preferred":[
         "Monako"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06c6\u0646\u0627\u06a9\u06c6"
+    ],
     "name:lad_x_preferred":[
         "Monako"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec2\u0ea1\u0e99\u0eb2\u0ec2\u0e81"
     ],
+    "name:lao_x_variant":[
+        "\u0ec2\u0ea1\u0e99\u0eb2\u0ec2\u0e81"
+    ],
     "name:lat_x_preferred":[
         "Principatus Monoeci"
+    ],
+    "name:lat_x_variant":[
+        "Monoecus"
     ],
     "name:lav_x_preferred":[
         "Monako"
@@ -367,11 +440,17 @@
     "name:lij_x_preferred":[
         "Prin\u00e7ipatu de Mu\u030dnegu"
     ],
+    "name:lij_x_variant":[
+        "Princip\u00e2 de Monego"
+    ],
     "name:lim_x_preferred":[
         "Monaco"
     ],
     "name:lin_x_preferred":[
         "Monaco"
+    ],
+    "name:lin_x_variant":[
+        "Monako"
     ],
     "name:lit_x_preferred":[
         "Monakas"
@@ -388,8 +467,17 @@
     "name:ltz_x_preferred":[
         "Monaco"
     ],
+    "name:lub_x_preferred":[
+        "Monaku"
+    ],
+    "name:lug_x_preferred":[
+        "Monako"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d23\u0d3e\u0d15\u0d4d\u0d15\u0d4b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d4a\u0d23\u0d4b\u0d15\u0d4d\u0d15\u0d4a"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u0945\u0915\u094b"
@@ -406,6 +494,9 @@
     "name:mlg_x_preferred":[
         "Monak\u00f4"
     ],
+    "name:mlg_x_variant":[
+        "M\u00f4nak\u00f4"
+    ],
     "name:mlt_x_preferred":[
         "Monako"
     ],
@@ -421,11 +512,20 @@
     "name:mya_x_preferred":[
         "\u1019\u102d\u102f\u1014\u102c\u1000\u102d\u102f\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u102d\u102f\u1014\u1000\u102d\u102f"
+    ],
     "name:myv_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:nau_x_preferred":[
         "Monako"
+    ],
+    "name:nau_x_variant":[
+        "Monaco"
+    ],
+    "name:nde_x_preferred":[
+        "Monakho"
     ],
     "name:nds_nld_x_preferred":[
         "Monaco"
@@ -445,6 +545,9 @@
     "name:nno_x_preferred":[
         "Monaco"
     ],
+    "name:nob_x_preferred":[
+        "Monaco"
+    ],
     "name:nor_x_preferred":[
         "Monaco"
     ],
@@ -453,6 +556,9 @@
     ],
     "name:oci_x_preferred":[
         "M\u00f3negue"
+    ],
+    "name:oci_x_variant":[
+        "Monegue"
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b4b\u0b28\u0b3e\u0b15\u0b4b"
@@ -468,6 +574,9 @@
     ],
     "name:pam_x_preferred":[
         "Monako"
+    ],
+    "name:pam_x_variant":[
+        "Monaco"
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a4b\u0a28\u0a3e\u0a15\u0a4b"
@@ -487,6 +596,9 @@
     "name:pms_x_preferred":[
         "Prinsip\u00e0 \u00ebd M\u00f2naco"
     ],
+    "name:pms_x_variant":[
+        "M\u00f2naco"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0646\u0627\u06a9\u0648"
     ],
@@ -500,7 +612,8 @@
         "M\u00f3naco"
     ],
     "name:por_x_variant":[
-        "M\u00f4naco"
+        "M\u00f4naco",
+        "Principado do M\u00f3naco"
     ],
     "name:que_x_preferred":[
         "Munaku"
@@ -514,8 +627,14 @@
     "name:rue_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
+    "name:run_x_preferred":[
+        "Monako"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
+    ],
+    "name:sag_x_preferred":[
+        "Monak\u00f6o"
     ],
     "name:sah_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
@@ -532,6 +651,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dcf\u0d9a\u0ddd"
     ],
+    "name:sin_x_variant":[
+        "\u0db8\u0ddc\u0db1\u0dcf\u0d9a\u0ddd\u0dc0"
+    ],
     "name:slk_x_preferred":[
         "Monako"
     ],
@@ -546,6 +668,9 @@
     ],
     "name:som_x_preferred":[
         "Monako"
+    ],
+    "name:som_x_variant":[
+        "Moonako"
     ],
     "name:spa_x_preferred":[
         "M\u00f3naco"
@@ -586,6 +711,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0ba9\u0bbe\u0b95\u0bcd\u0b95\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bca\u0ba9\u0bbe\u0b95\u0bcb"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u043e\u043d\u0430\u043a\u043e"
     ],
@@ -601,8 +729,20 @@
     "name:tgl_x_preferred":[
         "Monako"
     ],
+    "name:tgl_x_variant":[
+        "Monaco"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e21\u0e19\u0e32\u0e42\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e21\u0e19\u0e32\u0e42\u0e01"
+    ],
+    "name:tir_x_preferred":[
+        "\u121e\u1293\u12ae"
+    ],
+    "name:ton_x_preferred":[
+        "Manako"
     ],
     "name:tuk_x_preferred":[
         "Monako"
@@ -636,17 +776,26 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u0627\u06a9\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0646\u0627\u06a9\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Monako"
     ],
     "name:vec_x_preferred":[
         "Prinsipato de M\u00f2naco"
     ],
+    "name:vec_x_variant":[
+        "Prinzsipato de M\u00f2naco"
+    ],
     "name:vep_x_preferred":[
         "Monako"
     ],
     "name:vie_x_preferred":[
         "Monaco"
+    ],
+    "name:vie_x_variant":[
+        "M\u00f4-na-c\u00f4"
     ],
     "name:vls_x_preferred":[
         "Monaco"
@@ -675,6 +824,9 @@
     "name:yor_x_preferred":[
         "M\u00f3nak\u00f2"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Monako"
+    ],
     "name:zea_x_preferred":[
         "Monaco"
     ],
@@ -685,12 +837,16 @@
         "\u6469\u7eb3\u54e5"
     ],
     "name:zho_x_variant":[
-        "\u6469\u7d0d\u54e5"
+        "\u6469\u7d0d\u54e5",
+        "\u6469\u7eb3\u54e5"
     ],
     "name:zho_yue_x_preferred":[
         "\u6469\u7d0d\u54e5"
     ],
-    "ne:abbrev":"Mco.",
+    "name:zul_x_preferred":[
+        "i-Monaco"
+    ],
+    "ne:abbrev":"",
     "ne:abbrev_len":4,
     "ne:adm0_a3":"MCO",
     "ne:adm0_a3_is":"MCO",
@@ -698,62 +854,102 @@
     "ne:adm0_a3_us":"MCO",
     "ne:adm0_a3_wb":-99,
     "ne:adm0_dif":0,
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MCO+00?",
+    "ne:adm1_code":"MCO+00?",
     "ne:admin":"Monaco",
+    "ne:area_sqkm":"0.00000000000",
     "ne:brk_a3":"MCO",
     "ne:brk_diff":0,
     "ne:brk_group":null,
     "ne:brk_name":"Monaco",
+    "ne:check_me":"20",
+    "ne:code_hasc":"MC",
+    "ne:code_local":"",
     "ne:continent":"Europe",
+    "ne:datarank":"10",
+    "ne:diss_me":"10107",
     "ne:economy":"2. Developed region: nonG7",
-    "ne:featurecla":"Admin-0 country",
+    "ne:featurecla":"Admin-1 aggregation",
+    "ne:fips":"",
     "ne:fips_10_":"MN",
+    "ne:fips_alt":"",
     "ne:formal_en":"Principality of Monaco",
     "ne:formal_fr":null,
+    "ne:gadm_level":"0",
     "ne:gdp_md_est":976.3,
     "ne:gdp_year":-99,
+    "ne:geonunit":"Monaco",
     "ne:geou_dif":0,
     "ne:geounit":"Monaco",
+    "ne:gn_a1_code":"MC.00",
+    "ne:gn_id":"3319178",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Commune de Monaco",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
     "ne:gu_a3":"MCO",
+    "ne:hasc_maybe":"",
     "ne:homepart":1,
     "ne:income_grp":"2. High income: nonOECD",
+    "ne:iso_3166_2":"MC-",
     "ne:iso_a2":"MC",
     "ne:iso_a3":"MCO",
     "ne:iso_n3":"492",
-    "ne:labelrank":6,
+    "ne:labelrank":"20",
     "ne:lastcensus":2008,
+    "ne:latitude":"43.74610000000",
     "ne:level":2,
     "ne:long_len":6,
-    "ne:mapcolor13":12,
+    "ne:longitude":"7.39979000000",
+    "ne:mapcolor13":"12",
     "ne:mapcolor7":1,
     "ne:mapcolor8":1,
-    "ne:mapcolor9":2,
+    "ne:mapcolor9":"2",
     "ne:name":"Monaco",
-    "ne:name_alt":null,
-    "ne:name_len":6,
+    "ne:name_alt":"",
+    "ne:name_len":"6",
+    "ne:name_local":"",
     "ne:name_long":"Monaco",
     "ne:name_sort":"Monaco",
+    "ne:note":"",
     "ne:note_adm0":null,
     "ne:note_brk":null,
     "ne:pop_est":32965,
     "ne:pop_year":-99,
-    "ne:postal":"MC",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
     "ne:region_un":"Europe",
     "ne:region_wb":"Europe & Central Asia",
-    "ne:scalerank":0,
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
     "ne:sov_a3":"MCO",
     "ne:sovereignt":"Monaco",
     "ne:su_a3":"MCO",
     "ne:su_dif":0,
+    "ne:sub_code":"",
     "ne:subregion":"Western Europe",
     "ne:subunit":"Monaco",
     "ne:tiny":5,
-    "ne:type":"Sovereign country",
+    "ne:type":"",
+    "ne:type_en":"",
     "ne:un_a3":"492",
     "ne:wb_a2":"MC",
     "ne:wb_a3":"MCO",
-    "ne:wikipedia":-99,
-    "ne:woe_id":23424892,
+    "ne:wikipedia":"",
+    "ne:woe_id":"23424892",
     "ne:woe_id_eh":23424892,
+    "ne:woe_label":"",
+    "ne:woe_name":"Monaco",
     "ne:woe_note":"Exact WOE match as country",
     "qs:a0":"Monaco",
     "qs:a0_alt":"Monaco",
@@ -763,11 +959,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633285-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"377",
+    "statoids:ds":"MC",
+    "statoids:fifa":"MON",
+    "statoids:gaul":"166",
+    "statoids:gec":"MN",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MON",
+    "statoids:iso_a2":"MC",
+    "statoids:iso_a3":"MCO",
+    "statoids:iso_num":"492",
+    "statoids:itu":"MCO",
+    "statoids:marc":"mc",
+    "statoids:name":"Monaco",
+    "statoids:wmo":"",
     "wk:latitude":43.731245,
     "wk:longitude":7.419744,
     "wk:population":37831,
@@ -779,18 +992,27 @@
     "wof:concordances":{
         "dbp:id":"Monaco",
         "fb:id":"en.monaco",
+        "fifa:id":"MON",
+        "fips:code":"MN",
+        "gaul:id":"166",
         "gn:id":2993457,
         "gp:id":23424892,
         "hasc:id":"MC",
+        "ioc:id":"MON",
+        "itu:id":"MCO",
+        "m49:code":"492",
+        "marc:id":"mc",
         "mzb:id":"monaco",
+        "ne:adm0_a3":"MCO",
         "nyt:id":"60372291052145827841",
         "qs:id":580370,
+        "uncrt:id":"MC",
         "wd:id":"Q235",
         "wk:page":"Monaco"
     },
     "wof:country":"MC",
     "wof:country_alpha3":"MCO",
-    "wof:geomhash":"2bc3e64d266b9274a26ffcfad70b7f3f",
+    "wof:geomhash":"48749ad7fd7a149614dc60e61a257370",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -807,11 +1029,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493230204,
+    "wof:lastmodified":1509142803,
     "wof:name":"Monaco",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":37831,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MCO",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

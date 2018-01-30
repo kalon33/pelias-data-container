@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":52.637921,
+    "geom:area_square_m":645221111981.285278,
     "geom:bbox":"23.440849,3.4889865,35.948997,12.236389",
     "geom:latitude":7.332293,
     "geom:longitude":30.202165,
     "gn:population":8260490,
     "gp:id":0,
     "iso:country":"SS",
+    "itu:country_code":[
+        "211"
+    ],
     "lbl:latitude":7.170803,
     "lbl:longitude":30.109512,
     "mps:latitude":7.170803,
     "mps:longitude":30.109512,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ady_x_preferred":[
         "\u041a\u044a\u044b\u0431\u043b\u044d \u0421\u0443\u0434\u0430\u043d"
     ],
@@ -130,6 +137,9 @@
     "name:ell_x_preferred":[
         "\u039d\u03cc\u03c4\u03b9\u03bf \u03a3\u03bf\u03c5\u03b4\u03ac\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u039d\u03cc\u03c4\u03b9\u03bf\u03c5 \u03a3\u03bf\u03c5\u03b4\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "The Republic of South Sudan"
     ],
@@ -138,13 +148,17 @@
         "SSD"
     ],
     "name:eng_x_variant":[
-        "South Sudan"
+        "South Sudan",
+        "Republic of South Sudan"
     ],
     "name:epo_x_preferred":[
         "Sud-Sudano"
     ],
     "name:est_x_preferred":[
         "L\u00f5una-Sudaan"
+    ],
+    "name:est_x_variant":[
+        "L\u00f5una-Sudaani Vabariik"
     ],
     "name:eus_x_preferred":[
         "Hego Sudan"
@@ -166,6 +180,9 @@
     ],
     "name:fra_x_preferred":[
         "Soudan du Sud"
+    ],
+    "name:fra_x_variant":[
+        "Sud-Soudan"
     ],
     "name:frr_x_preferred":[
         "S\u00fc\u00fcdsudaan"
@@ -244,6 +261,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u5357\u30b9\u30fc\u30c0\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u5357\u30b9\u30fc\u30c0\u30f3\u5171\u548c\u56fd"
     ],
     "name:kaa_x_preferred":[
         "Qubla Sudan"
@@ -356,6 +376,9 @@
     "name:nor_x_preferred":[
         "S\u00f8r-Sudan"
     ],
+    "name:nor_x_variant":[
+        "Republikken S\u00f8r-Sudan"
+    ],
     "name:oci_x_preferred":[
         "Sodan del Sud"
     ],
@@ -382,6 +405,9 @@
     ],
     "name:por_x_preferred":[
         "Sud\u00e3o do Sul"
+    ],
+    "name:por_x_variant":[
+        "Rep\u00fablica do Sud\u00e3o do Sul"
     ],
     "name:pus_x_preferred":[
         "\u0633\u0648\u06d0\u0644\u064a \u0633\u0648\u0689\u0627\u0646"
@@ -425,6 +451,9 @@
     "name:spa_x_preferred":[
         "Sud\u00e1n del Sur"
     ],
+    "name:spa_x_variant":[
+        "Rep\u00fablica de Sud\u00e1n del Sur"
+    ],
     "name:sqi_x_preferred":[
         "Sudani i Jugut"
     ],
@@ -445,6 +474,9 @@
     ],
     "name:swe_x_preferred":[
         "Sydsudan"
+    ],
+    "name:swe_x_variant":[
+        "Republiken Sydsudan"
     ],
     "name:szl_x_preferred":[
         "Po\u0142ed\u0144owy Sudan"
@@ -522,7 +554,8 @@
         "\u5357\u8607\u4e39"
     ],
     "name:zho_x_variant":[
-        "\u5357\u8607\u4e39"
+        "\u5357\u8607\u4e39",
+        "\u5357\u82cf\u4e39"
     ],
     "name:zho_yue_x_preferred":[
         "\u5357\u8607\u4e39"
@@ -609,6 +642,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"211",
+    "statoids:ds":"",
+    "statoids:fifa":"",
+    "statoids:gaul":"",
+    "statoids:gec":"OD",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"",
+    "statoids:iso_a2":"SS",
+    "statoids:iso_a3":"SSD",
+    "statoids:iso_num":"728",
+    "statoids:itu":"SSD",
+    "statoids:marc":"sd",
+    "statoids:name":"South Sudan",
+    "statoids:wmo":"",
     "wk:latitude":7.0,
     "wk:longitude":30.0,
     "wk:wordcount":11775,
@@ -617,17 +665,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fips:code":"OD",
         "gn:id":7909807,
         "gp:id":56558055,
         "hasc:id":"SS",
+        "itu:id":"SSD",
+        "m49:code":"728",
+        "marc:id":"sd",
         "mzb:id":"south-sudan",
+        "ne:adm0_a3":"SDS",
         "qs:id":744530,
         "wd:id":"Q958",
         "wk:page":"South Sudan"
     },
     "wof:country":"SS",
     "wof:country_alpha3":"SSD",
-    "wof:geomhash":"838f1c239d4d57f7217c09eb43fc69dd",
+    "wof:geomhash":"d7ae1bc61180b71f1df6ce4f1c7fd5a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -644,11 +697,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1493230022,
+    "wof:lastmodified":1509143024,
     "wof:name":"South Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":8260490,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SSD",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85632477

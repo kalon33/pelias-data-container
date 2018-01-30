@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":81.280636,
+    "geom:area_square_m":780182557701.807983,
     "geom:bbox":"25.664527893,35.80768,44.818128,42.104165",
     "geom:latitude":39.059334,
     "geom:longitude":35.167961,
     "gn:id":"",
     "gn:population":77804122,
     "iso:country":"TR",
+    "itu:country_code":[
+        "90"
+    ],
     "lbl:latitude":39.339547,
     "lbl:longitude":34.51052,
     "mps:latitude":39.339547,
     "mps:longitude":34.51052,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:abk_x_preferred":[
         "\u04ac\u044b\u0440\u049b\u04d9\u0442\u04d9\u044b\u043b\u0430"
     ],
@@ -30,6 +37,9 @@
     ],
     "name:aka_x_preferred":[
         "Turki"
+    ],
+    "name:aka_x_variant":[
+        "T\u025b\u025bki"
     ],
     "name:als_x_preferred":[
         "T\u00fcrkei"
@@ -67,11 +77,17 @@
     "name:aze_x_preferred":[
         "T\u00fcrkiy\u0259"
     ],
+    "name:aze_x_variant":[
+        "T\u00fcrkiya"
+    ],
     "name:bak_x_preferred":[
         "\u0422\u04e9\u0440\u043a\u0438\u04d9"
     ],
     "name:bam_x_preferred":[
         "T\u00fcrkiye"
+    ],
+    "name:bam_x_variant":[
+        "Turiki"
     ],
     "name:bar_x_preferred":[
         "Tiakei"
@@ -96,6 +112,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f4f\u0f74\u0f62\u0f0b\u0f40\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f4f\u0f74\u0f62\u0f40\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Turska"
@@ -136,9 +155,6 @@
     "name:che_x_preferred":[
         "\u0422\u0443\u0440\u0446\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u571f\u8033\u5176"
-    ],
     "name:chr_x_preferred":[
         "\u13ac\u13c3"
     ],
@@ -178,8 +194,17 @@
     "name:dan_x_preferred":[
         "Tyrkiet"
     ],
+    "name:deu_x_colloquial":[
+        "Republik Tuerkei",
+        "Republik Turkei",
+        "Tuerkei",
+        "Turkei"
+    ],
     "name:deu_x_preferred":[
         "T\u00fcrkei"
+    ],
+    "name:deu_x_variant":[
+        "Republik T\u00fcrkei"
     ],
     "name:diq_x_preferred":[
         "T\u0131rkiya"
@@ -189,9 +214,6 @@
     ],
     "name:dsb_x_preferred":[
         "Turkojska"
-    ],
-    "name:dut_x_preferred":[
-        "Turkije"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1"
@@ -212,6 +234,9 @@
     "name:epo_x_preferred":[
         "Turkio"
     ],
+    "name:epo_x_variant":[
+        "Turkujo"
+    ],
     "name:est_x_preferred":[
         "T\u00fcrgi"
     ],
@@ -220,6 +245,9 @@
     ],
     "name:ewe_x_preferred":[
         "Turkey"
+    ],
+    "name:ewe_x_variant":[
+        "T\u025bki nutome"
     ],
     "name:ext_x_preferred":[
         "Turquia"
@@ -242,8 +270,8 @@
     "name:fra_x_preferred":[
         "Turquie"
     ],
-    "name:fre_x_preferred":[
-        "Turquie"
+    "name:fra_x_variant":[
+        "estroict de Sibyle"
     ],
     "name:frp_x_preferred":[
         "Turquie"
@@ -257,23 +285,14 @@
     "name:ful_x_preferred":[
         "T\u00fcrkiye"
     ],
+    "name:ful_x_variant":[
+        "Turkii"
+    ],
     "name:gag_x_preferred":[
         "T\u00fcrkiye"
     ],
     "name:gan_x_preferred":[
         "\u571f\u8033\u5176"
-    ],
-    "name:ger_x_colloquial":[
-        "Republik Tuerkei",
-        "Republik Turkei",
-        "Tuerkei",
-        "Turkei"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00fcrkei"
-    ],
-    "name:ger_x_variant":[
-        "Republik T\u00fcrkei"
     ],
     "name:gla_x_preferred":[
         "An Tuirc"
@@ -283,6 +302,9 @@
     ],
     "name:glg_x_preferred":[
         "Turqu\u00eda"
+    ],
+    "name:glg_x_variant":[
+        "Turqu\u00eda - T\u00fcrkiye"
     ],
     "name:glv_x_preferred":[
         "Yn Turkee"
@@ -313,6 +335,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05d5\u05e8\u05db\u05d9\u05d4"
     ],
     "name:hif_x_preferred":[
         "Turkey"
@@ -350,6 +375,9 @@
     "name:ind_x_preferred":[
         "Turki"
     ],
+    "name:ind_x_variant":[
+        "Turkey"
+    ],
     "name:ipk_x_preferred":[
         "Turkey"
     ],
@@ -383,8 +411,14 @@
     "name:kal_x_preferred":[
         "Tyrkia"
     ],
+    "name:kal_x_variant":[
+        "Tyrk Nunaat"
+    ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cb0\u0ccd\u0c95\u0cbf"
+    ],
+    "name:kas_x_preferred":[
+        "\u0924\u0941\u0930\u094d\u0915\u093f\u092f\u0947"
     ],
     "name:kat_x_preferred":[
         "\u10d7\u10e3\u10e0\u10e5\u10d4\u10d7\u10d8"
@@ -395,8 +429,14 @@
     "name:kbd_x_preferred":[
         "\u0422\u044b\u0440\u043a\u0443\u0435\u0439"
     ],
+    "name:khm_x_preferred":[
+        "\u1791\u17bd\u179a\u1782\u17b8"
+    ],
     "name:kik_x_preferred":[
         "Tak\u0129"
+    ],
+    "name:kik_x_variant":[
+        "Uturuki"
     ],
     "name:kin_x_preferred":[
         "Turukiya"
@@ -422,11 +462,17 @@
     "name:kur_x_preferred":[
         "Tirkiye"
     ],
+    "name:kur_x_variant":[
+        "\u062a\u0648\u0631\u06a9\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Turkiya"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e95\u0ea7\u0e81\u0e81\u0eb5"
+    ],
+    "name:lao_x_variant":[
+        "\u0e95\u0eb8\u0e99\u0e81\u0eb5"
     ],
     "name:lat_x_preferred":[
         "Turcia"
@@ -446,8 +492,14 @@
     "name:lim_x_preferred":[
         "Turkije"
     ],
+    "name:lim_x_variant":[
+        "T\u00f6rkie\u00eb"
+    ],
     "name:lin_x_preferred":[
         "Turk\u00ed"
+    ],
+    "name:lin_x_variant":[
+        "Tiliki"
     ],
     "name:lit_x_preferred":[
         "Turkija"
@@ -464,14 +516,26 @@
     "name:ltz_x_preferred":[
         "Tierkei"
     ],
+    "name:lub_x_preferred":[
+        "Tuluki"
+    ],
     "name:lug_x_preferred":[
         "Buturuki"
+    ],
+    "name:lug_x_variant":[
+        "Ttake"
     ],
     "name:mal_x_preferred":[
         "\u0d24\u0d41\u0d7c\u0d15\u0d4d\u0d15\u0d3f"
     ],
+    "name:mal_x_variant":[
+        "\u0d24\u0d41\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u0924\u0941\u0930\u094d\u0915\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0924\u0941\u0930\u094d\u0915\u0940"
     ],
     "name:mdf_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0430\u043c\u0430\u0441\u0442\u043e\u0440"
@@ -509,6 +573,9 @@
     "name:mya_x_preferred":[
         "\u1010\u1030\u101b\u1000\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1010\u1030\u101b\u1000\u102e"
+    ],
     "name:myv_x_preferred":[
         "\u0422\u0443\u0440\u0446\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -523,6 +590,9 @@
     ],
     "name:nav_x_preferred":[
         "T\u02bc\u00f3ok Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Thekhi"
     ],
     "name:ndo_x_preferred":[
         "Turkey"
@@ -545,6 +615,9 @@
     "name:nno_x_preferred":[
         "Tyrkia"
     ],
+    "name:nob_x_preferred":[
+        "Tyrkia"
+    ],
     "name:nor_x_preferred":[
         "Tyrkia"
     ],
@@ -559,6 +632,12 @@
     ],
     "name:oci_x_preferred":[
         "Turquia"
+    ],
+    "name:olo_x_preferred":[
+        "Turkanmua"
+    ],
+    "name:olo_x_variant":[
+        "Turtsii"
     ],
     "name:ori_x_preferred":[
         "\u0b24\u0b41\u0b30\u0b4d\u0b15\u0b40"
@@ -587,6 +666,9 @@
     "name:pdc_x_preferred":[
         "Turkie"
     ],
+    "name:pdc_x_variant":[
+        "Welschhinkel"
+    ],
     "name:pih_x_preferred":[
         "Turkii"
     ],
@@ -610,6 +692,9 @@
     ],
     "name:que_x_preferred":[
         "Turkiya"
+    ],
+    "name:que_x_variant":[
+        "Turkya"
     ],
     "name:rmy_x_preferred":[
         "Turkiya"
@@ -668,6 +753,9 @@
     "name:som_x_preferred":[
         "Turkiga"
     ],
+    "name:som_x_variant":[
+        "Turki"
+    ],
     "name:sot_x_preferred":[
         "T\u00fcrkiye"
     ],
@@ -676,6 +764,9 @@
     ],
     "name:sqi_x_preferred":[
         "Turqia"
+    ],
+    "name:sqi_x_variant":[
+        "Turqi"
     ],
     "name:srd_x_preferred":[
         "Turkia"
@@ -722,8 +813,20 @@
     "name:tgl_x_preferred":[
         "Turkey"
     ],
+    "name:tgl_x_variant":[
+        "Turkiya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e15\u0e38\u0e23\u0e01\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e38\u0e23\u0e01\u0e35"
+    ],
+    "name:tir_x_preferred":[
+        "\u1271\u122d\u12ad"
+    ],
+    "name:ton_x_preferred":[
+        "Toake"
     ],
     "name:tpi_x_preferred":[
         "Teki"
@@ -742,6 +845,9 @@
     ],
     "name:tur_x_preferred":[
         "T\u00fcrkiye"
+    ],
+    "name:tur_x_variant":[
+        "T\u00fcrkiye Cumhuriyeti"
     ],
     "name:twi_x_preferred":[
         "Turkey"
@@ -770,6 +876,9 @@
         "Tyrkia",
         "Tyrkiet",
         "T\u00fcrkiye"
+    ],
+    "name:unk_x_variant":[
+        "Turquie"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06a9\u06cc"
@@ -819,6 +928,9 @@
     "name:yor_x_preferred":[
         "T\u00fark\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de T\u1ecd\u1ecdki"
+    ],
     "name:zea_x_preferred":[
         "Turkije"
     ],
@@ -839,6 +951,9 @@
     ],
     "name:zul_x_preferred":[
         "ITheki"
+    ],
+    "name:zul_x_variant":[
+        "i-Turkey"
     ],
     "ne:abbrev":"Tur.",
     "ne:abbrev_len":4,
@@ -918,6 +1033,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"90",
+    "statoids:ds":"TR",
+    "statoids:fifa":"TUR",
+    "statoids:gaul":"249",
+    "statoids:gec":"TU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"TUR",
+    "statoids:iso_a2":"TR",
+    "statoids:iso_a3":"TUR",
+    "statoids:iso_num":"792",
+    "statoids:itu":"TUR",
+    "statoids:marc":"tu",
+    "statoids:name":"Turkey",
+    "statoids:wmo":"TU",
     "wk:latitude":39.0,
     "wk:longitude":36.0,
     "wk:population":74932641,
@@ -929,19 +1059,29 @@
     "wof:concordances":{
         "dbp:id":"Turkey",
         "fb:id":"en.turkey",
+        "fifa:id":"TUR",
+        "fips:code":"TU",
+        "gaul:id":"249",
         "gn:id":298795,
         "gp:id":23424969,
         "hasc:id":"TR",
+        "ioc:id":"TUR",
+        "itu:id":"TUR",
         "loc:id":"n80070818",
+        "m49:code":"792",
+        "marc:id":"tu",
         "mzb:id":"turkey",
+        "ne:adm0_a3":"TUR",
         "nyt:id":"55791562732592005121",
         "qs:id":204090,
+        "uncrt:id":"TR",
         "wd:id":"Q43",
-        "wk:page":"Turkey"
+        "wk:page":"Turkey",
+        "wmo:id":"TU"
     },
     "wof:country":"TR",
     "wof:country_alpha3":"TUR",
-    "wof:geomhash":"627acddc04f6aa6bab31fdf80b367718",
+    "wof:geomhash":"abb94cfe919390ed43210d5d785c588c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -958,11 +1098,14 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1493229943,
+    "wof:lastmodified":1509143038,
     "wof:name":"Turkey",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":74932641,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"TUR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

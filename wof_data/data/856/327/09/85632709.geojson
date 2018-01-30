@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083291,
+    "geom:area_square_m":1028897103.48934,
     "geom:bbox":"-174.546310425,-11.445416451,176.84538269,4.725972176",
     "geom:latitude":0.625966,
     "geom:longitude":-43.735435,
     "gn:id":"",
     "gn:population":92533,
     "iso:country":"KI",
+    "itu:country_code":[
+        "686"
+    ],
     "lbl:latitude":1.828988,
     "lbl:longitude":-157.373327,
     "mps:latitude":1.828988,
     "mps:longitude":-157.373327,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Kiribati"
     ],
     "name:afr_x_preferred":[
+        "Kiribati"
+    ],
+    "name:aka_x_preferred":[
         "Kiribati"
     ],
     "name:als_x_preferred":[
@@ -28,11 +38,17 @@
     "name:amh_x_preferred":[
         "\u12aa\u122a\u1263\u1235"
     ],
+    "name:amh_x_variant":[
+        "\u12aa\u122a\u1263\u1272"
+    ],
     "name:ang_x_preferred":[
         "Kiribas"
     ],
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u064a\u0628\u0627\u062a\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u064a\u0631\u064a\u0628\u0627\u0633"
     ],
     "name:arg_x_preferred":[
         "Kiribati"
@@ -49,6 +65,9 @@
     "name:bak_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
     ],
+    "name:bam_x_preferred":[
+        "Kiribati"
+    ],
     "name:bcl_x_preferred":[
         "Kiribati"
     ],
@@ -61,11 +80,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b0\u09bf\u09ac\u09be\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09bf\u09b0\u09bf\u09ac\u09be\u09a4\u09bf"
+    ],
     "name:bjn_x_preferred":[
         "Kiribati"
     ],
     "name:bod_x_preferred":[
         "\u0f40\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f56\u0f0b\u0f4f\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f40\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f56\u0f71\u0f0b\u0f4f\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Kiribati"
@@ -94,15 +119,11 @@
     "name:ces_x_preferred":[
         "Kiribati"
     ],
+    "name:ces_x_variant":[
+        "Karibati"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u5409\u91cc\u5df4\u65af"
-    ],
-    "name:chi_x_variant":[
-        "\u5409\u91cc\u5df4\u65af",
-        "\u57fa\u91cc\u5df4\u65af"
     ],
     "name:chu_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
@@ -121,6 +142,9 @@
     ],
     "name:cym_x_preferred":[
         "Ciribati"
+    ],
+    "name:cym_x_variant":[
+        "Kiribati"
     ],
     "name:dan_x_preferred":[
         "Kiribati"
@@ -161,6 +185,9 @@
     "name:eus_x_preferred":[
         "Kiribati"
     ],
+    "name:ewe_x_preferred":[
+        "Kiribati nutome"
+    ],
     "name:ext_x_preferred":[
         "Quiribati"
     ],
@@ -169,6 +196,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u06cc\u0628\u0627\u062a\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kiribati"
@@ -182,17 +212,29 @@
     "name:fry_x_preferred":[
         "Kiribaty"
     ],
+    "name:ful_x_preferred":[
+        "Kiribari"
+    ],
     "name:gag_x_preferred":[
         "Kiribati"
     ],
     "name:ger_x_variant":[
         "Republik Kiribati"
     ],
+    "name:gil_x_preferred":[
+        "Ribaberiki Kiribati"
+    ],
     "name:gla_x_preferred":[
         "Kiribati"
     ],
+    "name:gle_x_preferred":[
+        "Ciribeas"
+    ],
     "name:glg_x_preferred":[
         "Kiribati"
+    ],
+    "name:glg_x_variant":[
+        "Quiribati - Kiribati"
     ],
     "name:glv_x_preferred":[
         "Yn Chiribati"
@@ -200,17 +242,26 @@
     "name:gom_x_preferred":[
         "\u0915\u093f\u0930\u093f\u092c\u093e\u091f\u0940"
     ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0ab0\u0abf\u0aac\u0abe\u0a9f\u0ac0"
+    ],
     "name:hak_x_preferred":[
         "Kiribati"
     ],
     "name:hat_x_preferred":[
         "Kirib\u00e8s"
     ],
+    "name:hau_x_preferred":[
+        "Kiribati"
+    ],
     "name:hbs_x_preferred":[
         "Kiribati"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05d9\u05d1\u05d8\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d9\u05e8\u05d9\u05d1\u05d0\u05d8\u05d9"
     ],
     "name:hif_x_preferred":[
         "Kiribati"
@@ -266,14 +317,26 @@
     "name:kaa_x_preferred":[
         "Kiribati"
     ],
+    "name:kal_x_preferred":[
+        "Kiribati"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cbf\u0cb0\u0cbf\u0cac\u0cbe\u0c9f\u0cbf"
+    ],
+    "name:kan_x_variant":[
+        "\u0c95\u0cbf\u0cb0\u0cbf\u0cac\u0cbe\u0ca4\u0cbf"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10e0\u10d8\u10d1\u10d0\u10e2\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
+    ],
+    "name:khm_x_preferred":[
+        "\u1782\u17b7\u179a\u17b7\u1794\u17b6\u1791\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Kiribati"
     ],
     "name:kin_x_preferred":[
         "Kiribati"
@@ -290,6 +353,12 @@
     "name:kur_x_preferred":[
         "Kir\u00eebat\u00ee"
     ],
+    "name:kur_x_variant":[
+        "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u0633"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e84\u0eb5\u0ea5\u0eb4\u0e9a\u0eb2\u0e94"
+    ],
     "name:lat_x_preferred":[
         "Kiribati"
     ],
@@ -302,6 +371,9 @@
     "name:lim_x_preferred":[
         "Kiribati"
     ],
+    "name:lin_x_preferred":[
+        "Kiribati"
+    ],
     "name:lit_x_preferred":[
         "Kiribatis"
     ],
@@ -311,17 +383,32 @@
     "name:ltz_x_preferred":[
         "Kiribati"
     ],
+    "name:lub_x_preferred":[
+        "Kiribati"
+    ],
+    "name:lug_x_preferred":[
+        "Kiribati"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d30\u0d40\u0d2c\u0d3e\u0d38\u0d4d"
     ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d3f\u0d30\u0d3f\u0d2c\u0d3e\u0d24\u0d4d\u0d24\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093f\u0930\u093f\u092c\u093e\u091f\u0940"
+    ],
+    "name:mar_x_variant":[
+        "\u0915\u093f\u0930\u0940\u092c\u093e\u091f\u0940"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
     ],
     "name:mlg_x_preferred":[
         "Kiribasy"
+    ],
+    "name:mlg_x_variant":[
+        "Kiribati"
     ],
     "name:mlt_x_preferred":[
         "Kiribati"
@@ -344,8 +431,14 @@
     "name:nav_x_preferred":[
         "K\u00edl\u00edbas"
     ],
+    "name:nde_x_preferred":[
+        "Khiribati"
+    ],
     "name:nds_x_preferred":[
         "Kiribati"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093f\u0930\u093f\u092c\u093e\u091f\u0940"
     ],
     "name:new_x_preferred":[
         "\u0915\u093f\u0930\u093f\u092c\u093e\u0924\u0940"
@@ -354,6 +447,9 @@
         "Kiribati"
     ],
     "name:nno_x_preferred":[
+        "Kiribati"
+    ],
+    "name:nob_x_preferred":[
         "Kiribati"
     ],
     "name:nor_x_preferred":[
@@ -367,6 +463,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b15\u0b3f\u0b30\u0b3f\u0b2c\u0b3e\u0b24\u0b3f"
+    ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b3f\u0b30\u0b3f\u0b2c\u0b3e\u0b1f\u0b40"
     ],
     "name:oss_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
@@ -398,14 +497,26 @@
     "name:por_x_variant":[
         "Quiribati"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u06d0\u0631\u064a\u0628\u0627\u062a\u064a"
+    ],
     "name:que_x_preferred":[
+        "Kiribati"
+    ],
+    "name:roh_x_preferred":[
         "Kiribati"
     ],
     "name:ron_x_preferred":[
         "Kiribati"
     ],
+    "name:run_x_preferred":[
+        "Kiribati"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
+    ],
+    "name:sag_x_preferred":[
+        "Kiribati"
     ],
     "name:sah_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
@@ -446,6 +557,9 @@
     "name:sqi_x_preferred":[
         "Kiribati"
     ],
+    "name:sqi_x_variant":[
+        "Qiribati"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
     ],
@@ -467,11 +581,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0b9f\u0bcd\u0b9f\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0b9f\u0bbf"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3f\u0c30\u0c3f\u0c2c\u0c1f\u0c3f"
+    ],
+    "name:tel_x_variant":[
+        "\u0c15\u0c3f\u0c30\u0c3f\u0c2c\u0c3e\u0c1f\u0c3f"
     ],
     "name:tgk_x_preferred":[
         "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u041a\u0438\u0440\u0438\u0431\u0430\u0442\u04e3"
@@ -481,6 +601,16 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e04\u0e34\u0e23\u0e34\u0e1a\u0e32\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e34\u0e23\u0e34\u0e1a\u0e32\u0e2a",
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e04\u0e34\u0e23\u0e34\u0e1a\u0e32\u0e2a"
+    ],
+    "name:tir_x_preferred":[
+        "\u12aa\u122a\u1263\u1272"
+    ],
+    "name:ton_x_preferred":[
+        "Kilipasi"
     ],
     "name:tpi_x_preferred":[
         "Kiribas"
@@ -494,8 +624,17 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u0438\u0431\u0430\u0442\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0456\u0440\u0456\u0431\u0430\u0442\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Kiribasi"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0631\u06cc\u0628\u0627\u062a\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Kiribati"
@@ -505,6 +644,9 @@
     ],
     "name:vie_x_preferred":[
         "Kiribati"
+    ],
+    "name:vie_x_variant":[
+        "Ki-ri-ba-ti"
     ],
     "name:vol_x_preferred":[
         "Kiribatu\u00e4ns"
@@ -524,6 +666,9 @@
     "name:yor_x_preferred":[
         "K\u00ecr\u00ecb\u00e1t\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Kiribati"
+    ],
     "name:zea_x_preferred":[
         "Kiribati"
     ],
@@ -533,8 +678,15 @@
     "name:zho_x_preferred":[
         "\u57fa\u91cc\u5df4\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u5409\u91cc\u5df4\u65af",
+        "\u57fa\u91cc\u5df4\u65af"
+    ],
     "name:zho_yue_x_preferred":[
         "\u57fa\u91cc\u5df4\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "i-Kiribati"
     ],
     "ne:abbrev":"Kir.",
     "ne:abbrev_len":4,
@@ -613,6 +765,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"686",
+    "statoids:ds":"",
+    "statoids:fifa":"KIR",
+    "statoids:gaul":"135",
+    "statoids:gec":"KR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"KIR",
+    "statoids:iso_a2":"KI",
+    "statoids:iso_a3":"KIR",
+    "statoids:iso_num":"296",
+    "statoids:itu":"KIR",
+    "statoids:marc":"gb",
+    "statoids:name":"Kiribati",
+    "statoids:wmo":"KB",
     "wk:latitude":1.466667,
     "wk:longitude":173.033333,
     "wk:population":102351,
@@ -625,18 +792,27 @@
     "wof:concordances":{
         "dbp:id":"Kiribati",
         "fb:id":"en.kiribati",
+        "fifa:id":"KIR",
+        "fips:code":"KR",
+        "gaul:id":"135",
         "gn:id":4030945,
         "gp:id":23424867,
         "hasc:id":"KI",
+        "ioc:id":"KIR",
+        "itu:id":"KIR",
+        "m49:code":"296",
+        "marc:id":"gb",
         "mzb:id":"kiribati",
+        "ne:adm0_a3":"KIR",
         "nyt:id":"24115675514233298751",
         "qs:id":1289462,
         "wd:id":"Q710",
-        "wk:page":"Kiribati"
+        "wk:page":"Kiribati",
+        "wmo:id":"KB"
     },
     "wof:country":"KI",
     "wof:country_alpha3":"KIR",
-    "wof:geomhash":"18080f9a610d131329fea7ffd4818c35",
+    "wof:geomhash":"4b54449e0f7e1fa2d0c68af2e62d5085",
     "wof:hierarchy":[
         {
             "continent_id":"102191583",
@@ -656,11 +832,14 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1493230068,
+    "wof:lastmodified":1509142790,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":102351,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"KIR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

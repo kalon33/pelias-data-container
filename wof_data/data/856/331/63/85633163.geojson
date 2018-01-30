@@ -5,24 +5,110 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.580224,
+    "geom:area_square_m":69467108400.357529,
     "geom:bbox":"39.985976,41.044111,46.694803,43.575843",
     "geom:latitude":42.168801,
     "geom:longitude":43.507526,
     "gn:population":4630000,
     "iso:country":"GE",
+    "itu:country_code":[
+        "995"
+    ],
     "lbl:latitude":41.870087,
     "lbl:longitude":43.735725,
     "mps:latitude":41.870087,
     "mps:longitude":43.735725,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u049a\u044b\u0440\u04ad\u0442\u04d9\u044b\u043b\u0430"
+    ],
+    "name:afr_x_preferred":[
+        "Georgi\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Gy\u0254gyea"
+    ],
+    "name:als_x_preferred":[
+        "Georgien"
+    ],
+    "name:amh_x_preferred":[
+        "\u1306\u122d\u1302\u12eb"
+    ],
+    "name:amh_x_variant":[
+        "\u1302\u12ee\u122d\u1302\u12eb"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u062c\u064a\u0627 (\u062a\u0648\u0636\u064a\u062d)"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0648\u0631\u062c\u064a\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0713\u0718\u072a\u0713\u071d\u0710"
     ],
+    "name:arg_x_preferred":[
+        "Cheorchia"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0648\u0631\u062c\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Xeorxa"
+    ],
+    "name:ast_x_variant":[
+        "Xorxa"
+    ],
+    "name:ava_x_preferred":[
+        "\u0413\u0443\u0440\u0436\u0438"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0631\u062c\u06cc\u0633\u062a\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "G\u00fcrc\u00fcstan"
+    ],
+    "name:bak_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
+    "name:bam_x_preferred":[
+        "Zey\u0254rzi"
+    ],
+    "name:bar_x_preferred":[
+        "Georgien"
+    ],
+    "name:bcl_x_preferred":[
+        "Georgya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be (\u09a6\u09cd\u09ac\u09cd\u09af\u09b0\u09cd\u09a5\u09a4\u09be \u09a8\u09bf\u09b0\u09b8\u09a8)"
+    ],
+    "name:ben_x_variant":[
+        "\u099c\u09b0\u09cd\u099c\u09bf\u09df\u09be",
+        "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Georgian Republic"
+    ],
+    "name:bjn_x_preferred":[
+        "Jorjiya"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f47\u0f7c\u0f62\u0f0b\u0f47\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f60\u0f47\u0f7c\u0f62\u0f0b\u0f47\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Gruzija"
     ],
     "name:bpy_x_preferred":[
         "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be (\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0)"
@@ -30,15 +116,50 @@
     "name:bre_x_preferred":[
         "Georgia (dishe\u00f1velout)"
     ],
+    "name:bre_x_variant":[
+        "Jorjia"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0413\u04af\u0440\u0436"
+    ],
     "name:cat_x_preferred":[
         "Ge\u00f2rgia (desambiguaci\u00f3)"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u6cbb\u4e9e"
+    "name:cat_x_variant":[
+        "Ge\u00f2rgia"
     ],
-    "name:chi_x_variant":[
-        "\u55ac\u6cbb\u4e9e",
-        "\u683c\u9c81\u5409\u4e9a"
+    "name:cdo_x_preferred":[
+        "G\u00e1h-l\u016b-g\u00e9k-\u0101"
+    ],
+    "name:ces_x_preferred":[
+        "Gruzie"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0443\u044c\u0440\u0436\u0438\u0439\u0447\u043e\u044c"
+    ],
+    "name:chu_x_preferred":[
+        "\u0413\u0454\u0461\u0440\u0433\u0457\ua657"
+    ],
+    "name:chv_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0648\u0631\u062c\u0633\u062a\u0627\u0646"
+    ],
+    "name:cor_x_preferred":[
+        "Pow Grouzi"
+    ],
+    "name:crh_x_preferred":[
+        "G\u00fcrcistan"
+    ],
+    "name:csb_x_preferred":[
+        "Gr\u00ebz\u00f3\u0144sk\u00f4"
+    ],
+    "name:cym_x_preferred":[
+        "Georgia"
     ],
     "name:cze_x_preferred":[
         "Gruzie"
@@ -50,14 +171,29 @@
     "name:deu_x_preferred":[
         "Georgia (Begriffskl\u00e4rung)"
     ],
-    "name:dut_x_colloquial":[
-        "Georgie"
+    "name:deu_x_variant":[
+        "Georgien"
     ],
-    "name:dut_x_preferred":[
-        "Georgi\u00eb"
+    "name:diq_x_preferred":[
+        "Gurc\u0131stan"
+    ],
+    "name:div_x_preferred":[
+        "\u0796\u07af\u0796\u07a8\u0794\u07a7"
+    ],
+    "name:dsb_x_preferred":[
+        "Georgiska"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f47\u0f7d\u0f0b\u0f47\u0f71"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1 (\u03b1\u03c0\u03bf\u03c3\u03b1\u03c6\u03ae\u03bd\u03b9\u03c3\u03b7)"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Georgian Soviet Socialist Republic"
     ],
     "name:eng_x_preferred":[
         "Georgia"
@@ -71,8 +207,27 @@
         "Georgian Soviet Socialist Republic",
         "Republic of Georgia"
     ],
+    "name:epo_x_preferred":[
+        "Kartvelujo"
+    ],
+    "name:epo_x_variant":[
+        "Gruzio",
+        "Kartvelio"
+    ],
+    "name:est_x_preferred":[
+        "Gruusia"
+    ],
     "name:eus_x_preferred":[
         "Georgia (argipena)"
+    ],
+    "name:eus_x_variant":[
+        "Georgia"
+    ],
+    "name:ewe_x_preferred":[
+        "Georgia nutome"
+    ],
+    "name:ext_x_preferred":[
+        "Ge\u00f3lgia"
     ],
     "name:fao_x_preferred":[
         "Georgia"
@@ -80,45 +235,135 @@
     "name:fas_x_preferred":[
         "\u062c\u0648\u0631\u062c\u06cc\u0627 (\u0627\u0628\u0647\u0627\u0645\u200c\u0632\u062f\u0627\u06cc\u06cc)"
     ],
+    "name:fas_x_variant":[
+        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Georgia (t\u00e4smennyssivu)"
+    ],
+    "name:fin_x_variant":[
+        "Georgia"
+    ],
+    "name:fra_x_colloquial":[
+        "Georgie"
     ],
     "name:fra_x_preferred":[
         "Georgia"
     ],
-    "name:fre_x_colloquial":[
-        "Georgie"
-    ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "G\u00e9orgie"
     ],
-    "name:ger_x_preferred":[
+    "name:frp_x_preferred":[
+        "J\u00f4rg\u00b7ie"
+    ],
+    "name:frr_x_preferred":[
         "Georgien"
+    ],
+    "name:fry_x_preferred":[
+        "Georgje"
+    ],
+    "name:ful_x_preferred":[
+        "Jeorgii"
     ],
     "name:gla_x_preferred":[
         "Georgia"
     ],
+    "name:gla_x_variant":[
+        "A Chairtbheil"
+    ],
+    "name:gle_x_preferred":[
+        "An tSeoirsia"
+    ],
     "name:glg_x_preferred":[
         "Xeorxia (hom\u00f3nimos)"
     ],
+    "name:glg_x_variant":[
+        "Xeorxia - \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+        "Xeorxia"
+    ],
+    "name:glv_x_preferred":[
+        "Yn \u00c7horshey"
+    ],
+    "name:gom_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c\u0ac0\u0aaf\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Kak-l\u00fb-kit-\u00e2"
+    ],
+    "name:hat_x_preferred":[
+        "Jeoji"
+    ],
+    "name:hau_x_preferred":[
+        "Jiwarjiya"
+    ],
+    "name:haw_x_preferred":[
+        "Keokia"
+    ],
+    "name:hbs_x_preferred":[
+        "Gruzija"
+    ],
     "name:heb_x_preferred":[
         "\u05d2'\u05d5\u05e8\u05d2'\u05d9\u05d4 (\u05e4\u05d9\u05e8\u05d5\u05e9\u05d5\u05e0\u05d9\u05dd)"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05e8\u05d5\u05d6\u05d9\u05d4",
+        "\u05d2\u05d0\u05d5\u05e8\u05d2\u05d9\u05d4",
+        "\u05d2'\u05d5\u05e8\u05d2'\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u094b\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Gruzija"
+    ],
+    "name:hsb_x_preferred":[
+        "Georgiska"
     ],
     "name:hun_x_preferred":[
         "Gr\u00fazia",
         "Georgia (egy\u00e9rtelm\u0171s\u00edt\u0151 lap)"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0580\u0561\u057d\u057f\u0561\u0576"
+    ],
     "name:ido_x_preferred":[
+        "Georgia"
+    ],
+    "name:ido_x_variant":[
+        "Gruzia"
+    ],
+    "name:ilo_x_preferred":[
         "Georgia"
     ],
     "name:ina_x_preferred":[
         "Georgia (disambiguation)"
     ],
+    "name:ina_x_variant":[
+        "Georgia"
+    ],
+    "name:ind_x_preferred":[
+        "Georgia"
+    ],
+    "name:isl_x_preferred":[
+        "Georg\u00eda"
+    ],
     "name:ita_x_preferred":[
         "Georgia (disambigua)"
     ],
+    "name:ita_x_variant":[
+        "Georgia"
+    ],
     "name:jam_x_preferred":[
         "Jaajia"
+    ],
+    "name:jav_x_preferred":[
+        "G\u00e9orgia"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30eb\u30b8\u30a2",
@@ -127,6 +372,48 @@
     "name:jpn_x_variant":[
         "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
     ],
+    "name:kab_x_preferred":[
+        "Jurjya"
+    ],
+    "name:kal_x_preferred":[
+        "Georgia"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kan_x_variant":[
+        "\u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0cbf\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "Sakartvelo"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u04af\u0440\u0436\u0456\u0441\u0442\u0430\u043d"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0425\u044a\u044b\u0440\u0446\u0435\u0439"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u179f\u1780\u17a0\u17d2\u179f\u17c9\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Jojia"
+    ],
+    "name:kin_x_preferred":[
+        "Geworugiya"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
+    "name:kom_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
     "name:kor_x_preferred":[
         "\uadf8\ub8e8\uc9c0\uc57c",
         "\uc870\uc9c0\uc544"
@@ -134,44 +421,223 @@
     "name:kor_x_variant":[
         "\uadf8\ub8e8\uc9c0\uc544"
     ],
+    "name:krc_x_preferred":[
+        "\u0413\u044e\u0440\u0434\u0436\u044e"
+    ],
+    "name:kur_x_preferred":[
+        "Gurcistan"
+    ],
+    "name:kur_x_variant":[
+        "\u06af\u0648\u0631\u062c\u0633\u062a\u0627\u0646"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e88\u0ecd\u0ec0\u0e88\u0e8d"
+    ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec0\u0e8a\u0ead\u0eb1\u0ead\u0e81\u0e8a\u0eb5"
+    ],
     "name:lat_x_preferred":[
         "Georgia (discretiva)"
+    ],
+    "name:lat_x_variant":[
+        "Georgia"
     ],
     "name:lav_x_preferred":[
         "D\u017eord\u017eija (noz\u012bmju atdal\u012b\u0161ana)"
     ],
+    "name:lav_x_variant":[
+        "Gruzija"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0413\u0443\u0440\u0436\u0438\u0441\u0442\u0442\u0430\u043d"
+    ],
+    "name:lez_x_preferred":[
+        "\u0413\u0443\u0440\u0436\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:lij_x_preferred":[
+        "Zorzia"
+    ],
+    "name:lim_x_preferred":[
+        "Georgi\u00eb"
+    ],
+    "name:lin_x_preferred":[
+        "Zorzi"
+    ],
+    "name:lin_x_variant":[
+        "G\u00e9orgie"
+    ],
+    "name:lit_x_preferred":[
+        "Gruzija"
+    ],
+    "name:lrc_x_preferred":[
+        "\u06af\u0648\u0631\u062c\u0633\u062a\u0627\u0646"
+    ],
+    "name:ltg_x_preferred":[
+        "Gruzeja"
+    ],
+    "name:ltz_x_preferred":[
+        "Georgien"
+    ],
+    "name:lub_x_preferred":[
+        "Joriji"
+    ],
+    "name:lug_x_preferred":[
+        "Gyogya"
+    ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d4b\u0d7c\u0d1c\u0d4d\u0d1c\u0d3f\u0d2f (\u0d35\u0d3f\u0d35\u0d15\u0d4d\u0d37\u0d15\u0d7e)"
+    ],
+    "name:mal_x_variant":[
+        "\u0d1c\u0d4b\u0d7c\u0d1c\u0d4d\u0d1c\u0d3f\u0d2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u0435"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040f\u043e\u0440\u045f\u0438\u0458\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Zeorzia"
+    ],
+    "name:mlg_x_variant":[
+        "Jeorjia"
+    ],
+    "name:mlt_x_preferred":[
+        "\u0120or\u0121ja"
+    ],
+    "name:mlt_x_variant":[
+        "\u0120eor\u0121ja"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u04af\u0440\u0436"
+    ],
+    "name:mri_x_preferred":[
+        "H\u014dria"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438"
     ],
     "name:msa_x_preferred":[
         "Georgia"
     ],
+    "name:msa_x_variant":[
+        "Republik Georgia"
+    ],
     "name:mya_x_preferred":[
         "\u1002\u103b\u1031\u102c\u103a\u1002\u103b\u102e\u101a\u102c\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
+    ],
+    "name:mya_x_variant":[
+        "\u1002\u103b\u1031\u102c\u103a\u1002\u103b\u102e\u101a\u102c",
+        "\u1002\u103b\u1031\u102c\u103a\u1002\u103b\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:myv_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06af\u0631\u062c\u0633\u062a\u0648\u0646"
+    ],
+    "name:nan_x_preferred":[
+        "Sakartvelo"
     ],
     "name:nau_x_preferred":[
         "Georgia"
     ],
+    "name:nau_x_variant":[
+        "Djiordjiya"
+    ],
     "name:nav_x_preferred":[
         "J\u00f3ojah (A\u0142ts\u02bc\u00e1\u02bc\u00e1ztiin)"
+    ],
+    "name:nav_x_variant":[
+        "J\u00f3ojah"
+    ],
+    "name:nde_x_preferred":[
+        "Georgia"
     ],
     "name:nds_nld_x_preferred":[
         "Georgia (duurverwiesziede)"
     ],
+    "name:nds_x_preferred":[
+        "Georgien"
+    ],
     "name:nep_x_preferred":[
         "\u091c\u0930\u094d\u091c\u093f\u092f\u093e (\u0938\u094d\u092a\u0937\u094d\u091f\u0924\u093e)"
+    ],
+    "name:nep_x_variant":[
+        "\u091c\u094b\u0930\u094d\u091c\u093f\u092f\u093e",
+        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:nld_x_colloquial":[
+        "Georgie"
     ],
     "name:nld_x_preferred":[
         "Georgia"
     ],
+    "name:nld_x_variant":[
+        "Georgi\u00eb"
+    ],
     "name:nno_x_preferred":[
         "Georgia (fleirtyding)"
+    ],
+    "name:nno_x_variant":[
+        "Georgia"
+    ],
+    "name:nob_x_preferred":[
+        "Georgia"
     ],
     "name:nor_x_preferred":[
         "Georgia (andre betydninger)"
     ],
+    "name:nor_x_variant":[
+        "Georgia"
+    ],
     "name:oci_x_preferred":[
         "Georgia"
+    ],
+    "name:olo_x_preferred":[
+        "Gruuzii"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b30\u0b4d\u0b1c\u0b3f\u0b06"
+    ],
+    "name:orm_x_preferred":[
+        "Jioorjiyaa"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0443\u044b\u0440\u0434\u0437\u044b\u0441\u0442\u043e\u043d"
+    ],
+    "name:pam_x_preferred":[
+        "Georgya"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a3e\u0a30\u0a1c\u0a40\u0a06"
+    ],
+    "name:pcd_x_preferred":[
+        "G\u00e9orgie"
+    ],
+    "name:pih_x_preferred":[
+        "Jorja"
+    ],
+    "name:pms_x_preferred":[
+        "Ge\u00f2rgia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0627\u0631\u062c\u06cc\u0627"
+    ],
+    "name:pnt_x_preferred":[
+        "\u0393\u03c1\u03bf\u03c5\u03b6\u03af\u03b1"
     ],
     "name:pol_x_preferred":[
         "Gruzja",
@@ -181,36 +647,149 @@
         "Ge\u00f3rgia",
         "Ge\u00f3rgia (desambigua\u00e7\u00e3o)"
     ],
+    "name:pus_x_preferred":[
+        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    ],
+    "name:que_x_preferred":[
+        "Kartulsuyu"
+    ],
+    "name:roh_x_preferred":[
+        "Georgia"
+    ],
     "name:ron_x_preferred":[
         "Georgia (dezambiguizare)"
+    ],
+    "name:ron_x_variant":[
+        "Georgia",
+        "\u04c1\u0435\u043e\u0440\u04c2\u0438\u044f"
+    ],
+    "name:rue_x_preferred":[
+        "\u0490\u0440\u0443\u0437\u0456\u044f"
+    ],
+    "name:run_x_preferred":[
+        "Jeworujiya"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0438\u044f (\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f)"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Zorz\u00efi"
+    ],
+    "name:sah_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
     "name:san_x_preferred":[
         "\u091c\u093e\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:scn_x_preferred":[
+        "Giorgia"
     ],
     "name:sco_x_preferred":[
         "Georgie"
     ],
+    "name:sgs_x_preferred":[
+        "Groz\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dd2\u0dba\u0dcf"
+    ],
+    "name:sin_x_variant":[
+        "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Georgia"
     ],
+    "name:slk_x_variant":[
+        "Gruz\u00ednsko"
+    ],
+    "name:slv_x_preferred":[
+        "Gruzija"
+    ],
+    "name:sme_x_preferred":[
+        "Georgia"
+    ],
+    "name:sna_x_preferred":[
+        "Georgia"
+    ],
+    "name:som_x_preferred":[
+        "Joorjiya"
+    ],
     "name:spa_x_preferred":[
         "Georgia (desambiguaci\u00f3n)"
     ],
+    "name:spa_x_variant":[
+        "Georgia"
+    ],
+    "name:sqi_x_preferred":[
+        "Gjeorgji"
+    ],
+    "name:sqi_x_variant":[
+        "Gjeorgjia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "IJojiya"
+    ],
+    "name:stq_x_preferred":[
+        "Georgien"
+    ],
+    "name:sun_x_preferred":[
+        "G\u00e9orgia"
+    ],
     "name:swa_x_preferred":[
         "Georgia"
+    ],
+    "name:swa_x_variant":[
+        "Jojia"
     ],
     "name:swe_x_preferred":[
         "Georgien",
         "Georgia (olika betydelser)"
     ],
+    "name:szl_x_preferred":[
+        "Gruzyjo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0bb0\u0bcd\u0b9a\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u04e9\u0440\u0497\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tet_x_preferred":[
+        "Je\u00f3rjia"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0413\u0443\u0440\u04b7\u0438\u0441\u0442\u043e\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Heorhiya"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22 (\u0e41\u0e01\u0e49\u0e04\u0e27\u0e32\u0e21\u0e01\u0e33\u0e01\u0e27\u0e21)"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22",
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u1306\u122d\u1302\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "S\u014dsia"
+    ],
+    "name:tuk_x_preferred":[
+        "Gruzi\u00fda"
     ],
     "name:tum_x_preferred":[
         "Georgia"
@@ -218,8 +797,20 @@
     "name:tur_x_preferred":[
         "Georgia (anlam ayr\u0131m\u0131)"
     ],
+    "name:tur_x_variant":[
+        "G\u00fcrcistan"
+    ],
+    "name:udm_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
+    "name:uig_x_preferred":[
+        "\u06af\u0631\u06c7\u0632\u0649\u064a\u06d5"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0456\u044f (\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f)"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0443\u0437\u0456\u044f"
     ],
     "name:und_x_preferred":[
         "Gruzija"
@@ -229,20 +820,84 @@
         "Sak'art'velo",
         "Sakartvelo"
     ],
+    "name:unk_x_variant":[
+        "Sak\u2019art\u2019velos Respublika"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u062c\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0648\u0631\u062c\u06cc\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Gurjiston"
+    ],
+    "name:vec_x_preferred":[
+        "Zorzania"
+    ],
+    "name:vep_x_preferred":[
+        "Gruzii"
+    ],
     "name:vie_x_preferred":[
         "Georgia (\u0111\u1ecbnh h\u01b0\u1edbng)"
+    ],
+    "name:vie_x_variant":[
+        "Gru-di-a",
+        "Gruzia",
+        "Gi\u00ea-o\u00f3c-gi-a (Georgia)"
+    ],
+    "name:vls_x_preferred":[
+        "Georgi\u00eb"
     ],
     "name:vol_x_preferred":[
         "Georgia (Telpl\u00e4nov)"
     ],
+    "name:vol_x_variant":[
+        "Georg\u00e4n",
+        "Grusiy\u00e4n"
+    ],
+    "name:war_x_preferred":[
+        "Georgia"
+    ],
+    "name:wol_x_preferred":[
+        "Jeoorji"
+    ],
+    "name:wuu_x_preferred":[
+        "\u683c\u9c81\u5409\u4e9a"
+    ],
+    "name:xal_x_preferred":[
+        "\u0413\u04af\u0440\u0497\u043c\u04af\u0434\u0438\u043d \u041e\u0440\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10e5\u10dd\u10e0\u10d7\u10e3\u10dd"
+    ],
     "name:yid_x_preferred":[
         "\u05d6\u05e9\u05d0\u05e8\u05d6\u05e9\u05d9\u05e2"
+    ],
+    "name:yid_x_variant":[
+        "\u05d2\u05e8\u05d5\u05d6\u05d9\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "Or\u00edl\u1eb9\u0301\u00e8de G\u1ecdgia"
+    ],
+    "name:yue_x_preferred":[
+        "\u683c\u9b6f\u5409\u4e9e"
+    ],
+    "name:zea_x_preferred":[
+        "Georhi\u00eb"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u6cbb\u4e9e (\u6d88\u6b67\u7fa9)"
     ],
+    "name:zho_x_variant":[
+        "\u55ac\u6cbb\u4e9e",
+        "\u683c\u9c81\u5409\u4e9a"
+    ],
     "name:zho_yue_x_preferred":[
         "\u4f50\u6cbb\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "i-Georgia"
     ],
     "ne:abbrev":"Geo.",
     "ne:abbrev_len":4,
@@ -317,29 +972,54 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633163-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
         "quattroshapes",
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"995",
+    "statoids:ds":"GE",
+    "statoids:fifa":"GEO",
+    "statoids:gaul":"92",
+    "statoids:gec":"GG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GEO",
+    "statoids:iso_a2":"GE",
+    "statoids:iso_a3":"GEO",
+    "statoids:iso_num":"268",
+    "statoids:itu":"GEO",
+    "statoids:marc":"gs",
+    "statoids:name":"Georgia",
+    "statoids:wmo":"GG",
     "wof:belongsto":[
         102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fifa:id":"GEO",
+        "fips:code":"GG",
+        "gaul:id":"92",
         "gn:id":614540,
         "gp:id":23424823,
         "hasc:id":"GE",
+        "ioc:id":"GEO",
+        "itu:id":"GEO",
         "loc:id":"n81055241",
+        "m49:code":"268",
+        "marc:id":"gs",
         "mzb:id":"georgia",
         "qs:id":550343,
+        "uncrt:id":"GE",
         "wd:id":"Q230",
-        "wk:page":"Georgia (country)"
+        "wk:page":"Georgia (country)",
+        "wmo:id":"GG"
     },
     "wof:country":"GE",
     "wof:country_alpha3":"GEO",
-    "wof:geomhash":"10b30242f6fa5943fd804810e8e9df29",
+    "wof:geomhash":"77690249a1dd8aaaca0f725524fd8e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -358,11 +1038,14 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1493230198,
+    "wof:lastmodified":1509142730,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":4630000,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GEO",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

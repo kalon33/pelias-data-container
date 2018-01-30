@@ -5,16 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.172171,
+    "geom:area_square_m":300698668544.72406,
     "geom:bbox":"6.602728,35.489244,18.517426,47.085215",
     "geom:latitude":42.786434,
     "geom:longitude":12.071907,
     "gn:population":60340328,
     "iso:country":"IT",
+    "itu:country_code":[
+        "39"
+    ],
     "lbl:latitude":44.732552,
     "lbl:longitude":11.077303,
     "mps:latitude":44.732552,
     "mps:longitude":11.077303,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
+    "name:aar_x_preferred":[
+        "Italy"
+    ],
     "name:abk_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u0430"
     ],
@@ -30,11 +40,17 @@
     "name:aka_x_preferred":[
         "Italy"
     ],
+    "name:aka_x_variant":[
+        "Itali"
+    ],
     "name:als_x_preferred":[
         "Italien"
     ],
     "name:amh_x_preferred":[
         "\u1323\u120d\u12eb\u1295"
+    ],
+    "name:amh_x_variant":[
+        "\u1323\u120a\u12eb\u1295"
     ],
     "name:ang_x_preferred":[
         "Italia"
@@ -42,8 +58,14 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0637\u0627\u0644\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u064a\u0637\u0627\u0644\u064a\u0627"
+    ],
     "name:arc_x_preferred":[
         "\u0710\u071d\u071b\u0720\u071d\u0710"
+    ],
+    "name:arc_x_variant":[
+        "\u071d\u071c\u0720\u071d\u0710"
     ],
     "name:arg_x_preferred":[
         "Italia"
@@ -53,6 +75,9 @@
     ],
     "name:asm_x_preferred":[
         "\u0987\u099f\u09be\u09b2\u09c0"
+    ],
+    "name:asm_x_variant":[
+        "\u0987\u099f\u09be\u09b2\u09bf"
     ],
     "name:ast_x_preferred":[
         "Italia"
@@ -69,6 +94,9 @@
     "name:bak_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Itali"
+    ],
     "name:bar_x_preferred":[
         "Italien"
     ],
@@ -84,11 +112,18 @@
     "name:ben_x_preferred":[
         "\u0987\u09a4\u09be\u09b2\u09bf"
     ],
+    "name:ben_x_variant":[
+        "\u0987\u09a4\u09be\u09b2\u09c0"
+    ],
     "name:bis_x_preferred":[
         "Itali"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f72\u0f0b\u0f4f\u0f0b\u0f63\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f51\u0f42\u0fb1\u0f72\u0f60\u0f72\u0f0b\u0f51\u0f60\u0f0b\u0f62\u0fb3\u0f72\u0f66",
+        "\u0f68\u0f72\u0f0b\u0f40\u0fb2\u0f62\u0f0b\u0f63\u0f72\u0f0b"
     ],
     "name:bos_x_preferred":[
         "Italija"
@@ -129,18 +164,14 @@
     "name:che_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7fa9\u5927\u5229"
-    ],
-    "name:chi_x_variant":[
-        "\u610f\u5927\u5229",
-        "\u7fa9\u5927\u5229"
-    ],
     "name:chr_x_preferred":[
         "\u13a2\u13d4\u13b5"
     ],
     "name:chu_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0457\ua657"
+    ],
+    "name:chu_x_variant":[
+        "\u0418\u0442\u0430\u043b\u0457\uf011"
     ],
     "name:chv_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438"
@@ -178,6 +209,9 @@
     "name:deu_x_preferred":[
         "Italien"
     ],
+    "name:deu_x_variant":[
+        "Italienische Republik"
+    ],
     "name:diq_x_preferred":[
         "\u0130talya"
     ],
@@ -187,11 +221,11 @@
     "name:dsb_x_preferred":[
         "Italska"
     ],
-    "name:dut_x_preferred":[
-        "Itali\u00eb"
-    ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f80\u0f4a\u0f0b\u0f63\u0f72\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f68\u0f80\u0f4a\u0f0b\u0f63\u0f72"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
@@ -212,6 +246,9 @@
     "name:epo_x_preferred":[
         "Italio"
     ],
+    "name:epo_x_variant":[
+        "Italujo"
+    ],
     "name:est_x_preferred":[
         "Itaalia"
     ],
@@ -220,6 +257,9 @@
     ],
     "name:ewe_x_preferred":[
         "Italy"
+    ],
+    "name:ewe_x_variant":[
+        "Italia nutome"
     ],
     "name:ext_x_preferred":[
         "Italia"
@@ -242,11 +282,11 @@
     "name:fra_x_preferred":[
         "Italie"
     ],
-    "name:fre_x_preferred":[
-        "Italie"
-    ],
     "name:frp_x_preferred":[
         "\u00c9talia"
+    ],
+    "name:frp_x_variant":[
+        "\u00c9talie"
     ],
     "name:frr_x_preferred":[
         "Itaalien"
@@ -257,6 +297,9 @@
     "name:ful_x_preferred":[
         "Italiya"
     ],
+    "name:ful_x_variant":[
+        "Itali"
+    ],
     "name:fur_x_preferred":[
         "Italie"
     ],
@@ -265,12 +308,6 @@
     ],
     "name:gan_x_preferred":[
         "\u610f\u5927\u5229"
-    ],
-    "name:ger_x_preferred":[
-        "Italien"
-    ],
-    "name:ger_x_variant":[
-        "Italienische Republik"
     ],
     "name:gla_x_preferred":[
         "An Eadailt"
@@ -296,6 +333,9 @@
     "name:guj_x_preferred":[
         "\u0a88\u0a9f\u0ab2\u0ac0"
     ],
+    "name:guj_x_variant":[
+        "\u0a87\u0a9f\u0abe\u0ab2\u0ac0"
+    ],
     "name:hak_x_preferred":[
         "Yi-thai-li"
     ],
@@ -307,6 +347,9 @@
     ],
     "name:haw_x_preferred":[
         "\u02bb\u012ak\u0101lia"
+    ],
+    "name:haw_x_variant":[
+        "Italia"
     ],
     "name:hbs_x_preferred":[
         "Italija"
@@ -338,6 +381,9 @@
     "name:ido_x_preferred":[
         "Italia"
     ],
+    "name:iii_x_preferred":[
+        "\ua474\ua10a\ua1ba"
+    ],
     "name:iku_x_preferred":[
         "Italy"
     ],
@@ -352,6 +398,9 @@
     ],
     "name:ind_x_preferred":[
         "Italia"
+    ],
+    "name:ind_x_variant":[
+        "Itali"
     ],
     "name:isl_x_preferred":[
         "\u00cdtal\u00eda"
@@ -372,6 +421,9 @@
     ],
     "name:jbo_x_preferred":[
         "italias"
+    ],
+    "name:jbo_x_variant":[
+        "gugdrxitali"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30bf\u30ea\u30a2"
@@ -406,6 +458,9 @@
     "name:kik_x_preferred":[
         "Itari"
     ],
+    "name:kik_x_variant":[
+        "Italia"
+    ],
     "name:kin_x_preferred":[
         "Ubutaliyani"
     ],
@@ -437,11 +492,17 @@
     "name:kur_x_preferred":[
         "\u00cetalya"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u06cc\u062a\u0627\u06b5\u06cc"
+    ],
     "name:lad_x_preferred":[
         "Italia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb4\u0e95\u0eb2\u0ea5\u0eb5"
+    ],
+    "name:lao_x_variant":[
+        "\u0ead\u0eb4\u0e95\u0eb2\u0ea5\u0eb5"
     ],
     "name:lat_x_preferred":[
         "Italia"
@@ -461,6 +522,9 @@
     "name:lin_x_preferred":[
         "Italya"
     ],
+    "name:lin_x_variant":[
+        "Itali"
+    ],
     "name:lit_x_preferred":[
         "Italija"
     ],
@@ -475,6 +539,9 @@
     ],
     "name:ltz_x_preferred":[
         "Italien"
+    ],
+    "name:lub_x_preferred":[
+        "Itali"
     ],
     "name:lug_x_preferred":[
         "Yitale"
@@ -521,6 +588,9 @@
     "name:mya_x_preferred":[
         "\u1021\u102e\u1010\u101c\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1021\u102e\u1010\u101c\u102e"
+    ],
     "name:myv_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
@@ -533,8 +603,14 @@
     "name:nau_x_preferred":[
         "Itari"
     ],
+    "name:nau_x_variant":[
+        "Italy"
+    ],
     "name:nav_x_preferred":[
         "\u00cddelii"
+    ],
+    "name:nde_x_preferred":[
+        "Itali"
     ],
     "name:nds_nld_x_preferred":[
         "Itali\u00ebn"
@@ -552,6 +628,9 @@
         "Itali\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Italia"
+    ],
+    "name:nob_x_preferred":[
         "Italia"
     ],
     "name:nor_x_preferred":[
@@ -572,11 +651,17 @@
     "name:oci_x_preferred":[
         "It\u00e0lia"
     ],
+    "name:olo_x_preferred":[
+        "Itualii"
+    ],
     "name:ori_x_preferred":[
         "\u0b07\u0b1f\u0b3e\u0b32\u0b40"
     ],
     "name:orm_x_preferred":[
         "Xaaliyaanii"
+    ],
+    "name:orm_x_variant":[
+        "Italy"
     ],
     "name:oss_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438"
@@ -586,6 +671,9 @@
     ],
     "name:pam_x_preferred":[
         "Italya"
+    ],
+    "name:pam_x_variant":[
+        "Italy"
     ],
     "name:pan_x_preferred":[
         "\u0a07\u0a1f\u0a32\u0a40"
@@ -626,8 +714,15 @@
     "name:pus_x_preferred":[
         "\u0627\u06d0\u067c\u0627\u0644\u064a\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u0627\u06cc\u067c\u0627\u0644\u06cc\u0647",
+        "\u0627\u067c\u0627\u0644\u064a\u0627"
+    ],
     "name:que_x_preferred":[
         "Italya"
+    ],
+    "name:rgn_x_preferred":[
+        "It\u00e2glia"
     ],
     "name:rmy_x_preferred":[
         "Italiya"
@@ -643,6 +738,9 @@
     ],
     "name:run_x_preferred":[
         "Ubutariyano"
+    ],
+    "name:run_x_variant":[
+        "Ubutaliyani"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0430\u043b\u0438\u044f"
@@ -686,14 +784,23 @@
     "name:som_x_preferred":[
         "Talyaaniga"
     ],
+    "name:som_x_variant":[
+        "Talyaani"
+    ],
     "name:sot_x_preferred":[
         "Ithali"
     ],
     "name:spa_x_preferred":[
         "Italia"
     ],
+    "name:spa_x_variant":[
+        "Rep\u00fablica Italiana"
+    ],
     "name:sqi_x_preferred":[
         "Italia"
+    ],
+    "name:sqi_x_variant":[
+        "Itali"
     ],
     "name:srd_x_preferred":[
         "It\u00e0lia"
@@ -716,6 +823,9 @@
     "name:swa_x_preferred":[
         "Italia"
     ],
+    "name:swa_x_variant":[
+        "Uitaliani"
+    ],
     "name:swe_x_preferred":[
         "Italien"
     ],
@@ -734,6 +844,9 @@
     "name:tel_x_preferred":[
         "\u0c07\u0c1f\u0c32\u0c40"
     ],
+    "name:tel_x_variant":[
+        "\u0c07\u0c1f\u0c32\u0c3f"
+    ],
     "name:tet_x_preferred":[
         "It\u00e1lia"
     ],
@@ -746,8 +859,20 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e34\u0e15\u0e32\u0e25\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e15\u0e32\u0e25\u0e35"
+    ],
+    "name:tir_x_preferred":[
+        "\u1323\u120a\u12eb\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bb\u012atali"
+    ],
     "name:tpi_x_preferred":[
         "Itali"
+    ],
+    "name:tpi_x_variant":[
+        "Italia"
     ],
     "name:tsn_x_preferred":[
         "Italia"
@@ -790,8 +915,14 @@
     "name:urd_x_preferred":[
         "\u0627\u0637\u0627\u0644\u06cc\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0679\u0644\u06cc"
+    ],
     "name:uzb_x_preferred":[
         "Italiya"
+    ],
+    "name:uzb_x_variant":[
+        "\u0418\u0442\u0430\u043b\u0438\u044f"
     ],
     "name:vec_x_preferred":[
         "Ita\u0142ia"
@@ -804,6 +935,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00dd"
+    ],
+    "name:vie_x_variant":[
+        "Italia (\u00dd)"
     ],
     "name:vls_x_preferred":[
         "Itoali\u00eb"
@@ -835,6 +969,9 @@
     "name:yor_x_preferred":[
         "It\u00e1l\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Italiyi"
+    ],
     "name:zea_x_preferred":[
         "It\u00e2li\u00eb"
     ],
@@ -845,6 +982,7 @@
         "\u610f\u5927\u5229"
     ],
     "name:zho_x_variant":[
+        "\u610f\u5927\u5229",
         "\u7fa9\u5927\u5229"
     ],
     "name:zho_yue_x_preferred":[
@@ -852,6 +990,9 @@
     ],
     "name:zul_x_preferred":[
         "ITaliya"
+    ],
+    "name:zul_x_variant":[
+        "i-Italy"
     ],
     "ne:abbrev":"Italy",
     "ne:abbrev_len":5,
@@ -926,11 +1067,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633253-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"39",
+    "statoids:ds":"I",
+    "statoids:fifa":"ITA",
+    "statoids:gaul":"122",
+    "statoids:gec":"IT",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"ITA",
+    "statoids:iso_a2":"IT",
+    "statoids:iso_a3":"ITA",
+    "statoids:iso_num":"380",
+    "statoids:itu":"I",
+    "statoids:marc":"it",
+    "statoids:name":"Italy",
+    "statoids:wmo":"IY",
     "wk:area":301340.0,
     "wk:latitude":43.0,
     "wk:longitude":12.0,
@@ -943,19 +1101,29 @@
     "wof:concordances":{
         "dbp:id":"Italy",
         "fb:id":"en.italy",
+        "fifa:id":"ITA",
+        "fips:code":"IT",
+        "gaul:id":"122",
         "gn:id":3175395,
         "gp:id":23424853,
         "hasc:id":"IT",
+        "ioc:id":"ITA",
+        "itu:id":"I",
         "loc:id":"n79021783",
+        "m49:code":"380",
+        "marc:id":"it",
         "mzb:id":"italy",
+        "ne:adm0_a3":"ITA",
         "nyt:id":"55757685640197570561",
         "qs:id":1031456,
+        "uncrt:id":"I",
         "wd:id":"Q38",
-        "wk:page":"Italy"
+        "wk:page":"Italy",
+        "wmo:id":"IY"
     },
     "wof:country":"IT",
     "wof:country_alpha3":"ITA",
-    "wof:geomhash":"1ce843f83154ca103081b9de075a2cfd",
+    "wof:geomhash":"8bbfa6c2e2a0860ab920d4a7ce7d840e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -973,11 +1141,14 @@
         "ita",
         "fra"
     ],
-    "wof:lastmodified":1493230202,
+    "wof:lastmodified":1509142775,
     "wof:name":"Italy",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":60233948,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"ITA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

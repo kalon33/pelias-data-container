@@ -5,18 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":71.546681,
-    "geom:area_square_m":635571946548.695923,
+    "geom:area_square_m":635571946548.69751,
     "geom:bbox":"-61.797076,-21.370839,55.855019,51.087167",
     "geom:latitude":42.171601,
     "geom:longitude":-2.770525,
     "gn:population":64768389,
     "iso:country":"FR",
+    "itu:country_code":[
+        "33"
+    ],
     "lbl:bbox":"-5.132188,41.365694,9.560119,51.087167",
     "lbl:latitude":46.698481,
     "lbl:longitude":2.549047,
     "mps:latitude":46.698481,
     "mps:longitude":2.549047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":6.7,
+    "mz:min_zoom":1.7,
+    "name:aar_x_preferred":[
+        "France"
+    ],
     "name:abk_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446\u0438\u0430"
     ],
@@ -32,11 +41,17 @@
     "name:aka_x_preferred":[
         "France"
     ],
+    "name:aka_x_variant":[
+        "Fr\u025bnkyeman"
+    ],
     "name:als_x_preferred":[
         "Frankreich"
     ],
     "name:amh_x_preferred":[
         "\u1348\u1228\u1295\u1223\u12ed"
+    ],
+    "name:amh_x_variant":[
+        "\u1348\u1228\u1295\u1233\u12ed"
     ],
     "name:ang_x_preferred":[
         "Francland"
@@ -49,6 +64,9 @@
     ],
     "name:arg_x_preferred":[
         "Francia"
+    ],
+    "name:arg_x_variant":[
+        "Franzia"
     ],
     "name:arz_x_preferred":[
         "\u0641\u0631\u0646\u0633\u0627"
@@ -101,6 +119,9 @@
     "name:bod_x_preferred":[
         "\u0f67\u0fa5\u0f0b\u0f62\u0f53\u0f0b\u0f66\u0f72\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f55\u0f0b\u0f62\u0f71\u0f53\u0f0b\u0f66\u0f72\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Francuska"
     ],
@@ -109,6 +130,9 @@
     ],
     "name:bre_x_preferred":[
         "Bro-C'hall"
+    ],
+    "name:bre_x_variant":[
+        "Fra\u00f1s"
     ],
     "name:bug_x_preferred":[
         "Perancis"
@@ -137,12 +161,6 @@
     "name:che_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u570b"
-    ],
-    "name:chi_x_variant":[
-        "\u6cd5\u56fd"
-    ],
     "name:chr_x_preferred":[
         "\u13a6\u13b8\u13e5\u13f1"
     ],
@@ -160,6 +178,9 @@
     ],
     "name:cor_x_preferred":[
         "Pow Frynk"
+    ],
+    "name:cor_x_variant":[
+        "Pow Frenk"
     ],
     "name:cos_x_preferred":[
         "Francia"
@@ -179,8 +200,15 @@
     "name:dan_x_preferred":[
         "Frankrig"
     ],
+    "name:deu_x_colloquial":[
+        "Franzoesische Republik",
+        "Franzosische Republik"
+    ],
     "name:deu_x_preferred":[
         "Frankreich"
+    ],
+    "name:deu_x_variant":[
+        "Franz\u00f6sische Republik"
     ],
     "name:diq_x_preferred":[
         "Fransa"
@@ -191,14 +219,17 @@
     "name:dsb_x_preferred":[
         "Francojska"
     ],
-    "name:dut_x_preferred":[
-        "Frankrijk"
-    ],
     "name:dzo_x_preferred":[
         "\u0f55\u0f62\u0f71\u0f53\u0f66\u0f72\u0f0b"
     ],
+    "name:dzo_x_variant":[
+        "\u0f55\u0f62\u0f71\u0f53\u0f66\u0f72"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03b1\u03bb\u03bb\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "France"
     ],
     "name:eng_x_unknown":[
         "FR",
@@ -212,6 +243,9 @@
     "name:epo_x_preferred":[
         "Francio"
     ],
+    "name:epo_x_variant":[
+        "Francujo"
+    ],
     "name:est_x_preferred":[
         "Prantsusmaa"
     ],
@@ -220,6 +254,9 @@
     ],
     "name:ewe_x_preferred":[
         "France"
+    ],
+    "name:ewe_x_variant":[
+        "Frans nutome"
     ],
     "name:ext_x_preferred":[
         "Francia"
@@ -239,16 +276,13 @@
         "Ranskassa",
         "Ranskasta"
     ],
+    "name:fra_x_colloquial":[
+        "Gallia"
+    ],
     "name:fra_x_preferred":[
         "France"
     ],
-    "name:fre_x_colloquial":[
-        "Gallia"
-    ],
-    "name:fre_x_preferred":[
-        "France"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Gall\u00eda",
         "R\u00e9publique Fran\u00e7aise"
     ],
@@ -264,6 +298,9 @@
     "name:ful_x_preferred":[
         "Faransi"
     ],
+    "name:ful_x_variant":[
+        "Farayse"
+    ],
     "name:fur_x_preferred":[
         "France"
     ],
@@ -272,16 +309,6 @@
     ],
     "name:gan_x_preferred":[
         "\u6cd5\u570b"
-    ],
-    "name:ger_x_colloquial":[
-        "Franzoesische Republik",
-        "Franzosische Republik"
-    ],
-    "name:ger_x_preferred":[
-        "Frankreich"
-    ],
-    "name:ger_x_variant":[
-        "Franz\u00f6sische Republik"
     ],
     "name:gla_x_preferred":[
         "An Fhraing"
@@ -307,6 +334,10 @@
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8"
     ],
+    "name:guj_x_variant":[
+        "\u0aab\u0acd\u0ab0\u0abe\u0a81\u0ab8",
+        "\u0aab\u0acd\u0ab0\u0abe\u0a82\u0ab8"
+    ],
     "name:hak_x_preferred":[
         "Fap-koet"
     ],
@@ -331,6 +362,11 @@
     "name:hin_x_preferred":[
         "\u092b\u093c\u094d\u0930\u093e\u0928\u094d\u0938"
     ],
+    "name:hin_x_variant":[
+        "\u092b\u094d\u0930\u093e\u0902\u0938",
+        "\u092b\u093c\u094d\u0930\u093e\u0901\u0938",
+        "\u092b\u093c\u094d\u0930\u093e\u0902\u0938"
+    ],
     "name:hrv_x_preferred":[
         "Francuska"
     ],
@@ -352,17 +388,26 @@
     "name:ido_x_preferred":[
         "Francia"
     ],
+    "name:iii_x_preferred":[
+        "\ua0d4\ua1e9"
+    ],
     "name:ile_x_preferred":[
         "Francia"
     ],
     "name:ilo_x_preferred":[
         "Pransia"
     ],
+    "name:ilo_x_variant":[
+        "Francia"
+    ],
     "name:ina_x_preferred":[
         "Francia"
     ],
     "name:ind_x_preferred":[
         "Perancis"
+    ],
+    "name:ind_x_variant":[
+        "Prancis"
     ],
     "name:isl_x_preferred":[
         "Frakkland"
@@ -394,8 +439,14 @@
     "name:kal_x_preferred":[
         "Franskit Nunaat"
     ],
+    "name:kal_x_variant":[
+        "Frankrigi"
+    ],
     "name:kan_x_preferred":[
         "\u0cab\u0ccd\u0cb0\u0cbe\u0ca8\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "\u092b\u094d\u0930\u093e\u0902\u0938"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e4\u10e0\u10d0\u10dc\u10d2\u10d4\u10d7\u10d8"
@@ -411,6 +462,9 @@
     ],
     "name:kik_x_preferred":[
         "Baranja"
+    ],
+    "name:kik_x_variant":[
+        "Ubaranja"
     ],
     "name:kin_x_preferred":[
         "Ubufaransa"
@@ -439,8 +493,14 @@
     "name:ksh_x_preferred":[
         "Frankreich"
     ],
+    "name:ksh_x_variant":[
+        "Frankrish"
+    ],
     "name:kur_x_preferred":[
         "Fransa"
+    ],
+    "name:kur_x_variant":[
+        "\u0641\u06d5\u0695\u06d5\u0646\u0633\u0627"
     ],
     "name:lad_x_preferred":[
         "Fransia"
@@ -448,8 +508,14 @@
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9d\u0eb0\u0ea5\u0eb1\u0ec8\u0e87"
     ],
+    "name:lao_x_variant":[
+        "\u0e9d\u0ea5\u0eb1\u0ec8\u0e87"
+    ],
     "name:lat_x_preferred":[
         "Francia"
+    ],
+    "name:lat_x_variant":[
+        "Francogallia"
     ],
     "name:lav_x_preferred":[
         "Francija"
@@ -466,11 +532,17 @@
     "name:lin_x_preferred":[
         "Falansia"
     ],
+    "name:lin_x_variant":[
+        "Fal\u00e1ns\u025b"
+    ],
     "name:lit_x_preferred":[
         "Pranc\u016bzija"
     ],
     "name:lmo_x_preferred":[
         "Fr\u00e0ncia"
+    ],
+    "name:lmo_x_variant":[
+        "Francja"
     ],
     "name:lrc_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0633\u06d5"
@@ -481,11 +553,20 @@
     "name:ltz_x_preferred":[
         "Frankr\u00e4ich"
     ],
+    "name:lub_x_preferred":[
+        "Nfalanse"
+    ],
+    "name:lug_x_preferred":[
+        "Bufalansa"
+    ],
     "name:mai_x_preferred":[
         "\u092b\u093c\u094d\u0930\u093e\u0902\u0938"
     ],
     "name:mal_x_preferred":[
         "\u0d2b\u0d4d\u0d30\u0d3e\u0d7b\u0d38\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2b\u0d4d\u0d30\u0d3e\u0d28\u0d4d\u200d\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092b\u094d\u0930\u093e\u0928\u094d\u0938"
@@ -511,6 +592,9 @@
     "name:mon_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446"
     ],
+    "name:mon_x_variant":[
+        "\u0424\u0440\u0430\u043d\u0446 \u0443\u043b\u0441"
+    ],
     "name:mri_x_preferred":[
         "W\u012bw\u012b"
     ],
@@ -522,6 +606,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1015\u103c\u1004\u103a\u101e\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1015\u103c\u1004\u103a\u101e\u1005\u103a"
     ],
     "name:myv_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
@@ -535,8 +622,14 @@
     "name:nau_x_preferred":[
         "Prant"
     ],
+    "name:nau_x_variant":[
+        "France"
+    ],
     "name:nav_x_preferred":[
         "D\u00e1\u00e1ghahii Dine\u02bc\u00e9 Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Furansi"
     ],
     "name:nds_nld_x_preferred":[
         "Frankriek"
@@ -554,6 +647,9 @@
         "Frankrijk"
     ],
     "name:nno_x_preferred":[
+        "Frankrike"
+    ],
+    "name:nob_x_preferred":[
         "Frankrike"
     ],
     "name:nor_x_preferred":[
@@ -577,6 +673,9 @@
     "name:orm_x_preferred":[
         "Firaansi"
     ],
+    "name:orm_x_variant":[
+        "France"
+    ],
     "name:oss_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446"
     ],
@@ -585,6 +684,9 @@
     ],
     "name:pam_x_preferred":[
         "Pransiya"
+    ],
+    "name:pam_x_variant":[
+        "France"
     ],
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a30\u0a3e\u0a02\u0a38"
@@ -625,8 +727,15 @@
     "name:pus_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0633"
     ],
+    "name:pus_x_variant":[
+        "\u0641\u0631\u0627\u0646\u0633\u0647"
+    ],
     "name:que_x_preferred":[
         "Ransiya"
+    ],
+    "name:que_x_variant":[
+        "Fransiya",
+        "Fransya"
     ],
     "name:rmy_x_preferred":[
         "Franchiya"
@@ -649,11 +758,17 @@
     "name:rus_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
     ],
+    "name:sag_x_preferred":[
+        "Far\u00e2nzi"
+    ],
     "name:sah_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
     ],
     "name:san_x_preferred":[
         "\u092b\u094d\u0930\u093e\u0928\u094d\u0938\u0926\u0947\u0936\u0903"
+    ],
+    "name:san_x_variant":[
+        "\u092b\u094d\u0930\u093e\u0902\u0938"
     ],
     "name:scn_x_preferred":[
         "Francia"
@@ -685,14 +800,23 @@
     "name:som_x_preferred":[
         "Faransiiska"
     ],
+    "name:som_x_variant":[
+        "Faransiis"
+    ],
     "name:sot_x_preferred":[
         "Fora"
+    ],
+    "name:sot_x_variant":[
+        "France"
     ],
     "name:spa_x_preferred":[
         "Francia"
     ],
     "name:sqi_x_preferred":[
         "Franca"
+    ],
+    "name:sqi_x_variant":[
+        "Franc\u00eb"
     ],
     "name:srd_x_preferred":[
         "Frantza"
@@ -727,11 +851,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2b\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c4d\u200c"
     ],
     "name:tet_x_preferred":[
         "Fransa"
@@ -742,14 +872,26 @@
     "name:tgl_x_preferred":[
         "Pransiya"
     ],
+    "name:tgl_x_variant":[
+        "Pransya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1d\u0e23\u0e31\u0e48\u0e07\u0e40\u0e28\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1d\u0e23\u0e31\u0e48\u0e07\u0e40\u0e28\u0e2a"
     ],
     "name:tir_x_preferred":[
         "\u1348\u1228\u1295\u1233\u12ed"
     ],
+    "name:ton_x_preferred":[
+        "Falanis\u0113"
+    ],
     "name:tpi_x_preferred":[
         "Frens"
+    ],
+    "name:tpi_x_variant":[
+        "Pranis"
     ],
     "name:tsn_x_preferred":[
         "Fora"
@@ -792,14 +934,23 @@
         "Francija",
         "Franc\u00fazsko"
     ],
+    "name:unk_x_variant":[
+        "Republic of France"
+    ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0633"
     ],
     "name:uzb_x_preferred":[
         "Fransiya"
     ],
+    "name:uzb_x_variant":[
+        "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
+    ],
     "name:vec_x_preferred":[
         "Fransa"
+    ],
+    "name:vec_x_variant":[
+        "Franzsa"
     ],
     "name:vep_x_preferred":[
         "Francii"
@@ -809,6 +960,9 @@
     ],
     "name:vls_x_preferred":[
         "Vrankryk"
+    ],
+    "name:vls_x_variant":[
+        "Vrankriek"
     ],
     "name:vol_x_preferred":[
         "Frans\u00e4n"
@@ -837,6 +991,9 @@
     "name:yor_x_preferred":[
         "Fr\u00e1ns\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Faranse"
+    ],
     "name:zea_x_preferred":[
         "Frankriek"
     ],
@@ -850,6 +1007,7 @@
         "\u6cd5\u56fd"
     ],
     "name:zho_x_variant":[
+        "\u6cd5\u56fd",
         "\u6cd5\u570b"
     ],
     "name:zho_yue_x_preferred":[
@@ -857,6 +1015,9 @@
     ],
     "name:zul_x_preferred":[
         "IFulansi"
+    ],
+    "name:zul_x_variant":[
+        "i-France"
     ],
     "ne:abbrev":"Fr.",
     "ne:adm0_a3":"FRA",
@@ -897,11 +1058,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633147-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"33",
+    "statoids:ds":"F",
+    "statoids:fifa":"FRA",
+    "statoids:gaul":"85",
+    "statoids:gec":"FR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"FRA",
+    "statoids:iso_a2":"FR",
+    "statoids:iso_a3":"FRA",
+    "statoids:iso_num":"250",
+    "statoids:itu":"F",
+    "statoids:marc":"fr",
+    "statoids:name":"France",
+    "statoids:wmo":"FR",
     "wk:area":675000.0,
     "wk:latitude":47.0,
     "wk:longitude":2.0,
@@ -915,18 +1093,28 @@
     "wof:concordances":{
         "dbp:id":"France",
         "fb:id":"en.france",
+        "fifa:id":"FRA",
+        "fips:code":"FR",
+        "gaul:id":"85",
         "gn:id":3017382,
         "gp:id":23424819,
         "hasc:id":"FR",
+        "ioc:id":"FRA",
+        "itu:id":"F",
         "loc:id":"n79006404",
+        "m49:code":"250",
+        "marc:id":"fr",
         "mzb:id":"france",
+        "ne:adm0_a3":"FRA",
         "nyt:id":"67127587134490296321",
         "qs:id":1030839,
-        "wd:id":"Q142"
+        "uncrt:id":"F",
+        "wd:id":"Q142",
+        "wmo:id":"FR"
     },
     "wof:country":"FR",
     "wof:country_alpha3":"FRA",
-    "wof:geomhash":"503867d9e4735de64a283f86d43c6079",
+    "wof:geomhash":"c9e8f8bebf1b6a77a536d33e816633e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -944,11 +1132,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493230197,
+    "wof:lastmodified":1509142726,
     "wof:name":"France",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":65939866,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"FRA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

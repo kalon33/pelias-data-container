@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.879502,
+    "geom:area_square_m":146485776078.348999,
     "geom:bbox":"-58.070506,1.837306,-53.978763,6.016638756",
     "geom:latitude":4.139468,
     "geom:longitude":-55.906476,
     "gn:id":"",
     "gn:population":492829,
     "iso:country":"SR",
+    "itu:country_code":[
+        "597"
+    ],
     "lbl:latitude":4.165951,
     "lbl:longitude":-55.945507,
     "mps:latitude":4.165951,
     "mps:longitude":-55.945507,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Suriname"
     ],
     "name:afr_x_preferred":[
+        "Suriname"
+    ],
+    "name:aka_x_preferred":[
         "Suriname"
     ],
     "name:als_x_preferred":[
@@ -49,8 +59,14 @@
     "name:aze_x_preferred":[
         "Surinam"
     ],
+    "name:aze_x_variant":[
+        "Surinam\u0259"
+    ],
     "name:bak_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
+    ],
+    "name:bam_x_preferred":[
+        "Surinami"
     ],
     "name:bar_x_preferred":[
         "Suriname"
@@ -69,6 +85,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f7a\u0f58\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f71\u0f58\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Surinam"
@@ -99,13 +118,6 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
-    ],
-    "name:chi_x_preferred":[
-        "\u8607\u5229\u5357"
-    ],
-    "name:chi_x_variant":[
-        "\u82cf\u91cc\u5357",
-        "\u8607\u5229\u5357"
     ],
     "name:chv_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
@@ -140,9 +152,6 @@
     "name:dsb_x_preferred":[
         "Surinam"
     ],
-    "name:dut_x_preferred":[
-        "Suriname"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c5\u03c1\u03b9\u03bd\u03ac\u03bc"
     ],
@@ -170,6 +179,9 @@
     "name:ewe_x_preferred":[
         "Suriname"
     ],
+    "name:ewe_x_variant":[
+        "Suriname nutome"
+    ],
     "name:ext_x_preferred":[
         "Surinam"
     ],
@@ -192,6 +204,9 @@
     "name:fra_x_preferred":[
         "Suriname"
     ],
+    "name:fra_x_variant":[
+        "Surinam"
+    ],
     "name:frp_x_preferred":[
         "Suriname"
     ],
@@ -200,6 +215,9 @@
     ],
     "name:fry_x_preferred":[
         "Suriname"
+    ],
+    "name:ful_x_preferred":[
+        "Surinaam"
     ],
     "name:gag_x_preferred":[
         "Surinam"
@@ -215,6 +233,9 @@
     ],
     "name:glg_x_preferred":[
         "Suriname"
+    ],
+    "name:glg_x_variant":[
+        "Surinam"
     ],
     "name:glv_x_preferred":[
         "Yn Toorinam"
@@ -234,17 +255,26 @@
     "name:hat_x_preferred":[
         "Sirinam"
     ],
+    "name:hau_x_preferred":[
+        "Suriname"
+    ],
     "name:hbs_x_preferred":[
         "Surinam"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e8\u05d9\u05e0\u05d0\u05dd"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d5\u05e8\u05d9\u05e0\u05dd"
+    ],
     "name:hif_x_preferred":[
         "Suriname"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0942\u0930\u0940\u0928\u093e\u092e"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u0941\u0930\u093f\u0928\u093e\u092e"
     ],
     "name:hrv_x_preferred":[
         "Surinam"
@@ -303,11 +333,20 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc1\u0cb0\u0cbf\u0ca8\u0cbe\u0cae\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0cb8\u0cc1\u0cb0\u0cbf\u0ca8\u0cbe\u0cae"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10e0\u10d8\u10dc\u10d0\u10db\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17bc\u179a\u17b8\u178e\u17b6\u1798"
+    ],
+    "name:kik_x_preferred":[
+        "Surinamu"
     ],
     "name:kin_x_preferred":[
         "Surinamu"
@@ -321,8 +360,14 @@
     "name:kur_x_preferred":[
         "S\u00fbr\u00eenam"
     ],
+    "name:kur_x_variant":[
+        "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
+    ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e8a\u0eb9\u0ea3\u0eb5\u0e99\u0eb2\u0ea1"
+    ],
+    "name:lao_x_variant":[
+        "\u0e8a\u0eb9\u0ea5\u0eb4\u0e99\u0eb2\u0ea1\u0eb4"
     ],
     "name:lat_x_preferred":[
         "Surinamia"
@@ -339,6 +384,9 @@
     "name:lin_x_preferred":[
         "Suriname"
     ],
+    "name:lin_x_variant":[
+        "Surinam\u025b"
+    ],
     "name:lit_x_preferred":[
         "Surinamas"
     ],
@@ -351,8 +399,17 @@
     "name:ltz_x_preferred":[
         "Suriname"
     ],
+    "name:lub_x_preferred":[
+        "Suriname"
+    ],
+    "name:lug_x_preferred":[
+        "Surinaamu"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d41\u0d30\u0d3f\u0d28\u0d3e\u0d02"
+    ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d41\u0d31\u0d3f\u0d28\u0d3e\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0930\u093f\u0928\u093e\u092e"
@@ -369,6 +426,9 @@
     "name:mlg_x_preferred":[
         "Sorinama"
     ],
+    "name:mlg_x_variant":[
+        "Sorinam"
+    ],
     "name:mlt_x_preferred":[
         "Surinam"
     ],
@@ -381,6 +441,9 @@
     "name:msa_x_preferred":[
         "Suriname"
     ],
+    "name:msa_x_variant":[
+        "Surinam"
+    ],
     "name:mya_x_preferred":[
         "\u1006\u1030\u101b\u102c\u1014\u1019\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
@@ -390,8 +453,14 @@
     "name:nav_x_preferred":[
         "S\u00f3winam"
     ],
+    "name:nde_x_preferred":[
+        "Suriname"
+    ],
     "name:nds_x_preferred":[
         "Surinam"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0941\u0930\u093f\u0928\u0947\u092e"
     ],
     "name:new_x_preferred":[
         "\u0938\u0941\u0930\u093f\u0928\u093e\u092e"
@@ -399,7 +468,13 @@
     "name:nld_x_preferred":[
         "Suriname"
     ],
+    "name:nld_x_variant":[
+        "Republiek Suriname"
+    ],
     "name:nno_x_preferred":[
+        "Surinam"
+    ],
+    "name:nob_x_preferred":[
         "Surinam"
     ],
     "name:nor_x_preferred":[
@@ -422,6 +497,9 @@
     ],
     "name:pam_x_preferred":[
         "Surinam"
+    ],
+    "name:pam_x_variant":[
+        "Suriname"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a42\u0a30\u0a40\u0a28\u0a3e\u0a2e"
@@ -456,17 +534,29 @@
     "name:roh_x_preferred":[
         "Suriname"
     ],
+    "name:roh_x_variant":[
+        "Surinam"
+    ],
     "name:ron_x_preferred":[
         "Surinam"
     ],
     "name:rum_x_preferred":[
         "Surinam"
     ],
+    "name:run_x_preferred":[
+        "Suriname"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
     ],
+    "name:sag_x_preferred":[
+        "Surin\u00e4m"
+    ],
     "name:sah_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
+    ],
+    "name:san_x_preferred":[
+        "\u0938\u0941\u0930\u093f\u0928\u093e\u092e"
     ],
     "name:scn_x_preferred":[
         "Surinami"
@@ -492,6 +582,9 @@
     "name:som_x_preferred":[
         "Surinam"
     ],
+    "name:som_x_variant":[
+        "Suriname"
+    ],
     "name:spa_x_preferred":[
         "Surinam"
     ],
@@ -507,11 +600,17 @@
     "name:srp_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0443\u0440\u0438\u043d\u0430\u043c\u0438"
+    ],
     "name:sun_x_preferred":[
         "Suriname"
     ],
     "name:swa_x_preferred":[
         "Surinam"
+    ],
+    "name:swa_x_variant":[
+        "Surinamu"
     ],
     "name:swe_x_preferred":[
         "Surinam"
@@ -521,6 +620,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb0\u0bbf\u0ba8\u0bbe\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc2\u0bb0\u0bbf\u0ba9\u0bbe\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
@@ -540,8 +642,15 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e0b\u0e39\u0e23\u0e34\u0e19\u0e32\u0e21"
     ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e31\u0e21",
+        "\u0e0b\u0e39\u0e23\u0e34\u0e19\u0e32\u0e40\u0e21"
+    ],
     "name:tir_x_preferred":[
         "\u1231\u122a\u1293\u121d"
+    ],
+    "name:ton_x_preferred":[
+        "Sulinami"
     ],
     "name:tuk_x_preferred":[
         "Surinam"
@@ -555,11 +664,20 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0443\u0440\u0456\u043d\u0430\u043c"
+    ],
     "name:und_x_variant":[
         "Republika Surinam"
     ],
+    "name:unk_x_variant":[
+        "Nederlandsch Guyana"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u06cc\u0646\u0627\u0645"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
     ],
     "name:uzb_x_preferred":[
         "Surinam"
@@ -572,6 +690,10 @@
     ],
     "name:vie_x_preferred":[
         "Suriname"
+    ],
+    "name:vie_x_variant":[
+        "Xu-ri-nam",
+        "Xu-ri-nam (Suriname)"
     ],
     "name:vol_x_preferred":[
         "Surin\u00e4n"
@@ -600,6 +722,9 @@
     "name:yor_x_preferred":[
         "S\u00f9r\u00ecn\u00e1m\u00f9"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Surinami"
+    ],
     "name:zea_x_preferred":[
         "Surinaome"
     ],
@@ -612,8 +737,15 @@
     "name:zho_x_preferred":[
         "\u8607\u5229\u5357"
     ],
+    "name:zho_x_variant":[
+        "\u82cf\u91cc\u5357",
+        "\u8607\u5229\u5357"
+    ],
     "name:zho_yue_x_preferred":[
         "\u8607\u91cc\u5357"
+    ],
+    "name:zul_x_preferred":[
+        "i-Suriname"
     ],
     "ne:abbrev":"Sur.",
     "ne:abbrev_len":4,
@@ -693,6 +825,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"597",
+    "statoids:ds":"SME",
+    "statoids:fifa":"SUR",
+    "statoids:gaul":"233",
+    "statoids:gec":"NS",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SUR",
+    "statoids:iso_a2":"SR",
+    "statoids:iso_a3":"SUR",
+    "statoids:iso_num":"740",
+    "statoids:itu":"SUR",
+    "statoids:marc":"sr",
+    "statoids:name":"Suriname",
+    "statoids:wmo":"SM",
     "wk:latitude":4.0,
     "wk:longitude":-56.0,
     "wk:population":539276,
@@ -704,19 +851,29 @@
     "wof:concordances":{
         "dbp:id":"Suriname",
         "fb:id":"en.suriname",
+        "fifa:id":"SUR",
+        "fips:code":"NS",
+        "gaul:id":"233",
         "gn:id":3382998,
         "gp:id":23424913,
         "hasc:id":"SR",
+        "ioc:id":"SUR",
+        "itu:id":"SUR",
         "loc:id":"n79022986",
+        "m49:code":"740",
+        "marc:id":"sr",
         "mzb:id":"suriname",
+        "ne:adm0_a3":"SUR",
         "nyt:id":"N9996101281380991951",
         "qs:id":219368,
+        "uncrt:id":"SME",
         "wd:id":"Q730",
-        "wk:page":"Suriname"
+        "wk:page":"Suriname",
+        "wmo:id":"SM"
     },
     "wof:country":"SR",
     "wof:country_alpha3":"SUR",
-    "wof:geomhash":"070407b13c2338b74d72abb50ea7b948",
+    "wof:geomhash":"6a150f273593d93dacc5fbbcd9cb63d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -733,11 +890,14 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1493229963,
+    "wof:lastmodified":1509143028,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
+    "wof:population":539276,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SUR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

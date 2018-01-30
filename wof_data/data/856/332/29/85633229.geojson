@@ -3,18 +3,25 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1991-05~/1991-06~",
     "geom:area":6.293752,
+    "geom:area_square_m":54958702920.481476,
     "geom:bbox":"13.501475,42.416327,19.407838,46.546979",
     "geom:latitude":45.067726,
     "geom:longitude":16.398549,
     "gn:population":4491000,
     "iso:country":"HR",
+    "itu:country_code":[
+        "385"
+    ],
     "lbl:latitude":45.805356,
     "lbl:longitude":16.375139,
     "mps:latitude":45.805356,
     "mps:longitude":16.375139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u0430"
     ],
@@ -26,6 +33,9 @@
     ],
     "name:afr_x_preferred":[
         "Kroasi\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Krowehyia"
     ],
     "name:als_x_preferred":[
         "Kroatien"
@@ -60,6 +70,9 @@
     "name:bak_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "Kroasi"
+    ],
     "name:bar_x_preferred":[
         "Krowozien"
     ],
@@ -78,6 +91,9 @@
     "name:bod_x_preferred":[
         "\u0f41\u0f74\u0f62\u0f7c\u0f0b\u0f64\u0f72\u0f0b\u0f61\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f40\u0f74\u0f62\u0f7c\u0f0b\u0f64\u0f72\u0f0b\u0f61\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Hrvatska"
     ],
@@ -89,6 +105,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0425\u044a\u0440\u0432\u0430\u0442\u0438\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u0425\u044a\u0440\u0432\u0430\u0442\u0441\u043a\u0430"
     ],
     "name:bxr_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
@@ -107,13 +126,6 @@
     ],
     "name:che_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u514b\u7f85\u57c3\u897f\u4e9e"
-    ],
-    "name:chi_x_variant":[
-        "\u514b\u7f57\u5730\u4e9a",
-        "\u514b\u7f85\u57c3\u897f\u4e9e"
     ],
     "name:chr_x_preferred":[
         "\u13a7\u13b6\u13a1\u13cf\u13a0"
@@ -154,6 +166,9 @@
     "name:deu_x_preferred":[
         "Kroatien"
     ],
+    "name:deu_x_variant":[
+        "Republik Kroatien"
+    ],
     "name:diq_x_preferred":[
         "X\u0131rvat\u0131stan"
     ],
@@ -162,12 +177,6 @@
     ],
     "name:dsb_x_preferred":[
         "Chorwatska"
-    ],
-    "name:dut_x_colloquial":[
-        "Kroatie"
-    ],
-    "name:dut_x_preferred":[
-        "Kroati\u00eb"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03bf\u03b1\u03c4\u03af\u03b1"
@@ -187,6 +196,9 @@
     "name:epo_x_preferred":[
         "Kroatio"
     ],
+    "name:epo_x_variant":[
+        "Kroatujo"
+    ],
     "name:est_x_preferred":[
         "Horvaatia"
     ],
@@ -196,6 +208,9 @@
     "name:ewe_x_preferred":[
         "Croatia"
     ],
+    "name:ewe_x_variant":[
+        "Kroatsia nutome"
+    ],
     "name:ext_x_preferred":[
         "Croacia"
     ],
@@ -204,6 +219,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0631\u0648\u0627\u0633\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u0648\u0627\u062a\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Kroatia"
@@ -215,9 +233,6 @@
         "Kroatiasta"
     ],
     "name:fra_x_preferred":[
-        "Croatie"
-    ],
-    "name:fre_x_preferred":[
         "Croatie"
     ],
     "name:frp_x_preferred":[
@@ -232,6 +247,9 @@
     "name:ful_x_preferred":[
         "Korowaasiya"
     ],
+    "name:ful_x_variant":[
+        "Korwasii"
+    ],
     "name:fur_x_preferred":[
         "Cravuazie"
     ],
@@ -241,12 +259,6 @@
     "name:gan_x_preferred":[
         "\u514b\u7f57\u5730\u4e9a"
     ],
-    "name:ger_x_preferred":[
-        "Kroatien"
-    ],
-    "name:ger_x_variant":[
-        "Republik Kroatien"
-    ],
     "name:gla_x_preferred":[
         "Poblachd na Cr\u00f2thaise"
     ],
@@ -255,6 +267,9 @@
     ],
     "name:glg_x_preferred":[
         "Croacia"
+    ],
+    "name:glg_x_variant":[
+        "Croacia - Hrvatska"
     ],
     "name:glv_x_preferred":[
         "Yn Chroit"
@@ -277,6 +292,9 @@
     "name:hau_x_preferred":[
         "Kroatiya"
     ],
+    "name:hau_x_variant":[
+        "Kurowaishiya"
+    ],
     "name:haw_x_preferred":[
         "Koloatia"
     ],
@@ -292,8 +310,14 @@
     "name:hin_x_preferred":[
         "\u0915\u094d\u0930\u094b\u090f\u0936\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0915\u094d\u0930\u094b\u0936\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Hrvatska"
+    ],
+    "name:hrv_x_variant":[
+        "Republika Hrvatska"
     ],
     "name:hsb_x_preferred":[
         "Chorwatska"
@@ -307,6 +331,9 @@
     "name:hye_x_preferred":[
         "\u053d\u0578\u0580\u057e\u0561\u0569\u056b\u0561"
     ],
+    "name:hye_x_variant":[
+        "\u0540\u0578\u0580\u057e\u0561\u0569\u056b\u0561"
+    ],
     "name:ido_x_preferred":[
         "Kroatia"
     ],
@@ -315,6 +342,9 @@
     ],
     "name:ilo_x_preferred":[
         "Kroasia"
+    ],
+    "name:ilo_x_variant":[
+        "Croasia"
     ],
     "name:ina_x_preferred":[
         "Croatia"
@@ -355,14 +385,26 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb0\u0cca\u0caf\u0cc6\u0cb6\u0cbf\u0caf"
     ],
+    "name:kan_x_variant":[
+        "\u0c95\u0ccd\u0cb0\u0ccb\u0caf\u0cc7\u0cb6\u0cbf\u0caf\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10ee\u10dd\u10e0\u10d5\u10d0\u10e2\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10f0\u10dd\u10e0\u10d5\u10d0\u10e2\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
     ],
     "name:kbd_x_preferred":[
         "\u0425\u043e\u0440\u0443\u0430\u0442\u0438\u044d"
+    ],
+    "name:khm_x_preferred":[
+        "\u1780\u17d2\u179a\u17bc\u17a2\u17b6\u179f\u17ca\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Korasia"
     ],
     "name:kin_x_preferred":[
         "Korowatiya"
@@ -388,11 +430,17 @@
     "name:kur_x_preferred":[
         "Kroatya"
     ],
+    "name:kur_x_variant":[
+        "\u06a9\u0631\u06c6\u0648\u0627\u062a\u06cc\u0627"
+    ],
     "name:lad_x_preferred":[
         "Kroasia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e81\u0eb0\u0ec2\u0ea5\u0ead\u0eb2\u0e8a\u0eb5"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec2\u0e84\u0ec0\u0ead\u0ec0\u0e8a\u0e8d"
     ],
     "name:lat_x_preferred":[
         "Croatia"
@@ -412,6 +460,9 @@
     "name:lin_x_preferred":[
         "Kroasia"
     ],
+    "name:lin_x_variant":[
+        "Krowasi"
+    ],
     "name:lit_x_preferred":[
         "Kroatija"
     ],
@@ -426,6 +477,12 @@
     ],
     "name:ltz_x_preferred":[
         "Kroatien"
+    ],
+    "name:lub_x_preferred":[
+        "Krowasi"
+    ],
+    "name:lug_x_preferred":[
+        "Kurowesya"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4d\u0d30\u0d4a\u0d2f\u0d47\u0d37\u0d4d\u0d2f"
@@ -448,6 +505,9 @@
     "name:mlg_x_preferred":[
         "Kr\u00f4asia"
     ],
+    "name:mlg_x_variant":[
+        "Kroasia"
+    ],
     "name:mlt_x_preferred":[
         "Kroazja"
     ],
@@ -462,6 +522,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1001\u101b\u102d\u102f\u1021\u1031\u1038\u101b\u103e\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1001\u101b\u102d\u102f\u1021\u1031\u1038\u101b\u103e\u102c\u1038"
     ],
     "name:myv_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
@@ -478,6 +541,9 @@
     "name:nav_x_preferred":[
         "Kw\u00f3\u00f3\u02bcad Bik\u00e9yah"
     ],
+    "name:nde_x_preferred":[
+        "Croatia"
+    ],
     "name:nds_nld_x_preferred":[
         "Kroasi\u00eb"
     ],
@@ -487,13 +553,22 @@
     "name:nep_x_preferred":[
         "\u0915\u094d\u0930\u094b\u090f\u0936\u093f\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0915\u094d\u0930\u094b\u090f\u0938\u093f\u092f\u093e"
+    ],
     "name:new_x_preferred":[
         "\u0915\u094d\u0930\u094b\u090f\u0938\u093f\u092f\u093e"
+    ],
+    "name:nld_x_colloquial":[
+        "Kroatie"
     ],
     "name:nld_x_preferred":[
         "Kroati\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Kroatia"
+    ],
+    "name:nob_x_preferred":[
         "Kroatia"
     ],
     "name:nor_x_preferred":[
@@ -507,6 +582,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b15\u0b4d\u0b30\u0b4b\u0b0f\u0b38\u0b3f\u0b06"
+    ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b4d\u0b30\u0b4b\u0b06\u0b1f\u0b3f\u0b06"
     ],
     "name:orm_x_preferred":[
         "Kirooshiyaa"
@@ -559,6 +637,9 @@
     "name:que_x_preferred":[
         "Hurwatsuyu"
     ],
+    "name:roh_x_preferred":[
+        "Croazia"
+    ],
     "name:ron_x_preferred":[
         "Croa\u021bia"
     ],
@@ -570,6 +651,9 @@
     ],
     "name:run_x_preferred":[
         "Croacia"
+    ],
+    "name:run_x_variant":[
+        "Korowasiya"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
@@ -604,8 +688,14 @@
     "name:sna_x_preferred":[
         "Croatia"
     ],
+    "name:sna_x_variant":[
+        "Korasia"
+    ],
     "name:som_x_preferred":[
         "Kroatia"
+    ],
+    "name:som_x_variant":[
+        "Korweeshiya"
     ],
     "name:sot_x_preferred":[
         "Kroatia"
@@ -615,6 +705,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kroacia"
+    ],
+    "name:sqi_x_variant":[
+        "Kroaci"
     ],
     "name:srd_x_preferred":[
         "Cro\u00e0tzia"
@@ -637,6 +730,9 @@
     "name:swa_x_preferred":[
         "Kroatia"
     ],
+    "name:swa_x_variant":[
+        "Korasia"
+    ],
     "name:swe_x_preferred":[
         "Kroatien"
     ],
@@ -649,11 +745,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb0\u0bcb\u0bb5\u0bbe\u0b9a\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bc1\u0bb0\u0bcb\u0b9a\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c30\u0c4a\u0c2f\u0c47\u0c37\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c15\u0c4d\u0c30\u0c4b\u0c2f\u0c47\u0c37\u0c3f\u0c2f\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Kro\u00e1sia"
@@ -666,6 +768,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e04\u0e23\u0e40\u0e2d\u0e40\u0e0a\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e04\u0e23\u0e40\u0e2d\u0e40\u0e0a\u0e35\u0e22"
+    ],
+    "name:tir_x_preferred":[
+        "\u12ad\u122e\u12a4\u123d\u12eb"
+    ],
+    "name:ton_x_preferred":[
+        "Kuloisia"
     ],
     "name:tpi_x_preferred":[
         "Krowesia"
@@ -702,8 +813,14 @@
         "Kroat\u00eda",
         "Xorvatija"
     ],
+    "name:unk_x_variant":[
+        "Republika Hrvatska"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0631\u0648\u0634\u06cc\u0627"
     ],
     "name:uzb_x_preferred":[
         "Xorvatiya"
@@ -717,6 +834,10 @@
     "name:vie_x_preferred":[
         "Croatia"
     ],
+    "name:vie_x_variant":[
+        "Cr\u00f4-a-ti-a",
+        "Cr\u00f4-a-ti-a (Croatia)"
+    ],
     "name:vls_x_preferred":[
         "Kroati\u00eb"
     ],
@@ -725,6 +846,9 @@
     ],
     "name:war_x_preferred":[
         "Kroasya"
+    ],
+    "name:war_x_variant":[
+        "Croacia"
     ],
     "name:wln_x_preferred":[
         "Crowaceye"
@@ -747,6 +871,9 @@
     "name:yor_x_preferred":[
         "Kroat\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de K\u00f2r\u00f3\u00e1t\u00ed\u00e0"
+    ],
     "name:zea_x_preferred":[
         "Kroaoti\u00eb"
     ],
@@ -759,11 +886,18 @@
     "name:zho_x_preferred":[
         "\u514b\u7f57\u5730\u4e9a"
     ],
+    "name:zho_x_variant":[
+        "\u514b\u7f57\u5730\u4e9a",
+        "\u514b\u7f85\u57c3\u897f\u4e9e"
+    ],
     "name:zho_yue_x_preferred":[
         "\u514b\u7f85\u5730\u4e9e"
     ],
     "name:zul_x_preferred":[
         "IKrowati"
+    ],
+    "name:zul_x_variant":[
+        "i-Croatia"
     ],
     "ne:abbrev":"Cro.",
     "ne:abbrev_len":4,
@@ -838,11 +972,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633229-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"385",
+    "statoids:ds":"HR",
+    "statoids:fifa":"CRO",
+    "statoids:gaul":"62",
+    "statoids:gec":"HR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"CRO",
+    "statoids:iso_a2":"HR",
+    "statoids:iso_a3":"HRV",
+    "statoids:iso_num":"191",
+    "statoids:itu":"HRV",
+    "statoids:marc":"ci",
+    "statoids:name":"Croatia",
+    "statoids:wmo":"RH",
     "wk:latitude":45.25,
     "wk:longitude":15.466667,
     "wk:wordcount":17417,
@@ -855,19 +1006,29 @@
     "wof:concordances":{
         "dbp:id":"Croatia",
         "fb:id":"en.croatia",
+        "fifa:id":"CRO",
+        "fips:code":"HR",
+        "gaul:id":"62",
         "gn:id":3202326,
         "gp:id":23424843,
         "hasc:id":"HR",
+        "ioc:id":"CRO",
+        "itu:id":"HRV",
         "loc:id":"n81035140",
+        "m49:code":"191",
+        "marc:id":"ci",
         "mzb:id":"croatia",
+        "ne:adm0_a3":"HRV",
         "nyt:id":"66221118135207236641",
         "qs:id":581771,
+        "uncrt:id":"HR",
         "wd:id":"Q224",
-        "wk:page":"Croatia"
+        "wk:page":"Croatia",
+        "wmo:id":"RH"
     },
     "wof:country":"HR",
     "wof:country_alpha3":"HRV",
-    "wof:geomhash":"42ad534ad041607001aeaa4a946a5d8d",
+    "wof:geomhash":"f3107862e2b4a1a0f38f4707f4b6fd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -885,13 +1046,18 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1493230200,
+    "wof:lastmodified":1509142710,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":4491000,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"HRV",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126113567
+    ],
     "wof:tags":[]
 },
   "bbox": [

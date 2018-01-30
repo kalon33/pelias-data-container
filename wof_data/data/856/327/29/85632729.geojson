@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":66.98453,
+    "geom:area_square_m":789054339303.451904,
     "geom:bbox":"30.21555,-26.8681615,40.848751068,-10.477194786",
     "geom:latitude":-17.260097,
     "geom:longitude":35.55384,
     "gn:id":"",
     "gn:population":22061451,
     "iso:country":"MZ",
+    "itu:country_code":[
+        "258"
+    ],
     "lbl:latitude":-13.885531,
     "lbl:longitude":37.837456,
     "mps:latitude":-13.885531,
     "mps:longitude":37.837456,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Mozambik"
     ],
@@ -24,6 +31,9 @@
     ],
     "name:afr_x_preferred":[
         "Mosambiek"
+    ],
+    "name:aka_x_preferred":[
+        "Mozambik"
     ],
     "name:als_x_preferred":[
         "Mosambik"
@@ -52,11 +62,17 @@
     "name:aze_x_preferred":[
         "Mozambik"
     ],
+    "name:aze_x_variant":[
+        "Mazambik"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
     ],
     "name:bam_x_preferred":[
         "Mozanbik"
+    ],
+    "name:bam_x_variant":[
+        "Mozanbiki"
     ],
     "name:bcl_x_preferred":[
         "Mosambik"
@@ -75,6 +91,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f7c\u0f0b\u0f5b\u0f58\u0f0b\u0f56\u0f72\u0f40\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f7c\u0f0b\u0f5b\u0f58\u0f0b\u0f56\u0f72\u0f42\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Mozambik"
@@ -103,15 +122,11 @@
     "name:ces_x_preferred":[
         "Mosambik"
     ],
+    "name:ces_x_variant":[
+        "Mozambik"
+    ],
     "name:che_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u83ab\u4e09\u6bd4\u514b"
-    ],
-    "name:chi_x_variant":[
-        "\u83ab\u4e09\u6bd4\u514b",
-        "\u83ab\u6851\u6bd4\u514b"
     ],
     "name:chv_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
@@ -131,6 +146,9 @@
     "name:cym_x_preferred":[
         "Mosambic"
     ],
+    "name:cym_x_variant":[
+        "Mozambique"
+    ],
     "name:cze_x_preferred":[
         "Mosambik"
     ],
@@ -140,8 +158,14 @@
     "name:dan_x_preferred":[
         "Mozambique"
     ],
+    "name:dan_x_variant":[
+        "Mo\u00e7ambique"
+    ],
     "name:deu_x_preferred":[
         "Mosambik"
+    ],
+    "name:deu_x_variant":[
+        "Republik Mosambik"
     ],
     "name:diq_x_preferred":[
         "Mozambik"
@@ -179,6 +203,9 @@
     "name:ewe_x_preferred":[
         "Mozambiki"
     ],
+    "name:ewe_x_variant":[
+        "Mozambiki nutome"
+    ],
     "name:ext_x_preferred":[
         "Mozambiqui"
     ],
@@ -203,14 +230,11 @@
     "name:ful_x_preferred":[
         "Mozammbik"
     ],
+    "name:ful_x_variant":[
+        "Mosammbik"
+    ],
     "name:gag_x_preferred":[
         "Mozambik"
-    ],
-    "name:ger_x_preferred":[
-        "Mosambik"
-    ],
-    "name:ger_x_variant":[
-        "Republik Mosambik"
     ],
     "name:gla_x_preferred":[
         "M\u00f2saimbic"
@@ -218,8 +242,14 @@
     "name:gle_x_preferred":[
         "Poblacht Mh\u00f3saimb\u00edc"
     ],
+    "name:gle_x_variant":[
+        "M\u00f3saimb\u00edc"
+    ],
     "name:glg_x_preferred":[
         "Mozambique"
+    ],
+    "name:glg_x_variant":[
+        "Mozambique - Mo\u00e7ambique"
     ],
     "name:glv_x_preferred":[
         "Yn Vosambeeck"
@@ -227,11 +257,17 @@
     "name:grn_x_preferred":[
         "Mosamb\u00edke"
     ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0a9d\u0abe\u0aae\u0acd\u0aac\u0abf\u0a95"
+    ],
     "name:hak_x_preferred":[
         "Mozambique"
     ],
     "name:hat_x_preferred":[
         "Mozanbik"
+    ],
+    "name:hau_x_preferred":[
+        "Mozambik"
     ],
     "name:hbs_x_preferred":[
         "Mozambik"
@@ -244,6 +280,10 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u091c\u093c\u093e\u092e\u094d\u092c\u0940\u0915"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u094b\u091c\u093e\u092e\u094d\u092c\u093f\u0915",
+        "\u092e\u094b\u091c\u093c\u093e\u092e\u094d\u092c\u093f\u0915"
     ],
     "name:hrv_x_preferred":[
         "Mozambik"
@@ -275,6 +315,9 @@
     "name:ind_x_preferred":[
         "Mozambik"
     ],
+    "name:ind_x_variant":[
+        "Mozambique"
+    ],
     "name:isl_x_preferred":[
         "M\u00f3samb\u00edk"
     ],
@@ -302,8 +345,14 @@
     "name:kab_x_preferred":[
         "Muzambik"
     ],
+    "name:kal_x_preferred":[
+        "Mo\u00e7ambique"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cca\u0c9c\u0cbe\u0c82\u0cac\u0cbf\u0c95\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "\u092e\u094b\u091c\u092e\u094d\u092c\u0940\u0915"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10d6\u10d0\u10db\u10d1\u10d8\u10d9\u10d8"
@@ -311,8 +360,14 @@
     "name:kaz_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
     ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17bc\u17a0\u17d2\u179f\u17b6\u17c6\u1794\u17ca\u17b7\u1780"
+    ],
     "name:kik_x_preferred":[
         "Mozambique"
+    ],
+    "name:kik_x_variant":[
+        "Msumbiji"
     ],
     "name:kin_x_preferred":[
         "Mozambike"
@@ -329,8 +384,14 @@
     "name:kur_x_preferred":[
         "Mozamb\u00eek"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06c6\u0632\u0627\u0645\u0628\u06cc\u06a9"
+    ],
     "name:lad_x_preferred":[
         "Mosambiko"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec2\u0ea1\u0ec1\u0e8a\u0ea1\u0e9a\u0eb4\u0e81"
     ],
     "name:lat_x_preferred":[
         "Mozambicum"
@@ -362,8 +423,14 @@
     "name:ltz_x_preferred":[
         "Mosambik"
     ],
+    "name:lub_x_preferred":[
+        "Mozambiki"
+    ],
     "name:lug_x_preferred":[
         "Mozambique"
+    ],
+    "name:lug_x_variant":[
+        "Mozambiiki"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d38\u0d3e\u0d02\u0d2c\u0d3f\u0d15\u0d4d\u0d15\u0d4d"
@@ -371,11 +438,17 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u091d\u093e\u0902\u092c\u093f\u0915"
     ],
+    "name:mar_x_variant":[
+        "\u092e\u094b\u091d\u093e\u092e\u094d\u092c\u093f\u0915"
+    ],
     "name:min_x_preferred":[
         "Mozambik"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u043e\u0437\u0430\u043c\u0431\u0435"
     ],
     "name:mlg_x_preferred":[
         "Mozambika"
@@ -392,22 +465,37 @@
     "name:msa_x_preferred":[
         "Mozambique"
     ],
+    "name:msa_x_variant":[
+        "Mozambik"
+    ],
     "name:mwl_x_preferred":[
         "Mo\u00e7ambique"
     ],
     "name:mya_x_preferred":[
         "\u1019\u102d\u102f\u1007\u1019\u103a\u1018\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u102d\u102f\u1007\u1014\u103a\u1018\u1005\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
     ],
+    "name:nde_x_preferred":[
+        "Mozambique"
+    ],
     "name:nds_x_preferred":[
         "Mosambik"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u094b\u091c\u093e\u092e\u094d\u092c\u093f\u0915"
     ],
     "name:nld_x_preferred":[
         "Mozambique"
     ],
     "name:nno_x_preferred":[
+        "Mosambik"
+    ],
+    "name:nob_x_preferred":[
         "Mosambik"
     ],
     "name:nor_x_preferred":[
@@ -427,6 +515,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b4b\u0b1c\u0b3e\u0b2e\u0b4d\u0b2c\u0b3f\u0b15"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b4b\u0b1c\u0b3e\u0b2e\u0b4d\u0b2c\u0b3f\u0b15\u0b4d\u0b5f\u0b41"
     ],
     "name:orm_x_preferred":[
         "Moozaambiik"
@@ -470,11 +561,17 @@
     "name:que_x_preferred":[
         "Musambik"
     ],
+    "name:roh_x_preferred":[
+        "Mosambic"
+    ],
     "name:ron_x_preferred":[
         "Mozambic"
     ],
     "name:rum_x_preferred":[
         "Mozambic"
+    ],
+    "name:run_x_preferred":[
+        "Mozambiki"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
@@ -512,6 +609,9 @@
     "name:som_x_preferred":[
         "Musanbiig"
     ],
+    "name:som_x_variant":[
+        "Musambiig"
+    ],
     "name:sot_x_preferred":[
         "Mozambiki"
     ],
@@ -520,6 +620,9 @@
     ],
     "name:sqi_x_preferred":[
         "Mozambiku"
+    ],
+    "name:sqi_x_variant":[
+        "Mozambik"
     ],
     "name:srd_x_preferred":[
         "Mozambico"
@@ -569,11 +672,21 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e21\u0e0b\u0e31\u0e21\u0e1a\u0e34\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e21\u0e41\u0e0b\u0e21\u0e1a\u0e34\u0e04",
+        "\u0e42\u0e21\u0e0b\u0e31\u0e21\u0e1a\u0e34\u0e01"
+    ],
     "name:tir_x_preferred":[
         "\u121e\u12db\u121d\u1262\u12ad"
     ],
+    "name:ton_x_preferred":[
+        "Mosenipiki"
+    ],
     "name:tso_x_preferred":[
         "Muzambhiki"
+    ],
+    "name:tso_x_variant":[
+        "Mozambique"
     ],
     "name:tuk_x_preferred":[
         "Mozambik"
@@ -594,6 +707,9 @@
         "M\u00f3sambik",
         "Republika Mozambik"
     ],
+    "name:unk_x_variant":[
+        "Portuguese East Africa"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0632\u0645\u0628\u06cc\u0642"
     ],
@@ -611,6 +727,10 @@
     ],
     "name:vie_x_preferred":[
         "Mozambique"
+    ],
+    "name:vie_x_variant":[
+        "M\u00f4-d\u0103m-b\u00edch",
+        "M\u00f4-d\u0103m- b\u00edch (Mozambique)"
     ],
     "name:vol_x_preferred":[
         "Mozambik\u00e4n"
@@ -636,6 +756,9 @@
     "name:yor_x_preferred":[
         "M\u00f2s\u00e1mb\u00eck"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Mo\u1e63amibiku"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Mo\u00e7ambique"
     ],
@@ -643,13 +766,17 @@
         "\u83ab\u6851\u6bd4\u514b"
     ],
     "name:zho_x_variant":[
-        "\u83ab\u6851\u6bd4\u514b"
+        "\u83ab\u6851\u6bd4\u514b",
+        "\u83ab\u4e09\u6bd4\u514b"
     ],
     "name:zho_yue_x_preferred":[
         "\u83ab\u4e09\u9f3b\u7d66"
     ],
     "name:zul_x_preferred":[
         "IMozambiki"
+    ],
+    "name:zul_x_variant":[
+        "i-Mozambique"
     ],
     "ne:abbrev":"Moz.",
     "ne:abbrev_len":4,
@@ -729,6 +856,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"258",
+    "statoids:ds":"MOC",
+    "statoids:fifa":"MOZ",
+    "statoids:gaul":"170",
+    "statoids:gec":"MZ",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MOZ",
+    "statoids:iso_a2":"MZ",
+    "statoids:iso_a3":"MOZ",
+    "statoids:iso_num":"508",
+    "statoids:itu":"MOZ",
+    "statoids:marc":"mz",
+    "statoids:name":"Mozambique",
+    "statoids:wmo":"MZ",
     "wk:latitude":-17.6,
     "wk:longitude":35.183333,
     "wk:population":25833752,
@@ -740,19 +882,29 @@
     "wof:concordances":{
         "dbp:id":"Mozambique",
         "fb:id":"en.mozambique",
+        "fifa:id":"MOZ",
+        "fips:code":"MZ",
+        "gaul:id":"170",
         "gn:id":1036973,
         "gp:id":23424902,
         "hasc:id":"MZ",
+        "ioc:id":"MOZ",
+        "itu:id":"MOZ",
         "loc:id":"n81082759",
+        "m49:code":"508",
+        "marc:id":"mz",
         "mzb:id":"mozambique",
+        "ne:adm0_a3":"MOZ",
         "nyt:id":"N61626022548911769611",
         "qs:id":467088,
+        "uncrt:id":"MOC",
         "wd:id":"Q1029",
-        "wk:page":"Mozambique"
+        "wk:page":"Mozambique",
+        "wmo:id":"MZ"
     },
     "wof:country":"MZ",
     "wof:country_alpha3":"MOZ",
-    "wof:geomhash":"ef8004fe6a9c667cafa14d720f837aba",
+    "wof:geomhash":"42d12c8f1047a5b169eef74461b633fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -769,11 +921,14 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1493230072,
+    "wof:lastmodified":1509142805,
     "wof:name":"Mozambique",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":25833752,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MOZ",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

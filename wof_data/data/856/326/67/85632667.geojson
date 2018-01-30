@@ -3,19 +3,26 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2006-05~/2006-06~",
     "geom:area":1.530964,
+    "geom:area_square_m":13892805043.111507,
     "geom:bbox":"18.43398,41.8463449651,20.352911,43.558743",
     "geom:latitude":42.786412,
     "geom:longitude":19.251705,
     "gn:id":"",
     "gn:population":666730,
     "iso:country":"ME",
+    "itu:country_code":[
+        "382"
+    ],
     "lbl:latitude":42.782845,
     "lbl:longitude":19.157424,
     "mps:latitude":42.782845,
     "mps:longitude":19.157424,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Mont\u00e9n\u00e8gr\u00f4"
     ],
@@ -30,6 +37,9 @@
     ],
     "name:amh_x_preferred":[
         "\u121e\u1295\u1274\u1294\u130d\u122e"
+    ],
+    "name:amh_x_variant":[
+        "\u121e\u1295\u1270\u1294\u130d\u122e"
     ],
     "name:ang_x_preferred":[
         "Sweartbeorg"
@@ -49,6 +59,9 @@
     "name:ast_x_preferred":[
         "Montenegro"
     ],
+    "name:ast_x_variant":[
+        "Montenegru"
+    ],
     "name:ava_x_preferred":[
         "\u0427\u0406\u0435\u0433\u0406\u0435\u0440\u043c\u0435\u0433\u0406\u0435\u0440"
     ],
@@ -57,6 +70,9 @@
     ],
     "name:aze_x_preferred":[
         "Monteneqro"
+    ],
+    "name:aze_x_variant":[
+        "\u00c7ernoqoriya"
     ],
     "name:bak_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f"
@@ -75,6 +91,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09bf\u09a8\u09bf\u0997\u09cd\u09b0\u09cb"
+    ],
+    "name:bih_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0940\u0928\u0940\u0917\u094d\u0930\u094b"
     ],
     "name:bis_x_preferred":[
         "Montenegro"
@@ -111,13 +130,6 @@
     ],
     "name:che_x_preferred":[
         "\u04c0\u0430\u044c\u0440\u0436\u0430\u043b\u0430\u043c\u0430\u043d\u0447\u043e\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u5167\u54e5\u7f85"
-    ],
-    "name:chi_x_variant":[
-        "\u8499\u7279\u5167\u54e5\u7f85",
-        "\u9ed1\u5c71"
     ],
     "name:chr_x_preferred":[
         "\u13bc\u13c2\u13d4\u13c1\u13a6\u13b6"
@@ -190,6 +202,9 @@
     "name:ewe_x_preferred":[
         "Montenegro"
     ],
+    "name:ewe_x_variant":[
+        "Montenegro nutome"
+    ],
     "name:ext_x_preferred":[
         "Montenegru"
     ],
@@ -205,10 +220,7 @@
     "name:fra_x_preferred":[
         "Mont\u00e9n\u00e9gro"
     ],
-    "name:fre_x_preferred":[
-        "Mont\u00e9n\u00e9gro"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "R\u00e9publique du Mont\u00e9n\u00e9gro"
     ],
     "name:frp_x_preferred":[
@@ -244,8 +256,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0aa8\u0ac0\u0a97\u0acd\u0ab0\u0acb"
     ],
+    "name:guj_x_variant":[
+        "\u0aae\u0ac9\u0aa8\u0acd\u0a9f\u0ac7\u0a82\u0aa8\u0ac7\u0a97\u0acd\u0ab0\u0acb"
+    ],
     "name:hak_x_preferred":[
         "Montenegro"
+    ],
+    "name:hak_x_variant":[
+        "M\u00f9ng-thi\u030dt-nui-k\u00f4-l\u00f2"
     ],
     "name:hat_x_preferred":[
         "Montenegwo"
@@ -267,6 +285,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0949\u0928\u094d\u091f\u0947\u0928\u0940\u0917\u094d\u0930\u094b"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u094b\u0902\u091f\u0947\u0928\u0947\u0917\u094d\u0930\u094b"
     ],
     "name:hrv_x_preferred":[
         "Crna Gora"
@@ -298,6 +319,9 @@
     "name:isl_x_preferred":[
         "Svartfjallaland"
     ],
+    "name:isl_x_variant":[
+        "Montenegro"
+    ],
     "name:ita_x_preferred":[
         "Montenegro"
     ],
@@ -313,14 +337,23 @@
     "name:kaa_x_preferred":[
         "Montenegro"
     ],
+    "name:kaa_x_variant":[
+        "Shernogoriya"
+    ],
     "name:kal_x_preferred":[
         "Montenegro"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0ca8\u0cc6\u0c97\u0ccd\u0cb0\u0cca"
     ],
+    "name:kan_x_variant":[
+        "\u0cae\u0cca\u0c82\u0c9f\u0cc6\u0ca8\u0cc6\u0c97\u0ccd\u0cb0\u0ccb"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d4\u10dc\u10d4\u10d2\u10e0\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "\u10e9\u10d4\u10e0\u10dc\u10dd\u10d2\u10dd\u10e0\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f"
@@ -352,6 +385,9 @@
     "name:kur_x_preferred":[
         "Montenegro"
     ],
+    "name:kur_x_variant":[
+        "\u0645\u06c6\u0646\u062a\u06cc\u0646\u06cc\u06af\u0631\u06c6"
+    ],
     "name:lad_x_preferred":[
         "Montenegro"
     ],
@@ -363,6 +399,9 @@
     ],
     "name:lij_x_preferred":[
         "Monteneigro (Na\u00e7ioin d'Eur\u00f2pa)"
+    ],
+    "name:lij_x_variant":[
+        "Monteneigro"
     ],
     "name:lim_x_preferred":[
         "Montenegro"
@@ -385,8 +424,14 @@
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d23\u0d4d\u0d1f\u0d3f\u0d28\u0d46\u0d17\u0d4d\u0d30\u0d4b"
     ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d4b\u0d23\u0d4d\u0d1f\u0d47\u0d28\u0d47\u0d17\u0d4d\u0d30\u0d4b"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0901\u091f\u0947\u0928\u093f\u0917\u094d\u0930\u094b"
+    ],
+    "name:mar_x_variant":[
+        "\u092e\u094b\u0902\u091f\u0947\u0928\u0947\u0917\u094d\u0930\u094b"
     ],
     "name:mhr_x_preferred":[
         "\u0428\u0435\u043c\u043a\u0443\u0440\u044b\u043a \u042d\u043b"
@@ -409,11 +454,20 @@
     "name:mya_x_preferred":[
         "\u1019\u103d\u1014\u103a\u1010\u102e\u1014\u102e\u1002\u101b\u102d\u102f\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1019\u103d\u1014\u103a\u1010\u102e\u1014\u102d\u1002\u101b\u102d\u102f\u1038"
+    ],
     "name:myv_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0647 \u0646\u06af\u0631\u0648"
+    ],
+    "name:nah_x_preferred":[
+        "Tl\u012bltep\u0113c"
+    ],
+    "name:nan_x_preferred":[
+        "O\u0358-soa\u207f Ki\u014dng-h\u00f4-kok"
     ],
     "name:nap_x_preferred":[
         "Montenegro"
@@ -439,6 +493,9 @@
     "name:nno_x_preferred":[
         "Montenegro"
     ],
+    "name:nob_x_preferred":[
+        "Montenegro"
+    ],
     "name:nor_x_preferred":[
         "Montenegro"
     ],
@@ -453,6 +510,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b4b\u0b23\u0b4d\u0b1f\u0b47\u0b28\u0b47\u0b17\u0b4d\u0b30\u0b4b"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b23\u0b4d\u0b1f\u0b47\u0b17\u0b4d\u0b30\u0b4b"
     ],
     "name:orm_x_preferred":[
         "Moonteneegroo"
@@ -496,6 +556,9 @@
     "name:que_x_preferred":[
         "Yanaurqu"
     ],
+    "name:roh_x_preferred":[
+        "Montenegro"
+    ],
     "name:ron_x_preferred":[
         "Muntenegru"
     ],
@@ -517,8 +580,14 @@
     "name:sco_x_preferred":[
         "Montenegro"
     ],
+    "name:sgs_x_preferred":[
+        "Joudkaln\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dd2\u0db1\u0dd2\u0d9c\u0dca\u200d\u0dbb\u0ddd"
+    ],
+    "name:sin_x_variant":[
+        "\u0db8\u0ddc\u0db1\u0dca\u0da9\u0dd2\u0db1\u0dd3\u0d9c\u0dca\u200d\u0dbb\u0ddd"
     ],
     "name:slk_x_preferred":[
         "\u010cierna Hora"
@@ -553,6 +622,10 @@
     "name:srp_x_preferred":[
         "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430"
     ],
+    "name:srp_x_variant":[
+        "Republika Crna Gora",
+        "Crna Gora"
+    ],
     "name:ssw_x_preferred":[
         "IMonthenekho"
     ],
@@ -574,8 +647,14 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0ba3\u0bcd\u0b9f\u0bc6\u0ba9\u0bc7\u0b95\u0bc1\u0bb0\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0ba9\u0bc6\u0b95\u0bcd\u0bb0\u0bcb"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u043d\u0435\u0433\u0440\u043e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c02\u0c1f\u0c47\u0c28\u0c47\u0c17\u0c4d\u0c30\u0c4b"
     ],
     "name:tet_x_preferred":[
         "Montenegru"
@@ -588,6 +667,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e40\u0e19\u0e42\u0e01\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e40\u0e19\u0e42\u0e01\u0e23"
+    ],
+    "name:ton_x_preferred":[
+        "Monitenikalo"
     ],
     "name:tuk_x_preferred":[
         "\u00c7ernogori\u00fda"
@@ -610,8 +695,14 @@
     "name:und_x_variant":[
         "Republika Crna Gora"
     ],
+    "name:unk_x_variant":[
+        "Republika Crna Gora"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0646\u0679\u06d2 \u0646\u06cc\u06af\u0631\u0648"
     ],
     "name:uzb_x_preferred":[
         "Chernogoriya"
@@ -652,6 +743,12 @@
     "name:yor_x_preferred":[
         "Montenegro"
     ],
+    "name:yor_x_variant":[
+        "Monten\u1eb9\u0301gr\u00f2"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ed1\u5c71"
+    ],
     "name:zea_x_preferred":[
         "Montenehro"
     ],
@@ -661,11 +758,19 @@
     "name:zho_x_preferred":[
         "\u8499\u7279\u5167\u54e5\u7f85"
     ],
+    "name:zho_x_variant":[
+        "\u8499\u7279\u5167\u54e5\u7f85",
+        "\u9ed1\u5c71",
+        "\u9ed1\u5c71\u5171\u548c\u56fd"
+    ],
     "name:zho_yue_x_preferred":[
         "\u9ed1\u5c71"
     ],
     "name:zul_x_preferred":[
         "IMontenegro"
+    ],
+    "name:zul_x_variant":[
+        "i-Montenegro"
     ],
     "ne:abbrev":"Mont.",
     "ne:abbrev_len":5,
@@ -744,6 +849,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"382",
+    "statoids:ds":"MNE",
+    "statoids:fifa":"MNE",
+    "statoids:gaul":"2647",
+    "statoids:gec":"MJ",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"MGO",
+    "statoids:iso_a2":"ME",
+    "statoids:iso_a3":"MNE",
+    "statoids:iso_num":"499",
+    "statoids:itu":"MNE",
+    "statoids:marc":"mo",
+    "statoids:name":"Montenegro",
+    "statoids:wmo":"",
     "wk:latitude":42.766667,
     "wk:longitude":19.216667,
     "wk:wordcount":8658,
@@ -754,18 +874,27 @@
     "wof:concordances":{
         "dbp:id":"Montenegro",
         "fb:id":"en.montenegro",
+        "fifa:id":"MNE",
+        "fips:code":"MJ",
+        "gaul:id":"2647",
         "gn:id":3194884,
         "gp:id":20069817,
         "hasc:id":"ME",
+        "ioc:id":"MGO",
+        "itu:id":"MNE",
+        "m49:code":"499",
+        "marc:id":"mo",
         "mzb:id":"montenegro",
+        "ne:adm0_a3":"MNE",
         "nyt:id":"11974025787996384181",
         "qs:id":1251621,
+        "uncrt:id":"MNE",
         "wd:id":"Q236",
         "wk:page":"Montenegro"
     },
     "wof:country":"ME",
     "wof:country_alpha3":"MNE",
-    "wof:geomhash":"5c165fa21348eda42aeec6106c5e10b5",
+    "wof:geomhash":"0cf02fccfbd08b42a61297f65b46bc82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -782,13 +911,18 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1493230026,
+    "wof:lastmodified":1509142804,
     "wof:name":"Montenegro",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":666730,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MNE",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108955783
+    ],
     "wof:tags":[]
 },
   "bbox": [

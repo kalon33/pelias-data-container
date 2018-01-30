@@ -5,28 +5,87 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002313,
+    "geom:area_square_m":26489652.931184,
     "geom:bbox":"113.528491721,22.109443665,113.591268697,22.2171530386",
     "geom:latitude":22.158225,
     "geom:longitude":113.557709,
     "gn:id":"",
     "gn:population":449198,
     "iso:country":"MO",
+    "itu:country_code":[
+        "853"
+    ],
     "lbl:latitude":22.139833,
     "lbl:longitude":113.563619,
     "mps:latitude":22.139833,
     "mps:longitude":113.563619,
     "mz:hierarchy_label":1,
-    "name:chi_x_preferred":[
-        "\u4e2d\u570b\u6fb3\u9580"
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
+    "name:afr_x_preferred":[
+        "Macau"
     ],
-    "name:chi_x_variant":[
-        "\u4e2d\u570b\u6fb3\u9580"
+    "name:amh_x_preferred":[
+        "\u121b\u12ab\u12a1"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0643\u0627\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Macau"
+    ],
+    "name:aze_x_preferred":[
+        "Makao"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u0995\u09be\u0993"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f58\u0f7a\u0f0b\u0f40\u0f60\u0f7c\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Makao"
+    ],
+    "name:bre_x_preferred":[
+        "Macau"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Macau"
+    ],
+    "name:cat_x_variant":[
+        "Macao"
+    ],
+    "name:ces_x_preferred":[
+        "Macao"
+    ],
+    "name:cym_x_preferred":[
+        "Macao S.A.R., Tseina"
     ],
     "name:cze_x_preferred":[
         "Macao"
     ],
     "name:dan_x_preferred":[
         "Macao"
+    ],
+    "name:deu_x_preferred":[
+        "Macao"
+    ],
+    "name:deu_x_variant":[
+        "Makao",
+        "Macau"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03ac\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03ba\u03ac\u03bf"
     ],
     "name:eng_x_preferred":[
         "Macau"
@@ -36,22 +95,83 @@
     ],
     "name:eng_x_variant":[
         "Macao",
-        "Macao SAR"
+        "Macao SAR",
+        "Macau Special Administrative Region"
+    ],
+    "name:epo_x_preferred":[
+        "Makao"
+    ],
+    "name:est_x_preferred":[
+        "Aomen"
+    ],
+    "name:est_x_variant":[
+        "Macao"
+    ],
+    "name:eus_x_preferred":[
+        "Macau"
+    ],
+    "name:eus_x_variant":[
+        "Makau"
+    ],
+    "name:ewe_x_preferred":[
+        "Macau nutome"
+    ],
+    "name:fao_x_preferred":[
+        "Makao"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0626\u0648"
     ],
     "name:fin_x_preferred":[
         "Macao"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Macao"
     ],
-    "name:ger_x_preferred":[
-        "Macao"
+    "name:gle_x_preferred":[
+        "Mac\u00e1\u00f3"
     ],
-    "name:ger_x_variant":[
+    "name:glg_x_preferred":[
+        "Macau - \u6fb3\u95e8"
+    ],
+    "name:glg_x_variant":[
+        "Macau"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0a95\u0abe\u0a93"
+    ],
+    "name:hbs_x_preferred":[
+        "Makao"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0915\u093e\u0913"
+    ],
+    "name:hrv_x_preferred":[
         "Makao"
     ],
     "name:hun_x_preferred":[
         "Maka\u00f3"
+    ],
+    "name:ido_x_preferred":[
+        "Macau"
+    ],
+    "name:ina_x_preferred":[
+        "Macao"
+    ],
+    "name:ind_x_preferred":[
+        "Makau"
+    ],
+    "name:ind_x_variant":[
+        "Macao"
+    ],
+    "name:isl_x_preferred":[
+        "Maka\u00f3"
+    ],
+    "name:isl_x_variant":[
+        "Macau"
     ],
     "name:ita_x_preferred":[
         "Macao"
@@ -63,25 +183,184 @@
         "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a",
         "\u6fb3\u9580"
     ],
+    "name:kal_x_preferred":[
+        "Macao"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0c96\u0cbe\u0cb5\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d9\u10d0\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\uce74\uc624"
+    ],
+    "name:kur_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0648"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0eb2\u0ec0\u0e81\u0ebb\u0ec9\u0eb2"
+    ],
+    "name:lav_x_preferred":[
+        "Makao"
+    ],
+    "name:lit_x_preferred":[
+        "Makao"
+    ],
+    "name:lit_x_variant":[
+        "Macao"
+    ],
+    "name:ltz_x_preferred":[
+        "Macau"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d15\u0d4d\u0d15\u0d3e\u0d35\u0d4b"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0915\u093e\u090a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:mlt_x_preferred":[
+        "Macao"
+    ],
+    "name:msa_x_preferred":[
+        "Macau"
+    ],
+    "name:msa_x_variant":[
+        "Macao S.A.R., China"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u102c\u1021\u102d\u102f"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0915\u093e\u0935\u094b"
+    ],
+    "name:nld_x_preferred":[
+        "Macau"
+    ],
+    "name:nld_x_variant":[
+        "Macao"
+    ],
+    "name:nno_x_preferred":[
+        "Macao"
+    ],
+    "name:nob_x_preferred":[
+        "Macao"
     ],
     "name:nor_x_preferred":[
         "Macao"
     ],
+    "name:ori_x_preferred":[
+        "\u0b2e\u0b3e\u0b15\u0b3e\u0b09 SAR \u0b1a\u0b3f\u0b28\u0b4d"
+    ],
     "name:pol_x_preferred":[
         "Makau"
+    ],
+    "name:por_x_preferred":[
+        "Macau"
+    ],
+    "name:por_x_variant":[
+        "Regi\u00e3o Administrativa Especial de Macau"
+    ],
+    "name:roh_x_preferred":[
+        "Regiun d'administraziun speziala Macao, China"
+    ],
+    "name:ron_x_preferred":[
+        "Macao"
     ],
     "name:rum_x_preferred":[
         "Macao"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043e\u043c\u044b\u043d\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Macao"
+    ],
+    "name:slk_x_variant":[
+        "Makao"
+    ],
+    "name:slv_x_preferred":[
+        "Macao"
+    ],
+    "name:sme_x_preferred":[
+        "Mak\u00e1o"
+    ],
     "name:spa_x_preferred":[
         "Macao"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043a\u0430\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Macau"
     ],
     "name:swe_x_preferred":[
         "Macao"
     ],
-    "ne:abbrev":"Mac.",
+    "name:tam_x_preferred":[
+        "\u0bae\u0b95\u0bbe\u0bb5\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c15\u0c3e\u0c35\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u121b\u12ab\u12ce"
+    ],
+    "name:ton_x_preferred":[
+        "Makau"
+    ],
+    "name:tur_x_preferred":[
+        "Macau"
+    ],
+    "name:tur_x_variant":[
+        "Makao"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0627\u06cb\u0645\u06d0\u0646"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Aomen Tebie Xingzhengqu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06a9\u0627\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "Ma Cao"
+    ],
+    "name:vie_x_variant":[
+        "Macao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u570b\u6fb3\u9580"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u570b\u6fb3\u9580",
+        "\u6fb3\u9580",
+        "\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a",
+        "\u6fb3\u95e8"
+    ],
+    "name:zul_x_preferred":[
+        "i-Macau"
+    ],
+    "ne:abbrev":"",
     "ne:abbrev_len":4,
     "ne:adm0_a3":"MAC",
     "ne:adm0_a3_is":"MAC",
@@ -89,62 +368,102 @@
     "ne:adm0_a3_us":"MAC",
     "ne:adm0_a3_wb":-99,
     "ne:adm0_dif":1,
-    "ne:admin":"Macao S.A.R",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MAC+00?",
+    "ne:adm1_code":"MAC+00?",
+    "ne:admin":"Macau S.A.R",
+    "ne:area_sqkm":"0.00000000000",
     "ne:brk_a3":"MAC",
     "ne:brk_diff":0,
     "ne:brk_group":null,
     "ne:brk_name":"Macao",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MO",
+    "ne:code_local":"",
     "ne:continent":"Asia",
+    "ne:datarank":"10",
+    "ne:diss_me":"10105",
     "ne:economy":"6. Developing region",
-    "ne:featurecla":"Admin-0 country",
+    "ne:featurecla":"Admin-1 aggregation",
+    "ne:fips":"",
     "ne:fips_10_":"MC",
+    "ne:fips_alt":"",
     "ne:formal_en":"Macao Special Administrative Region, PRC",
     "ne:formal_fr":null,
+    "ne:gadm_level":"0",
     "ne:gdp_md_est":18140,
     "ne:gdp_year":-99,
+    "ne:geonunit":"Macao S.A.R",
     "ne:geou_dif":0,
     "ne:geounit":"Macao S.A.R",
+    "ne:gn_a1_code":"MO.",
+    "ne:gn_id":"0",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
     "ne:gu_a3":"MAC",
+    "ne:hasc_maybe":"",
     "ne:homepart":-99,
     "ne:income_grp":"2. High income: nonOECD",
+    "ne:iso_3166_2":"MO-",
     "ne:iso_a2":"MO",
     "ne:iso_a3":"MAC",
     "ne:iso_n3":"446",
-    "ne:labelrank":4,
+    "ne:labelrank":"20",
     "ne:lastcensus":2011,
+    "ne:latitude":"22.13490000000",
     "ne:level":2,
     "ne:long_len":5,
-    "ne:mapcolor13":3,
+    "ne:longitude":"113.56000000000",
+    "ne:mapcolor13":"3",
     "ne:mapcolor7":4,
     "ne:mapcolor8":4,
-    "ne:mapcolor9":4,
-    "ne:name":"Macao",
-    "ne:name_alt":null,
-    "ne:name_len":5,
+    "ne:mapcolor9":"4",
+    "ne:name":"Macau",
+    "ne:name_alt":"",
+    "ne:name_len":"5",
+    "ne:name_local":"",
     "ne:name_long":"Macao",
     "ne:name_sort":"Macao SAR, China",
+    "ne:note":"",
     "ne:note_adm0":"China",
     "ne:note_brk":null,
     "ne:pop_est":559846,
     "ne:pop_year":-99,
-    "ne:postal":"MO",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
     "ne:region_un":"Asia",
     "ne:region_wb":"East Asia & Pacific",
-    "ne:scalerank":0,
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
     "ne:sov_a3":"CH1",
     "ne:sovereignt":"China",
     "ne:su_a3":"MAC",
     "ne:su_dif":0,
+    "ne:sub_code":"",
     "ne:subregion":"Eastern Asia",
     "ne:subunit":"Macao S.A.R",
     "ne:tiny":-99,
-    "ne:type":"Country",
+    "ne:type":"",
+    "ne:type_en":"",
     "ne:un_a3":"446",
     "ne:wb_a2":"MO",
     "ne:wb_a3":"MAC",
-    "ne:wikipedia":-99,
-    "ne:woe_id":20070017,
+    "ne:wikipedia":"",
+    "ne:woe_id":"20070017",
     "ne:woe_id_eh":20070017,
+    "ne:woe_label":"",
+    "ne:woe_name":"Macau",
     "ne:woe_note":"Exact WOE match as country",
     "qs:a0":"Macao S.A.R",
     "qs:a0_alt":"Macao S.A.R",
@@ -154,8 +473,25 @@
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "naturalearth"
+    ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"853",
+    "statoids:ds":"MO",
+    "statoids:fifa":"MAC",
+    "statoids:gaul":"149",
+    "statoids:gec":"MC",
+    "statoids:independent":"Part of CN",
+    "statoids:ioc":"MAC",
+    "statoids:iso_a2":"MO",
+    "statoids:iso_a3":"MAC",
+    "statoids:iso_num":"446",
+    "statoids:itu":"MAC",
+    "statoids:marc":"",
+    "statoids:name":"Macau",
+    "statoids:wmo":"MU",
     "wof:belongsto":[
         102191569,
         136253041
@@ -164,16 +500,25 @@
     "wof:concordances":{
         "dbp:id":"Macau",
         "fb:id":"en.macau",
+        "fifa:id":"MAC",
+        "fips:code":"MC",
+        "gaul:id":"149",
         "gn:id":1821275,
         "gp:id":20070017,
         "hasc:id":"MO",
+        "ioc:id":"MAC",
+        "itu:id":"MAC",
+        "m49:code":"446",
+        "ne:adm0_a3":"MAC",
         "nyt:id":"60381754127244328961",
         "qs:id":564232,
-        "wd:id":"Q14773"
+        "uncrt:id":"MO",
+        "wd:id":"Q14773",
+        "wmo:id":"MU"
     },
     "wof:country":"MO",
     "wof:country_alpha3":"MAC",
-    "wof:geomhash":"4cf93c6d9163de6d9a9759bf3cf84ba2",
+    "wof:geomhash":"f771682454c995c209503eff6ed71bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,11 +539,14 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1493229856,
+    "wof:lastmodified":1509142704,
     "wof:name":"Macao S.A.R",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":449198,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"MAC",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

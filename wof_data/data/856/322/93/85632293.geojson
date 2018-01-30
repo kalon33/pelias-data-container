@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":43.365789,
+    "geom:area_square_m":516821377058.456055,
     "geom:bbox":"97.343396,5.6128955,105.636812,20.465047",
     "geom:latitude":15.107267,
     "geom:longitude":101.011652,
     "gn:id":"",
     "iso:country":"TH",
+    "itu:country_code":[
+        "66"
+    ],
     "lbl:latitude":15.512883,
     "lbl:longitude":101.301707,
     "mps:latitude":15.512883,
     "mps:longitude":101.301707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Muang Thai"
     ],
@@ -111,12 +118,6 @@
     "name:che_x_preferred":[
         "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u570b"
-    ],
-    "name:chi_x_variant":[
-        "\u6cf0\u56fd"
-    ],
     "name:chr_x_preferred":[
         "\u13d4\u13ef\u13b4\u13c2"
     ],
@@ -201,13 +202,10 @@
         "Thaimaassa",
         "Thaimaasta"
     ],
-    "name:fra_x_preferred":[
-        "Tha\u00eflande"
-    ],
-    "name:fre_x_colloquial":[
+    "name:fra_x_colloquial":[
         "Thailande"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tha\u00eflande"
     ],
     "name:frp_x_preferred":[
@@ -714,7 +712,8 @@
         "\u6cf0\u56fd"
     ],
     "name:zho_x_variant":[
-        "\u6cf0\u570b"
+        "\u6cf0\u570b",
+        "\u6cf0\u56fd"
     ],
     "name:zho_yue_x_preferred":[
         "\u6cf0\u570b"
@@ -797,6 +796,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"66",
+    "statoids:ds":"T",
+    "statoids:fifa":"THA",
+    "statoids:gaul":"240",
+    "statoids:gec":"TH",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"THA",
+    "statoids:iso_a2":"TH",
+    "statoids:iso_a3":"THA",
+    "statoids:iso_num":"764",
+    "statoids:itu":"THA",
+    "statoids:marc":"th",
+    "statoids:name":"Thailand",
+    "statoids:wmo":"TH",
     "wk:latitude":15.0,
     "wk:longitude":101.0,
     "wk:population":67010502,
@@ -806,15 +820,25 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fifa:id":"THA",
+        "fips:code":"TH",
+        "gaul:id":"240",
         "gp:id":23424960,
         "hasc:id":"TH",
+        "ioc:id":"THA",
+        "itu:id":"THA",
+        "m49:code":"764",
+        "marc:id":"th",
         "mzb:id":"thailand",
+        "ne:adm0_a3":"THA",
         "qs:id":976547,
-        "wd:id":"Q869"
+        "uncrt:id":"T",
+        "wd:id":"Q869",
+        "wmo:id":"TH"
     },
     "wof:country":"TH",
     "wof:country_alpha3":"THA",
-    "wof:geomhash":"69159dbf03755d1c37aff78c96227d6d",
+    "wof:geomhash":"e036602264feb04c8108d893eaa55d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -825,11 +849,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1493229909,
+    "wof:lastmodified":1509143033,
     "wof:name":"Thailand",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":67010502,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"THA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

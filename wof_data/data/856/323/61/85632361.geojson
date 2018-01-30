@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":156.127415,
+    "geom:area_square_m":1624180797794.80835,
     "geom:bbox":"44.031891,25.060388565,63.3332005,39.781676",
     "geom:latitude":32.561186,
     "geom:longitude":54.303325,
     "gn:id":"",
     "gn:population":76923300,
     "iso:country":"IR",
+    "itu:country_code":[
+        "98"
+    ],
     "lbl:latitude":31.931398,
     "lbl:longitude":55.245317,
     "mps:latitude":31.931398,
     "mps:longitude":55.245317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":6.7,
+    "mz:min_zoom":1.7,
     "name:ace_x_preferred":[
         "Iran"
     ],
@@ -25,11 +32,17 @@
     "name:afr_x_preferred":[
         "Iran"
     ],
+    "name:aka_x_preferred":[
+        "Iran"
+    ],
     "name:als_x_preferred":[
         "Iran"
     ],
     "name:amh_x_preferred":[
         "\u134b\u122d\u1235"
+    ],
+    "name:amh_x_variant":[
+        "\u12a2\u122b\u1295"
     ],
     "name:ang_x_preferred":[
         "Persealand"
@@ -37,8 +50,14 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u064a\u0631\u0627\u0646"
+    ],
     "name:arc_x_preferred":[
         "\u0710\u071d\u072a\u0710\u0722"
+    ],
+    "name:arc_x_variant":[
+        "\u0710\u071d\u072a\u0722"
     ],
     "name:arg_x_preferred":[
         "Ir\u00e1n"
@@ -61,6 +80,9 @@
     "name:bak_x_preferred":[
         "\u0418\u0440\u0430\u043d"
     ],
+    "name:bam_x_preferred":[
+        "Ira\u014b"
+    ],
     "name:bar_x_preferred":[
         "Iran"
     ],
@@ -71,13 +93,17 @@
         "\u0406\u0440\u0430\u043d"
     ],
     "name:bel_x_variant":[
-        "\u0406\u0440\u0430\u043d"
+        "\u0406\u0440\u0430\u043d",
+        "\u0406\u0440\u0430\u043d, \u0406\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09b0\u09be\u09a8"
     ],
     "name:bod_x_preferred":[
         "\u0f61\u0f72\u0f0b\u0f63\u0f44\u0f0b\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f72\u0f0b\u0f62\u0f71\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Iran"
@@ -93,6 +119,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0418\u0440\u0430\u043d"
+    ],
+    "name:bul_x_variant":[
+        "\u0418\u0440\u0430\u043d, \u0418\u0441\u043b\u044f\u043c\u0441\u043a\u0430 \u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
     "name:bxr_x_preferred":[
         "\u0418\u0440\u0430\u043d"
@@ -111,9 +140,6 @@
     ],
     "name:che_x_preferred":[
         "\u0418\u0440\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6717"
     ],
     "name:chv_x_preferred":[
         "\u0418\u0440\u0430\u043d"
@@ -142,8 +168,20 @@
     "name:dan_x_preferred":[
         "Iran"
     ],
+    "name:dan_x_variant":[
+        "Den Islamiske Republik Iran"
+    ],
+    "name:deu_x_historical":[
+        "Persian",
+        "Persien"
+    ],
     "name:deu_x_preferred":[
         "Iran"
+    ],
+    "name:deu_x_variant":[
+        "Iran (Islamische Republik)",
+        "Persian",
+        "Persien"
     ],
     "name:diq_x_preferred":[
         "\u0130ran"
@@ -157,8 +195,17 @@
     "name:dzo_x_preferred":[
         "\u0f68\u0f72\u0f0b\u0f62\u0f71\u0f53\u0f0b"
     ],
+    "name:dzo_x_variant":[
+        "\u0f68\u0f72\u0f0b\u0f62\u0f71\u0f53"
+    ],
     "name:ell_x_preferred":[
         "\u0399\u03c1\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03c1\u03ac\u03bd, \u0399\u03c3\u03bb\u03b1\u03bc\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5"
+    ],
+    "name:eng_x_historical":[
+        "Empire of Iran"
     ],
     "name:eng_x_preferred":[
         "Iran"
@@ -171,16 +218,24 @@
         "Empire of Iran",
         "Iranian",
         "Islamic Republic of Iran",
-        "Persian"
+        "Persian",
+        "Iran, Islamic Republic Of"
     ],
     "name:epo_x_preferred":[
         "Irano"
+    ],
+    "name:epo_x_variant":[
+        "Persujo",
+        "Persio"
     ],
     "name:est_x_preferred":[
         "Iraan"
     ],
     "name:eus_x_preferred":[
         "Iran"
+    ],
+    "name:ewe_x_preferred":[
+        "Iran nutome"
     ],
     "name:ext_x_preferred":[
         "Ir\u00e1n"
@@ -191,11 +246,19 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0631\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "Jomh\u016br\u012b-ye Esl\u0101m\u012b-ye \u012ar\u0101n",
+        "\u062c\u064f\u0645\u0647\u0648\u0631\u0626 \u0627\u0650\u0633\u0644\u0627\u0645\u0626 \u0627\u064a\u0631\u0627\u0646",
+        "\u0643\u0650\u0634\u0648\u064e\u0631\u0650 \u0634\u0627\u0647\u064e\u0646\u0634\u0627\u0647\u0626 \u0627\u064a\u0631\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Iran"
     ],
     "name:fra_x_preferred":[
         "Iran"
+    ],
+    "name:fra_x_variant":[
+        "Iran (R\u00e9publique islamique de)"
     ],
     "name:frp_x_preferred":[
         "\u00c9ran"
@@ -205,6 +268,9 @@
     ],
     "name:fry_x_preferred":[
         "Iran"
+    ],
+    "name:ful_x_preferred":[
+        "Iraan"
     ],
     "name:gag_x_preferred":[
         "\u0130ran"
@@ -223,6 +289,9 @@
     ],
     "name:glg_x_preferred":[
         "Ir\u00e1n"
+    ],
+    "name:glg_x_variant":[
+        "Ir\u00e1n - \u0627\u06cc\u0631\u0627\u0646"
     ],
     "name:glk_x_preferred":[
         "\u0627\u064a\u0631\u0627\u0646"
@@ -266,6 +335,9 @@
     "name:hrv_x_preferred":[
         "Iran"
     ],
+    "name:hrv_x_variant":[
+        "Iran, Islamska Republika"
+    ],
     "name:hsb_x_preferred":[
         "Iran"
     ],
@@ -295,6 +367,9 @@
     ],
     "name:ita_x_preferred":[
         "Iran"
+    ],
+    "name:ita_x_variant":[
+        "Iran (Repubblica Islamica)"
     ],
     "name:jam_x_preferred":[
         "Iran"
@@ -341,6 +416,9 @@
     "name:kik_x_preferred":[
         "Iran"
     ],
+    "name:kik_x_variant":[
+        "Uajemi"
+    ],
     "name:kin_x_preferred":[
         "Irani"
     ],
@@ -359,14 +437,23 @@
     "name:kur_x_preferred":[
         "\u00ceran"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u06ce\u0631\u0627\u0646"
+    ],
     "name:lad_x_preferred":[
         "Iran"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb5\u0ea3\u0eb2\u0e99"
     ],
+    "name:lao_x_variant":[
+        "\u0ead\u0eb5\u0ea5\u0ec8\u0eb2\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Irania"
+    ],
+    "name:lat_x_variant":[
+        "Persia"
     ],
     "name:lav_x_preferred":[
         "Ir\u0101na"
@@ -383,11 +470,20 @@
     "name:lim_x_preferred":[
         "Iran"
     ],
+    "name:lim_x_variant":[
+        "Iraan"
+    ],
     "name:lin_x_preferred":[
         "Iran"
     ],
+    "name:lin_x_variant":[
+        "Ir\u00e2"
+    ],
     "name:lit_x_preferred":[
         "Iranas"
+    ],
+    "name:lit_x_variant":[
+        "Irano Islamo Respublika"
     ],
     "name:lmo_x_preferred":[
         "Iran"
@@ -398,6 +494,12 @@
     "name:ltz_x_preferred":[
         "Iran"
     ],
+    "name:lub_x_preferred":[
+        "Ira"
+    ],
+    "name:lug_x_preferred":[
+        "Yiraani"
+    ],
     "name:mai_x_preferred":[
         "\u0908\u0930\u093e\u0928"
     ],
@@ -406,6 +508,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0907\u0930\u093e\u0923"
+    ],
+    "name:mar_x_variant":[
+        "\u0908\u0930\u093e\u0923"
     ],
     "name:mdf_x_preferred":[
         "\u0418\u0440\u0430\u043d"
@@ -437,6 +542,9 @@
     "name:mya_x_preferred":[
         "\u1021\u102e\u101b\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1021\u102e\u101b\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0631\u0627\u0646"
     ],
@@ -448,6 +556,9 @@
     ],
     "name:nav_x_preferred":[
         "Iiw\u0105\u0301\u0105\u0301"
+    ],
+    "name:nde_x_preferred":[
+        "Iran"
     ],
     "name:nds_nld_x_preferred":[
         "Iran"
@@ -464,8 +575,17 @@
     "name:nld_x_preferred":[
         "Iran"
     ],
+    "name:nld_x_variant":[
+        "Iran (Islamitische Republiek)"
+    ],
     "name:nno_x_preferred":[
         "Iran"
+    ],
+    "name:nob_x_preferred":[
+        "Iran"
+    ],
+    "name:nob_x_variant":[
+        "Iran (Den islamske republikken)"
     ],
     "name:nor_x_preferred":[
         "Iran"
@@ -478,6 +598,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b07\u0b30\u0b3e\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b07\u0b30\u0b3e\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Iraan"
@@ -522,7 +645,8 @@
         "Ir\u00e3o"
     ],
     "name:por_x_variant":[
-        "Ir\u00e3"
+        "Ir\u00e3",
+        "Rep\u00fablica Isl\u00e2mica do Ir\u00e3"
     ],
     "name:pus_x_preferred":[
         "\u0627\u064a\u0631\u0627\u0646"
@@ -536,11 +660,20 @@
     "name:ron_x_preferred":[
         "Iran"
     ],
+    "name:ron_x_variant":[
+        "Iran (Republica islamic\u0103)"
+    ],
     "name:rue_x_preferred":[
         "\u0406\u0440\u0430\u043d"
     ],
+    "name:run_x_preferred":[
+        "Irani"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Ir\u00e4an"
     ],
     "name:sah_x_preferred":[
         "\u0418\u0440\u0430\u0430\u043d"
@@ -637,6 +770,15 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e34\u0e2b\u0e23\u0e48\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e2b\u0e23\u0e48\u0e32\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a2\u122b\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbIulaani"
+    ],
     "name:tuk_x_preferred":[
         "E\u00fdran"
     ],
@@ -661,11 +803,17 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0406\u0440\u0430\u043d, \u0406\u0441\u043b\u0430\u043c\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
+    ],
     "name:und_x_preferred":[
         "\u00cdran"
     ],
     "name:und_x_variant":[
         "Islamska republika Iran"
+    ],
+    "name:unk_x_variant":[
+        "Keshvar-e Sh\u0101hansh\u0101h\u012b-ye \u012ar\u0101n"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0631\u0627\u0646"
@@ -681,6 +829,9 @@
     ],
     "name:vie_x_preferred":[
         "Iran"
+    ],
+    "name:vie_x_variant":[
+        "I-ran"
     ],
     "name:vls_x_preferred":[
         "Iran"
@@ -712,6 +863,9 @@
     "name:yor_x_preferred":[
         "\u00ccr\u00e1n\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Irani"
+    ],
     "name:zea_x_preferred":[
         "Iran"
     ],
@@ -725,13 +879,17 @@
         "\u4f0a\u6717"
     ],
     "name:zho_x_variant":[
-        "\u4f0a\u6717"
+        "\u4f0a\u6717",
+        "\u4f0a\u6717\u4f0a\u65af\u5170\u5171\u548c\u56fd"
     ],
     "name:zho_yue_x_preferred":[
         "\u4f0a\u6717"
     ],
     "name:zul_x_preferred":[
         "I-Irani"
+    ],
+    "name:zul_x_variant":[
+        "i-Iran"
     ],
     "ne:abbrev":"Iran",
     "ne:abbrev_len":4,
@@ -811,6 +969,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"98",
+    "statoids:ds":"IR",
+    "statoids:fifa":"IRN",
+    "statoids:gaul":"117",
+    "statoids:gec":"IR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"IRI",
+    "statoids:iso_a2":"IR",
+    "statoids:iso_a3":"IRN",
+    "statoids:iso_num":"364",
+    "statoids:itu":"IRN",
+    "statoids:marc":"ir",
+    "statoids:name":"Iran",
+    "statoids:wmo":"IR",
     "wk:latitude":32.0,
     "wk:longitude":53.0,
     "wk:population":77447168,
@@ -822,19 +995,29 @@
     "wof:concordances":{
         "dbp:id":"Iran",
         "fb:id":"en.iran",
+        "fifa:id":"IRN",
+        "fips:code":"IR",
+        "gaul:id":"117",
         "gn:id":130758,
         "gp:id":23424851,
         "hasc:id":"IR",
+        "ioc:id":"IRI",
+        "itu:id":"IRN",
         "loc:id":"n79039880",
+        "m49:code":"364",
+        "marc:id":"ir",
         "mzb:id":"iran",
+        "ne:adm0_a3":"IRN",
         "nyt:id":"59436102158647296001",
         "qs:id":513379,
+        "uncrt:id":"IR",
         "wd:id":"Q794",
-        "wk:page":"Iran"
+        "wk:page":"Iran",
+        "wmo:id":"IR"
     },
     "wof:country":"IR",
     "wof:country_alpha3":"IRN",
-    "wof:geomhash":"e703f172db5d3c1b70256c21c99862bb",
+    "wof:geomhash":"4c2e8e0977af76450919590d97357378",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -851,11 +1034,14 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1493229933,
+    "wof:lastmodified":1509142767,
     "wof:name":"Iran",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":77447168,
+    "wof:population_rank":16,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"IRN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

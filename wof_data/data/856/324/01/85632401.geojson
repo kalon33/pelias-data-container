@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.6133,
+    "geom:area_square_m":17386976158.408405,
     "geom:bbox":"46.55304001,28.524446,48.777942657,30.103699062",
     "geom:latitude":29.354403,
     "geom:longitude":47.613542,
     "gn:id":"",
     "gn:population":2789132,
     "iso:country":"KW",
+    "itu:country_code":[
+        "965"
+    ],
     "lbl:latitude":29.422226,
     "lbl:longitude":47.330015,
     "mps:latitude":29.422226,
     "mps:longitude":47.330015,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Kuwait"
     ],
@@ -25,12 +32,18 @@
     "name:afr_x_preferred":[
         "Koeweit"
     ],
+    "name:aka_x_preferred":[
+        "Kuwete"
+    ],
     "name:als_x_preferred":[
         "Kuwait"
     ],
     "name:amh_x_preferred":[
         "\u12a9\u12cc\u1275 (\u12a0\u1308\u122d)",
         "\u12a9\u12cc\u1275"
+    ],
+    "name:amh_x_variant":[
+        "\u12ad\u12cc\u1275"
     ],
     "name:ang_x_preferred":[
         "Cuwait"
@@ -39,7 +52,8 @@
         "\u0627\u0644\u0643\u0648\u064a\u062a"
     ],
     "name:ara_x_variant":[
-        "Al-Kuwayt"
+        "Al-Kuwayt",
+        "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0627\u064e\u0644\u0652\u0643\u064f\u0648\u064e\u064a\u0652\u062a"
     ],
     "name:arc_x_preferred":[
         "\u071f\u0718\u0718\u071d\u072c (\u0710\u072c\u072a\u0710)",
@@ -60,8 +74,14 @@
     "name:aze_x_preferred":[
         "K\u00fcveyt"
     ],
+    "name:aze_x_variant":[
+        "Kuveyt"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u04af\u0432\u0435\u0439\u0442"
+    ],
+    "name:bam_x_preferred":[
+        "Kow\u025bti"
     ],
     "name:bar_x_preferred":[
         "Kuwait"
@@ -80,6 +100,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0f74\u0f0b\u0f5d\u0f72\u0f0b\u0f50\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f40\u0f74\u0f0b\u0f5d\u0f7a\u0f51\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Kuvajt"
@@ -114,9 +137,6 @@
     "name:che_x_preferred":[
         "\u041a\u0443\u0432\u0430\u0439\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5a01\u7279"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
     ],
@@ -135,6 +155,9 @@
     "name:cym_x_preferred":[
         "Ciwait"
     ],
+    "name:cym_x_variant":[
+        "Coweit"
+    ],
     "name:cze_x_preferred":[
         "Kuvajt"
     ],
@@ -144,17 +167,20 @@
     "name:deu_x_preferred":[
         "Kuwait"
     ],
+    "name:deu_x_variant":[
+        "Staat Kuwait"
+    ],
     "name:div_x_preferred":[
         "\u0786\u07aa\u0788\u07ac\u0787\u07a8\u078c\u07aa"
     ],
     "name:dsb_x_preferred":[
         "Kuwait"
     ],
-    "name:dut_x_preferred":[
-        "Koeweit"
-    ],
     "name:dzo_x_preferred":[
         "\u0f40\u0f74\u0f0b\u0f5d\u0f7a\u0f4a\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f40\u0f74\u0f0b\u0f5d\u0f7a\u0f4a"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03b2\u03ad\u03b9\u03c4"
@@ -179,6 +205,9 @@
     "name:eus_x_preferred":[
         "Kuwait"
     ],
+    "name:ewe_x_preferred":[
+        "Kuwait nutome"
+    ],
     "name:ext_x_preferred":[
         "Kuwait"
     ],
@@ -194,10 +223,7 @@
     "name:fra_x_preferred":[
         "Kowe\u00eft"
     ],
-    "name:fre_x_preferred":[
-        "Kowe\u00eft"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Koweit"
     ],
     "name:frp_x_preferred":[
@@ -206,11 +232,11 @@
     "name:fry_x_preferred":[
         "K\u00fbweit"
     ],
+    "name:ful_x_preferred":[
+        "Kuweyti"
+    ],
     "name:gag_x_preferred":[
         "Kuveyt"
-    ],
-    "name:ger_x_preferred":[
-        "Staat Kuwait"
     ],
     "name:gla_x_preferred":[
         "Cubhait"
@@ -220,6 +246,9 @@
     ],
     "name:glg_x_preferred":[
         "Kuwait"
+    ],
+    "name:glg_x_variant":[
+        "Kuwait - \u0627\u0644\u0643\u0648\u064a\u062a"
     ],
     "name:glv_x_preferred":[
         "Yn Choowait"
@@ -239,6 +268,9 @@
     "name:hau_x_preferred":[
         "Kuwait"
     ],
+    "name:hau_x_variant":[
+        "Kwiyat"
+    ],
     "name:haw_x_preferred":[
         "Kuete"
     ],
@@ -247,6 +279,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05db\u05d5\u05d5\u05d9\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05d5\u05d5\u05d9\u05d9\u05ea"
     ],
     "name:hif_x_preferred":[
         "Kuwait"
@@ -262,6 +297,9 @@
     ],
     "name:hun_x_preferred":[
         "Kuvait"
+    ],
+    "name:hun_x_variant":[
+        "Kuwait"
     ],
     "name:hye_x_preferred":[
         "\u0554\u0578\u0582\u057e\u0565\u0575\u0569"
@@ -319,6 +357,9 @@
     "name:kat_x_preferred":[
         "\u10e5\u10e3\u10d5\u10d4\u10d8\u10d7\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10e3\u10d5\u10d4\u10d8\u10e2\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
     ],
@@ -330,6 +371,9 @@
     ],
     "name:kik_x_preferred":[
         "Kuwait"
+    ],
+    "name:kik_x_variant":[
+        "Kuwaiti"
     ],
     "name:kin_x_preferred":[
         "Koweti"
@@ -349,6 +393,12 @@
     "name:kur_x_preferred":[
         "Kuweyt"
     ],
+    "name:kur_x_variant":[
+        "\u06a9\u0648\u06d5\u06cc\u062a"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e84\u0eb9\u0ec0\u0ea7\u0e94"
+    ],
     "name:lat_x_preferred":[
         "Cuvaitum"
     ],
@@ -367,6 +417,9 @@
     "name:lin_x_preferred":[
         "Koweit"
     ],
+    "name:lin_x_variant":[
+        "Koweti"
+    ],
     "name:lit_x_preferred":[
         "Kuveitas"
     ],
@@ -379,11 +432,23 @@
     "name:ltz_x_preferred":[
         "Kuwait"
     ],
+    "name:lub_x_preferred":[
+        "Koweti"
+    ],
+    "name:lug_x_preferred":[
+        "Kuweti"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d41\u0d35\u0d48\u0d31\u0d4d\u0d31\u0d4d\u200c"
     ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d41\u0d35\u0d48\u0d31\u0d4d\u0d31\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0935\u0947\u0924"
+    ],
+    "name:mar_x_variant":[
+        "\u0915\u0941\u0935\u0948\u0924"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
@@ -394,6 +459,12 @@
     "name:mlg_x_preferred":[
         "Koety"
     ],
+    "name:mlg_x_variant":[
+        "K\u00f4eity"
+    ],
+    "name:mlt_x_preferred":[
+        "Kuwajt"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
     ],
@@ -403,6 +474,9 @@
     "name:mya_x_preferred":[
         "\u1000\u1030\u101d\u102d\u1010\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1000\u1030\u101d\u102d\u1010\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u06cc\u062a"
     ],
@@ -411,6 +485,9 @@
     ],
     "name:nav_x_preferred":[
         "K\u00f3\u00f3wei\u02bc"
+    ],
+    "name:nde_x_preferred":[
+        "Khuweiti"
     ],
     "name:nds_x_preferred":[
         "Kuwait"
@@ -427,6 +504,9 @@
     "name:nno_x_preferred":[
         "Kuwait"
     ],
+    "name:nob_x_preferred":[
+        "Kuwait"
+    ],
     "name:nor_x_preferred":[
         "Kuwait"
     ],
@@ -438,6 +518,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b15\u0b41\u0b0f\u0b24"
+    ],
+    "name:ori_x_variant":[
+        "\u0b15\u0b41\u0b0f\u0b24\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Kuweet"
@@ -472,7 +555,13 @@
     "name:pus_x_preferred":[
         "\u06a9\u0648\u06d0\u067c"
     ],
+    "name:pus_x_variant":[
+        "\u06a9\u0648\u06cc\u067c"
+    ],
     "name:que_x_preferred":[
+        "Kuwait"
+    ],
+    "name:roh_x_preferred":[
         "Kuwait"
     ],
     "name:ron_x_preferred":[
@@ -481,8 +570,14 @@
     "name:rum_x_preferred":[
         "Kuweit"
     ],
+    "name:run_x_preferred":[
+        "Koweti"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
+    ],
+    "name:sag_x_preferred":[
+        "K\u00f6w\u00eati"
     ],
     "name:sah_x_preferred":[
         "\u041a\u0443\u0432\u0435\u0439\u0442"
@@ -498,6 +593,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dba"
     ],
     "name:slk_x_preferred":[
         "Kuvajt (\u0161t\u00e1t)",
@@ -521,6 +619,9 @@
     "name:sqi_x_preferred":[
         "Kuvajti"
     ],
+    "name:sqi_x_variant":[
+        "Kuvajt"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0432\u0430\u0458\u0442"
     ],
@@ -533,6 +634,9 @@
     "name:swa_x_preferred":[
         "Kuwait"
     ],
+    "name:swa_x_variant":[
+        "Kuwaiti"
+    ],
     "name:swe_x_preferred":[
         "Kuwait"
     ],
@@ -541,6 +645,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb5\u0bc8\u0ba4\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bc1\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1"
     ],
     "name:tat_x_preferred":[
         "\u041a\u04af\u0432\u04d9\u0439\u0442"
@@ -559,6 +666,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e04\u0e39\u0e40\u0e27\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e39\u0e40\u0e27\u0e15"
+    ],
+    "name:tir_x_preferred":[
+        "\u12ad\u12cc\u1275"
+    ],
+    "name:ton_x_preferred":[
+        "Kueiti"
     ],
     "name:tuk_x_preferred":[
         "Kuwe\u00fdt"
@@ -585,6 +701,9 @@
         "Kuvajt",
         "K\u00fava\u00edt"
     ],
+    "name:unk_x_variant":[
+        "Dawlat al Kuwayt"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u06cc\u062a"
     ],
@@ -596,6 +715,9 @@
     ],
     "name:vie_x_preferred":[
         "Kuwait"
+    ],
+    "name:vie_x_variant":[
+        "C\u00f4-o\u00e9t"
     ],
     "name:vol_x_preferred":[
         "Kov\u00e4t\u00e4n"
@@ -621,6 +743,9 @@
     "name:yor_x_preferred":[
         "Kuwaiti"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Kuweti"
+    ],
     "name:zea_x_preferred":[
         "Koeweit"
     ],
@@ -635,6 +760,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u79d1\u5a01\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "i-Kuwait"
     ],
     "ne:abbrev":"Kwt.",
     "ne:abbrev_len":4,
@@ -713,6 +841,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"965",
+    "statoids:ds":"KWT",
+    "statoids:fifa":"KUW",
+    "statoids:gaul":"137",
+    "statoids:gec":"KU",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"KUW",
+    "statoids:iso_a2":"KW",
+    "statoids:iso_a3":"KWT",
+    "statoids:iso_num":"414",
+    "statoids:itu":"KWT",
+    "statoids:marc":"ku",
+    "statoids:name":"Kuwait",
+    "statoids:wmo":"KW",
     "wk:latitude":29.166667,
     "wk:longitude":47.6,
     "wk:wordcount":9995,
@@ -723,19 +866,29 @@
     "wof:concordances":{
         "dbp:id":"Kuwait",
         "fb:id":"en.kuwait",
+        "fifa:id":"KUW",
+        "fips:code":"KU",
+        "gaul:id":"137",
         "gn:id":285570,
         "gp:id":23424870,
         "hasc:id":"KW",
+        "ioc:id":"KUW",
+        "itu:id":"KWT",
         "loc:id":"n80053139",
+        "m49:code":"414",
+        "marc:id":"ku",
         "mzb:id":"kuwait",
+        "ne:adm0_a3":"KWT",
         "nyt:id":"51584291246547476481",
         "qs:id":1190013,
+        "uncrt:id":"KWT",
         "wd:id":"Q817",
-        "wk:page":"Kuwait"
+        "wk:page":"Kuwait",
+        "wmo:id":"KW"
     },
     "wof:country":"KW",
     "wof:country_alpha3":"KWT",
-    "wof:geomhash":"8bd2c91159981784303b494953769408",
+    "wof:geomhash":"74271311b4f52ffbf7d535f7cd5c0e25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -752,11 +905,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1493229948,
+    "wof:lastmodified":1509142790,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":2789132,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"KWT",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

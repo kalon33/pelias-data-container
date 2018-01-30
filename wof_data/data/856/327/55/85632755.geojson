@@ -5,22 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.620273,
+    "geom:area_square_m":19112152529.314213,
     "geom:bbox":"-180.0,-21.73865895,180.0,-12.457111359",
     "geom:latitude":-17.442914,
     "geom:longitude":160.603683,
     "gn:id":"",
     "gn:population":875983,
     "iso:country":"FJ",
+    "itu:country_code":[
+        "679"
+    ],
     "lbl:latitude":-17.834016,
     "lbl:longitude":177.972004,
     "mps:latitude":-17.834016,
     "mps:longitude":177.972004,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Fiji"
     ],
     "name:afr_x_preferred":[
         "Fidji"
+    ],
+    "name:aka_x_preferred":[
+        "Figyi"
     ],
     "name:als_x_preferred":[
         "Fidschi"
@@ -49,6 +59,9 @@
     "name:bak_x_preferred":[
         "\u0424\u0438\u0434\u0436\u0438"
     ],
+    "name:bam_x_preferred":[
+        "Fiji"
+    ],
     "name:bcl_x_preferred":[
         "Fiji"
     ],
@@ -63,6 +76,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f67\u0fa5\u0f72\u0f0b\u0f47\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f55\u0f72\u0f0b\u0f47\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Fid\u017ei"
@@ -94,12 +110,6 @@
     "name:che_x_preferred":[
         "\u0424\u0438\u0434\u0436\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6590\u6fdf"
-    ],
-    "name:chi_x_variant":[
-        "\u6590\u6d4e"
-    ],
     "name:chv_x_preferred":[
         "\u0424\u0438\u0434\u0436\u0438"
     ],
@@ -115,14 +125,24 @@
     "name:cym_x_preferred":[
         "Ffiji"
     ],
+    "name:cym_x_variant":[
+        "Fiji"
+    ],
     "name:cze_x_preferred":[
         "Fid\u017ei"
     ],
     "name:dan_x_preferred":[
         "Fiji"
     ],
+    "name:dan_x_variant":[
+        "Fiji-\u00f8erne"
+    ],
     "name:deu_x_preferred":[
         "Fidschi"
+    ],
+    "name:deu_x_variant":[
+        "Fidschiinseln",
+        "Republik Fidschi-Inseln"
     ],
     "name:diq_x_preferred":[
         "Fici"
@@ -152,11 +172,20 @@
     "name:epo_x_preferred":[
         "Fi\u011dioj"
     ],
+    "name:epo_x_variant":[
+        "Fi\u011doj"
+    ],
     "name:est_x_preferred":[
         "Fid\u017ei"
     ],
+    "name:est_x_variant":[
+        "Fid\u012ai"
+    ],
     "name:eus_x_preferred":[
         "Fiji"
+    ],
+    "name:ewe_x_preferred":[
+        "Fidzi nutome"
     ],
     "name:ext_x_preferred":[
         "Fiyi"
@@ -179,10 +208,7 @@
     "name:fra_x_preferred":[
         "Fidji"
     ],
-    "name:fre_x_preferred":[
-        "Fidji"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "\u00celes Fidji"
     ],
     "name:frp_x_preferred":[
@@ -194,15 +220,11 @@
     "name:ful_x_preferred":[
         "Fiiji"
     ],
+    "name:ful_x_variant":[
+        "Fijji"
+    ],
     "name:gag_x_preferred":[
         "Fici"
-    ],
-    "name:ger_x_preferred":[
-        "Fidschi"
-    ],
-    "name:ger_x_variant":[
-        "Fidschiinseln",
-        "Republik Fidschi-Inseln"
     ],
     "name:gla_x_preferred":[
         "F\u00ecdi"
@@ -213,11 +235,17 @@
     "name:glg_x_preferred":[
         "Fidxi"
     ],
+    "name:glg_x_variant":[
+        "Fixi"
+    ],
     "name:glv_x_preferred":[
         "Fiji"
     ],
     "name:gom_x_preferred":[
         "\u092b\u093f\u091c\u0940"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0ac0\u0a9c\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Fiji"
@@ -225,17 +253,27 @@
     "name:hat_x_preferred":[
         "Fidji"
     ],
+    "name:hau_x_preferred":[
+        "Fiji"
+    ],
     "name:hbs_x_preferred":[
         "Fid\u017ei"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05d2'\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d9\u05d2\u05f3\u05d9",
+        "\u05e4\u05d9\u05d2\u05d9"
+    ],
     "name:hif_x_preferred":[
         "Fiji"
     ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u093f\u091c\u0940"
+    ],
+    "name:hin_x_variant":[
+        "\u092b\u093f\u091c\u0940"
     ],
     "name:hrv_x_preferred":[
         "Fid\u017ei"
@@ -292,14 +330,26 @@
     "name:kaa_x_preferred":[
         "Fidji"
     ],
+    "name:kal_x_preferred":[
+        "Fiji"
+    ],
     "name:kan_x_preferred":[
         "\u0cab\u0cbf\u0c9c\u0cbf"
+    ],
+    "name:kas_x_preferred":[
+        "\u092b\u093f\u091c\u0940"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10d8\u10ef\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0424\u0438\u0434\u0436\u0438"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u179c\u17c9\u17b8\u17a0\u17d2\u179f\u17c9\u17b8"
+    ],
+    "name:kik_x_preferred":[
+        "Fiji"
     ],
     "name:kin_x_preferred":[
         "Fiji"
@@ -313,8 +363,17 @@
     "name:kur_x_preferred":[
         "F\u00eej\u00ee"
     ],
+    "name:kur_x_variant":[
+        "\u0641\u06cc\u062c\u06cc"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9f\u0eb4\u0e88\u0eb4"
+    ],
     "name:lat_x_preferred":[
         "Viti"
+    ],
+    "name:lat_x_variant":[
+        "Insulae Vitienses"
     ],
     "name:lav_x_preferred":[
         "Fid\u017ei"
@@ -325,6 +384,9 @@
     "name:lim_x_preferred":[
         "Fiji"
     ],
+    "name:lin_x_preferred":[
+        "Fidzi"
+    ],
     "name:lit_x_preferred":[
         "Fid\u017eis"
     ],
@@ -333,6 +395,12 @@
     ],
     "name:ltz_x_preferred":[
         "Fidschi"
+    ],
+    "name:lub_x_preferred":[
+        "Fuji"
+    ],
+    "name:lug_x_preferred":[
+        "Fiji"
     ],
     "name:mal_x_preferred":[
         "\u0d2b\u0d3f\u0d1c\u0d3f"
@@ -345,6 +413,9 @@
     ],
     "name:mlg_x_preferred":[
         "Fiji"
+    ],
+    "name:mlg_x_variant":[
+        "Fidji"
     ],
     "name:mlt_x_preferred":[
         "Fi\u0121i"
@@ -361,11 +432,17 @@
     "name:mya_x_preferred":[
         "\u1016\u102e\u1002\u103b\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1016\u102e\u1002\u103b\u102e"
+    ],
     "name:nau_x_preferred":[
         "Bidji"
     ],
     "name:nav_x_preferred":[
         "F\u00ed\u00edjii"
+    ],
+    "name:nde_x_preferred":[
+        "Fiji"
     ],
     "name:nds_x_preferred":[
         "Fidschi"
@@ -382,6 +459,9 @@
     "name:nno_x_preferred":[
         "Fiji"
     ],
+    "name:nob_x_preferred":[
+        "Fiji"
+    ],
     "name:nor_x_preferred":[
         "Fiji"
     ],
@@ -390,6 +470,9 @@
     ],
     "name:oci_x_preferred":[
         "Fiji"
+    ],
+    "name:oci_x_variant":[
+        "Fidji"
     ],
     "name:ori_x_preferred":[
         "\u0b2b\u0b3f\u0b1c\u0b3f"
@@ -424,10 +507,19 @@
     "name:por_x_preferred":[
         "Fiji"
     ],
+    "name:pus_x_preferred":[
+        "\u0641\u06d0\u062c\u064a"
+    ],
     "name:que_x_preferred":[
         "Phiyi"
     ],
+    "name:roh_x_preferred":[
+        "Fidschi"
+    ],
     "name:ron_x_preferred":[
+        "Fiji"
+    ],
+    "name:run_x_preferred":[
         "Fiji"
     ],
     "name:rus_x_preferred":[
@@ -450,6 +542,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc6\u0dd3\u0da2\u0dd2"
+    ],
+    "name:sin_x_variant":[
+        "\u0dc6\u0dd3\u0da2\u0dd3"
     ],
     "name:slk_x_preferred":[
         "Fid\u017ei"
@@ -478,6 +573,9 @@
     "name:sqi_x_preferred":[
         "Fixhi"
     ],
+    "name:sqi_x_variant":[
+        "Ishujt e Fildisht"
+    ],
     "name:srp_x_preferred":[
         "\u0424\u0438\u045f\u0438"
     ],
@@ -499,11 +597,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0b9c\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0b83\u0baa\u0bbf\u0b9c\u0bbf"
+    ],
     "name:tat_x_preferred":[
         "Fici"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c3f\u0c1c\u0c40"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2b\u0c3f\u0c1c\u0c3f"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0438\u04b7\u0438"
@@ -511,11 +615,23 @@
     "name:tgl_x_preferred":[
         "Fiji"
     ],
+    "name:tgl_x_variant":[
+        "Piyi"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1f\u0e34\u0e08\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e34\u0e08\u0e34"
+    ],
+    "name:tir_x_preferred":[
+        "\u134a\u1302"
+    ],
     "name:ton_x_preferred":[
         "Fisi"
+    ],
+    "name:ton_x_variant":[
+        "Viti"
     ],
     "name:tpi_x_preferred":[
         "Fiji"
@@ -536,8 +652,14 @@
     "name:und_x_preferred":[
         "Fiji\u00f8erne"
     ],
+    "name:unk_x_variant":[
+        "Viti"
+    ],
     "name:urd_x_preferred":[
         "\u0641\u062c\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0641\u0650\u062c\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Fiji"
@@ -547,6 +669,9 @@
     ],
     "name:vie_x_preferred":[
         "Fiji"
+    ],
+    "name:vie_x_variant":[
+        "Phi-gi"
     ],
     "name:vol_x_preferred":[
         "Ficiyu\u00e4ns"
@@ -572,6 +697,9 @@
     "name:yor_x_preferred":[
         "F\u00edj\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Fiji"
+    ],
     "name:zha_x_preferred":[
         "Fiji"
     ],
@@ -581,11 +709,17 @@
     "name:zho_x_preferred":[
         "\u6590\u6fdf"
     ],
+    "name:zho_x_variant":[
+        "\u6590\u6d4e"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6590\u6fdf"
     ],
     "name:zul_x_preferred":[
         "IFiji"
+    ],
+    "name:zul_x_variant":[
+        "i-Fiji"
     ],
     "ne:abbrev":"Fiji",
     "ne:abbrev_len":4,
@@ -664,6 +798,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"679",
+    "statoids:ds":"FJI",
+    "statoids:fifa":"FIJ",
+    "statoids:gaul":"83",
+    "statoids:gec":"FJ",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"FIJ",
+    "statoids:iso_a2":"FJ",
+    "statoids:iso_a3":"FJI",
+    "statoids:iso_num":"242",
+    "statoids:itu":"FJI",
+    "statoids:marc":"fj",
+    "statoids:name":"Fiji",
+    "statoids:wmo":"FJ",
     "wk:latitude":-18.0,
     "wk:longitude":179.0,
     "wk:population":881065,
@@ -676,18 +825,28 @@
     "wof:concordances":{
         "dbp:id":"Fiji",
         "fb:id":"en.fiji",
+        "fifa:id":"FIJ",
+        "fips:code":"FJ",
+        "gaul:id":"83",
         "gn:id":2205218,
         "gp:id":23424813,
         "hasc:id":"FJ",
+        "ioc:id":"FIJ",
+        "itu:id":"FJI",
+        "m49:code":"242",
+        "marc:id":"fj",
         "mzb:id":"fiji",
+        "ne:adm0_a3":"FJI",
         "nyt:id":"62253010809855672321",
         "qs:id":1263205,
+        "uncrt:id":"FJI",
         "wd:id":"Q712",
-        "wk:page":"Fiji"
+        "wk:page":"Fiji",
+        "wmo:id":"FJ"
     },
     "wof:country":"FJ",
     "wof:country_alpha3":"FJI",
-    "wof:geomhash":"b90a3742b94ea2511128e9021974268c",
+    "wof:geomhash":"7bdc58197e1f43db381155999094ea9c",
     "wof:hierarchy":[
         {
             "continent_id":"102191583",
@@ -708,11 +867,14 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1493230081,
+    "wof:lastmodified":1509142725,
     "wof:name":"Fiji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":881065,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"FJI",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

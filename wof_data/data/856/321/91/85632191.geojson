@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.328964,
+    "geom:area_square_m":398442964166.979858,
     "geom:bbox":"38.793674,29.061208,48.6117365207,37.0639492027",
     "geom:latitude":32.7407,
     "geom:longitude":43.689477,
     "gn:id":"",
     "gn:population":29671605,
     "iso:country":"IQ",
+    "itu:country_code":[
+        "964"
+    ],
     "lbl:latitude":32.765286,
     "lbl:longitude":43.614805,
     "mps:latitude":32.765286,
     "mps:longitude":43.614805,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.5,
+    "mz:min_zoom":2.5,
     "name:ace_x_preferred":[
         "Irak"
     ],
@@ -23,6 +30,9 @@
         "\u0418\u0440\u0430\u043a"
     ],
     "name:afr_x_preferred":[
+        "Irak"
+    ],
+    "name:aka_x_preferred":[
         "Irak"
     ],
     "name:als_x_preferred":[
@@ -38,10 +48,14 @@
         "\u0627\u0644\u0639\u0631\u0627\u0642"
     ],
     "name:ara_x_variant":[
-        "Al Iraq"
+        "Al Iraq",
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642"
     ],
     "name:arc_x_preferred":[
         "\u0725\u071d\u072a\u0710\u0729"
+    ],
+    "name:arc_x_variant":[
+        "\u0725\u072a\u0729"
     ],
     "name:arg_x_preferred":[
         "Iraq"
@@ -64,8 +78,14 @@
     "name:aze_x_preferred":[
         "\u0130raq"
     ],
+    "name:aze_x_variant":[
+        "\u0130rak"
+    ],
     "name:bak_x_preferred":[
         "\u0418\u0440\u0430\u04a1"
+    ],
+    "name:bam_x_preferred":[
+        "Iraki"
     ],
     "name:bar_x_preferred":[
         "Irak"
@@ -85,6 +105,9 @@
     "name:bod_x_preferred":[
         "\u0f61\u0f72\u0f0b\u0f63\u0f60\u0f0b\u0f41\u0f7c\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f72\u0f0b\u0f62\u0f42\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Irak"
     ],
@@ -93,6 +116,9 @@
     ],
     "name:bre_x_preferred":[
         "Irak"
+    ],
+    "name:bre_x_variant":[
+        "Iraq"
     ],
     "name:bug_x_preferred":[
         "Irak"
@@ -117,9 +143,6 @@
     ],
     "name:che_x_preferred":[
         "\u04c0\u0438\u0440\u0430\u043a\u044a"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u62c9\u514b"
     ],
     "name:chv_x_preferred":[
         "\u0418\u0440\u0430\u043a"
@@ -148,6 +171,9 @@
     "name:deu_x_preferred":[
         "Irak"
     ],
+    "name:deu_x_variant":[
+        "Republik Irak"
+    ],
     "name:diq_x_preferred":[
         "\u0130raq"
     ],
@@ -157,8 +183,8 @@
     "name:dsb_x_preferred":[
         "Irak"
     ],
-    "name:dut_x_preferred":[
-        "Irak"
+    "name:dzo_x_preferred":[
+        "\u0f68\u0f72\u0f0b\u0f62\u0f40"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c1\u03ac\u03ba"
@@ -184,6 +210,9 @@
     "name:eus_x_preferred":[
         "Irak"
     ],
+    "name:ewe_x_preferred":[
+        "iraqduk\u0254"
+    ],
     "name:ext_x_preferred":[
         "Iraq"
     ],
@@ -205,8 +234,8 @@
     "name:fra_x_preferred":[
         "Irak"
     ],
-    "name:fre_x_preferred":[
-        "Irak"
+    "name:fra_x_variant":[
+        "Iraq"
     ],
     "name:frp_x_preferred":[
         "Iraq"
@@ -217,26 +246,29 @@
     "name:fry_x_preferred":[
         "Irak"
     ],
+    "name:ful_x_preferred":[
+        "Iraak"
+    ],
     "name:gag_x_preferred":[
         "\u0130rak"
     ],
     "name:gan_x_preferred":[
         "\u4f0a\u62c9\u514b"
     ],
-    "name:ger_x_preferred":[
-        "Irak"
-    ],
-    "name:ger_x_variant":[
-        "Republik Irak"
-    ],
     "name:gla_x_preferred":[
         "Ior\u00e0c"
+    ],
+    "name:gla_x_variant":[
+        "Iorac"
     ],
     "name:gle_x_preferred":[
         "An Iar\u00e1ic"
     ],
     "name:glg_x_preferred":[
         "Iraq"
+    ],
+    "name:glg_x_variant":[
+        "Iraq - \u0627\u0644\u0639\u0631\u0627\u0642"
     ],
     "name:glv_x_preferred":[
         "Yn Earack"
@@ -250,6 +282,9 @@
     "name:guj_x_preferred":[
         "\u0a88\u0ab0\u0abe\u0a95"
     ],
+    "name:guj_x_variant":[
+        "\u0a87\u0ab0\u0abe\u0a95"
+    ],
     "name:hak_x_preferred":[
         "Iraq"
     ],
@@ -258,6 +293,9 @@
     ],
     "name:hau_x_preferred":[
         "Irak"
+    ],
+    "name:hau_x_variant":[
+        "Ira\u0199i"
     ],
     "name:haw_x_preferred":[
         "\u2018Ilaka"
@@ -268,11 +306,18 @@
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05e8\u05d0\u05e7"
     ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d9\u05e8\u05e7"
+    ],
     "name:hif_x_preferred":[
         "Iraq"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0930\u093e\u0915\u093c"
+    ],
+    "name:hin_x_variant":[
+        "\u0907\u0930\u093e\u0915",
+        "\u0908\u0930\u093e\u0915"
     ],
     "name:hrv_x_preferred":[
         "Irak"
@@ -301,8 +346,14 @@
     "name:ina_x_preferred":[
         "Irak"
     ],
+    "name:ina_x_variant":[
+        "Iraq"
+    ],
     "name:ind_x_preferred":[
         "Irak"
+    ],
+    "name:ind_x_variant":[
+        "Iraq"
     ],
     "name:isl_x_preferred":[
         "\u00cdrak"
@@ -334,6 +385,9 @@
     "name:kal_x_preferred":[
         "Iraq"
     ],
+    "name:kal_x_variant":[
+        "Irak"
+    ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb0\u0cbe\u0c95\u0ccd"
     ],
@@ -346,8 +400,14 @@
     "name:kbd_x_preferred":[
         "\u0418\u0440\u0430\u043a\u044a"
     ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17ca\u17b8\u179a\u17c9\u17b6\u1780\u17cb"
+    ],
     "name:kik_x_preferred":[
         "Iraq"
+    ],
+    "name:kik_x_variant":[
+        "Iraki"
     ],
     "name:kin_x_preferred":[
         "Irake"
@@ -367,11 +427,24 @@
     "name:kur_x_preferred":[
         "Iraq"
     ],
+    "name:kur_x_variant":[
+        "\u0639\u06ce\u0631\u0627\u0642",
+        "Komar-\u00ee \u2018\u00caraq",
+        "\u2018\u00caraq",
+        "\u0643\u06c6\u0645\u0627\u0631\u0649 \u0639\u06ce\u0631\u0627\u0642"
+    ],
     "name:lad_x_preferred":[
         "Irak"
     ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0eb5\u0ea5\u0eb1\u0e81"
+    ],
     "name:lat_x_preferred":[
         "Iracum"
+    ],
+    "name:lat_x_variant":[
+        "Mesopotamia",
+        "Iraquia"
     ],
     "name:lav_x_preferred":[
         "Ir\u0101ka"
@@ -388,6 +461,9 @@
     "name:lin_x_preferred":[
         "Irak"
     ],
+    "name:lin_x_variant":[
+        "Iraki"
+    ],
     "name:lit_x_preferred":[
         "Irakas"
     ],
@@ -400,8 +476,17 @@
     "name:ltz_x_preferred":[
         "Irak"
     ],
+    "name:lub_x_preferred":[
+        "Iraki"
+    ],
+    "name:lug_x_preferred":[
+        "Yiraaka"
+    ],
     "name:mal_x_preferred":[
         "\u0d07\u0d31\u0d3e\u0d16\u0d4d\u200c"
+    ],
+    "name:mal_x_variant":[
+        "\u0d07\u0d31\u0d3e\u0d15\u0d4d\u0d15\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0930\u093e\u0915"
@@ -414,6 +499,9 @@
     ],
     "name:mlg_x_preferred":[
         "Iraka"
+    ],
+    "name:mlg_x_variant":[
+        "Irak"
     ],
     "name:mlt_x_preferred":[
         "Iraq"
@@ -430,6 +518,9 @@
     "name:mya_x_preferred":[
         "\u1021\u102e\u101b\u1010\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1021\u102e\u101b\u1010\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0639\u0631\u0627\u0642"
     ],
@@ -439,11 +530,17 @@
     "name:nav_x_preferred":[
         "Iiw\u00e1\u00e1\u02bc"
     ],
+    "name:nde_x_preferred":[
+        "Iraki"
+    ],
     "name:nds_x_preferred":[
         "Irak"
     ],
     "name:nep_x_preferred":[
         "\u0908\u0930\u093e\u0915"
+    ],
+    "name:nep_x_variant":[
+        "\u0907\u0930\u093e\u0915"
     ],
     "name:new_x_preferred":[
         "\u0907\u0930\u093e\u0915"
@@ -452,6 +549,9 @@
         "Irak"
     ],
     "name:nno_x_preferred":[
+        "Irak"
+    ],
+    "name:nob_x_preferred":[
         "Irak"
     ],
     "name:nor_x_preferred":[
@@ -466,6 +566,9 @@
     "name:ori_x_preferred":[
         "\u0b07\u0b30\u0b3e\u0b15"
     ],
+    "name:ori_x_variant":[
+        "\u0b07\u0b30\u0b3e\u0b15\u0b4d"
+    ],
     "name:orm_x_preferred":[
         "Iraaq"
     ],
@@ -474,6 +577,9 @@
     ],
     "name:pam_x_preferred":[
         "Irak"
+    ],
+    "name:pam_x_variant":[
+        "Iraq"
     ],
     "name:pan_x_preferred":[
         "\u0a07\u0a30\u0a3e\u0a15"
@@ -508,8 +614,15 @@
     "name:que_x_preferred":[
         "Iraq"
     ],
+    "name:roh_x_preferred":[
+        "Irac"
+    ],
     "name:ron_x_preferred":[
         "Irak"
+    ],
+    "name:ron_x_variant":[
+        "Iraq",
+        "\u0418\u0440\u0430\u043a"
     ],
     "name:rue_x_preferred":[
         "\u0406\u0440\u0430\u043a"
@@ -517,14 +630,23 @@
     "name:rum_x_preferred":[
         "Irak"
     ],
+    "name:run_x_preferred":[
+        "Iraki"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u0430\u043a"
+    ],
+    "name:sag_x_preferred":[
+        "Ir\u00e2ki"
     ],
     "name:sah_x_preferred":[
         "\u0418\u0440\u0430\u0430\u043a"
     ],
     "name:san_x_preferred":[
         "\u0907\u0930\u093e\u0915\u094d"
+    ],
+    "name:san_x_variant":[
+        "\u0908\u0930\u093e\u0915"
     ],
     "name:scn_x_preferred":[
         "Iraq"
@@ -534,6 +656,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d89\u0dbb\u0dcf\u0d9a \u0da2\u0db1\u0dbb\u0da2\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0d89\u0dbb\u0dcf\u0d9a\u0dba"
     ],
     "name:slk_x_preferred":[
         "Irak"
@@ -556,8 +681,14 @@
     "name:spa_x_preferred":[
         "Irak"
     ],
+    "name:spa_x_variant":[
+        "Iraq"
+    ],
     "name:sqi_x_preferred":[
         "Iraku"
+    ],
+    "name:sqi_x_variant":[
+        "Irak"
     ],
     "name:srd_x_preferred":[
         "Iraq"
@@ -577,6 +708,9 @@
     "name:swa_x_preferred":[
         "Iraq"
     ],
+    "name:swa_x_variant":[
+        "Iraki"
+    ],
     "name:swe_x_preferred":[
         "Irak"
     ],
@@ -586,8 +720,14 @@
     "name:tam_x_preferred":[
         "\u0b88\u0bb0\u0bbe\u0b95\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b87\u0bb0\u0bbe\u0b95\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u044b\u0439\u0440\u0430\u043a"
+    ],
+    "name:tat_x_variant":[
+        "\u011e\u00edraq"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c30\u0c3e\u0c15\u0c4d"
@@ -603,6 +743,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e34\u0e23\u0e31\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e23\u0e31\u0e01"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a2\u122b\u1245"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbIulaaki"
     ],
     "name:tpi_x_preferred":[
         "Irak"
@@ -634,6 +783,9 @@
     "name:und_x_variant":[
         "Republika Irak"
     ],
+    "name:unk_x_variant":[
+        "Al Jumh\u016br\u012byah al \u2018Ir\u0101q\u012byah"
+    ],
     "name:urd_x_preferred":[
         "\u0639\u0631\u0627\u0642"
     ],
@@ -648,6 +800,9 @@
     ],
     "name:vie_x_preferred":[
         "Iraq"
+    ],
+    "name:vie_x_variant":[
+        "I-r\u1eafc"
     ],
     "name:vls_x_preferred":[
         "Irak"
@@ -679,6 +834,9 @@
     "name:yor_x_preferred":[
         "Irak"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Iraki"
+    ],
     "name:zea_x_preferred":[
         "Irak"
     ],
@@ -699,6 +857,9 @@
     ],
     "name:zul_x_preferred":[
         "I-Iraki"
+    ],
+    "name:zul_x_variant":[
+        "i-Iraq"
     ],
     "ne:abbrev":"Iraq",
     "ne:abbrev_len":4,
@@ -778,6 +939,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"964",
+    "statoids:ds":"IRQ",
+    "statoids:fifa":"IRQ",
+    "statoids:gaul":"118",
+    "statoids:gec":"IZ",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"IRQ",
+    "statoids:iso_a2":"IQ",
+    "statoids:iso_a3":"IRQ",
+    "statoids:iso_num":"368",
+    "statoids:itu":"IRQ",
+    "statoids:marc":"iq",
+    "statoids:name":"Iraq",
+    "statoids:wmo":"IQ",
     "wk:latitude":33.0,
     "wk:longitude":43.0,
     "wk:population":33417476,
@@ -789,19 +965,29 @@
     "wof:concordances":{
         "dbp:id":"Iraq",
         "fb:id":"en.iraq",
+        "fifa:id":"IRQ",
+        "fips:code":"IZ",
+        "gaul:id":"118",
         "gn:id":99237,
         "gp:id":23424855,
         "hasc:id":"IQ",
+        "ioc:id":"IRQ",
+        "itu:id":"IRQ",
         "loc:id":"n79077342",
+        "m49:code":"368",
+        "marc:id":"iq",
         "mzb:id":"iraq",
+        "ne:adm0_a3":"IRQ",
         "nyt:id":"46780987205736202241",
         "qs:id":63836,
+        "uncrt:id":"IRQ",
         "wd:id":"Q796",
-        "wk:page":"Iraq"
+        "wk:page":"Iraq",
+        "wmo:id":"IQ"
     },
     "wof:country":"IQ",
     "wof:country_alpha3":"IRQ",
-    "wof:geomhash":"5467b84dabc7e48e20b5b40fae77fa4d",
+    "wof:geomhash":"58b8426035e8f4916580cfb2c8286871",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -819,11 +1005,14 @@
         "ara",
         "ckb"
     ],
-    "wof:lastmodified":1493229867,
+    "wof:lastmodified":1509142773,
     "wof:name":"Iraq",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":33417476,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"IRQ",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

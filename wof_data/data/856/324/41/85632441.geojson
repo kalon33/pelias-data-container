@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037245,
+    "geom:area_square_m":450142242.739931,
     "geom:bbox":"-69.161224365,11.978750229,-68.641281128,12.397861481",
     "geom:latitude":12.196377,
     "geom:longitude":-68.967874,
@@ -16,11 +17,17 @@
     "mps:latitude":12.150201,
     "mps:longitude":-68.933415,
     "mz:hierarchy_label":1,
-    "name:dut_x_preferred":[
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0633\u0627\u0648"
+    ],
+    "name:deu_x_preferred":[
         "Cura\u00e7ao"
     ],
-    "name:dut_x_variant":[
-        "Land Cura\u00e7ao"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03b1\u03c3\u03ac\u03bf"
     ],
     "name:eng_x_preferred":[
         "Curacao"
@@ -30,10 +37,53 @@
         "CW"
     ],
     "name:eng_x_variant":[
-        "Country of Cura\u00e7ao"
+        "Country of Cura\u00e7ao",
+        "Cura\u00e7ao"
+    ],
+    "name:fra_x_preferred":[
+        "Cura\u00e7ao"
+    ],
+    "name:ita_x_preferred":[
+        "Curacao"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e5\u30e9\u30bd\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ud034\ub77c\uc18c"
+    ],
+    "name:nld_x_preferred":[
+        "Cura\u00e7ao"
+    ],
+    "name:nld_x_variant":[
+        "Land Cura\u00e7ao"
+    ],
+    "name:pap_x_preferred":[
+        "Pais K\u00f2rsou"
+    ],
+    "name:pap_x_variant":[
+        "K\u00f2rsou"
+    ],
+    "name:pol_x_preferred":[
+        "Cura\u00e7ao"
+    ],
+    "name:por_x_preferred":[
+        "Cura\u00e7ao"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"
     ],
     "name:spa_x_preferred":[
         "Curazao"
+    ],
+    "name:spa_x_variant":[
+        "Pa\u00eds de Curazao"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u62c9\u7d22"
     ],
     "ne:abbrev":"Cur.",
     "ne:abbrev_len":4,
@@ -113,27 +163,28 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
     "wk:wordcount":7747,
     "wof:belongsto":[
-        102191575,
-        136253051
+        102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626836,
         "gp:id":56558057,
         "hasc:id":"CW",
+        "m49:code":"531",
+        "ne:adm0_a3":"CUW",
         "qs:id":694142,
         "wd:id":"Q25279"
     },
     "wof:country":"CW",
     "wof:country_alpha3":"CUW",
-    "wof:geomhash":"ee6bfa207bd4f74d9138c79be612ab25",
+    "wof:geomhash":"6bc55b90f0c1cea2665fd470a151c5e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":85632441,
-            "empire_id":136253051
+            "country_id":85632441
         }
     ],
     "wof:id":85632441,
@@ -148,11 +199,14 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1493229962,
+    "wof:lastmodified":1509142713,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
+    "wof:population":141766,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"CUW",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

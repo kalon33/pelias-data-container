@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.55671,
+    "geom:area_square_m":642112906233.460815,
     "geom:bbox":"60.475769,29.377217,74.889862,38.490733",
     "geom:latitude":33.831599,
     "geom:longitude":66.026521,
     "gn:id":"",
     "gn:population":29121286,
     "iso:country":"AF",
+    "itu:country_code":[
+        "93"
+    ],
     "lbl:latitude":34.159326,
     "lbl:longitude":66.51551,
     "mps:latitude":34.159326,
     "mps:longitude":66.51551,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":7.0,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Afghanistan"
     ],
@@ -24,6 +31,15 @@
     ],
     "name:afr_x_preferred":[
         "Afghanistan"
+    ],
+    "name:afr_x_variant":[
+        "Afganistan"
+    ],
+    "name:aka_x_preferred":[
+        "Afganistan"
+    ],
+    "name:alb_x_preferred":[
+        "Afganistani"
     ],
     "name:als_x_preferred":[
         "Afghanistan"
@@ -37,11 +53,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
     "name:arc_x_preferred":[
         "\u0710\u0726\u0713\u0710\u0722\u0723\u071b\u0710\u0722"
     ],
     "name:arg_x_preferred":[
         "Afganist\u00e1n"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u0586\u0572\u0561\u0576\u057d\u057f\u0561\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -58,8 +80,17 @@
     "name:aze_x_preferred":[
         "\u018ffqan\u0131stan"
     ],
+    "name:aze_x_variant":[
+        "\u018ffq\u0259nistan"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u0444\u0493\u0430\u043d\u0441\u0442\u0430\u043d"
+    ],
+    "name:bam_x_preferred":[
+        "Afiganista\u014b"
+    ],
+    "name:baq_x_preferred":[
+        "Afganistan"
     ],
     "name:bar_x_preferred":[
         "Afghanistan"
@@ -76,11 +107,23 @@
     "name:ben_x_preferred":[
         "\u0986\u09ab\u0997\u09be\u09a8\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
     ],
+    "name:bgn_x_preferred":[
+        "\u0627\u0648\u06af\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u0905\u092b\u093c\u0917\u093c\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
     "name:bod_x_preferred":[
         "\u0f68\u0f0b\u0f67\u0fa5\u0f74\u0f60\u0f74\u0f0b\u0f62\u0f92\u0f53\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f53\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f55\u0f0b\u0f42\u0f0b\u0f53\u0f72\u0f0b\u0f66\u0f9f\u0f71\u0f53\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Afganistan"
+    ],
+    "name:bos_x_variant":[
+        "Avganistan"
     ],
     "name:bpy_x_preferred":[
         "\u0986\u09ab\u0997\u09be\u09a8\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
@@ -88,17 +131,26 @@
     "name:bre_x_preferred":[
         "Afghanistan"
     ],
+    "name:brh_x_preferred":[
+        "Ao\u0123\u00e1nist\u00e1n"
+    ],
     "name:bug_x_preferred":[
         "Afghanistan"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:bur_x_preferred":[
+        "\u1021\u102c\u1016\u1002\u1014\u103a\u1014\u1005\u1039\u1005\u1010\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
     "name:bxr_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Afganistan"
+    ],
+    "name:cat_x_variant":[
+        "Rep\u00fablica de l'Afganistan"
     ],
     "name:cbk_zam_x_preferred":[
         "Afghanistan"
@@ -124,6 +176,9 @@
     "name:chv_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:chy_x_preferred":[
+        "Afghanistan"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06d5\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
     ],
@@ -141,6 +196,9 @@
     ],
     "name:cym_x_preferred":[
         "Affganistan"
+    ],
+    "name:cym_x_variant":[
+        "Afghanistan"
     ],
     "name:cze_x_preferred":[
         "Afgh\u00e1nist\u00e1n"
@@ -160,8 +218,17 @@
     "name:dsb_x_preferred":[
         "Afghanistan"
     ],
+    "name:dty_x_preferred":[
+        "\u0905\u092b\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:dut_x_preferred":[
+        "Afghanistan"
+    ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f55\u0f0b\u0f42\u0f0b\u0f53\u0f72\u0f66\u0f72\u0f0b\u0f4f\u0f71\u0f53\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f68\u0f55\u0f0b\u0f42\u0f0b\u0f53\u0f72\u0f66\u0f72\u0f0b\u0f4f\u0f71\u0f53"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c6\u03b3\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03bd"
@@ -177,10 +244,14 @@
         "Afghan",
         "Afghanestan",
         "Afuganisutan",
-        "Islamic State of Afghanistan"
+        "Islamic State of Afghanistan",
+        "Islamic Republic of Afghanistan"
     ],
     "name:epo_x_preferred":[
         "Afganio"
+    ],
+    "name:epo_x_variant":[
+        "Afganujo"
     ],
     "name:est_x_preferred":[
         "Afganistan"
@@ -188,19 +259,33 @@
     "name:eus_x_preferred":[
         "Afganistan"
     ],
+    "name:ewe_x_preferred":[
+        "Afghanistan nutome"
+    ],
     "name:ext_x_preferred":[
         "Afganist\u00e1n"
     ],
     "name:fao_x_preferred":[
         "Afghanistan"
     ],
+    "name:fao_x_variant":[
+        "Afganistan"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0644\u062a\u0654 \u0627\u0633\u0644\u0627\u0645\u0626 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+        "\u062c\u0645\u0647\u0648\u0631\u0626 \u0627\u0633\u0644\u0627\u0645\u0626 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+        "Jamh\u016br\u012b-ye Isl\u0101m\u012b-ye Afgh\u0101nist\u0101n"
     ],
     "name:fin_x_preferred":[
         "Afganistan"
     ],
     "name:fra_x_preferred":[
+        "Afghanistan"
+    ],
+    "name:fre_x_preferred":[
         "Afghanistan"
     ],
     "name:frp_x_preferred":[
@@ -212,11 +297,20 @@
     "name:fry_x_preferred":[
         "Afganistan"
     ],
+    "name:ful_x_preferred":[
+        "Afganistaan"
+    ],
     "name:fur_x_preferred":[
         "Afghanistan"
     ],
     "name:gag_x_preferred":[
         "Afganistan"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d5\u10e6\u10d0\u10dc\u10d4\u10d7\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Afghanistan"
     ],
     "name:ger_x_variant":[
         "Islamischer Staat Afghanistan"
@@ -239,8 +333,14 @@
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf46\ud800\udf32\ud800\udf30\ud800\udf3d\ud800\udf39\ud800\udf43\ud800\udf44\ud800\udf30\ud800\udf3d"
     ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c6\u03b3\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03bd"
+    ],
     "name:grn_x_preferred":[
         "Aganit\u00e3"
+    ],
+    "name:gsw_x_preferred":[
+        "Afghanischtan"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aab\u0a98\u0abe\u0aa8\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
@@ -248,11 +348,17 @@
     "name:hak_x_preferred":[
         "Afghanistan"
     ],
+    "name:hak_x_variant":[
+        "\u00c2-fu-hon"
+    ],
     "name:hat_x_preferred":[
         "Afganistan"
     ],
     "name:hau_x_preferred":[
         "Afghanistan"
+    ],
+    "name:hau_x_variant":[
+        "Afaganistan"
     ],
     "name:haw_x_preferred":[
         "\u2018Apekanikana"
@@ -263,11 +369,19 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e4\u05d2\u05e0\u05d9\u05e1\u05d8\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e4\u05d2\u05e0\u05d9\u05e1\u05d8\u05d0\u05df"
+    ],
     "name:hif_x_preferred":[
         "Afghanistan"
     ],
     "name:hin_x_preferred":[
         "\u0905\u092b\u093c\u0917\u093c\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0905\u092b\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928",
+        "\u0905\u092b\u093c\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928",
+        "\u0905\u092b\u093c\u094d\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:hrv_x_preferred":[
         "Afganistan"
@@ -280,6 +394,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0586\u0572\u0561\u0576\u057d\u057f\u0561\u0576"
+    ],
+    "name:ice_x_preferred":[
+        "Afganistan"
     ],
     "name:ido_x_preferred":[
         "Afganistan"
@@ -295,6 +412,9 @@
     ],
     "name:ind_x_preferred":[
         "Afganistan"
+    ],
+    "name:ind_x_variant":[
+        "Afghanistan"
     ],
     "name:isl_x_preferred":[
         "Afganistan"
@@ -330,6 +450,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cab\u0ccd\u0c98\u0cbe\u0ca8\u0cbf\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8"
     ],
+    "name:kan_x_variant":[
+        "\u0c85\u0cab\u0c98\u0cbe\u0ca8\u0cbf\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10d5\u10e6\u10d0\u10dc\u10d4\u10d7\u10d8"
     ],
@@ -339,11 +462,20 @@
     "name:kbd_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u044d\u043d"
     ],
+    "name:kbp_x_preferred":[
+        "Afganistani"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17b6\u1792\u17b6\u179a\u178e\u179a\u178a\u17d2\u178b\u17a5\u179f\u17d2\u179b\u17b6\u1798\u17a2\u17b6\u17a0\u17d2\u179c\u17a0\u17d2\u1780\u17b6\u1793\u17b8\u179f\u17d2\u1790\u17b6\u1793"
     ],
+    "name:khm_x_variant":[
+        "\u17a2\u17b6\u17a0\u17d2\u179c\u17a0\u17d2\u1782\u17b6\u1793\u17b8\u179f\u17d2\u1790\u17b6\u1793"
+    ],
     "name:kik_x_preferred":[
         "Afghanistan"
+    ],
+    "name:kik_x_variant":[
+        "Afuganistani"
     ],
     "name:kin_x_preferred":[
         "Afuganisitani"
@@ -353,6 +485,9 @@
     ],
     "name:kom_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Afghanistan"
     ],
     "name:kor_x_preferred":[
         "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"
@@ -365,6 +500,16 @@
     ],
     "name:kur_x_preferred":[
         "Efxanistan"
+    ],
+    "name:kur_x_variant":[
+        "\u0626\u06d5\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+        "Afxanistan"
+    ],
+    "name:lad_x_preferred":[
+        "Afganistan"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0eb1\u0e9f\u0e81\u0eb2\u0e99\u0eb4\u0e94\u0eaa\u0eb0\u0e96\u0eb2\u0e99"
     ],
     "name:lat_x_preferred":[
         "Afgania"
@@ -381,8 +526,14 @@
     "name:lim_x_preferred":[
         "Afghanistan"
     ],
+    "name:lim_x_variant":[
+        "Afganistan"
+    ],
     "name:lin_x_preferred":[
         "Afganist\u00e1ni"
+    ],
+    "name:lin_x_variant":[
+        "Afiganisit\u00e1"
     ],
     "name:lit_x_preferred":[
         "Afganistanas"
@@ -396,14 +547,35 @@
     "name:ltz_x_preferred":[
         "Afghanistan"
     ],
+    "name:lub_x_preferred":[
+        "Afuganisita"
+    ],
+    "name:lug_x_preferred":[
+        "Afaganisitani"
+    ],
+    "name:lzh_x_preferred":[
+        "\u963f\u5bcc\u6c57"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0432\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
     "name:mai_x_preferred":[
         "\u0905\u092b\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d2b\u0d4d\u0d17\u0d3e\u0d28\u0d3f\u0d38\u0d4d\u0d24\u0d3e\u0d7b"
     ],
+    "name:mal_x_variant":[
+        "\u0d05\u0d2b\u0d4d\u0d17\u0d3e\u0d28\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d"
+    ],
+    "name:mao_x_preferred":[
+        "\u0100whekenet\u0101na"
+    ],
     "name:mar_x_preferred":[
         "\u0905\u092b\u0917\u093e\u0923\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Afghanistan"
     ],
     "name:mdf_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
@@ -419,6 +591,9 @@
     ],
     "name:mlg_x_preferred":[
         "Afganistana"
+    ],
+    "name:mlg_x_variant":[
+        "Afghanistan"
     ],
     "name:mlt_x_preferred":[
         "Afganistan"
@@ -444,8 +619,17 @@
     "name:mzn_x_preferred":[
         "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
     ],
+    "name:nah_x_preferred":[
+        "Afganistan"
+    ],
+    "name:nan_x_preferred":[
+        "Afghanistan"
+    ],
     "name:nau_x_preferred":[
         "Apeganitan"
+    ],
+    "name:nde_x_preferred":[
+        "Afghanistan"
     ],
     "name:nds_nld_x_preferred":[
         "Afghanistan"
@@ -453,8 +637,14 @@
     "name:nds_x_preferred":[
         "Afghanistan"
     ],
+    "name:nds_x_variant":[
+        "Afghanistaan"
+    ],
     "name:nep_x_preferred":[
         "\u0905\u092b\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:nep_x_variant":[
+        "\u0905\u092b\u094d\u0917\u093e\u0928\u093f\u0937\u094d\u0924\u093e\u0928"
     ],
     "name:new_x_preferred":[
         "\u0905\u092b\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928"
@@ -463,6 +653,9 @@
         "Afghanistan"
     ],
     "name:nno_x_preferred":[
+        "Afghanistan"
+    ],
+    "name:nob_x_preferred":[
         "Afghanistan"
     ],
     "name:nor_x_preferred":[
@@ -474,8 +667,14 @@
     "name:oci_x_preferred":[
         "Afganistan"
     ],
+    "name:olo_x_preferred":[
+        "Afganistuanu"
+    ],
     "name:ori_x_preferred":[
         "\u0b06\u0b2b\u0b17\u0b3e\u0b28\u0b3f\u0b38\u0b4d\u0b24\u0b3e\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b06\u0b2b\u0b3e\u0b17\u0b3e\u0b28\u0b3f\u0b38\u0b4d\u0b24\u0b3e\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Afgaanistaan"
@@ -498,8 +697,14 @@
     "name:pdc_x_preferred":[
         "Afganischtaan"
     ],
+    "name:per_x_preferred":[
+        "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
     "name:pih_x_preferred":[
         "Afganistaan"
+    ],
+    "name:pli_x_preferred":[
+        "\u0905\u092b\u0917\u093e\u0928\u0938\u094d\u0925\u093e\u0928"
     ],
     "name:pms_x_preferred":[
         "Afg\u00e0nistan"
@@ -519,14 +724,24 @@
     "name:pus_x_preferred":[
         "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
     ],
+    "name:pus_x_variant":[
+        "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u0647\u0648\u0631\u06cc\u062a",
+        "D\u00ea Afgh\u0101nist\u0101n Isl\u0101m\u012b Jumh\u016briyat"
+    ],
     "name:que_x_preferred":[
         "Afgansuyu"
     ],
     "name:roh_x_preferred":[
         "Afganistan"
     ],
+    "name:roh_x_variant":[
+        "Afghanistan"
+    ],
     "name:ron_x_preferred":[
         "Afganistan"
+    ],
+    "name:ron_x_variant":[
+        "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
     ],
     "name:rue_x_preferred":[
         "\u0410\u0444\u0491\u0430\u043d\u0456\u0441\u0442\u0430\u043d"
@@ -534,8 +749,17 @@
     "name:rum_x_preferred":[
         "Afganistan"
     ],
+    "name:run_x_preferred":[
+        "Afuganisitani"
+    ],
+    "name:rup_x_preferred":[
+        "Afganistan"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Fagan\u00efta, Afgan\u00efst\u00e4an"
     ],
     "name:sah_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u0430\u043d"
@@ -549,10 +773,16 @@
     "name:sco_x_preferred":[
         "Afghanistan"
     ],
+    "name:sgs_x_preferred":[
+        "Afgan\u0117stans"
+    ],
     "name:sin_x_preferred":[
         "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba"
     ],
     "name:slk_x_preferred":[
+        "Afganistan"
+    ],
+    "name:slo_x_preferred":[
         "Afganistan"
     ],
     "name:slv_x_preferred":[
@@ -561,11 +791,18 @@
     "name:sme_x_preferred":[
         "Afganistan"
     ],
+    "name:sme_x_variant":[
+        "Afghanistan",
+        "Afganist\u00e1na"
+    ],
     "name:smo_x_preferred":[
         "Afakanisitana"
     ],
     "name:sna_x_preferred":[
         "Afghanistan"
+    ],
+    "name:sna_x_variant":[
+        "Afuganistani"
     ],
     "name:snd_x_preferred":[
         "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -573,11 +810,17 @@
     "name:som_x_preferred":[
         "Afgaanistan"
     ],
+    "name:som_x_variant":[
+        "Afgaanistaan"
+    ],
     "name:spa_x_preferred":[
         "Afganist\u00e1n"
     ],
     "name:sqi_x_preferred":[
         "Afganistani"
+    ],
+    "name:sqi_x_variant":[
+        "Afganistan"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0432\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
@@ -594,6 +837,9 @@
     "name:swa_x_preferred":[
         "Afghanistan"
     ],
+    "name:swa_x_variant":[
+        "Afuganistani"
+    ],
     "name:swe_x_preferred":[
         "Afghanistan"
     ],
@@ -603,11 +849,17 @@
     "name:tam_x_preferred":[
         "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u04d8\u0444\u0433\u0430\u043d\u0441\u0442\u0430\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c2b\u0c4d\u0c18\u0c28\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c06\u0c2b\u0c4d\u0c18\u0c3e\u0c28\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
     ],
     "name:tet_x_preferred":[
         "Afeganistaun"
@@ -615,11 +867,32 @@
     "name:tgk_x_preferred":[
         "\u0410\u0444\u0493\u043e\u043d\u0438\u0441\u0442\u043e\u043d"
     ],
+    "name:tgk_x_variant":[
+        "\u0410\u0444\u0493\u043e\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Afghanistan"
     ],
+    "name:tgl_x_variant":[
+        "Apganistan"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f68\u0f0b\u0f67\u0fa5\u0f74\u0f60\u0f74\u0f0b\u0f62\u0f92\u0f53\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f53\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12a0\u134d\u130b\u1292\u1235\u1273\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbAfik\u0101nisitani"
+    ],
+    "name:tpi_x_preferred":[
+        "Afghanistan"
     ],
     "name:tuk_x_preferred":[
         "Owganystan"
@@ -639,11 +912,17 @@
     "name:ukr_x_preferred":[
         "\u0410\u0444\u0433\u0430\u043d\u0456\u0441\u0442\u0430\u043d"
     ],
+    "name:unk_x_variant":[
+        "Jomh\u016br\u012b-ye Esl\u0101m\u012b-ye Afgh\u0101nest\u0101n"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
         "Afg\u02bboniston"
+    ],
+    "name:uzb_x_variant":[
+        "\u0410\u0444\u0493\u043e\u043d\u0438\u0441\u0442\u043e\u043d"
     ],
     "name:vec_x_preferred":[
         "Afganistan"
@@ -654,14 +933,24 @@
     "name:vie_x_preferred":[
         "Afghanistan"
     ],
+    "name:vie_x_variant":[
+        "\u00c1p-ga-ni-xtan",
+        "A Ph\u00fa H\u00e3n (Afghanistan)"
+    ],
     "name:vls_x_preferred":[
         "Afghanistan"
     ],
     "name:vol_x_preferred":[
         "Lafganist\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Afganistan"
+    ],
     "name:war_x_preferred":[
         "Afganistan"
+    ],
+    "name:wel_x_preferred":[
+        "Afghanistan"
     ],
     "name:wol_x_preferred":[
         "Afganistaan"
@@ -680,6 +969,12 @@
     ],
     "name:yor_x_preferred":[
         "Afghan\u00edst\u00e0n"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u00c0f\u00f9g\u00e0n\u00edst\u00e1n\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u5bcc\u6c57"
     ],
     "name:zea_x_preferred":[
         "Afghanistan"
@@ -701,6 +996,9 @@
     ],
     "name:zul_x_preferred":[
         "I-Afganistani"
+    ],
+    "name:zul_x_variant":[
+        "i-Afghanistan"
     ],
     "ne:abbrev":"Afg.",
     "ne:abbrev_len":4,
@@ -780,6 +1078,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"93",
+    "statoids:ds":"AFG",
+    "statoids:fifa":"AFG",
+    "statoids:gaul":"1",
+    "statoids:gec":"AF",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"AFG",
+    "statoids:iso_a2":"AF",
+    "statoids:iso_a3":"AFG",
+    "statoids:iso_num":"4",
+    "statoids:itu":"AFG",
+    "statoids:marc":"af",
+    "statoids:name":"Afghanistan",
+    "statoids:wmo":"AF",
     "wk:latitude":34.0,
     "wk:longitude":66.0,
     "wk:population":31822848,
@@ -791,19 +1104,29 @@
     "wof:concordances":{
         "dbp:id":"Afghanistan",
         "fb:id":"en.afghanistan",
+        "fifa:id":"AFG",
+        "fips:code":"AF",
+        "gaul:id":"1",
         "gn:id":1149361,
         "gp:id":23424739,
         "hasc:id":"AF",
+        "ioc:id":"AFG",
+        "itu:id":"AFG",
         "loc:id":"n79063030",
+        "m49:code":"004",
+        "marc:id":"af",
         "mzb:id":"afghanistan",
+        "ne:adm0_a3":"AFG",
         "nyt:id":"N7749429140577003771",
         "qs:id":555226,
+        "uncrt:id":"AFG",
         "wd:id":"Q889",
-        "wk:page":"Afghanistan"
+        "wk:page":"Afghanistan",
+        "wmo:id":"AF"
     },
     "wof:country":"AF",
     "wof:country_alpha3":"AFG",
-    "wof:geomhash":"b06bccb49f0a9cd95def6b3b9e635b3d",
+    "wof:geomhash":"244b9bb074a87808dcfb8832564bfae5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -825,11 +1148,14 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1493229888,
+    "wof:lastmodified":1514538632,
     "wof:name":"Afghanistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":31822848,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"AFG",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

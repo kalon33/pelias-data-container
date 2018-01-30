@@ -5,28 +5,41 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.229029,
+    "geom:area_square_m":15017304332.375534,
     "geom:bbox":"124.041738,-9.504195,127.345727898,-8.134583473",
     "geom:latitude":-8.820426,
     "geom:longitude":125.853832,
     "gn:id":"",
     "gn:population":1154625,
     "iso:country":"TL",
+    "itu:country_code":[
+        "670"
+    ],
     "lbl:latitude":-8.801828,
     "lbl:longitude":125.866054,
     "mps:latitude":-8.801828,
     "mps:longitude":125.866054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Timor Leste"
     ],
     "name:afr_x_preferred":[
         "Oos-Timor"
     ],
+    "name:aka_x_preferred":[
+        "Tim\u0254 Boka"
+    ],
     "name:als_x_preferred":[
         "Osttimor"
     ],
     "name:amh_x_preferred":[
         "\u121d\u1225\u122b\u1245 \u1272\u121e\u122d"
+    ],
+    "name:amh_x_variant":[
+        "\u121d\u1235\u122b\u1245 \u1272\u121e\u122d"
     ],
     "name:ang_x_preferred":[
         "\u0112asttimor"
@@ -49,8 +62,14 @@
     "name:aze_x_preferred":[
         "\u015e\u0259rqi Timor"
     ],
+    "name:aze_x_variant":[
+        "\u015e\u0259rq Timor"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u04e9\u043d\u0441\u044b\u0493\u044b\u0448 \u0422\u0438\u043c\u043e\u0440"
+    ],
+    "name:bam_x_preferred":[
+        "K\u0254r\u0254n Tim\u0254r"
     ],
     "name:bar_x_preferred":[
         "Osttimor"
@@ -62,10 +81,14 @@
         "\u0423\u0441\u0445\u043e\u0434\u043d\u0456 \u0422\u044b\u043c\u043e\u0440"
     ],
     "name:bel_x_variant":[
-        "\u0423\u0441\u0445\u043e\u0434\u043d\u0456 \u0422\u044b\u043c\u043e\u0440"
+        "\u0423\u0441\u0445\u043e\u0434\u043d\u0456 \u0422\u044b\u043c\u043e\u0440",
+        "\u0422\u044b\u043c\u043e\u0440-\u041b\u0435\u0448\u0446\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c2\u09b0\u09cd\u09ac \u09a4\u09bf\u09ae\u09c1\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09c2\u09b0\u09cd\u09ac \u099f\u09bf\u09ae\u09cb\u09b0"
     ],
     "name:bjn_x_preferred":[
         "Timor Lorosa'\u00e9"
@@ -76,11 +99,17 @@
     "name:bos_x_preferred":[
         "Isto\u010dni Timor"
     ],
+    "name:bos_x_variant":[
+        "Timor Leste"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u0999 \u09a4\u09bf\u09ae\u09c1\u09b0"
     ],
     "name:bre_x_preferred":[
         "Timor ar Reter"
+    ],
+    "name:bre_x_variant":[
+        "Timor-Leste"
     ],
     "name:bug_x_preferred":[
         "Timor Leste"
@@ -106,12 +135,6 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u0445\u0431\u0430\u043b\u0435\u043d \u0422\u0438\u043c\u043e\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u5e1d\u6c76"
-    ],
-    "name:chi_x_variant":[
-        "\u4e1c\u5e1d\u6c76"
-    ],
     "name:ckb_x_preferred":[
         "\u062a\u06cc\u0645\u06c6\u0631\u06cc \u0695\u06c6\u0698\u06be\u06d5\u06b5\u0627\u062a"
     ],
@@ -127,6 +150,9 @@
     "name:cym_x_preferred":[
         "Dwyrain Timor"
     ],
+    "name:cym_x_variant":[
+        "Timor-Leste"
+    ],
     "name:cze_x_preferred":[
         "V\u00fdchodn\u00ed Timor"
     ],
@@ -136,8 +162,14 @@
     "name:dan_x_preferred":[
         "\u00d8sttimor"
     ],
+    "name:dan_x_variant":[
+        "Timor-Leste"
+    ],
     "name:deu_x_preferred":[
         "Osttimor"
+    ],
+    "name:deu_x_variant":[
+        "Timor-Leste"
     ],
     "name:diq_x_preferred":[
         "Timur\u00ea Rocvet\u0131\u015fi"
@@ -147,9 +179,6 @@
     ],
     "name:dsb_x_preferred":[
         "P\u00f3dzajt\u0161ny Timor"
-    ],
-    "name:dut_x_preferred":[
-        "Oost-Timor"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc \u03a4\u03b9\u03bc\u03cc\u03c1"
@@ -163,7 +192,8 @@
     "name:eng_x_variant":[
         "Democratic Republic of East Timor",
         "Democratic Republic of Timor-Leste",
-        "Timorese"
+        "Timorese",
+        "Timor-Leste"
     ],
     "name:epo_x_preferred":[
         "Orienta Timoro"
@@ -171,8 +201,17 @@
     "name:est_x_preferred":[
         "Ida-Timor"
     ],
+    "name:est_x_variant":[
+        "Ida Timor"
+    ],
     "name:eus_x_preferred":[
         "Ekialdeko Timor"
+    ],
+    "name:eus_x_variant":[
+        "Timor ekialdea"
+    ],
+    "name:ewe_x_preferred":[
+        "Timor-Leste nutome"
     ],
     "name:ext_x_preferred":[
         "Timol Oriental"
@@ -180,8 +219,14 @@
     "name:fao_x_preferred":[
         "Eysturtimor"
     ],
+    "name:fao_x_variant":[
+        "Eystur-Timor"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u06cc\u0645\u0631 \u0634\u0631\u0642"
     ],
     "name:fin_x_colloquial":[
         "Ita-Timor"
@@ -192,8 +237,9 @@
     "name:fra_x_preferred":[
         "Timor oriental"
     ],
-    "name:fre_x_preferred":[
-        "Timor Oriental"
+    "name:fra_x_variant":[
+        "Timor Oriental",
+        "Timor-Leste"
     ],
     "name:frp_x_preferred":[
         "Timor orient\u00e2l"
@@ -207,11 +253,11 @@
     "name:ful_x_preferred":[
         "East Timor"
     ],
+    "name:ful_x_variant":[
+        "Timoor Fu\u0257naange"
+    ],
     "name:gag_x_preferred":[
         "G\u00fcnduusu Timor"
-    ],
-    "name:ger_x_preferred":[
-        "Osttimor"
     ],
     "name:gla_x_preferred":[
         "Tiomor an Ear"
@@ -219,8 +265,14 @@
     "name:gle_x_preferred":[
         "An T\u00edom\u00f3r Thoir"
     ],
+    "name:gle_x_variant":[
+        "T\u00edom\u00f3r Thoir"
+    ],
     "name:glg_x_preferred":[
         "Timor Leste"
+    ],
+    "name:glg_x_variant":[
+        "Timor-Leste"
     ],
     "name:glv_x_preferred":[
         "Yn Teemor Hiar"
@@ -240,11 +292,17 @@
     "name:hau_x_preferred":[
         "Timor-Leste"
     ],
+    "name:hau_x_variant":[
+        "Timor Ta Gabas"
+    ],
     "name:hbs_x_preferred":[
         "Isto\u010dni Timor"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d6\u05e8\u05d7 \u05d8\u05d9\u05de\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05d9\u05de\u05d5\u05e8 \u05d4\u05de\u05d6\u05e8\u05d7\u05d9\u05ea"
     ],
     "name:hif_x_preferred":[
         "East Timor"
@@ -276,8 +334,14 @@
     "name:ina_x_preferred":[
         "Timor Oriental"
     ],
+    "name:ina_x_variant":[
+        "Timor del Est"
+    ],
     "name:ind_x_preferred":[
         "Timor Leste"
+    ],
+    "name:ind_x_variant":[
+        "Timor Timur"
     ],
     "name:isl_x_preferred":[
         "Austur-T\u00edmor"
@@ -305,6 +369,12 @@
     "name:kaa_x_preferred":[
         "Sh\u0131g'\u0131s Timor"
     ],
+    "name:kal_x_preferred":[
+        "Timor Kangilliit"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c88\u0cb8\u0ccd\u0c9f\u0ccd \u0c9f\u0cbf\u0cae\u0ccb\u0cb0\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10e2\u10d8\u10db\u10dd\u10e0\u10d8"
     ],
@@ -313,6 +383,9 @@
     ],
     "name:khm_x_preferred":[
         "\u1791\u17b8\u1798\u17d0\u179a\u1781\u17b6\u1784\u1780\u17be\u178f"
+    ],
+    "name:kik_x_preferred":[
+        "Timori ya Mashariki"
     ],
     "name:kin_x_preferred":[
         "Timoro-Lesite"
@@ -329,11 +402,17 @@
     "name:kur_x_preferred":[
         "T\u00eemora Rojhilat"
     ],
+    "name:kur_x_variant":[
+        "\u062a\u06cc\u0645\u06c6\u0631\u06cc \u0695\u06c6\u0698\u06be\u06d5\u06b5\u0627\u062a"
+    ],
     "name:lad_x_preferred":[
         "Timor Oryentala"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e95\u0eb5\u0ea1\u0ecd\u0e95\u0eb2\u0ec0\u0ea7\u0eb1\u0e99\u0ead\u0ead\u0e81"
+    ],
+    "name:lao_x_variant":[
+        "\u0e95\u0eb4\u0ea1\u0ecd\u0e95\u0eb2\u0ec0\u0ea7\u0eb1\u0e99\u0ead\u0ead\u0e81"
     ],
     "name:lat_x_preferred":[
         "Timoria Orientalis"
@@ -350,6 +429,9 @@
     "name:lin_x_preferred":[
         "Timor ya mony\u025bl\u025b"
     ],
+    "name:lin_x_variant":[
+        "Timor\u025b ya Moni\u025bl\u025b"
+    ],
     "name:lit_x_preferred":[
         "Ryt\u0173 Timoras"
     ],
@@ -359,8 +441,17 @@
     "name:ltz_x_preferred":[
         "Timor-Leste"
     ],
+    "name:lub_x_preferred":[
+        "Timoru wa diboku"
+    ],
+    "name:lug_x_preferred":[
+        "Timowa"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d34\u0d15\u0d4d\u0d15\u0d7b \u0d1f\u0d3f\u0d2e\u0d4b\u0d7c"
+    ],
+    "name:mal_x_variant":[
+        "\u0d15\u0d3f\u0d34\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d24\u0d3f\u0d2e\u0d4b\u0d30\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935 \u0924\u093f\u092e\u094b\u0930"
@@ -371,17 +462,29 @@
     "name:mkd_x_preferred":[
         "\u0418\u0441\u0442\u043e\u0447\u0435\u043d \u0422\u0438\u043c\u043e\u0440"
     ],
+    "name:mlg_x_preferred":[
+        "Timor Atsinanana"
+    ],
+    "name:mlt_x_preferred":[
+        "Timor tal-Lvant"
+    ],
     "name:mon_x_preferred":[
         "\u0417\u04af\u04af\u043d \u0422\u0438\u043c\u043e\u0440"
     ],
     "name:msa_x_preferred":[
         "Timor Leste"
     ],
+    "name:msa_x_variant":[
+        "Timor Timur"
+    ],
     "name:mwl_x_preferred":[
         "Timor-Leste"
     ],
     "name:mya_x_preferred":[
         "\u1021\u101b\u103e\u1031\u1037\u1010\u102e\u1019\u1031\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1021\u101b\u103e\u1031\u1037\u1010\u102e\u1019\u1031\u102c"
     ],
     "name:mzn_x_preferred":[
         "\u0634\u0631\u0642\u064a \u062a\u064a\u0645\u0648\u0631"
@@ -391,6 +494,9 @@
     ],
     "name:nav_x_preferred":[
         "Ha\u02bca\u02bcaahj\u00ed T\u00ed\u00edmow"
+    ],
+    "name:nde_x_preferred":[
+        "East Timor"
     ],
     "name:nds_x_preferred":[
         "Oosttimor"
@@ -407,6 +513,12 @@
     "name:nno_x_preferred":[
         "Aust-Timor"
     ],
+    "name:nno_x_variant":[
+        "\u00d8st-Timor"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8st-Timor"
+    ],
     "name:nor_x_colloquial":[
         "Ost-Timor"
     ],
@@ -421,6 +533,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b42\u0b30\u0b4d\u0b2c \u0b1f\u0b3f\u0b2e\u0b4b\u0b30"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2a\u0b41\u0b30\u0b4d\u0b2c \u0b24\u0b3f\u0b2e\u0b4b\u0b30\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Tiimor Bahaa"
@@ -459,14 +574,23 @@
         "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
         "Timor Leste"
     ],
+    "name:pus_x_preferred":[
+        "\u062e\u062a\u064a\u0681 \u067c\u064a\u0645\u0648\u0631"
+    ],
     "name:que_x_preferred":[
         "Anti Timur"
+    ],
+    "name:roh_x_preferred":[
+        "Timor da l'Ost"
     ],
     "name:ron_x_preferred":[
         "Timorul de Est"
     ],
     "name:rum_x_preferred":[
         "Timorul de Est"
+    ],
+    "name:run_x_preferred":[
+        "Timoru y'iburasirazuba"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440"
@@ -504,6 +628,9 @@
     "name:som_x_preferred":[
         "Bariga Timor"
     ],
+    "name:som_x_variant":[
+        "Timorka bari"
+    ],
     "name:spa_x_preferred":[
         "Timor Oriental"
     ],
@@ -513,6 +640,9 @@
     "name:srp_x_preferred":[
         "\u0418\u0441\u0442\u043e\u0447\u043d\u0438 \u0422\u0438\u043c\u043e\u0440"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0441\u0442\u0435"
+    ],
     "name:stq_x_preferred":[
         "Aast-Timor"
     ],
@@ -521,6 +651,9 @@
     ],
     "name:swa_x_preferred":[
         "Timor ya Mashariki"
+    ],
+    "name:swa_x_variant":[
+        "Timori Mashariki"
     ],
     "name:swe_x_colloquial":[
         "Osttimor"
@@ -534,14 +667,25 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bae\u0bcb\u0bb0\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc8\u0bae\u0bcb\u0bb0\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u04e9\u043d\u0447\u044b\u0433\u044b\u0448 \u0422\u0438\u043c\u043e\u0440"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c24\u0c48\u0c2e\u0c42\u0c30\u0c4d"
     ],
+    "name:tel_x_variant":[
+        "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c1f\u0c3f\u0c2e\u0c4b\u0c30\u0c4d"
+    ],
     "name:tet_x_preferred":[
         "Tim\u00f3r Lorosa'e"
+    ],
+    "name:tet_x_variant":[
+        "Rep\u00fablika Demokr\u00e1tika Timor Lorosa\u2019e",
+        "Tim\u00f3r Lorosae",
+        "Timor Lorosa\u2019e"
     ],
     "name:tgk_x_preferred":[
         "\u0422\u0438\u043c\u043e\u0440\u0438 \u0428\u0430\u0440\u049b\u04e3"
@@ -551,6 +695,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e15\u0e34\u0e21\u0e2d\u0e23\u0e4c-\u0e40\u0e25\u0e2a\u0e40\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e34\u0e21\u0e2d\u0e23\u0e4c\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01"
+    ],
+    "name:tir_x_preferred":[
+        "\u121d\u1235\u122b\u1245 \u1272\u121e\u122d"
+    ],
+    "name:ton_x_preferred":[
+        "Timoa Hahake"
     ],
     "name:tuk_x_preferred":[
         "G\u00fcndogar Timor"
@@ -570,12 +723,21 @@
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0422\u0438\u043c\u043e\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0456\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0456"
+    ],
     "name:und_x_variant":[
         "Republik Demokratik Timor Timur",
         "Timor Timur"
     ],
+    "name:unk_x_variant":[
+        "Rep\u00fablica Democr\u00e1tica de Timor-Leste"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u062a\u06cc\u0645\u0648\u0631 \u0644\u06cc\u0633\u0679"
     ],
     "name:uzb_x_preferred":[
         "Sharqiy Timor"
@@ -588,6 +750,9 @@
     ],
     "name:vie_x_preferred":[
         "Timor-Leste"
+    ],
+    "name:vie_x_variant":[
+        "\u00d0\u00f4ng Ti-mo"
     ],
     "name:vls_x_preferred":[
         "\u00d4ost-Timor"
@@ -616,6 +781,9 @@
     "name:yor_x_preferred":[
         "\u00ccl\u00e0\u00f2r\u00f9n Timor"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u00ccl\u00e0O\u00f2r\u00f9n T\u00edm\u1ecd\u0300"
+    ],
     "name:zea_x_preferred":[
         "O\u00f4st-Timor"
     ],
@@ -629,10 +797,14 @@
         "\u4e1c\u5e1d\u6c76"
     ],
     "name:zho_x_variant":[
+        "\u4e1c\u5e1d\u6c76",
         "\u6771\u5e1d\u6c76"
     ],
     "name:zho_yue_x_preferred":[
         "\u6771\u5e1d\u6c76"
+    ],
+    "name:zul_x_preferred":[
+        "i-East Timor"
     ],
     "ne:abbrev":"T.L.",
     "ne:abbrev_len":4,
@@ -711,6 +883,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"670",
+    "statoids:ds":"RI",
+    "statoids:fifa":"TLS",
+    "statoids:gaul":"242",
+    "statoids:gec":"TT",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"TLS",
+    "statoids:iso_a2":"TL",
+    "statoids:iso_a3":"TLS",
+    "statoids:iso_num":"626",
+    "statoids:itu":"TLS",
+    "statoids:marc":"em",
+    "statoids:name":"Timor-Leste",
+    "statoids:wmo":"TM",
     "wk:latitude":-8.966667,
     "wk:longitude":125.75,
     "wk:population":1180069,
@@ -722,18 +909,28 @@
     "wof:concordances":{
         "dbp:id":"East_Timor",
         "fb:id":"en.east_timor",
+        "fifa:id":"TLS",
+        "fips:code":"TT",
+        "gaul:id":"242",
         "gn:id":1966436,
         "gp:id":23424968,
         "hasc:id":"TL",
+        "ioc:id":"TLS",
+        "itu:id":"TLS",
+        "m49:code":"626",
+        "marc:id":"em",
         "mzb:id":"east-timor",
+        "ne:adm0_a3":"TLS",
         "nyt:id":"N76550444295982757091",
         "qs:id":1087775,
+        "uncrt:id":"RI",
         "wd:id":"Q574",
-        "wk:page":"East Timor"
+        "wk:page":"East Timor",
+        "wmo:id":"TM"
     },
     "wof:country":"TL",
     "wof:country_alpha3":"TLS",
-    "wof:geomhash":"676ed3bdcc36b84492e0dd16e7ec8aba",
+    "wof:geomhash":"0461b525cf17c49d4bd336e3fd8f5479",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -752,11 +949,14 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1493230008,
+    "wof:lastmodified":1509143037,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":1180069,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"TLS",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

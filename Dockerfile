@@ -36,7 +36,11 @@ ADD scripts/*.sh /mnt/tools/scripts/
 
 ADD pelias.json /root/pelias.json
 
-ADD new_york.polylines /mnt/data
+ADD world.polylines /mnt/data
+
+ADD index.js /root/index.js
+
+RUN mv /root/index.js /mnt/tools/dbclient/node_modules/elasticsearch/src/lib/apis/index.js
 
 #ADD clean.osm.pbf /mnt/data/openstreetmap/osm.pbf     
 

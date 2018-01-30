@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.371673,
+    "geom:area_square_m":323100851207.361572,
     "geom:bbox":"-8.602059,4.352833271,-2.493031,10.740015",
     "geom:latitude":7.621754,
     "geom:longitude":-5.553038,
@@ -16,6 +17,9 @@
     "mps:latitude":7.568978,
     "mps:longitude":-5.495164,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Pant\u00e9 Gad\u00e9ng"
     ],
@@ -27,6 +31,12 @@
     ],
     "name:aka_x_preferred":[
         "C\u00f4te d\u2019Ivoire"
+    ],
+    "name:aka_x_variant":[
+        "La C\u00f4te d'Ivoire"
+    ],
+    "name:alb_x_preferred":[
+        "Bregu i Fildisht\u00eb"
     ],
     "name:als_x_preferred":[
         "Elfenbeink\u00fcste"
@@ -43,6 +53,12 @@
     "name:arg_x_preferred":[
         "Costa de Vori"
     ],
+    "name:arg_x_variant":[
+        "Costa de Bori"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u057f \u0564'\u053b\u057e\u0578\u0582\u0561\u0580"
+    ],
     "name:arz_x_preferred":[
         "\u0643\u0648\u062a \u062f\u064a\u0641\u0648\u0627\u0631"
     ],
@@ -55,26 +71,51 @@
     "name:aze_x_preferred":[
         "Kot-d\u2019\u0130vuar"
     ],
+    "name:aze_x_variant":[
+        "Fil Di\u015fi Sahili",
+        "\u0130vori Sahili"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
     ],
     "name:bam_x_preferred":[
         "K\u0254n\u0254wari"
     ],
+    "name:bam_x_variant":[
+        "Kodiwari",
+        "C\u00f4te d'Ivoire"
+    ],
+    "name:baq_x_preferred":[
+        "Boli Kosta"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u043e\u0442-\u0434'\u0406\u0432\u0443\u0430\u0440"
     ],
     "name:bel_x_variant":[
-        "\u041a\u043e\u0442 \u0434\u2019\u0406\u0432\u0443\u0430\u0440"
+        "\u041a\u043e\u0442 \u0434\u2019\u0406\u0432\u0443\u0430\u0440",
+        "\u041a\u043e\u0442-\u0434\u2019\u0406\u0432\u0443\u0430\u0440"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09a4 \u09a6\u09bf\u09ad\u09cb\u09af\u09bc\u09be\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u0987\u09ad\u09b0\u09bf \u0995\u09cb\u09b8\u09cd\u099f",
+        "\u0986\u09ad\u09b0\u09bf \u0995\u09cb\u09b8\u09cd\u099f"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0633\u0627\u0647\u06cc\u0644 \u0626\u0627\u062c"
+    ],
+    "name:bho_x_preferred":[
+        "\u0906\u0907\u0935\u0930\u0940 \u0915\u094b\u0938\u094d\u091f"
     ],
     "name:bjn_x_preferred":[
         "Pantai Gading"
     ],
     "name:bod_x_preferred":[
         "\u0f40\u0f7c\u0f0b\u0f4a\u0f72\u0f0b\u0f4c\u0f72\u0f0b\u0f68\u0f60\u0f72\u0f0b\u0f56\u0f7c\u0f0b\u0f62\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f40\u0f7c\u0f0b\u0f4a\u0f7a\u0f0b\u0f4c\u0f72\u0f0d \u0f68\u0f72\u0f0b\u0f5d\u0f7c\u0f0b\u0f62\u0f7a\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Obala Slonova\u010de"
@@ -88,11 +129,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0442 \u0434'\u0418\u0432\u043e\u0430\u0440"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u043e\u0442 \u0434\u2019\u0418\u0432\u043e\u0430\u0440",
+        "\u0411\u0440\u044f\u0433 \u043d\u0430 \u0441\u043b\u043e\u043d\u043e\u0432\u0430\u0442\u0430 \u043a\u043e\u0441\u0442"
+    ],
+    "name:bur_x_preferred":[
+        "\u1021\u102d\u102f\u1004\u103a\u1017\u101b\u102e\u1000\u102d\u102f\u1037\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
     "name:bxr_x_preferred":[
         "\u041a\u043e\u0442 \u0434'\u0418\u0432\u0443\u0430\u0440"
     ],
     "name:cat_x_preferred":[
         "Costa d'Ivori"
+    ],
+    "name:cat_x_variant":[
+        "Costa d\u2019Ivori"
     ],
     "name:cdo_x_preferred":[
         "C\u00f4te d'Ivoire"
@@ -107,11 +158,7 @@
         "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
     ],
     "name:chi_x_preferred":[
-        "\u8c61\u7259\u6d77\u5cb8"
-    ],
-    "name:chi_x_variant":[
-        "\u79d1\u7279\u8fea\u74e6",
-        "\u8c61\u7259\u6d77\u5cb8"
+        "\u79d1\u7279\u8fea\u74e6"
     ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440"
@@ -128,14 +175,28 @@
     "name:cym_x_preferred":[
         "Arfordir Ifori"
     ],
+    "name:cym_x_variant":[
+        "C\u00f4te d\u2019Ivoire",
+        "C\u00f4te d'Ivoire"
+    ],
     "name:cze_x_preferred":[
         "Pob\u0159e\u017e\u00ed Slonoviny"
     ],
     "name:dan_x_preferred":[
         "Elfenbenskysten"
     ],
+    "name:deu_x_colloquial":[
+        "Cote d\u00b4Ivoire",
+        "Elfenbeinkueste",
+        "Elfenbeinkuste",
+        "Republik Cote d\u00b4Ivoire"
+    ],
     "name:deu_x_preferred":[
         "Elfenbeink\u00fcste"
+    ],
+    "name:deu_x_variant":[
+        "C\u00f4te d\u2019Ivoire",
+        "Republik C\u00f4te d\u00b4Ivoire"
     ],
     "name:diq_x_preferred":[
         "Sahil\u00ea D\u0131ndan\u00ea Fili"
@@ -143,11 +204,20 @@
     "name:div_x_preferred":[
         "\u0787\u07a6\u0787\u07a8\u0788\u07a6\u0783\u07a9 \u0786\u07af\u0790\u07b0\u0793\u07aa"
     ],
+    "name:dsb_x_preferred":[
+        "S\u0142onowinowy p\u015bibrjog"
+    ],
+    "name:dty_x_preferred":[
+        "\u0906\u0907\u092d\u094b\u0930\u0940 \u0915\u094b\u0938\u094d\u091f"
+    ],
     "name:dut_x_preferred":[
         "Ivoorkust"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03ba\u03c4\u03ae \u0395\u03bb\u03b5\u03c6\u03b1\u03bd\u03c4\u03bf\u03c3\u03c4\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03ba\u03c4\u03ae \u0395\u03bb\u03b5\u03c6\u03b1\u03bd\u03c4\u03cc\u03b4\u03bf\u03bd\u03c4\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ivory Coast"
@@ -161,19 +231,36 @@
         "C\u00f4te d'Ivoire",
         "Ivorian",
         "Rep. Cote d'Ivoire",
-        "Republic of Cote d'Ivoire"
+        "Republic of Cote d'Ivoire",
+        "Republic of C\u00f4te d\u2019Ivoire",
+        "C\u00f4te d\u2019Ivoire"
     ],
     "name:epo_x_preferred":[
         "Ebur-Bordo"
     ],
+    "name:epo_x_variant":[
+        "Kotdivuaro",
+        "Eburbordo"
+    ],
     "name:est_x_preferred":[
         "Elevandiluurannik"
+    ],
+    "name:est_x_variant":[
+        "Cote d\u2019Ivoire",
+        "C\u00f4te d\u2019Ivoire"
     ],
     "name:eus_x_preferred":[
         "Boli Kosta"
     ],
+    "name:eus_x_variant":[
+        "BK"
+    ],
     "name:ewe_x_preferred":[
         "Nyi\u0256u \u0191uta"
+    ],
+    "name:ewe_x_variant":[
+        "Ivory Kost nutome",
+        "C\u00f4te d'Ivoire"
     ],
     "name:ext_x_preferred":[
         "Costa de Marfil"
@@ -187,19 +274,26 @@
     "name:fin_x_preferred":[
         "Norsunluurannikko"
     ],
+    "name:fin_x_variant":[
+        "C\u00f4te d\u2019Ivoire"
+    ],
     "name:fra_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
+        "C\u00f4te d\u2019Ivoire",
+        "C\u00f4te d'Ivoire",
+        "R\u00e9publique de C\u00f4te d\u2019Ivoire",
         "C\u00f4te d\u00b4Ivoire"
     ],
-    "name:fre_x_variant":[
-        "C\u00f4te d'Ivoire",
-        "C\u00f4te d\u2019Ivoire",
-        "R\u00e9publique de C\u00f4te d\u2019Ivoire"
+    "name:fre_x_preferred":[
+        "C\u00f4te d'Ivoire"
     ],
     "name:frp_x_preferred":[
         "Couta d\u2019Ivou\u00e8ro"
+    ],
+    "name:frr_x_preferred":[
+        "Elfenbiank\u00fcst"
     ],
     "name:fry_x_preferred":[
         "Ivoarkust"
@@ -210,21 +304,17 @@
     "name:gag_x_preferred":[
         "Fildi\u015fi Kumsal\u0131"
     ],
-    "name:ger_x_colloquial":[
-        "Cote d\u00b4Ivoire",
-        "Elfenbeinkueste",
-        "Elfenbeinkuste",
-        "Republik Cote d\u00b4Ivoire"
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10e2-\u10d3\u2019\u10d8\u10d5\u10e3\u10d0\u10e0\u10d8"
     ],
     "name:ger_x_preferred":[
         "Elfenbeink\u00fcste"
     ],
-    "name:ger_x_variant":[
-        "C\u00f4te d\u2019Ivoire",
-        "Republik C\u00f4te d\u00b4Ivoire"
-    ],
     "name:gla_x_preferred":[
         "Costa \u00ccbhri"
+    ],
+    "name:gla_x_variant":[
+        "C\u00f4te d'Ivoire"
     ],
     "name:gle_x_preferred":[
         "An C\u00f3sta Eabhair"
@@ -232,14 +322,29 @@
     "name:glg_x_preferred":[
         "Costa do Marfil"
     ],
+    "name:glg_x_variant":[
+        "Costa do Marfil - C\u00f4te d'Ivoire"
+    ],
     "name:glv_x_preferred":[
         "Yn Clyst Iuaagagh"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03ba\u03c4\u03ae \u0395\u03bb\u03b5\u03c6\u03b1\u03bd\u03c4\u03bf\u03c3\u03c4\u03bf\u03cd"
+    ],
+    "name:gsw_x_preferred":[
+        "Elfebeikischte"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a86\u0a87\u0ab5\u0ab0\u0ac0 \u0a95\u0acb\u0ab8\u0acd\u0a9f"
     ],
     "name:hak_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
     "name:hat_x_preferred":[
         "K\u00f2t divwa"
+    ],
+    "name:hau_x_preferred":[
+        "Aibari Kwas"
     ],
     "name:hbs_x_preferred":[
         "Obala Slonova\u010de"
@@ -253,8 +358,16 @@
     "name:hin_x_preferred":[
         "\u0915\u094b\u0924 \u0926\u093f\u0935\u094d\u0935\u093e\u0930"
     ],
+    "name:hin_x_variant":[
+        "\u0906\u0907\u0935\u0930\u0940 \u0915\u094b\u0938\u094d\u091f",
+        "\u0915\u094b\u0924 \u0926'\u0908\u0935\u094b\u0906\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Obala Bjelokosti"
+    ],
+    "name:hrv_x_variant":[
+        "Bjelokosna Obala",
+        "Obala Slonova\u010de"
     ],
     "name:hsb_x_preferred":[
         "S\u0142onowinowy pobrj\u00f3h"
@@ -265,8 +378,14 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u057f \u0564'\u053b\u057e\u0578\u0582\u0561\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u0553\u0572\u0578\u057d\u056f\u0580\u056b \u0531\u0583"
+    ],
     "name:ibo_x_preferred":[
         "C\u00f4te d'Ivoire"
+    ],
+    "name:ice_x_preferred":[
+        "F\u00edlabeinsstr\u00f6ndin"
     ],
     "name:ido_x_preferred":[
         "Ivora Rivo"
@@ -277,11 +396,17 @@
     "name:ilo_x_preferred":[
         "Pantar ti Marpil"
     ],
+    "name:ilo_x_variant":[
+        "Costa Ivoria"
+    ],
     "name:ina_x_preferred":[
         "Costa de Ebore"
     ],
     "name:ind_x_preferred":[
         "Pantai Gading"
+    ],
+    "name:ind_x_variant":[
+        "C\u00f4te d'Ivoire"
     ],
     "name:isl_x_preferred":[
         "F\u00edlabeinsstr\u00f6ndin"
@@ -303,7 +428,8 @@
     ],
     "name:jpn_x_variant":[
         "\u30b3\u30fc\u30c8\u30b8\u30dc\u30a2\u30fc\u30eb",
-        "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb\u5171\u548c\u56fd"
+        "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb\u5171\u548c\u56fd",
+        "\u8c61\u7259\u6d77\u5cb8"
     ],
     "name:kaa_x_preferred":[
         "Kot-d\u0130vuar"
@@ -314,14 +440,30 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccb\u0ca4\u0ccd \u0ca6\u0ccd'\u0c87\u0cb5\u0cbe\u0cb0\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0c90\u0cb5\u0cb0\u0cbf \u0c95\u0ccb\u0cb8\u0ccd\u0c9f\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e2-\u10d3\u2019\u10d8\u10d5\u10e3\u10d0\u10e0\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10de\u10d8\u10da\u10dd\u10e1 \u10eb\u10d5\u10da\u10d8\u10e1 \u10e1\u10d0\u10dc\u10d0\u10de\u10d8\u10e0\u10dd",
+        "\u10d9\u10dd\u10e2-\u10d3'\u10d8\u10d5\u10e3\u10d0\u10e0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
     ],
+    "name:kbp_x_preferred":[
+        "Kootidiiv\u028awar\u0269"
+    ],
+    "name:khm_x_preferred":[
+        "\u1780\u17bc\u178a\u178c\u17b8\u179c\u17d0\u179a"
+    ],
     "name:kik_x_preferred":[
         "C\u00f4te d'Ivoire"
+    ],
+    "name:kik_x_variant":[
+        "Kodivaa"
     ],
     "name:kin_x_preferred":[
         "Kote Divuwari"
@@ -336,13 +478,21 @@
         "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
     ],
     "name:kor_x_variant":[
-        "\ucf54\ud2b8\ub514\ubd80\uc640\ub974"
+        "\ucf54\ud2b8\ub514\ubd80\uc640\ub974",
+        "\uc544\uc774\ubcf4\ub9ac \ucf54\uc2a4\ud2b8"
     ],
     "name:kur_x_preferred":[
         "Perav\u00ea Diranf\u00eel"
     ],
+    "name:kur_x_variant":[
+        "Berderya A\u00e7",
+        "\u06a9\u06c6\u062a\u062f\u06cc\u06a4\u0648\u0627\u0631"
+    ],
     "name:lad_x_preferred":[
         "Kosta de Marfil"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9d\u0eb1\u0ec8\u0e87\u0e97\u0eb0\u0ec0\u0ea5\u0ec4\u0ead\u0ea7\u0ecd\u0ea5\u0eb4"
     ],
     "name:lat_x_preferred":[
         "Litus Eburneum"
@@ -359,8 +509,15 @@
     "name:lin_x_preferred":[
         "Kotdivuar"
     ],
+    "name:lin_x_variant":[
+        "Kot\u00eddivual\u025b"
+    ],
     "name:lit_x_preferred":[
         "Dramblio Kaulo Krantas"
+    ],
+    "name:lit_x_variant":[
+        "Dramblio KKR",
+        "C\u00f4te d'Ivoire"
     ],
     "name:lmo_x_preferred":[
         "Costa d'Avori"
@@ -371,8 +528,23 @@
     "name:ltz_x_preferred":[
         "Elfebeek\u00fcst"
     ],
+    "name:lub_x_preferred":[
+        "Kotedivuale"
+    ],
     "name:lug_x_preferred":[
         "Ivory Coast"
+    ],
+    "name:lug_x_variant":[
+        "Kote Divwa"
+    ],
+    "name:lzh_x_preferred":[
+        "\u79d1\u7279\u8fea\u74e6"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0440\u0435\u0433 \u043d\u0430 \u0421\u043b\u043e\u043d\u043e\u0432\u0430\u0442\u0430 \u041a\u043e\u0441\u043a\u0430"
+    ],
+    "name:mai_x_preferred":[
+        "\u0906\u0907\u092d\u094b\u0930\u0940 \u0915\u094b\u0938\u094d\u091f"
     ],
     "name:mal_x_preferred":[
         "\u0d10\u0d35\u0d31\u0d3f \u0d15\u0d4b\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d"
@@ -380,14 +552,29 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0924 \u0926'\u0908\u0935\u094b\u0906\u0930"
     ],
+    "name:mar_x_variant":[
+        "\u0906\u092f\u0935\u094d\u0939\u0930\u0940 \u0915\u094b\u0938\u094d\u091f"
+    ],
+    "name:may_x_preferred":[
+        "C\u00f4te d'Ivoire"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0435\u0433 \u043d\u0430 \u0421\u043b\u043e\u043d\u043e\u0432\u0430\u0442\u0430 \u041a\u043e\u0441\u043a\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0435\u0433 \u043d\u0430 \u0421\u043b\u043e\u043d\u043e\u0432\u0430 \u041a\u043e\u0441\u043a\u0430"
     ],
     "name:mlg_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
+    "name:mlg_x_variant":[
+        "C\u00f4te d\u2019Ivoire"
+    ],
     "name:mlt_x_preferred":[
         "Kosta tal-Avorju"
+    ],
+    "name:mlt_x_variant":[
+        "Kosta ta\u2019 l-Avorju"
     ],
     "name:mon_x_preferred":[
         "\u041a\u043e\u0442 \u0434'\u0418\u0432\u0443\u0430\u0440"
@@ -398,17 +585,32 @@
     "name:msa_x_preferred":[
         "Ivory Coast"
     ],
+    "name:msa_x_variant":[
+        "C\u00f4te d'Ivoire"
+    ],
     "name:mya_x_preferred":[
         "\u1021\u102d\u102f\u1004\u103a\u1017\u101b\u102e\u1000\u102d\u102f\u1037\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1021\u102d\u102f\u1004\u103a\u1017\u101b\u102e\u1000\u102d\u102f\u1005\u1037\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0639\u0627\u062c \u0633\u0627\u062d\u0644"
+    ],
+    "name:nah_x_preferred":[
+        "Tlanomihu\u0113y\u0101t\u0113nco"
+    ],
+    "name:nan_x_preferred":[
+        "C\u00f4te d'Ivoire"
     ],
     "name:nau_x_preferred":[
         "Aibori Kot"
     ],
     "name:nav_x_preferred":[
         "Ch\u012f\u0301\u012f\u0301h Yee Adilohii Bidee\u02bc T\u00f3nteel Bib\u0105\u0105h"
+    ],
+    "name:nde_x_preferred":[
+        "Ivory Coast"
     ],
     "name:nds_nld_x_preferred":[
         "Ivoorkuste"
@@ -419,6 +621,10 @@
     "name:nep_x_preferred":[
         "\u0906\u0907\u092d\u094b\u0930\u0940 \u0915\u094b\u0938\u094d\u091f"
     ],
+    "name:nep_x_variant":[
+        "\u0906\u0907\u092d\u094b\u0930\u0940 \u0915\u094b\u0937\u094d\u091f",
+        "\u0906\u0907\u092d\u0930\u0940 \u0915\u094b\u0938\u094d\u091f"
+    ],
     "name:new_x_preferred":[
         "\u0906\u0907\u092d\u094b\u0930\u0940 \u0915\u094b\u0938\u094d\u091f"
     ],
@@ -427,6 +633,12 @@
     ],
     "name:nno_x_preferred":[
         "Elfenbeinskysten"
+    ],
+    "name:nno_x_variant":[
+        "Elfenbenskysten"
+    ],
+    "name:nob_x_preferred":[
+        "Elfenbenskysten"
     ],
     "name:nor_x_preferred":[
         "Elfenbenskysten"
@@ -443,8 +655,15 @@
     "name:oci_x_preferred":[
         "C\u00f2sta d'Ev\u00f2ri"
     ],
+    "name:olo_x_preferred":[
+        "Kot-d\u2019Ivuar"
+    ],
     "name:ori_x_preferred":[
         "\u0b06\u0b07\u0b2d\u0b30\u0b3f \u0b15\u0b4b\u0b37\u0b4d\u0b1f"
+    ],
+    "name:ori_x_variant":[
+        "\u0b06\u0b07\u0b2c\u0b30\u0b40 \u0b15\u0b4b\u0b37\u0b4d\u0b1f",
+        "\u0b06\u0b07\u0b2d\u0b47\u0b30\u0b3f \u0b15\u0b4b\u0b37\u0b4d\u0b1f"
     ],
     "name:orm_x_preferred":[
         "Kootdivo\u2019aar"
@@ -458,8 +677,14 @@
     "name:pan_x_preferred":[
         "\u0a26\u0a70\u0a26 \u0a16\u0a70\u0a21 \u0a24\u0a1f"
     ],
+    "name:pap_x_preferred":[
+        "C\u00f4te d'Ivoire"
+    ],
     "name:pdc_x_preferred":[
         "Ivory Coast"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
     ],
     "name:pli_x_preferred":[
         "\u0915\u094b\u091f \u0910\u0935\u0930\u0940 (\u0910\u0935\u0930\u0940 \u0915\u094b\u0938\u094d\u091f)",
@@ -489,14 +714,27 @@
     "name:ron_x_preferred":[
         "Coasta de Filde\u0219"
     ],
+    "name:ron_x_variant":[
+        "C\u00f4te d'Ivoire"
+    ],
     "name:rum_x_preferred":[
         "Coasta de Filde\u0219"
     ],
     "name:rum_x_variant":[
         "C\u00f4te d'Ivoire"
     ],
+    "name:run_x_preferred":[
+        "Kotedivuware"
+    ],
+    "name:rup_x_preferred":[
+        "C\u00f4te d'Ivoire"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0442 \u0434\u2019\u0418\u0432\u0443\u0430\u0440",
+        "\u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440"
     ],
     "name:sag_x_preferred":[
         "K\u00f4div\u00fc\u00e4ra"
@@ -511,13 +749,22 @@
     "name:scn_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
+    "name:scn_x_variant":[
+        "Costa d'Avoriu"
+    ],
     "name:sco_x_preferred":[
         "C\u00f4te d'Ivoire"
+    ],
+    "name:sgs_x_preferred":[
+        "Drambl\u0117 Kaula Kronts"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0dba\u0dd2\u0dc0\u0dbb\u0dd2 \u0d9a\u0ddd\u0dc3\u0dca\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
+        "Pobre\u017eie Slonoviny"
+    ],
+    "name:slo_x_preferred":[
         "Pobre\u017eie Slonoviny"
     ],
     "name:slv_x_preferred":[
@@ -526,11 +773,23 @@
     "name:sme_x_preferred":[
         "Elef\u00e1nta\u010dal\u00e1nriddu"
     ],
+    "name:sme_x_variant":[
+        "Elfenbenariddu"
+    ],
+    "name:smo_x_preferred":[
+        "C\u00f4te d'Ivoire"
+    ],
     "name:sna_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
+    "name:sna_x_variant":[
+        "Ivory Coast"
+    ],
     "name:som_x_preferred":[
         "Xeebta Foolmaroodi"
+    ],
+    "name:som_x_variant":[
+        "Ivory coast"
     ],
     "name:sot_x_preferred":[
         "C\u00f4te d'Ivoire"
@@ -565,6 +824,9 @@
     "name:swa_x_preferred":[
         "Cote d'Ivoire"
     ],
+    "name:swa_x_variant":[
+        "Kodivaa"
+    ],
     "name:swe_x_preferred":[
         "Elfenbenskusten"
     ],
@@ -574,11 +836,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0b9f\u0bcd \u0b9f\u0bbf\u0bb5\u0bbe\u0bb0\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b90\u0bb5\u0bb0\u0bbf \u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c1f\u0c46 \u0c21\u0c3f \u0c10\u0c35\u0c4a\u0c30\u0c3f"
+    ],
+    "name:tel_x_variant":[
+        "\u0c10\u0c35\u0c30\u0c40 \u0c15\u0c4b\u0c38\u0c4d\u0c1f\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "\u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440"
@@ -586,8 +854,23 @@
     "name:tgl_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
+    "name:tgl_x_variant":[
+        "C\u00f4te d\u2019Ivoire"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e01\u0e15\u0e14\u0e34\u0e27\u0e31\u0e27\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e2d\u0e27\u0e2d\u0e23\u0e35\u0e48\u0e42\u0e04\u0e2a\u0e15\u0e4c"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f40\u0f7c\u0f0b\u0f4a\u0f72\u0f0b\u0f4c\u0f72\u0f0b\u0f68\u0f60\u0f72\u0f0b\u0f56\u0f7c\u0f0b\u0f62\u0f72\u0f0d"
+    ],
+    "name:tir_x_preferred":[
+        "\u12ae\u1275 \u12f2\u126f\u122d"
+    ],
+    "name:ton_x_preferred":[
+        "Matafonua \u02bbAivili"
     ],
     "name:tso_x_preferred":[
         "C\u00f4te d'Ivoire"
@@ -598,11 +881,27 @@
     "name:tur_x_preferred":[
         "Fildi\u015fi Sahili"
     ],
+    "name:tur_x_variant":[
+        "Fildi\u015fi Sahilleri",
+        "Fildi\u015fi K\u0131y\u0131s\u0131"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
+    ],
     "name:uig_x_preferred":[
         "\u067e\u0649\u0644 \u0686\u0649\u0634\u0649 \u0642\u0649\u0631\u063a\u0649\u063a\u0649"
     ],
+    "name:uig_x_variant":[
+        "\u0643\u0648\u062a\u0649 \u062f\u0649 \u0626\u0649\u06cb\u06c7\u0626\u06d0\u0631"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442-\u0434'\u0406\u0432\u0443\u0430\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0442 \u0434\u2019\u0406\u0432\u0443\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Elfenbein-K\u00fcste"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"
@@ -619,13 +918,22 @@
     "name:vie_x_preferred":[
         "B\u1edd Bi\u1ec3n Ng\u00e0"
     ],
+    "name:vie_x_variant":[
+        "C\u00f4te d'Ivoire"
+    ],
     "name:vls_x_preferred":[
         "Iv\u00f4orkust"
     ],
     "name:vol_x_preferred":[
         "Viorajol\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Elevandiluurand"
+    ],
     "name:war_x_preferred":[
+        "C\u00f4te d'Ivoire"
+    ],
+    "name:wel_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
     "name:wol_x_preferred":[
@@ -646,6 +954,12 @@
     "name:yor_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de K\u00f3\u00fat\u00e8 for\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c61\u7259\u6d77\u5cb8"
+    ],
     "name:zho_min_nan_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
@@ -653,13 +967,17 @@
         "\u79d1\u7279\u8fea\u74e6"
     ],
     "name:zho_x_variant":[
-        "\u79d1\u7279\u8fea\u74e6"
+        "\u79d1\u7279\u8fea\u74e6",
+        "\u8c61\u7259\u6d77\u5cb8"
     ],
     "name:zho_yue_x_preferred":[
         "\u8c61\u7259\u6d77\u5cb8"
     ],
     "name:zul_x_preferred":[
         "Ugu Emhlophe"
+    ],
+    "name:zul_x_variant":[
+        "i-Ivory Coast"
     ],
     "ne:abbrev":"I.C.",
     "ne:abbrev_len":4,
@@ -739,6 +1057,7 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
     "wk:latitude":8.0,
     "wk:longitude":-6.0,
     "wk:population":20316086,
@@ -752,14 +1071,16 @@
         "gp:id":23424854,
         "hasc:id":"CI",
         "loc:id":"n82047825",
+        "m49:code":"384",
         "mzb:id":"c-te-d-ivoire",
+        "ne:adm0_a3":"CIV",
         "qs:id":367753,
         "wd:id":"Q1008",
         "wk:page":"Ivory Coast"
     },
     "wof:country":"CI",
     "wof:country_alpha3":"CIV",
-    "wof:geomhash":"988ff25bb28e5750f890343df2dea433",
+    "wof:geomhash":"16d91018ec198c2d3c3399ff19d89731",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -776,11 +1097,14 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1493229963,
+    "wof:lastmodified":1514565277,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":20316086,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"CIV",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

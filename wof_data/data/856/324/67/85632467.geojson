@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.953558,
+    "geom:area_square_m":72791067427.642792,
     "geom:bbox":"-13.302072,6.921616,-10.271683,9.999973",
     "geom:latitude":8.559959,
     "geom:longitude":-11.789689,
     "gn:id":"",
     "gn:population":5245695,
     "iso:country":"SL",
+    "itu:country_code":[
+        "232"
+    ],
     "lbl:latitude":8.616007,
     "lbl:longitude":-11.756202,
     "mps:latitude":8.616007,
     "mps:longitude":-11.756202,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Sierra Leone"
     ],
@@ -31,6 +38,9 @@
     "name:amh_x_preferred":[
         "\u1234\u12e8\u122b \u120c\u12ce\u1295"
     ],
+    "name:amh_x_variant":[
+        "\u1234\u122b\u120a\u12ee\u1295"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0627\u0644\u064a\u0648\u0646"
     ],
@@ -43,14 +53,23 @@
     "name:ast_x_preferred":[
         "Sierra Leone"
     ],
+    "name:ast_x_variant":[
+        "Sierra Lleona"
+    ],
     "name:aze_x_preferred":[
         "Syerra-Leone"
+    ],
+    "name:aze_x_variant":[
+        "Siyera Leon"
     ],
     "name:bak_x_preferred":[
         "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
     ],
     "name:bam_x_preferred":[
         "Sera Leon"
+    ],
+    "name:bam_x_variant":[
+        "Siyera Lew\u0254ni"
     ],
     "name:bcl_x_preferred":[
         "Sierra Leona"
@@ -64,11 +83,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09c7\u09b0\u09be \u09b2\u09bf\u0993\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09bf\u09af\u09bc\u09c7\u09b0\u09be\u09b2\u09bf\u0993\u09a8"
+    ],
     "name:bjn_x_preferred":[
         "Sierra Leone"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f72\u0f0b\u0f62\u0f0b\u0f63\u0f7a\u0f0b\u0f68\u0f7c\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f7a\u0f0b\u0f61\u0f62\u0f0b\u0f62\u0f0d \u0f63\u0f72\u0f60\u0f7c\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Sijera Leone"
@@ -99,13 +124,6 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
-    ],
-    "name:chi_x_preferred":[
-        "\u7345\u5b50\u5c71"
-    ],
-    "name:chi_x_variant":[
-        "\u585e\u62c9\u5229\u6602",
-        "\u7345\u5b50\u5c71"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u06cc\u06d5\u0631\u0627\u0644\u06cc\u06c6\u0646"
@@ -161,14 +179,23 @@
     "name:ewe_x_preferred":[
         "Sira Li\u0254\u0303"
     ],
+    "name:ewe_x_variant":[
+        "Sierra Leone nutome"
+    ],
     "name:ext_x_preferred":[
         "Sierra Leona"
     ],
     "name:fao_x_preferred":[
         "Sierra Leona"
     ],
+    "name:fao_x_variant":[
+        "Sierra Leone"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0631\u0627 \u0644\u06cc\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Sierra Leone"
@@ -185,6 +212,9 @@
     "name:ful_x_preferred":[
         "Sarliyon"
     ],
+    "name:ful_x_variant":[
+        "Seraa liyon"
+    ],
     "name:gag_x_preferred":[
         "Syerra Leone"
     ],
@@ -200,8 +230,14 @@
     "name:glg_x_preferred":[
         "Serra Leoa"
     ],
+    "name:glg_x_variant":[
+        "Serra Leoa - Sierra Leone"
+    ],
     "name:glv_x_preferred":[
         "Sierra Leone"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac0\u0a8f\u0ab0\u0abe \u0ab2\u0ac7\u0a93\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Sierra Leone"
@@ -209,17 +245,28 @@
     "name:hat_x_preferred":[
         "Syera Le\u00f2n"
     ],
+    "name:hau_x_preferred":[
+        "Salewo"
+    ],
     "name:hbs_x_preferred":[
         "Sijera Leone"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d9\u05e8\u05d4 \u05dc\u05d0\u05d5\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d9\u05d9\u05e8\u05d4 \u05dc\u05d0\u05d5\u05e0\u05d4",
+        "\u05e1\u05d9\u05d0\u05e8\u05d4 \u05dc\u05d0\u05d5\u05e0\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Sierra Leone"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u090f\u0930\u093e \u0932\u093f\u092f\u094b\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u093f\u092f\u0930\u093e\u0932\u0947\u0913\u0928",
+        "\u0938\u0940\u090f\u0930\u093e \u0932\u093f\u0913\u0928"
     ],
     "name:hrv_x_preferred":[
         "Sijera Leone"
@@ -233,6 +280,9 @@
     "name:hye_x_preferred":[
         "\u054d\u056b\u0565\u0580\u0561 \u053c\u0565\u0578\u0576\u0565"
     ],
+    "name:hye_x_variant":[
+        "\u054d\u0575\u0565\u0580\u0561-\u053c\u0565\u0578\u0576\u0565"
+    ],
     "name:ibo_x_preferred":[
         "Sierra Leone"
     ],
@@ -243,6 +293,9 @@
         "Sierra Leone"
     ],
     "name:ilo_x_preferred":[
+        "Sierra Leone"
+    ],
+    "name:ina_x_preferred":[
         "Sierra Leone"
     ],
     "name:ind_x_preferred":[
@@ -275,14 +328,26 @@
     "name:kab_x_preferred":[
         "Sierra Leone"
     ],
+    "name:kal_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0caf\u0cc6\u0cb0\u0ccd\u0cb0\u0cbe \u0cb2\u0cbf\u0caf\u0ccb\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10d4\u10e0\u10d0-\u10da\u10d4\u10dd\u10dc\u10d4"
     ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d8\u10d4\u10e0\u10d0 \u10da\u10d4\u10dd\u10dc\u10d4"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0438\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17c1\u179a\u17c9\u17b6\u17a1\u17c1\u17a2\u17bc\u1793"
+    ],
+    "name:kik_x_preferred":[
+        "Siera Leoni"
     ],
     "name:kin_x_preferred":[
         "Siyera Lewone"
@@ -302,6 +367,12 @@
     "name:kur_x_preferred":[
         "Sierra Leone"
     ],
+    "name:kur_x_variant":[
+        "\u0633\u06cc\u06d5\u0631\u0627\u0644\u06cc\u06c6\u0646"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0e8a\u0e8d\u0ea5\u0eb2\u0eaa\u0eb4\u0ead\u0ead\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Mons Leoninus"
     ],
@@ -317,6 +388,9 @@
     "name:lin_x_preferred":[
         "Sierra Leone"
     ],
+    "name:lin_x_variant":[
+        "Siera Leon\u025b"
+    ],
     "name:lit_x_preferred":[
         "Siera Leon\u0117"
     ],
@@ -329,14 +403,26 @@
     "name:ltz_x_preferred":[
         "Sierra Leone"
     ],
+    "name:lub_x_preferred":[
+        "Siera Leone"
+    ],
     "name:lug_x_preferred":[
         "Sierra Leone"
+    ],
+    "name:lug_x_variant":[
+        "Siyeralewone"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d40\u0d31\u0d3e \u0d32\u0d3f\u0d2f\u0d4b\u0d7a"
     ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d3f\u0d2f\u0d47\u0d31\u0d3e \u0d32\u0d3f\u0d2f\u0d4b\u0d23\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u092f\u0947\u0930\u093e \u0932\u093f\u0913\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0938\u093f\u090f\u0930\u093e \u0932\u093f\u0913\u0928"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u0435\u0440\u0430 \u041b\u0435\u043e\u043d\u0435"
@@ -356,6 +442,9 @@
     "name:msa_x_preferred":[
         "Sierra Leone"
     ],
+    "name:msa_x_variant":[
+        "Siera Leon"
+    ],
     "name:mya_x_preferred":[
         "\u1006\u102e\u101b\u102c\u101c\u102e\u101a\u103d\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
@@ -365,11 +454,17 @@
     "name:nav_x_preferred":[
         "N\u00e1shd\u00f3\u00edtsoh Bitsiij\u012f\u02bc Dadit\u0142\u02bcoo\u02bc\u00edg\u00ed\u00ed Bidzi\u0142"
     ],
+    "name:nde_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:nds_nld_x_preferred":[
         "Sierra Leone"
     ],
     "name:nds_x_preferred":[
         "Sierra Leone"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093f\u090f\u0930\u094d\u0930\u093e \u0932\u093f\u0913\u0928"
     ],
     "name:new_x_preferred":[
         "\u0938\u093f\u090f\u0930\u093e \u0932\u093f\u092f\u094b\u0928"
@@ -378,6 +473,9 @@
         "Sierra Leone"
     ],
     "name:nno_x_preferred":[
+        "Sierra Leone"
+    ],
+    "name:nob_x_preferred":[
         "Sierra Leone"
     ],
     "name:nor_x_preferred":[
@@ -394,6 +492,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b38\u0b3f\u0b0f\u0b30\u0b3e \u0b32\u0b3f\u0b13\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b3f\u0b13\u0b30\u0b3e \u0b32\u0b3f\u0b13\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Seraa Liyoon"
@@ -428,8 +529,14 @@
     "name:que_x_preferred":[
         "Liyun Urqu"
     ],
+    "name:roh_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:ron_x_preferred":[
         "Sierra Leone"
+    ],
+    "name:run_x_preferred":[
+        "Siyeralewone"
     ],
     "name:rus_x_preferred":[
         "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
@@ -467,6 +574,9 @@
     "name:som_x_preferred":[
         "Sierra Leone"
     ],
+    "name:som_x_variant":[
+        "Siraaliyoon"
+    ],
     "name:sot_x_preferred":[
         "Sierra Leone"
     ],
@@ -482,6 +592,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0438\u0458\u0435\u0440\u0430 \u041b\u0435\u043e\u043d\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0438\u0435\u0440\u0430 \u041b\u0435\u043e\u043d\u0435"
+    ],
     "name:ssw_x_preferred":[
         "ISiriya-Liyoni"
     ],
@@ -494,6 +607,9 @@
     "name:swa_x_preferred":[
         "Sierra Leone"
     ],
+    "name:swa_x_variant":[
+        "Siera Leoni"
+    ],
     "name:swe_x_preferred":[
         "Sierra Leone"
     ],
@@ -503,14 +619,32 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0baf\u0bc7\u0bb0\u0bbe \u0bb2\u0bbf\u0baf\u0bcb\u0ba9\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbf\u0baf\u0bb0\u0bcd\u0bb0\u0bbe \u0bb2\u0bbf\u0baf\u0bcb\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c2f\u0c46\u0c30\u0c4d\u0c30\u0c3e \u0c32\u0c3f\u0c2f\u0c3e\u0c28\u0c4d"
+    ],
     "name:tgk_x_preferred":[
         "\u0421\u0438\u0435\u0440\u0440\u0430 \u041b\u0435\u043e\u043d\u0435"
     ],
     "name:tgl_x_preferred":[
         "Sierra Leone"
     ],
+    "name:tgl_x_variant":[
+        "Bulubunduking Leona"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e0b\u0e35\u0e22\u0e23\u0e4c\u0e23\u0e32\u0e25\u0e35\u0e42\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0b\u0e35\u0e22\u0e23\u0e4c\u0e23\u0e32\u0e25\u0e35\u0e42\u0e2d\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u1234\u122b\u120a\u12ee\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "Siela Lione"
     ],
     "name:tpi_x_preferred":[
         "Sierra Leone"
@@ -533,11 +667,21 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u0454\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
     ],
+    "name:ukr_x_variant":[
+        "\u0421'\u0454\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435",
+        "\u0421'\u0454\u0440\u0430 \u041b\u0435\u043e\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Republika Sierra Leone"
     ],
+    "name:unk_x_variant":[
+        "Serra Leoa"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0626\u0631 \u0644\u06cc\u0648\u0646"
     ],
     "name:uzb_x_preferred":[
         "Syerra-Leone"
@@ -550,6 +694,10 @@
     ],
     "name:vie_x_preferred":[
         "Sierra Leone"
+    ],
+    "name:vie_x_variant":[
+        "Xi-\u00ea-ra L\u00ea-\u00f4n",
+        "Xi-\u00ea-ra L\u00ea-\u00f4n (Sierra Leone)"
     ],
     "name:vol_x_preferred":[
         "Sieraleon\u00e4n"
@@ -572,6 +720,9 @@
     "name:yor_x_preferred":[
         "Si\u1eb9rra L\u00e9\u00f2n\u00e8"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Siria looni"
+    ],
     "name:zea_x_preferred":[
         "Sierra Leone"
     ],
@@ -581,11 +732,18 @@
     "name:zho_x_preferred":[
         "\u585e\u62c9\u5229\u6602"
     ],
+    "name:zho_x_variant":[
+        "\u585e\u62c9\u5229\u6602",
+        "\u7345\u5b50\u5c71"
+    ],
     "name:zho_yue_x_preferred":[
         "\u585e\u62c9\u5229\u6602"
     ],
     "name:zul_x_preferred":[
         "ISiera Liyoni"
+    ],
+    "name:zul_x_variant":[
+        "i-Sierra Leone"
     ],
     "ne:abbrev":"S.L.",
     "ne:abbrev_len":4,
@@ -665,6 +823,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"232",
+    "statoids:ds":"WAL",
+    "statoids:fifa":"SLE",
+    "statoids:gaul":"221",
+    "statoids:gec":"SL",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SLE",
+    "statoids:iso_a2":"SL",
+    "statoids:iso_a3":"SLE",
+    "statoids:iso_num":"694",
+    "statoids:itu":"SRL",
+    "statoids:marc":"sl",
+    "statoids:name":"Sierra Leone",
+    "statoids:wmo":"SL",
     "wk:latitude":8.5,
     "wk:longitude":-11.916667,
     "wk:population":6092075,
@@ -676,18 +849,28 @@
     "wof:concordances":{
         "dbp:id":"Sierra_Leone",
         "fb:id":"en.sierra_leone",
+        "fifa:id":"SLE",
+        "fips:code":"SL",
+        "gaul:id":"221",
         "gn:id":2403846,
         "gp:id":23424946,
         "hasc:id":"SL",
+        "ioc:id":"SLE",
+        "itu:id":"SRL",
+        "m49:code":"694",
+        "marc:id":"sl",
         "mzb:id":"sierra-leone",
+        "ne:adm0_a3":"SLE",
         "nyt:id":"75226122957717739381",
         "qs:id":91363,
+        "uncrt:id":"WAL",
         "wd:id":"Q1044",
-        "wk:page":"Sierra Leone"
+        "wk:page":"Sierra Leone",
+        "wmo:id":"SL"
     },
     "wof:country":"SL",
     "wof:country_alpha3":"SLE",
-    "wof:geomhash":"0af68b66d1ad577df75f0a6431b918e0",
+    "wof:geomhash":"e8888e7d27102316d884c482bb1c505a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -704,11 +887,14 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1493229968,
+    "wof:lastmodified":1509143020,
     "wof:name":"Sierra Leone",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":6092075,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SLE",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040745,
+    "geom:area_square_m":499621102.760972,
     "geom:bbox":"131.172088623,2.910388947,134.727081299,8.092055321",
     "geom:latitude":7.396121,
     "geom:longitude":134.499529,
     "gn:id":"",
     "gn:population":19907,
     "iso:country":"PW",
+    "itu:country_code":[
+        "680"
+    ],
     "lbl:latitude":7.497679,
     "lbl:longitude":134.581978,
     "mps:latitude":7.497679,
     "mps:longitude":134.581978,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Palau"
     ],
     "name:afr_x_preferred":[
+        "Palau"
+    ],
+    "name:aka_x_preferred":[
         "Palau"
     ],
     "name:als_x_preferred":[
@@ -27,6 +37,9 @@
     ],
     "name:amh_x_preferred":[
         "\u1350\u120b\u12cd"
+    ],
+    "name:amh_x_variant":[
+        "\u1353\u120b\u12cd"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0648"
@@ -43,8 +56,14 @@
     "name:aze_x_preferred":[
         "Palau"
     ],
+    "name:aze_x_variant":[
+        "Palav"
+    ],
     "name:bak_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
+    ],
+    "name:bam_x_preferred":[
+        "Palawu"
     ],
     "name:bar_x_preferred":[
         "Palau"
@@ -66,6 +85,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f0b\u0f63\u0f60\u0f74\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f54\u0f0b\u0f63\u0f7d\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Palau"
@@ -97,12 +119,6 @@
     "name:che_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u5e1b\u7409"
-    ],
-    "name:chi_x_variant":[
-        "\u5e15\u52b3"
-    ],
     "name:chv_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
     ],
@@ -117,6 +133,9 @@
     ],
     "name:cym_x_preferred":[
         "Palaw"
+    ],
+    "name:cym_x_variant":[
+        "Palau"
     ],
     "name:dan_x_preferred":[
         "Palau"
@@ -150,11 +169,17 @@
     "name:epo_x_preferred":[
         "Pala\u016do"
     ],
+    "name:epo_x_variant":[
+        "Bela\u016do"
+    ],
     "name:est_x_preferred":[
         "Belau"
     ],
     "name:eus_x_preferred":[
         "Palau"
+    ],
+    "name:ewe_x_preferred":[
+        "Palau nutome"
     ],
     "name:ext_x_preferred":[
         "Palau"
@@ -171,10 +196,7 @@
     "name:fra_x_preferred":[
         "Palaos"
     ],
-    "name:fre_x_preferred":[
-        "Palaos"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Belau"
     ],
     "name:frp_x_preferred":[
@@ -182,6 +204,9 @@
     ],
     "name:fry_x_preferred":[
         "Palau"
+    ],
+    "name:ful_x_preferred":[
+        "Palawu"
     ],
     "name:gag_x_preferred":[
         "Palau"
@@ -199,11 +224,17 @@
     "name:glg_x_preferred":[
         "Palau"
     ],
+    "name:glg_x_variant":[
+        "Palau - Belau"
+    ],
     "name:glv_x_preferred":[
         "Palau"
     ],
     "name:gom_x_preferred":[
         "\u092a\u0932\u093e\u090a"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ab2\u0abe\u0a89"
     ],
     "name:hak_x_preferred":[
         "Palau"
@@ -211,17 +242,26 @@
     "name:hat_x_preferred":[
         "Palao"
     ],
+    "name:hau_x_preferred":[
+        "Palau"
+    ],
     "name:hbs_x_preferred":[
         "Palau"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05dc\u05d0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d0\u05dc\u05d0\u05d5"
+    ],
     "name:hif_x_preferred":[
         "Palau"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0932\u093e\u0909"
+    ],
+    "name:hin_x_variant":[
+        "\u092a\u0932\u093e\u090a"
     ],
     "name:hrv_x_preferred":[
         "Palau"
@@ -254,7 +294,8 @@
         "Palau (stato)"
     ],
     "name:ita_x_variant":[
-        "Isole Palau"
+        "Isole Palau",
+        "Palau"
     ],
     "name:jam_x_preferred":[
         "Palau"
@@ -271,6 +312,9 @@
     "name:kaa_x_preferred":[
         "Palau"
     ],
+    "name:kal_x_preferred":[
+        "Palau"
+    ],
     "name:kan_x_preferred":[
         "\u0caa\u0cb2\u0cbe\u0cb5\u0cc1"
     ],
@@ -282,6 +326,9 @@
     ],
     "name:khm_x_preferred":[
         "\u1794\u17c9\u17b6\u17a1\u17b6\u179c"
+    ],
+    "name:kik_x_preferred":[
+        "Palau"
     ],
     "name:kin_x_preferred":[
         "Palawu"
@@ -298,6 +345,9 @@
     "name:kur_x_preferred":[
         "Palau"
     ],
+    "name:kur_x_variant":[
+        "\u067e\u0627\u0644\u0627\u0648"
+    ],
     "name:lat_x_preferred":[
         "Belavia"
     ],
@@ -310,6 +360,9 @@
     "name:lim_x_preferred":[
         "Palau"
     ],
+    "name:lin_x_preferred":[
+        "Palau"
+    ],
     "name:lit_x_preferred":[
         "Palau"
     ],
@@ -319,17 +372,29 @@
     "name:ltz_x_preferred":[
         "Palau (Ozeanien)"
     ],
+    "name:lub_x_preferred":[
+        "Palau"
+    ],
+    "name:lug_x_preferred":[
+        "Palawu"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d32\u0d3e\u0d35\u0d41"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0932\u093e\u0909"
     ],
+    "name:mar_x_variant":[
+        "\u092a\u0932\u093e\u090a"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
     ],
     "name:mlg_x_preferred":[
         "Palao"
+    ],
+    "name:mlt_x_preferred":[
+        "Palau"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
@@ -346,6 +411,9 @@
     "name:nau_x_preferred":[
         "Parau"
     ],
+    "name:nde_x_preferred":[
+        "Palau"
+    ],
     "name:nds_x_preferred":[
         "Palau"
     ],
@@ -358,7 +426,13 @@
     "name:nld_x_preferred":[
         "Palau (land)"
     ],
+    "name:nld_x_variant":[
+        "Palau"
+    ],
     "name:nno_x_preferred":[
+        "Palau"
+    ],
+    "name:nob_x_preferred":[
         "Palau"
     ],
     "name:nor_x_preferred":[
@@ -373,8 +447,14 @@
     "name:oci_x_preferred":[
         "Belau"
     ],
+    "name:oci_x_variant":[
+        "Palau"
+    ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b32\u0b3e\u0b13"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2a\u0b3e\u0b32\u0b3e\u0b09"
     ],
     "name:oss_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
@@ -387,6 +467,12 @@
     ],
     "name:pap_x_preferred":[
         "Palau"
+    ],
+    "name:pau_x_preferred":[
+        "Belau"
+    ],
+    "name:pau_x_variant":[
+        "Beluu er a Belau"
     ],
     "name:pih_x_preferred":[
         "Palau"
@@ -403,6 +489,9 @@
     "name:por_x_preferred":[
         "Palau"
     ],
+    "name:pus_x_preferred":[
+        "\u067e\u0627\u0644\u0627\u0648"
+    ],
     "name:que_x_preferred":[
         "Palaw"
     ],
@@ -412,8 +501,14 @@
     "name:ron_x_preferred":[
         "Palau"
     ],
+    "name:run_x_preferred":[
+        "Palawu"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
+    ],
+    "name:sag_x_preferred":[
+        "Palau"
     ],
     "name:sah_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
@@ -424,11 +519,17 @@
     "name:sco_x_preferred":[
         "Palau"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dbd\u0dcf\u0dc0\u0dd4"
+    ],
     "name:slk_x_preferred":[
         "Palau"
     ],
     "name:slv_x_preferred":[
         "Palav"
+    ],
+    "name:slv_x_variant":[
+        "Palau"
     ],
     "name:sme_x_preferred":[
         "Palau"
@@ -441,6 +542,9 @@
     ],
     "name:som_x_preferred":[
         "Balau"
+    ],
+    "name:som_x_variant":[
+        "Palau"
     ],
     "name:spa_x_preferred":[
         "Palaos"
@@ -469,8 +573,14 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bb2\u0bbe\u0bb5\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbe\u0bb2\u0bcb"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c32\u0c3e\u0c35\u0c41"
     ],
     "name:tgk_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
@@ -478,8 +588,21 @@
     "name:tgl_x_preferred":[
         "Palau"
     ],
+    "name:tgl_x_variant":[
+        "Palaw"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1b\u0e32\u0e40\u0e25\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e1b\u0e32\u0e40\u0e25\u0e32",
+        "\u0e1b\u0e32\u0e40\u0e25\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u1353\u120b\u12cd"
+    ],
+    "name:ton_x_preferred":[
+        "Palau"
     ],
     "name:tur_x_preferred":[
         "Palau"
@@ -526,6 +649,9 @@
     "name:yor_x_preferred":[
         "P\u00e1l\u00e1\u00f9"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Paalu"
+    ],
     "name:zea_x_preferred":[
         "Palau"
     ],
@@ -536,10 +662,14 @@
         "\u5e1b\u7409"
     ],
     "name:zho_x_variant":[
-        "\u5e1b\u7409"
+        "\u5e1b\u7409",
+        "\u5e15\u52b3"
     ],
     "name:zho_yue_x_preferred":[
         "\u5e1b\u7409"
+    ],
+    "name:zul_x_preferred":[
+        "i-Palau"
     ],
     "ne:abbrev":"Palau",
     "ne:abbrev_len":5,
@@ -618,6 +748,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"680",
+    "statoids:ds":"",
+    "statoids:fifa":"PLW",
+    "statoids:gaul":"189",
+    "statoids:gec":"PS",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"PLW",
+    "statoids:iso_a2":"PW",
+    "statoids:iso_a3":"PLW",
+    "statoids:iso_num":"585",
+    "statoids:itu":"PLW",
+    "statoids:marc":"pw",
+    "statoids:name":"Palau",
+    "statoids:wmo":"",
     "wk:latitude":7.466667,
     "wk:longitude":134.55,
     "wk:population":20918,
@@ -630,10 +775,18 @@
     "wof:concordances":{
         "dbp:id":"Palau",
         "fb:id":"en.palau",
+        "fifa:id":"PLW",
+        "fips:code":"PS",
+        "gaul:id":"189",
         "gn:id":1559582,
         "gp:id":23424927,
         "hasc:id":"PW",
+        "ioc:id":"PLW",
+        "itu:id":"PLW",
+        "m49:code":"585",
+        "marc:id":"pw",
         "mzb:id":"palau",
+        "ne:adm0_a3":"PLW",
         "nyt:id":"50563825160725463041",
         "qs:id":224793,
         "wd:id":"Q695",
@@ -641,7 +794,7 @@
     },
     "wof:country":"PW",
     "wof:country_alpha3":"PLW",
-    "wof:geomhash":"48834cd5cf3667b008d0c2e3d13b853d",
+    "wof:geomhash":"ed313f141b085519b37e8572d7c7c3ad",
     "wof:hierarchy":[
         {
             "continent_id":"102191583",
@@ -660,11 +813,14 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1493229926,
+    "wof:lastmodified":1509142979,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":20918,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"PLW",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

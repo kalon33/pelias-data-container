@@ -5,22 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.997028,
+    "geom:area_square_m":10229928019.739422,
     "geom:bbox":"35.103668107,33.055026,36.62372,34.69208",
     "geom:latitude":33.921502,
     "geom:longitude":35.893878,
     "gn:id":"",
     "gn:population":4125247,
     "iso:country":"LB",
+    "itu:country_code":[
+        "961"
+    ],
     "lbl:latitude":34.095838,
     "lbl:longitude":35.95658,
     "mps:latitude":34.095838,
     "mps:longitude":35.95658,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Lubnan"
     ],
     "name:afr_x_preferred":[
         "Libanon"
+    ],
+    "name:aka_x_preferred":[
+        "L\u025bban\u0254n"
     ],
     "name:als_x_preferred":[
         "Libanon"
@@ -31,17 +41,25 @@
     "name:ang_x_preferred":[
         "Libanus"
     ],
+    "name:ang_x_variant":[
+        "Lebanon"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u0628\u0646\u0627\u0646"
     ],
     "name:ara_x_variant":[
-        "Al Lubn"
+        "Al Lubn",
+        "\u0627\u064e\u0644\u0652\u062c\u064f\u0645\u0652\u0647\u064f\u0648\u0631\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u0644\u064f\u0651\u0628\u0652\u0646\u064e\u0627\u0646\u0650\u064a\u064e\u0651\u0629",
+        "Lubn\u0101n"
     ],
     "name:arc_x_preferred":[
         "\u0720\u0712\u0722\u0722"
     ],
     "name:arg_x_preferred":[
         "Liban"
+    ],
+    "name:arg_x_variant":[
+        "Libano"
     ],
     "name:arz_x_preferred":[
         "\u0644\u0628\u0646\u0627\u0646"
@@ -55,11 +73,17 @@
     "name:aze_x_preferred":[
         "Livan"
     ],
+    "name:aze_x_variant":[
+        "Lebanon"
+    ],
     "name:bak_x_preferred":[
         "\u041b\u0438\u0432\u0430\u043d"
     ],
     "name:bam_x_preferred":[
         "Lubenan"
+    ],
+    "name:bam_x_variant":[
+        "Liba\u014b"
     ],
     "name:bar_x_preferred":[
         "Libanon"
@@ -79,8 +103,14 @@
     "name:bod_x_preferred":[
         "\u0f63\u0f7a\u0f0b\u0f54\u0f0b\u0f53\u0f7c\u0f53\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f63\u0f7a\u0f56\u0f0b\u0f53\u0f7c\u0f53\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Liban"
+    ],
+    "name:bos_x_variant":[
+        "Libanon"
     ],
     "name:bpy_x_preferred":[
         "\u09b2\u09c7\u09ac\u09be\u09a8\u09a8"
@@ -112,12 +142,6 @@
     "name:che_x_preferred":[
         "\u041b\u0438\u0432\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u9ece\u5df4\u5ae9"
-    ],
-    "name:chi_x_variant":[
-        "\u9ece\u5df4\u5ae9"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u0432\u0430\u043d"
     ],
@@ -145,6 +169,9 @@
     "name:deu_x_preferred":[
         "Libanon"
     ],
+    "name:deu_x_variant":[
+        "Libanesische Republik"
+    ],
     "name:diq_x_preferred":[
         "Lubnan"
     ],
@@ -154,11 +181,11 @@
     "name:dsb_x_preferred":[
         "Libanon"
     ],
-    "name:dut_x_preferred":[
-        "Libanon"
-    ],
     "name:dzo_x_preferred":[
         "\u0f63\u0f7a\u0f0b\u0f56\u0f71\u0f0b\u0f53\u0f71\u0f7c\u0f53\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f63\u0f7a\u0f0b\u0f56\u0f71\u0f0b\u0f53\u0f71\u0f7c\u0f53"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03af\u03b2\u03b1\u03bd\u03bf\u03c2"
@@ -172,16 +199,23 @@
     ],
     "name:eng_x_variant":[
         "Lebanese",
-        "Lebanese Republic"
+        "Lebanese Republic",
+        "Republic of Lebanon"
     ],
     "name:epo_x_preferred":[
         "Libano"
+    ],
+    "name:epo_x_variant":[
+        "Libana Respubliko"
     ],
     "name:est_x_preferred":[
         "Liibanon"
     ],
     "name:eus_x_preferred":[
         "Libano"
+    ],
+    "name:ewe_x_preferred":[
+        "Leban\u0254n nutome"
     ],
     "name:ext_x_preferred":[
         "L\u00edbanu"
@@ -204,10 +238,7 @@
     "name:fra_x_preferred":[
         "Liban"
     ],
-    "name:fre_x_preferred":[
-        "Liban"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "R\u00e9publique Libanaise"
     ],
     "name:frp_x_preferred":[
@@ -216,14 +247,11 @@
     "name:fry_x_preferred":[
         "Libanon"
     ],
+    "name:ful_x_preferred":[
+        "Libaa"
+    ],
     "name:gag_x_preferred":[
         "Livan"
-    ],
-    "name:ger_x_preferred":[
-        "Libanon"
-    ],
-    "name:ger_x_variant":[
-        "Libanesische Republik"
     ],
     "name:gla_x_preferred":[
         "Leabanon"
@@ -233,6 +261,9 @@
     ],
     "name:glg_x_preferred":[
         "L\u00edbano"
+    ],
+    "name:glg_x_variant":[
+        "L\u00edbano - \u0644\u0628\u0646\u0627\u0646"
     ],
     "name:glv_x_preferred":[
         "Yn Livaan"
@@ -246,6 +277,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aac\u0ac7\u0aa8\u0abe\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0ab2\u0ac7\u0aac\u0aa8\u0acb\u0aa8"
+    ],
     "name:hak_x_preferred":[
         "L\u00ec-p\u00e2-nun"
     ],
@@ -254,6 +288,9 @@
     ],
     "name:hau_x_preferred":[
         "Lebanon"
+    ],
+    "name:hau_x_variant":[
+        "Labanan"
     ],
     "name:haw_x_preferred":[
         "Lepanona"
@@ -297,6 +334,9 @@
     "name:ind_x_preferred":[
         "Lebanon"
     ],
+    "name:ind_x_variant":[
+        "Libanon"
+    ],
     "name:isl_x_preferred":[
         "L\u00edbanon"
     ],
@@ -327,6 +367,12 @@
     "name:kal_x_preferred":[
         "Lebanon"
     ],
+    "name:kal_x_variant":[
+        "Libanon"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc6\u0cac\u0ca8\u0cbe\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10d1\u10d0\u10dc\u10d8"
     ],
@@ -341,6 +387,9 @@
     ],
     "name:kik_x_preferred":[
         "Lebanon"
+    ],
+    "name:kik_x_variant":[
+        "Lebanoni"
     ],
     "name:kin_x_preferred":[
         "Libani"
@@ -360,8 +409,14 @@
     "name:kur_x_preferred":[
         "Libnan"
     ],
+    "name:kur_x_variant":[
+        "\u0644\u0648\u0628\u0646\u0627\u0646"
+    ],
     "name:lad_x_preferred":[
         "Levanon"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0ea5\u0e9a\u0eb2\u0e99\u0ead\u0e99"
     ],
     "name:lat_x_preferred":[
         "Libanus"
@@ -381,6 +436,9 @@
     "name:lin_x_preferred":[
         "Liban"
     ],
+    "name:lin_x_variant":[
+        "Lib\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Libanas"
     ],
@@ -393,11 +451,23 @@
     "name:ltz_x_preferred":[
         "Libanon"
     ],
+    "name:lub_x_preferred":[
+        "Liba"
+    ],
+    "name:lug_x_preferred":[
+        "Lebanoni"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d46\u0d2c\u0d28\u0d3e\u0d7b"
     ],
+    "name:mal_x_variant":[
+        "\u0d32\u0d2c\u0d28\u0d4b\u0d23\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u0947\u092c\u0947\u0928\u0949\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0932\u0947\u092c\u093e\u0928\u0928"
     ],
     "name:mdf_x_preferred":[
         "\u041b\u0438\u0432\u0430\u043d"
@@ -407,6 +477,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0438\u0431\u0430\u043d"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0438\u0431\u0430\u043d\u043e\u043d"
     ],
     "name:mlg_x_preferred":[
         "Libana"
@@ -423,6 +496,9 @@
     "name:mya_x_preferred":[
         "\u101c\u1000\u103a\u1018\u1014\u103d\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u101c\u1000\u103a\u1018\u1014\u103d\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0644\u0628\u0646\u0627\u0646"
     ],
@@ -435,11 +511,17 @@
     "name:nav_x_preferred":[
         "\u0141\u00edbanoo"
     ],
+    "name:nde_x_preferred":[
+        "Lebhanoni"
+    ],
     "name:nds_x_preferred":[
         "Libanon"
     ],
     "name:nep_x_preferred":[
         "\u0932\u0947\u092c\u0928\u093e\u0928"
+    ],
+    "name:nep_x_variant":[
+        "\u0932\u0947\u092c\u0928\u094b\u0928"
     ],
     "name:new_x_preferred":[
         "\u0932\u0947\u092c\u093e\u0928\u0928"
@@ -448,6 +530,9 @@
         "Libanon"
     ],
     "name:nno_x_preferred":[
+        "Libanon"
+    ],
+    "name:nob_x_preferred":[
         "Libanon"
     ],
     "name:nor_x_preferred":[
@@ -462,6 +547,9 @@
     "name:ori_x_preferred":[
         "\u0b32\u0b47\u0b2c\u0b3e\u0b28\u0b28"
     ],
+    "name:ori_x_variant":[
+        "\u0b32\u0b47\u0b2c\u0b3e\u0b28\u0b28\u0b4d"
+    ],
     "name:orm_x_preferred":[
         "Libaanon"
     ],
@@ -470,6 +558,9 @@
     ],
     "name:pam_x_preferred":[
         "Libano"
+    ],
+    "name:pam_x_variant":[
+        "Lebanon"
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a3f\u0a2c\u0a28\u0a3e\u0a28"
@@ -501,8 +592,14 @@
     "name:pus_x_preferred":[
         "\u0644\u06d0\u0628\u0646\u0627\u0646"
     ],
+    "name:pus_x_variant":[
+        "\u0644\u0628\u0646\u0627\u0646"
+    ],
     "name:que_x_preferred":[
         "Libanu"
+    ],
+    "name:roh_x_preferred":[
+        "Libanon"
     ],
     "name:ron_x_preferred":[
         "Liban"
@@ -510,8 +607,14 @@
     "name:rum_x_preferred":[
         "Liban"
     ],
+    "name:run_x_preferred":[
+        "Libani"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0432\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Lib\u00f9aan"
     ],
     "name:sah_x_preferred":[
         "\u041b\u0438\u0431\u0430\u043d"
@@ -527,6 +630,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dd9\u0db6\u0db1\u0db1\u0dca \u0dc3\u0db8\u0dd4\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0"
+    ],
+    "name:sin_x_variant":[
+        "\u0dbd\u0dd9\u0db6\u0db1\u0db1\u0dba"
     ],
     "name:slk_x_preferred":[
         "Libanon"
@@ -551,6 +657,9 @@
     ],
     "name:sqi_x_preferred":[
         "Libani"
+    ],
+    "name:sqi_x_variant":[
+        "Liban"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0431\u0430\u043d"
@@ -591,6 +700,15 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e25\u0e1a\u0e32\u0e19\u0e2d\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e25\u0e1a\u0e32\u0e19\u0e2d\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u120a\u1263\u1296\u1235"
+    ],
+    "name:ton_x_preferred":[
+        "Lepanoni"
+    ],
     "name:tuk_x_preferred":[
         "Liwan"
     ],
@@ -614,11 +732,17 @@
         "Lubnan",
         "L\u00edbanon"
     ],
+    "name:unk_x_variant":[
+        "Al Jumh\u016br\u012byah al Lubn\u0101n\u012byah"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0628\u0646\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
         "Livan"
+    ],
+    "name:uzb_x_variant":[
+        "Lebanon"
     ],
     "name:vec_x_preferred":[
         "Libano"
@@ -629,11 +753,18 @@
     "name:vie_x_preferred":[
         "Liban"
     ],
+    "name:vie_x_variant":[
+        "Li-b\u0103ng",
+        "Li-b\u0103ng (Lebanon)"
+    ],
     "name:vls_x_preferred":[
         "Libanon"
     ],
     "name:vol_x_preferred":[
         "Liban\u00e4n"
+    ],
+    "name:vol_x_variant":[
+        "Lubn\u00e4n"
     ],
     "name:war_x_preferred":[
         "Libano"
@@ -653,8 +784,14 @@
     "name:yid_x_preferred":[
         "\u05dc\u05d1\u05e0\u05d5\u05df"
     ],
+    "name:yid_x_variant":[
+        "\u05dc\u05e2\u05d5\u05d5\u05d0\u05e0\u05e2\u05df"
+    ],
     "name:yor_x_preferred":[
         "L\u1eb9\u0301b\u00e1n\u1ecd\u0301n\u00ec"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Lebanoni"
     ],
     "name:zho_min_nan_x_preferred":[
         "L\u012b-pa-l\u00f9n"
@@ -662,8 +799,14 @@
     "name:zho_x_preferred":[
         "\u9ece\u5df4\u5ae9"
     ],
+    "name:zho_x_variant":[
+        "\u9ece\u5df4\u5ae9"
+    ],
     "name:zho_yue_x_preferred":[
         "\u9ece\u5df4\u5ae9"
+    ],
+    "name:zul_x_preferred":[
+        "i-Lebanon"
     ],
     "ne:abbrev":"Leb.",
     "ne:abbrev_len":4,
@@ -743,6 +886,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"961",
+    "statoids:ds":"RL",
+    "statoids:fifa":"LIB",
+    "statoids:gaul":"141",
+    "statoids:gec":"LE",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"LIB",
+    "statoids:iso_a2":"LB",
+    "statoids:iso_a3":"LBN",
+    "statoids:iso_num":"422",
+    "statoids:itu":"LBN",
+    "statoids:marc":"le",
+    "statoids:name":"Lebanon",
+    "statoids:wmo":"LB",
     "wk:latitude":33.833333,
     "wk:longitude":35.766667,
     "wk:population":4467390,
@@ -754,19 +912,29 @@
     "wof:concordances":{
         "dbp:id":"Lebanon",
         "fb:id":"en.lebanon",
+        "fifa:id":"LIB",
+        "fips:code":"LE",
+        "gaul:id":"141",
         "gn:id":272103,
         "gp:id":23424873,
         "hasc:id":"LB",
+        "ioc:id":"LIB",
+        "itu:id":"LBN",
         "loc:id":"n79090014",
+        "m49:code":"422",
+        "marc:id":"le",
         "mzb:id":"lebanon",
+        "ne:adm0_a3":"LBN",
         "nyt:id":"59413061708816771201",
         "qs:id":546977,
+        "uncrt:id":"RL",
         "wd:id":"Q822",
-        "wk:page":"Lebanon"
+        "wk:page":"Lebanon",
+        "wmo:id":"LB"
     },
     "wof:country":"LB",
     "wof:country_alpha3":"LBN",
-    "wof:geomhash":"15c032d75f4b7466ab1d12c8a2f0fc81",
+    "wof:geomhash":"7be2ecd9ecd4cc1b5e1d117838cb31fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -783,11 +951,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1493229997,
+    "wof:lastmodified":1509142794,
     "wof:name":"Lebanon",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":4467390,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"LBN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

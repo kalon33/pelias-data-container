@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":107.201934,
+    "geom:area_square_m":1275217817180.226318,
     "geom:bbox":"13.47,7.442975,24.000001,23.449228",
     "geom:latitude":15.375822,
     "geom:longitude":18.667944,
     "gn:id":"",
     "gn:population":10543464,
     "iso:country":"TD",
+    "itu:country_code":[
+        "235"
+    ],
     "lbl:latitude":15.21002,
     "lbl:longitude":18.76924,
     "mps:latitude":15.21002,
     "mps:longitude":18.76924,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Chad"
     ],
@@ -25,6 +32,12 @@
     "name:afr_x_preferred":[
         "Tsjad"
     ],
+    "name:afr_x_variant":[
+        "Tsjaad"
+    ],
+    "name:aka_x_preferred":[
+        "Kyad"
+    ],
     "name:als_x_preferred":[
         "Tschad"
     ],
@@ -33,6 +46,9 @@
     ],
     "name:ang_x_preferred":[
         "Cead"
+    ],
+    "name:ang_x_variant":[
+        "Chad"
     ],
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062f"
@@ -61,6 +77,9 @@
     "name:bam_x_preferred":[
         "Cad"
     ],
+    "name:bam_x_variant":[
+        "Cadi"
+    ],
     "name:bar_x_preferred":[
         "Tschad"
     ],
@@ -76,11 +95,17 @@
     "name:ben_x_preferred":[
         "\u099a\u09be\u09a6"
     ],
+    "name:ben_x_variant":[
+        "\u099a\u09cd\u09af\u09be\u09a1"
+    ],
     "name:bjn_x_preferred":[
         "Chad"
     ],
     "name:bod_x_preferred":[
         "\u0f46\u0f71\u0f0b\u0f4c\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f45\u0f7b\u0f4c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "\u010cad"
@@ -112,13 +137,6 @@
     "name:che_x_preferred":[
         "\u0427\u0430\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u5fb7"
-    ],
-    "name:chi_x_variant":[
-        "\u4e4d\u5f97",
-        "\u67e5\u5fb7"
-    ],
     "name:chv_x_preferred":[
         "\u0427\u0430\u0434"
     ],
@@ -134,6 +152,9 @@
     "name:cym_x_preferred":[
         "Tsiad"
     ],
+    "name:cym_x_variant":[
+        "Chad"
+    ],
     "name:cze_x_preferred":[
         "\u010cad"
     ],
@@ -142,6 +163,9 @@
     ],
     "name:deu_x_preferred":[
         "Tschad"
+    ],
+    "name:deu_x_variant":[
+        "Republik Tschad"
     ],
     "name:diq_x_preferred":[
         "\u00c7ad"
@@ -152,18 +176,17 @@
     "name:dsb_x_preferred":[
         "\u010cad"
     ],
-    "name:dut_x_preferred":[
-        "Tsjaad"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b1\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Chad"
     ],
     "name:eng_x_unknown":[
         "TCD",
         "TD"
     ],
     "name:eng_x_variant":[
-        "Chad",
         "Chadian",
         "Rep. Chad",
         "Republic of Chad"
@@ -174,11 +197,17 @@
     "name:est_x_preferred":[
         "T\u0161aad"
     ],
+    "name:est_x_variant":[
+        "Tiaad"
+    ],
     "name:eus_x_preferred":[
         "Txad"
     ],
     "name:ewe_x_preferred":[
         "Tsyadi"
+    ],
+    "name:ewe_x_variant":[
+        "Tsad nutome"
     ],
     "name:ext_x_preferred":[
         "Chad"
@@ -195,13 +224,13 @@
     "name:fin_x_preferred":[
         "T\u0161ad"
     ],
+    "name:fin_x_variant":[
+        "Tsad"
+    ],
     "name:fra_x_preferred":[
         "Tchad"
     ],
-    "name:fre_x_preferred":[
-        "Tchad"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "R\u00e9publique du Tchad"
     ],
     "name:frp_x_preferred":[
@@ -210,17 +239,17 @@
     "name:fry_x_preferred":[
         "Tsjaad"
     ],
+    "name:ful_x_preferred":[
+        "Caad"
+    ],
     "name:gag_x_preferred":[
         "\u00c7ad"
     ],
-    "name:ger_x_preferred":[
-        "Tschad"
-    ],
-    "name:ger_x_variant":[
-        "Republik Tschad"
-    ],
     "name:gla_x_preferred":[
         "An t-Siad"
+    ],
+    "name:gla_x_variant":[
+        "Chad"
     ],
     "name:gle_x_preferred":[
         "Sead"
@@ -228,11 +257,17 @@
     "name:glg_x_preferred":[
         "Chad"
     ],
+    "name:glg_x_variant":[
+        "Chad - Tchad"
+    ],
     "name:glv_x_preferred":[
         "Shad"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac5\u0aa1"
+    ],
+    "name:guj_x_variant":[
+        "\u0a9a\u0abe\u0aa1"
     ],
     "name:hak_x_preferred":[
         "Chad"
@@ -249,11 +284,17 @@
     "name:heb_x_preferred":[
         "\u05e6'\u05d0\u05d3"
     ],
+    "name:heb_x_variant":[
+        "\u05e6\u05f3\u05d0\u05d3"
+    ],
     "name:hif_x_preferred":[
         "Chad"
     ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u0921"
+    ],
+    "name:hin_x_variant":[
+        "\u091a\u0921"
     ],
     "name:hrv_x_preferred":[
         "\u010cad"
@@ -288,6 +329,9 @@
     "name:isl_x_preferred":[
         "Tjad"
     ],
+    "name:isl_x_variant":[
+        "Tsjad"
+    ],
     "name:ita_x_preferred":[
         "Ciad"
     ],
@@ -312,14 +356,26 @@
     "name:kab_x_preferred":[
         "\u010c\u010dad"
     ],
+    "name:kal_x_preferred":[
+        "Chad"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cbe\u0ca1\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10d0\u10d3\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0427\u0430\u0434"
     ],
+    "name:khm_x_preferred":[
+        "\u1786\u17b6\u178a"
+    ],
     "name:kik_x_preferred":[
         "Chad"
+    ],
+    "name:kik_x_variant":[
+        "Chadi"
     ],
     "name:kin_x_preferred":[
         "Cade"
@@ -340,6 +396,12 @@
     "name:kur_x_preferred":[
         "\u00c7ad"
     ],
+    "name:kur_x_variant":[
+        "\u0686\u0627\u062f"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e8a\u0eb2\u0e94"
+    ],
     "name:lat_x_preferred":[
         "Tzadia"
     ],
@@ -355,11 +417,17 @@
     "name:lin_x_preferred":[
         "Tsadi"
     ],
+    "name:lin_x_variant":[
+        "Ts\u00e1di"
+    ],
     "name:lit_x_preferred":[
         "\u010cadas"
     ],
     "name:lmo_x_preferred":[
         "Ciad"
+    ],
+    "name:lmo_x_variant":[
+        "Cjad"
     ],
     "name:lrc_x_preferred":[
         "\u0686\u0627\u062f"
@@ -367,11 +435,20 @@
     "name:ltz_x_preferred":[
         "Tschad"
     ],
+    "name:lub_x_preferred":[
+        "Tshadi"
+    ],
     "name:lug_x_preferred":[
         "Chad"
     ],
+    "name:lug_x_variant":[
+        "Caadi"
+    ],
     "name:mal_x_preferred":[
         "\u0d1b\u0d3e\u0d21\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d1a\u0d3e\u0d21\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u091a\u093e\u0921"
@@ -394,8 +471,14 @@
     "name:msa_x_preferred":[
         "Chad"
     ],
+    "name:msa_x_variant":[
+        "Cad"
+    ],
     "name:mya_x_preferred":[
         "\u1001\u103b\u1012\u103a\u101e\u1019\u1039\u1019\u1010\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1001\u103b\u1012\u103a"
     ],
     "name:mzn_x_preferred":[
         "\u0686\u0627\u062f"
@@ -403,8 +486,17 @@
     "name:nau_x_preferred":[
         "Tsiad"
     ],
+    "name:nau_x_variant":[
+        "Chad"
+    ],
+    "name:nde_x_preferred":[
+        "Chadi"
+    ],
     "name:nds_x_preferred":[
         "Tschad"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u093e\u0921"
     ],
     "name:new_x_preferred":[
         "\u091a\u093e\u0921"
@@ -413,6 +505,12 @@
         "Tsjaad"
     ],
     "name:nno_x_preferred":[
+        "Tsjad"
+    ],
+    "name:nno_x_variant":[
+        "Tchad"
+    ],
+    "name:nob_x_preferred":[
         "Tsjad"
     ],
     "name:nor_x_preferred":[
@@ -429,6 +527,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b1a\u0b3e\u0b21\u0b3c"
+    ],
+    "name:ori_x_variant":[
+        "\u0b1a\u0b3e\u0b26\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Chaad"
@@ -482,11 +583,17 @@
     "name:rum_x_preferred":[
         "Ciad"
     ],
+    "name:run_x_preferred":[
+        "Cadi"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0434"
     ],
     "name:sag_x_preferred":[
         "S\u00e2de"
+    ],
+    "name:sag_x_variant":[
+        "Ty\u00e2de"
     ],
     "name:sah_x_preferred":[
         "\u0427\u0430\u0434"
@@ -512,14 +619,23 @@
     "name:sme_x_preferred":[
         "Chad"
     ],
+    "name:sme_x_variant":[
+        "T\u010dad"
+    ],
     "name:sna_x_preferred":[
         "Chad"
+    ],
+    "name:sna_x_variant":[
+        "Chadi"
     ],
     "name:snd_x_preferred":[
         "\u0686\u0627\u068a"
     ],
     "name:som_x_preferred":[
         "Jad"
+    ],
+    "name:som_x_variant":[
+        "Jaad"
     ],
     "name:sot_x_preferred":[
         "Chad"
@@ -529,6 +645,9 @@
     ],
     "name:sqi_x_preferred":[
         "\u00c7adi"
+    ],
+    "name:sqi_x_variant":[
+        "\u00c7ad"
     ],
     "name:srd_x_preferred":[
         "Chad"
@@ -547,6 +666,9 @@
     ],
     "name:swa_x_preferred":[
         "Chad"
+    ],
+    "name:swa_x_variant":[
+        "Chadi"
     ],
     "name:swe_x_preferred":[
         "Tchad"
@@ -575,8 +697,15 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e0a\u0e32\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e32\u0e14",
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e0a\u0e32\u0e14"
+    ],
     "name:tir_x_preferred":[
         "\u127b\u12f5"
+    ],
+    "name:ton_x_preferred":[
+        "Seti"
     ],
     "name:tso_x_preferred":[
         "Chad"
@@ -593,8 +722,14 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0434"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0427\u0430\u0434"
+    ],
     "name:und_x_preferred":[
         "Tsjad"
+    ],
+    "name:unk_x_variant":[
+        "Territoire du Tchad"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0688"
@@ -611,6 +746,10 @@
     "name:vie_x_preferred":[
         "Tchad"
     ],
+    "name:vie_x_variant":[
+        "S\u00e1t",
+        "S\u00e1t (Chad)"
+    ],
     "name:vol_x_preferred":[
         "Tjad\u00e4n"
     ],
@@ -619,6 +758,9 @@
     ],
     "name:wln_x_preferred":[
         "Tchade"
+    ],
+    "name:wln_x_variant":[
+        "Tchad"
     ],
     "name:wol_x_preferred":[
         "Cadd"
@@ -636,10 +778,17 @@
     "name:yor_x_preferred":[
         "Tsad"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de \u1e63\u00e0\u00e0d\u00ec"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tchad"
     ],
     "name:zho_x_preferred":[
+        "\u4e4d\u5f97"
+    ],
+    "name:zho_x_variant":[
+        "\u67e5\u5fb7",
         "\u4e4d\u5f97"
     ],
     "name:zho_yue_x_preferred":[
@@ -647,6 +796,9 @@
     ],
     "name:zul_x_preferred":[
         "ITshedi"
+    ],
+    "name:zul_x_variant":[
+        "i-Chad"
     ],
     "ne:abbrev":"Chad",
     "ne:abbrev_len":4,
@@ -726,6 +878,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"235",
+    "statoids:ds":"TCH",
+    "statoids:fifa":"CHA",
+    "statoids:gaul":"50",
+    "statoids:gec":"CD",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"CHA",
+    "statoids:iso_a2":"TD",
+    "statoids:iso_a3":"TCD",
+    "statoids:iso_num":"148",
+    "statoids:itu":"TCD",
+    "statoids:marc":"cd",
+    "statoids:name":"Chad",
+    "statoids:wmo":"CD",
     "wk:latitude":15.466667,
     "wk:longitude":19.4,
     "wk:population":12825314,
@@ -737,19 +904,29 @@
     "wof:concordances":{
         "dbp:id":"Chad",
         "fb:id":"en.chad",
+        "fifa:id":"CHA",
+        "fips:code":"CD",
+        "gaul:id":"50",
         "gn:id":2434508,
         "gp:id":23424777,
         "hasc:id":"TD",
+        "ioc:id":"CHA",
+        "itu:id":"TCD",
         "loc:id":"n80049721",
+        "m49:code":"148",
+        "marc:id":"cd",
         "mzb:id":"chad",
+        "ne:adm0_a3":"TCD",
         "nyt:id":"66731822857574154241",
         "qs:id":1087763,
+        "uncrt:id":"TCH",
         "wd:id":"Q657",
-        "wk:page":"Chad"
+        "wk:page":"Chad",
+        "wmo:id":"CD"
     },
     "wof:country":"TD",
     "wof:country_alpha3":"TCD",
-    "wof:geomhash":"54397d3187d3feeecfa3ea5628512a8f",
+    "wof:geomhash":"19c07f58dbd9d17181d351e4270032ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -768,11 +945,14 @@
         "fra",
         "ara"
     ],
-    "wof:lastmodified":1493229924,
+    "wof:lastmodified":1509142673,
     "wof:name":"Chad",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":12825314,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"TCD",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

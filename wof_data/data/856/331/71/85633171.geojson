@@ -5,16 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.6742,
+    "geom:area_square_m":131252767278.758972,
     "geom:bbox":"19.626475,34.815009,28.239757,41.750476",
     "geom:latitude":39.051181,
     "geom:longitude":22.974819,
     "gn:population":11000000,
     "iso:country":"GR",
+    "itu:country_code":[
+        "30"
+    ],
     "lbl:latitude":39.78331,
     "lbl:longitude":21.708535,
     "mps:latitude":39.78331,
     "mps:longitude":21.708535,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:abk_x_preferred":[
         "\u0411\u0430\u0440\u0437\u0435\u043d\u0442\u04d9\u044b\u043b\u0430"
     ],
@@ -26,6 +33,9 @@
     ],
     "name:afr_x_preferred":[
         "Griekeland"
+    ],
+    "name:aka_x_preferred":[
+        "Greekman"
     ],
     "name:als_x_preferred":[
         "Griechenland"
@@ -40,11 +50,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u0648\u0646\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u064a\u0648\u0646\u0627\u0646"
+    ],
     "name:arc_x_preferred":[
         "\u071d\u0718\u0722"
     ],
+    "name:arc_x_variant":[
+        "\u071d\u0718\u0722\u0722"
+    ],
     "name:arg_x_preferred":[
         "Grecia"
+    ],
+    "name:arg_x_variant":[
+        "Grezia"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u064a\u0648\u0646\u0627\u0646"
@@ -67,6 +86,9 @@
     "name:bak_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438\u044f"
     ],
+    "name:bam_x_preferred":[
+        "G\u025br\u025bsi"
+    ],
     "name:bar_x_preferred":[
         "Griachaland"
     ],
@@ -82,11 +104,17 @@
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09bf\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09cd\u09b0\u09c0\u09b8\u09cd"
+    ],
     "name:bis_x_preferred":[
         "Greece"
     ],
     "name:bod_x_preferred":[
         "\u0f40\u0f7a\u0f0b\u0f62\u0f72\u0f0b\u0f66\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f42\u0fb7\u0f72\u0f0b\u0f62\u0f71\u0f72\u0f0b\u0f66\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Gr\u010dka"
@@ -118,12 +146,6 @@
     ],
     "name:che_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u81d8"
-    ],
-    "name:chi_x_variant":[
-        "\u5e0c\u814a"
     ],
     "name:chr_x_preferred":[
         "\u13aa\u13a2\u13af"
@@ -164,6 +186,10 @@
     "name:deu_x_preferred":[
         "Griechenland"
     ],
+    "name:deu_x_variant":[
+        "Griechische Republik",
+        "Hellenische Republik"
+    ],
     "name:diq_x_preferred":[
         "Yunan\u0131stan"
     ],
@@ -173,14 +199,27 @@
     "name:dsb_x_preferred":[
         "Grichiska"
     ],
-    "name:dut_x_preferred":[
-        "Griekenland"
-    ],
     "name:dzo_x_preferred":[
         "\u0f42\u0fb2\u0f80\u0f66"
     ],
+    "name:dzo_x_variant":[
+        "\u0f42\u0f72\u0f62\u0f72\u0f66\u0f72"
+    ],
+    "name:ell_x_historical":[
+        "Vasilion tis Ellados",
+        "\u0395\u03bb\u03bb\u03ac\u03c2"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Ellinik\u00ed Dhimokrat\u00eda",
+        "Vasilion tis Ellados",
+        "Ellinik\u00ed Dimokrat\u00eda",
+        "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
+        "Ell\u00e1s",
+        "Ell\u00e1da",
+        "\u0395\u03bb\u03bb\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Greece"
@@ -197,6 +236,9 @@
     "name:epo_x_preferred":[
         "Grekio"
     ],
+    "name:epo_x_variant":[
+        "Grekujo"
+    ],
     "name:est_x_preferred":[
         "Kreeka"
     ],
@@ -205,6 +247,9 @@
     ],
     "name:ewe_x_preferred":[
         "Greece"
+    ],
+    "name:ewe_x_variant":[
+        "Grisi nutome"
     ],
     "name:ext_x_preferred":[
         "Grecia"
@@ -222,13 +267,10 @@
     "name:fin_x_variant":[
         "Kreikka"
     ],
-    "name:fra_x_preferred":[
-        "Gr\u00e8ce"
-    ],
-    "name:fre_x_colloquial":[
+    "name:fra_x_colloquial":[
         "Grece"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gr\u00e8ce"
     ],
     "name:frp_x_preferred":[
@@ -240,6 +282,9 @@
     "name:fry_x_preferred":[
         "Grikel\u00e2n"
     ],
+    "name:ful_x_preferred":[
+        "Gerees"
+    ],
     "name:fur_x_preferred":[
         "Grecie"
     ],
@@ -249,21 +294,20 @@
     "name:gan_x_preferred":[
         "\u5e0c\u81d8"
     ],
-    "name:ger_x_preferred":[
-        "Griechenland"
-    ],
-    "name:ger_x_variant":[
-        "Griechische Republik",
-        "Hellenische Republik"
-    ],
     "name:gla_x_preferred":[
         "A' Ghr\u00e8ig"
+    ],
+    "name:gla_x_variant":[
+        "A Ghr\u00e8ig"
     ],
     "name:gle_x_preferred":[
         "An Ghr\u00e9ig"
     ],
     "name:glg_x_preferred":[
         "Grecia"
+    ],
+    "name:glg_x_variant":[
+        "Grecia - \u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
     ],
     "name:glv_x_preferred":[
         "Yn Ghreag"
@@ -286,6 +330,9 @@
     "name:hau_x_preferred":[
         "Greek"
     ],
+    "name:hau_x_variant":[
+        "Girka"
+    ],
     "name:haw_x_preferred":[
         "Helene"
     ],
@@ -300,6 +347,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092f\u0942\u0928\u093e\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0917\u094d\u0930\u0940\u0938"
     ],
     "name:hrv_x_preferred":[
         "Gr\u010dka"
@@ -362,6 +412,9 @@
     "name:kal_x_preferred":[
         "Gr\u00e6kerit Nunaat"
     ],
+    "name:kal_x_variant":[
+        "Gr\u00e6kenlandi"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0cb0\u0cc0\u0cb8\u0ccd"
     ],
@@ -379,6 +432,9 @@
     ],
     "name:kik_x_preferred":[
         "Ngiriki"
+    ],
+    "name:kik_x_variant":[
+        "Ugiriki"
     ],
     "name:kin_x_preferred":[
         "Ubugereki"
@@ -404,11 +460,18 @@
     "name:kur_x_preferred":[
         "Grekistan"
     ],
+    "name:kur_x_variant":[
+        "Yewnanistan",
+        "\u06cc\u06c6\u0646\u0627\u0646"
+    ],
     "name:lad_x_preferred":[
         "Gresia"
     ],
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e81\u0eb0\u0ec1\u0ea5\u0eb1\u0e94"
+    ],
+    "name:lao_x_variant":[
+        "\u0e81\u0eb4\u0ebc\u0e81"
     ],
     "name:lat_x_preferred":[
         "Graecia"
@@ -428,6 +491,9 @@
     "name:lin_x_preferred":[
         "Gresi"
     ],
+    "name:lin_x_variant":[
+        "Geleki"
+    ],
     "name:lit_x_preferred":[
         "Graikija"
     ],
@@ -443,8 +509,14 @@
     "name:ltz_x_preferred":[
         "Griicheland"
     ],
+    "name:lub_x_preferred":[
+        "Ngeleka"
+    ],
     "name:lug_x_preferred":[
         "Buyonaani"
+    ],
+    "name:lug_x_variant":[
+        "Bugereeki/Buyonaani"
     ],
     "name:mal_x_preferred":[
         "\u0d17\u0d4d\u0d30\u0d40\u0d38\u0d4d"
@@ -464,6 +536,9 @@
     "name:mlg_x_preferred":[
         "Grisy"
     ],
+    "name:mlg_x_variant":[
+        "Gresy"
+    ],
     "name:mlt_x_preferred":[
         "Gre\u010bja"
     ],
@@ -476,11 +551,17 @@
     "name:msa_x_preferred":[
         "Greece"
     ],
+    "name:msa_x_variant":[
+        "Yunani"
+    ],
     "name:mwl_x_preferred":[
         "Gr\u00e9cia"
     ],
     "name:mya_x_preferred":[
         "\u1002\u101b\u102d\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1002\u101b\u102d"
     ],
     "name:myv_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
@@ -497,6 +578,9 @@
     "name:nav_x_preferred":[
         "Gw\u00ed\u00edk Dine\u02bc\u00e9 Bik\u00e9yah"
     ],
+    "name:nde_x_preferred":[
+        "Greece"
+    ],
     "name:nds_nld_x_preferred":[
         "Griekenlaand"
     ],
@@ -506,6 +590,9 @@
     "name:nep_x_preferred":[
         "\u092f\u0942\u0928\u093e\u0928"
     ],
+    "name:nep_x_variant":[
+        "\u0917\u094d\u0930\u093f\u0936"
+    ],
     "name:new_x_preferred":[
         "\u0917\u094d\u0930\u0940\u0938"
     ],
@@ -513,6 +600,9 @@
         "Griekenland"
     ],
     "name:nno_x_preferred":[
+        "Hellas"
+    ],
+    "name:nob_x_preferred":[
         "Hellas"
     ],
     "name:nor_x_preferred":[
@@ -530,8 +620,17 @@
     "name:oci_x_preferred":[
         "Gr\u00e8cia"
     ],
+    "name:olo_x_preferred":[
+        "Griekanmua"
+    ],
+    "name:olo_x_variant":[
+        "Gretsii"
+    ],
     "name:ori_x_preferred":[
         "\u0b17\u0b4d\u0b30\u0b40\u0b38"
+    ],
+    "name:ori_x_variant":[
+        "\u0b17\u0b4d\u0b30\u0b40\u0b38\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Giriik"
@@ -575,6 +674,9 @@
     "name:pus_x_preferred":[
         "\u064a\u0648\u0646\u0627\u0646"
     ],
+    "name:pus_x_variant":[
+        "\u06cc\u0648\u0646\u0627\u0646"
+    ],
     "name:que_x_preferred":[
         "Grisya"
     ],
@@ -583,6 +685,9 @@
     ],
     "name:ron_x_preferred":[
         "Grecia"
+    ],
+    "name:ron_x_variant":[
+        "\u0413\u0440\u0435\u0447\u0438\u044f"
     ],
     "name:rue_x_preferred":[
         "\u0490\u0440\u0435\u0446\u0456\u044f"
@@ -593,8 +698,14 @@
     "name:run_x_preferred":[
         "Grecia"
     ],
+    "name:run_x_variant":[
+        "Ubugereki"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438\u044f"
+    ],
+    "name:sag_x_preferred":[
+        "Ger\u00easi"
     ],
     "name:sah_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438\u044f"
@@ -632,6 +743,9 @@
     "name:som_x_preferred":[
         "Giriiga"
     ],
+    "name:som_x_variant":[
+        "Giriig"
+    ],
     "name:spa_x_preferred":[
         "Grecia"
     ],
@@ -640,6 +754,9 @@
     ],
     "name:sqi_x_preferred":[
         "Greqia"
+    ],
+    "name:sqi_x_variant":[
+        "Greqi"
     ],
     "name:srd_x_preferred":[
         "Gr\u00e8ghia"
@@ -672,6 +789,9 @@
         "\u0b95\u0bbf\u0bb0\u0bc7\u0b95\u0bcd\u0b95\u0bae\u0bcd (\u0ba8\u0bbe\u0b9f\u0bc1)",
         "\u0b95\u0bbf\u0bb0\u0bc7\u0b95\u0bcd\u0b95\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb0\u0bc0\u0bb8\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438\u044f"
     ],
@@ -689,6 +809,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e01\u0e23\u0e35\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e23\u0e35\u0e0b"
+    ],
+    "name:tir_x_preferred":[
+        "\u130d\u122a\u12ad"
+    ],
+    "name:ton_x_preferred":[
+        "Kalisi"
     ],
     "name:tpi_x_preferred":[
         "Gris"
@@ -733,6 +862,9 @@
         "Hrecija",
         "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
     ],
+    "name:unk_x_variant":[
+        "Grecia"
+    ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0646\u0627\u0646"
     ],
@@ -775,6 +907,9 @@
     "name:yor_x_preferred":[
         "Gr\u00ed\u00ecs\u00ec"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Geriisi"
+    ],
     "name:zea_x_preferred":[
         "Griek'nland"
     ],
@@ -788,6 +923,8 @@
         "\u5e0c\u814a"
     ],
     "name:zho_x_variant":[
+        "\u5e0c\u814a",
+        "\u5e0c\u81d8",
         "\u5e0c\u81d8\u5171\u548c\u570b"
     ],
     "name:zho_yue_x_preferred":[
@@ -795,6 +932,9 @@
     ],
     "name:zul_x_preferred":[
         "IGreki"
+    ],
+    "name:zul_x_variant":[
+        "i-Greece"
     ],
     "ne:abbrev":"Greece",
     "ne:abbrev_len":6,
@@ -869,11 +1009,28 @@
     "qs:id":0,
     "qs:level":"adm0",
     "qs:source":"EuroGlobalMap",
+    "reversegeo:geometry":"85633171-alt-quattroshapes.geojson",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"30",
+    "statoids:ds":"GR",
+    "statoids:fifa":"GRE",
+    "statoids:gaul":"97",
+    "statoids:gec":"GR",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"GRE",
+    "statoids:iso_a2":"GR",
+    "statoids:iso_a3":"GRC",
+    "statoids:iso_num":"300",
+    "statoids:itu":"GRC",
+    "statoids:marc":"gr",
+    "statoids:name":"Greece",
+    "statoids:wmo":"GR",
     "wk:latitude":39.0,
     "wk:longitude":22.0,
     "wk:population":10815197,
@@ -885,19 +1042,29 @@
     "wof:concordances":{
         "dbp:id":"Greece",
         "fb:id":"en.greece",
+        "fifa:id":"GRE",
+        "fips:code":"GR",
+        "gaul:id":"97",
         "gn:id":390903,
         "gp:id":23424833,
         "hasc:id":"GR",
+        "ioc:id":"GRE",
+        "itu:id":"GRC",
         "loc:id":"n80046090",
+        "m49:code":"300",
+        "marc:id":"gr",
         "mzb:id":"greece",
+        "ne:adm0_a3":"GRC",
         "nyt:id":"67127704698481582081",
         "qs:id":206546,
+        "uncrt:id":"GR",
         "wd:id":"Q41",
-        "wk:page":"Greece"
+        "wk:page":"Greece",
+        "wmo:id":"GR"
     },
     "wof:country":"GR",
     "wof:country_alpha3":"GRC",
-    "wof:geomhash":"bd2c2e871faf0d3fc30d9ce239650141",
+    "wof:geomhash":"1b50d074951152b7ed93434ca264343f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -914,11 +1081,14 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1493230199,
+    "wof:lastmodified":1509142732,
     "wof:name":"Greece",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":10815197,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"GRC",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

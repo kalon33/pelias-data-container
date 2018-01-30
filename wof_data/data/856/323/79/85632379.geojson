@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.517035,
+    "geom:area_square_m":473904374562.327759,
     "geom:bbox":"40.965385,-1.696283,51.417038,11.989119",
     "geom:latitude":4.748837,
     "geom:longitude":45.706144,
     "gn:population":10112453,
     "gp:id":0,
     "iso:country":"SO",
+    "itu:country_code":[
+        "252"
+    ],
     "lbl:latitude":3.568925,
     "lbl:longitude":45.19238,
     "mps:latitude":3.568925,
     "mps:longitude":45.19238,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Somalia"
     ],
@@ -25,11 +32,17 @@
     "name:afr_x_preferred":[
         "Somali\u00eb"
     ],
+    "name:aka_x_preferred":[
+        "Somalia"
+    ],
     "name:als_x_preferred":[
         "Somalia"
     ],
     "name:amh_x_preferred":[
         "\u1236\u121b\u120a\u12eb"
+    ],
+    "name:amh_x_variant":[
+        "\u1231\u121b\u120c"
     ],
     "name:ang_x_preferred":[
         "S\u014dmalia"
@@ -37,6 +50,10 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e",
         "\u0627\u0644\u0635\u0648\u0645\u0627\u0644"
+    ],
+    "name:ara_x_variant":[
+        "A\u015f \u015e\u016bm\u0101l",
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0627\u0644\u0641\u064a\u062f\u0631\u0627\u0644\u064a\u0629"
     ],
     "name:arg_x_preferred":[
         "Somalia"
@@ -49,6 +66,9 @@
     ],
     "name:aze_x_preferred":[
         "Somali"
+    ],
+    "name:aze_x_variant":[
+        "Somaliya"
     ],
     "name:bak_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
@@ -68,11 +88,20 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09ae\u09be\u09b2\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09cb\u09ae\u09be\u09b2\u09bf"
+    ],
+    "name:bih_x_preferred":[
+        "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
+    ],
     "name:bjn_x_preferred":[
         "Somalia"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f7c\u0f0b\u0f58\u0f0b\u0f63\u0f72\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f7c\u0f0b\u0f58\u0f71\u0f63\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Somalija"
@@ -104,12 +133,6 @@
     "name:che_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u99ac\u91cc"
-    ],
-    "name:chi_x_variant":[
-        "\u7d22\u9a6c\u91cc"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u06c6\u0645\u0627\u06b5\u06cc\u0627"
     ],
@@ -140,9 +163,6 @@
     "name:dsb_x_preferred":[
         "Somalija"
     ],
-    "name:dut_x_preferred":[
-        "Somali\u00eb"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03bc\u03b1\u03bb\u03af\u03b1"
     ],
@@ -156,10 +176,15 @@
     "name:eng_x_variant":[
         "Rep. Somalia",
         "Republic of Somalia",
-        "Somalian"
+        "Somalian",
+        "Federal Republic of Somalia",
+        "The Somali Republic"
     ],
     "name:epo_x_preferred":[
         "Somalio"
+    ],
+    "name:epo_x_variant":[
+        "Somalujo"
     ],
     "name:est_x_preferred":[
         "Somaalia"
@@ -169,6 +194,9 @@
     ],
     "name:ewe_x_preferred":[
         "Somalia"
+    ],
+    "name:ewe_x_variant":[
+        "Somalia nutome"
     ],
     "name:ext_x_preferred":[
         "Som\u00e1lia"
@@ -185,9 +213,6 @@
     "name:fra_x_preferred":[
         "Somalie"
     ],
-    "name:fre_x_preferred":[
-        "Somalie"
-    ],
     "name:frp_x_preferred":[
         "Somalie"
     ],
@@ -196,6 +221,9 @@
     ],
     "name:ful_x_preferred":[
         "Somaaliya"
+    ],
+    "name:ful_x_variant":[
+        "Somalii"
     ],
     "name:gag_x_preferred":[
         "Somali"
@@ -212,17 +240,26 @@
     "name:glg_x_preferred":[
         "Somalia"
     ],
+    "name:glg_x_variant":[
+        "Somalia - Soomaaliya"
+    ],
     "name:glv_x_preferred":[
         "Yn Tomaal"
     ],
     "name:gom_x_preferred":[
         "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acb\u0aae\u0abe\u0ab2\u0abf\u0aaf\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Somalia"
     ],
     "name:hat_x_preferred":[
         "Somali"
+    ],
+    "name:hau_x_preferred":[
+        "Somaliya"
     ],
     "name:hbs_x_preferred":[
         "Somalija"
@@ -290,8 +327,14 @@
     "name:kab_x_preferred":[
         "\u1e62umal"
     ],
+    "name:kal_x_preferred":[
+        "Somalia"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cca\u0cae\u0cbe\u0cb2\u0cbf\u0caf"
+    ],
+    "name:kan_x_variant":[
+        "\u0cb8\u0cca\u0cae\u0cbe\u0cb2\u0cbf\u0caf\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10db\u10d0\u10da\u10d8"
@@ -299,8 +342,14 @@
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
     ],
+    "name:khm_x_preferred":[
+        "\u179f\u17bc\u1798\u17c9\u17b6\u179b\u17b8"
+    ],
     "name:kik_x_preferred":[
         "Somalia"
+    ],
+    "name:kik_x_variant":[
+        "Somaria"
     ],
     "name:kin_x_preferred":[
         "Somaliya"
@@ -320,6 +369,12 @@
     "name:kur_x_preferred":[
         "Somalya"
     ],
+    "name:kur_x_variant":[
+        "\u0633\u06c6\u0645\u0627\u0644\u06cc\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec2\u0e8a\u0ea1\u0eb2\u0ec0\u0ea5\u0e8d"
+    ],
     "name:lat_x_preferred":[
         "Somalia"
     ],
@@ -335,6 +390,9 @@
     "name:lin_x_preferred":[
         "Somalia"
     ],
+    "name:lin_x_variant":[
+        "Somali"
+    ],
     "name:lit_x_preferred":[
         "Somalis"
     ],
@@ -344,17 +402,35 @@
     "name:lrc_x_preferred":[
         "\u0633\u0648\u0659\u0645\u0627\u0644\u06cc"
     ],
+    "name:lrc_x_variant":[
+        "\u0633\u0648\u0645\u0627\u0644\u06cc"
+    ],
     "name:ltz_x_preferred":[
         "Somalia"
+    ],
+    "name:lub_x_preferred":[
+        "Somali"
     ],
     "name:lug_x_preferred":[
         "Somalia"
     ],
+    "name:lug_x_variant":[
+        "Somaliya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7d22\u99ac\u91cc"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4a\u0d2e\u0d3e\u0d32\u0d3f\u0d2f"
     ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d4b\u0d2e\u0d3e\u0d32\u0d3f\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
+    ],
+    "name:mar_x_variant":[
+        "\u0938\u094b\u092e\u093e\u0932\u093f\u092f\u093e"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
@@ -377,6 +453,9 @@
     "name:mya_x_preferred":[
         "\u1006\u102d\u102f\u1019\u102c\u101c\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1006\u102d\u102f\u1019\u102c\u101c\u102e\u101a\u102c"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u0645\u0627\u0644\u06cc"
     ],
@@ -385,6 +464,9 @@
     ],
     "name:nav_x_preferred":[
         "Soom\u00e1\u00e1lii Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Somaliya"
     ],
     "name:nds_x_preferred":[
         "Somalia"
@@ -399,6 +481,9 @@
         "Somali\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Somalia"
+    ],
+    "name:nob_x_preferred":[
         "Somalia"
     ],
     "name:nor_x_preferred":[
@@ -461,6 +546,9 @@
     "name:ron_x_preferred":[
         "Somalia"
     ],
+    "name:run_x_preferred":[
+        "Somaliya"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
     ],
@@ -478,6 +566,9 @@
     ],
     "name:sco_x_preferred":[
         "Somalie"
+    ],
+    "name:sgs_x_preferred":[
+        "Suomalis"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0dcf\u0dc0"
@@ -503,6 +594,10 @@
     "name:som_x_preferred":[
         "Soomaaliya"
     ],
+    "name:som_x_variant":[
+        "Jamhuuriyadda Federaalka Soomaaliya",
+        "Jamhuuriyadda Soomaaliyeed"
+    ],
     "name:sot_x_preferred":[
         "Somalia"
     ],
@@ -511,6 +606,9 @@
     ],
     "name:sqi_x_preferred":[
         "Somalia"
+    ],
+    "name:sqi_x_variant":[
+        "Somali"
     ],
     "name:srd_x_preferred":[
         "Som\u00e0lia"
@@ -530,6 +628,9 @@
     "name:swa_x_preferred":[
         "Somalia"
     ],
+    "name:swa_x_variant":[
+        "Somali"
+    ],
     "name:swe_x_preferred":[
         "Somalia"
     ],
@@ -539,11 +640,17 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bcb\u0bae\u0bbe\u0bb2\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bca\u0bae\u0bbe\u0bb2\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4a\u0c2e\u0c3e\u0c32\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c38\u0c4b\u0c2e\u0c3e\u0c32\u0c3f\u0c2f\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0421\u0443\u043c\u043e\u043b\u04e3"
@@ -554,8 +661,17 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e0b\u0e21\u0e32\u0e40\u0e25\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e0b\u0e21\u0e32\u0e40\u0e25\u0e35\u0e22"
+    ],
     "name:tir_x_preferred":[
         "\u1236\u121b\u120a\u12eb"
+    ],
+    "name:tir_x_variant":[
+        "\u1231\u121b\u120c"
+    ],
+    "name:ton_x_preferred":[
+        "S\u014dmalia"
     ],
     "name:tso_x_preferred":[
         "Somalia"
@@ -580,6 +696,9 @@
         "Somalska demokratiena republika",
         "Soomaliya"
     ],
+    "name:unk_x_variant":[
+        "Jamhuuriyada Demuqraadiga Soomaaliyeed"
+    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0645\u0627\u0644\u06cc\u06c1"
     ],
@@ -594,6 +713,9 @@
     ],
     "name:vie_x_preferred":[
         "Somalia"
+    ],
+    "name:vie_x_variant":[
+        "X\u00f4-ma-li"
     ],
     "name:vol_x_preferred":[
         "Somal\u00e4n"
@@ -619,6 +741,12 @@
     "name:yor_x_preferred":[
         "S\u00f2m\u00e1l\u00ed\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Somalia"
+    ],
+    "name:yue_x_preferred":[
+        "\u7d22\u99ac\u91cc"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Somalia"
     ],
@@ -626,13 +754,17 @@
         "\u7d22\u9a6c\u91cc"
     ],
     "name:zho_x_variant":[
-        "\u7d22\u99ac\u91cc"
+        "\u7d22\u99ac\u91cc",
+        "\u7d22\u9a6c\u91cc"
     ],
     "name:zho_yue_x_preferred":[
         "\u7d22\u99ac\u91cc"
     ],
     "name:zul_x_preferred":[
         "ISomalia"
+    ],
+    "name:zul_x_variant":[
+        "i-Somalia"
     ],
     "ne:abbrev":"Som.",
     "ne:abbrev_len":4,
@@ -709,10 +841,24 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"naturalearth",
     "src:geom_alt":[
-        "meso",
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"252",
+    "statoids:ds":"SO",
+    "statoids:fifa":"SOM",
+    "statoids:gaul":"226",
+    "statoids:gec":"SO",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SOM",
+    "statoids:iso_a2":"SO",
+    "statoids:iso_a3":"SOM",
+    "statoids:iso_num":"706",
+    "statoids:itu":"SOM",
+    "statoids:marc":"so",
+    "statoids:name":"Somalia",
+    "statoids:wmo":"SI",
     "wk:latitude":8.316667,
     "wk:longitude":47.3,
     "wk:population":10495583,
@@ -724,19 +870,28 @@
     "wof:concordances":{
         "dbp:id":"Somalia",
         "fb:id":"en.somalia",
+        "fifa:id":"SOM",
+        "fips:code":"SO",
+        "gaul:id":"226",
         "gn:id":51537,
         "gp:id":23424949,
         "hasc:id":"SO",
+        "ioc:id":"SOM",
+        "itu:id":"SOM",
         "loc:id":"n79060840",
+        "m49:code":"706",
+        "marc:id":"so",
         "mzb:id":"somalia",
         "nyt:id":"66220870744557419041",
         "qs:id":57281,
+        "uncrt:id":"SO",
         "wd:id":"Q1045",
-        "wk:page":"Somalia"
+        "wk:page":"Somalia",
+        "wmo:id":"SI"
     },
     "wof:country":"SO",
     "wof:country_alpha3":"SOM",
-    "wof:geomhash":"98d6f37d3968a240edffbdea7a3faf7f",
+    "wof:geomhash":"bc623be1fcd00452b4f852955eaa271a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -755,11 +910,14 @@
         "som",
         "ara"
     ],
-    "wof:lastmodified":1493229939,
+    "wof:lastmodified":1509143023,
     "wof:name":"Somalia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":10495583,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SOM",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

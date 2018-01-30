@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.462908,
+    "geom:area_square_m":197167499061.847931,
     "geom:bbox":"-17.546278,12.307289,-11.348607,16.693054",
     "geom:latitude":14.36242,
     "geom:longitude":-14.467137,
     "gn:id":"",
     "gn:population":12323252,
     "iso:country":"SN",
+    "itu:country_code":[
+        "221"
+    ],
     "lbl:latitude":15.13855,
     "lbl:longitude":-14.768082,
     "mps:latitude":15.13855,
     "mps:longitude":-14.768082,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Senegal"
     ],
@@ -23,6 +30,9 @@
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
     ],
     "name:afr_x_preferred":[
+        "Senegal"
+    ],
+    "name:aka_x_preferred":[
         "Senegal"
     ],
     "name:als_x_preferred":[
@@ -33,6 +43,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0646\u063a\u0627\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0646\u063a\u0627\u0644"
     ],
     "name:arg_x_preferred":[
         "Senegal"
@@ -51,6 +64,9 @@
     ],
     "name:bam_x_preferred":[
         "Senegal"
+    ],
+    "name:bam_x_variant":[
+        "Senegali"
     ],
     "name:bar_x_preferred":[
         "Senegal"
@@ -72,6 +88,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f42\u0f71\u0f63\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f7a\u0f0b\u0f53\u0f72\u0f0b\u0f42\u0fb7\u0f63\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Senegal"
@@ -103,12 +122,6 @@
     "name:che_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u5167\u52a0\u723e"
-    ],
-    "name:chi_x_variant":[
-        "\u585e\u5185\u52a0\u5c14"
-    ],
     "name:chv_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
     ],
@@ -124,6 +137,9 @@
     "name:cym_x_preferred":[
         "Senegal"
     ],
+    "name:cym_x_variant":[
+        "S\u00e9n\u00e9gal"
+    ],
     "name:cze_x_preferred":[
         "Senegal"
     ],
@@ -133,6 +149,9 @@
     "name:deu_x_preferred":[
         "Senegal"
     ],
+    "name:deu_x_variant":[
+        "Republik Senegal"
+    ],
     "name:diq_x_preferred":[
         "Senegal"
     ],
@@ -140,9 +159,6 @@
         "\u0790\u07ac\u0782\u07ac\u078e\u07a7\u078d\u07b0"
     ],
     "name:dsb_x_preferred":[
-        "Senegal"
-    ],
-    "name:dut_x_preferred":[
         "Senegal"
     ],
     "name:ell_x_preferred":[
@@ -172,6 +188,9 @@
     "name:ewe_x_preferred":[
         "Senegal"
     ],
+    "name:ewe_x_variant":[
+        "Senegal nutome"
+    ],
     "name:ext_x_preferred":[
         "Senegal"
     ],
@@ -187,10 +206,7 @@
     "name:fra_x_preferred":[
         "S\u00e9n\u00e9gal"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e9n\u00e9gal"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "R\u00e9publique du S\u00e9n\u00e9gal"
     ],
     "name:frp_x_preferred":[
@@ -202,14 +218,11 @@
     "name:ful_x_preferred":[
         "Senegaal"
     ],
+    "name:ful_x_variant":[
+        "Senegal"
+    ],
     "name:gag_x_preferred":[
         "Senegal"
-    ],
-    "name:ger_x_preferred":[
-        "Senegal"
-    ],
-    "name:ger_x_variant":[
-        "Republik Senegal"
     ],
     "name:gla_x_preferred":[
         "Seanagal"
@@ -220,8 +233,14 @@
     "name:glg_x_preferred":[
         "Senegal"
     ],
+    "name:glg_x_variant":[
+        "Senegal - S\u00e9n\u00e9gal"
+    ],
     "name:glv_x_preferred":[
         "Yn Tenegaal"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0ac7\u0a97\u0ab2"
     ],
     "name:hak_x_preferred":[
         "Senegal"
@@ -232,11 +251,17 @@
     "name:hau_x_preferred":[
         "Senegal"
     ],
+    "name:hau_x_variant":[
+        "Sinigal"
+    ],
     "name:hbs_x_preferred":[
         "Senegal"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d2\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05e0\u05d2\u05d0\u05dc"
     ],
     "name:hif_x_preferred":[
         "Senegal"
@@ -301,6 +326,9 @@
     "name:kab_x_preferred":[
         "Sinigal"
     ],
+    "name:kal_x_preferred":[
+        "Senegal"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0ca8\u0cc6\u0c97\u0cb2\u0ccd"
     ],
@@ -309,6 +337,12 @@
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17c1\u1793\u17c1\u17a0\u17d2\u1780\u17b6\u179b\u17cb"
+    ],
+    "name:kik_x_preferred":[
+        "Senegali"
     ],
     "name:kin_x_preferred":[
         "Senegali"
@@ -325,8 +359,14 @@
     "name:kur_x_preferred":[
         "Senegal"
     ],
+    "name:kur_x_variant":[
+        "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644"
+    ],
     "name:lad_x_preferred":[
         "Senegal"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e8a\u0eb4\u0e99\u0eb5\u0e81\u0eb1\u0e99"
     ],
     "name:lat_x_preferred":[
         "Senegalia"
@@ -343,6 +383,9 @@
     "name:lin_x_preferred":[
         "Senegale"
     ],
+    "name:lin_x_variant":[
+        "Senegal\u025b"
+    ],
     "name:lit_x_preferred":[
         "Senegalas"
     ],
@@ -355,14 +398,26 @@
     "name:ltz_x_preferred":[
         "Senegal"
     ],
+    "name:lub_x_preferred":[
+        "Senegale"
+    ],
     "name:lug_x_preferred":[
         "Senegal"
+    ],
+    "name:lug_x_variant":[
+        "Senegaalo"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d46\u0d28\u0d46\u0d17\u0d7d"
     ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d46\u0d28\u0d17\u0d32\u0d4d\u200d"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0928\u0947\u0917\u093e\u0932"
+    ],
+    "name:mar_x_variant":[
+        "\u0938\u0947\u0928\u0947\u0917\u0932"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
@@ -372,6 +427,9 @@
     ],
     "name:mlg_x_preferred":[
         "Senegala"
+    ],
+    "name:mlg_x_variant":[
+        "Senegal"
     ],
     "name:mlt_x_preferred":[
         "Senegal"
@@ -388,6 +446,9 @@
     "name:mya_x_preferred":[
         "\u1006\u102e\u1014\u102e\u1002\u1031\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1006\u102e\u1014\u102e\u1002\u1031\u102b"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0646\u06af\u0627\u0644"
     ],
@@ -397,11 +458,17 @@
     "name:nau_x_preferred":[
         "Senegal"
     ],
+    "name:nde_x_preferred":[
+        "Senegali"
+    ],
     "name:nds_x_preferred":[
         "Senegal"
     ],
     "name:nep_x_preferred":[
         "\u0938\u0947\u0928\u0947\u0917\u0932"
+    ],
+    "name:nep_x_variant":[
+        "\u0938\u0947\u0928\u0947\u0917\u093e\u0932"
     ],
     "name:new_x_preferred":[
         "\u0938\u0947\u0928\u0947\u0917\u0932"
@@ -410,6 +477,9 @@
         "Senegal"
     ],
     "name:nno_x_preferred":[
+        "Senegal"
+    ],
+    "name:nob_x_preferred":[
         "Senegal"
     ],
     "name:nor_x_preferred":[
@@ -426,6 +496,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b38\u0b47\u0b28\u0b47\u0b17\u0b3e\u0b32"
+    ],
+    "name:ori_x_variant":[
+        "\u0b38\u0b47\u0b28\u0b47\u0b17\u0b3e\u0b32\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Senegaal"
@@ -466,11 +539,17 @@
     "name:que_x_preferred":[
         "Sinigal"
     ],
+    "name:roh_x_preferred":[
+        "Senegal"
+    ],
     "name:ron_x_preferred":[
         "Senegal"
     ],
     "name:rum_x_preferred":[
         "Senegal"
+    ],
+    "name:run_x_preferred":[
+        "Senegali"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
@@ -532,6 +611,9 @@
     "name:swa_x_preferred":[
         "Senegal"
     ],
+    "name:swa_x_variant":[
+        "Senegali"
+    ],
     "name:swe_x_preferred":[
         "Senegal"
     ],
@@ -540,6 +622,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0ba9\u0bbf\u0b95\u0bb2\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc6\u0ba9\u0bc6\u0b95\u0bb2\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
@@ -556,8 +641,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e0b\u0e40\u0e19\u0e01\u0e31\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0b\u0e40\u0e19\u0e01\u0e31\u0e25"
+    ],
     "name:tir_x_preferred":[
         "\u1234\u1294\u130b\u120d"
+    ],
+    "name:ton_x_preferred":[
+        "Senikalo"
     ],
     "name:tpi_x_preferred":[
         "Senegal"
@@ -577,11 +668,20 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u043d\u0435\u0491\u0430\u043b"
+    ],
     "name:und_x_variant":[
         "Republika Senegal"
     ],
+    "name:unk_x_variant":[
+        "S\u00e9n\u00e9gal"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u06cc\u06af\u0644"
     ],
     "name:uzb_x_preferred":[
         "Senegal"
@@ -594,6 +694,10 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e9n\u00e9gal"
+    ],
+    "name:vie_x_variant":[
+        "X\u00ea-n\u00ea-gan",
+        "X\u00ea-n\u00ea-gan (Senegal)"
     ],
     "name:vol_x_preferred":[
         "Senegal\u00e4n"
@@ -619,6 +723,9 @@
     "name:yor_x_preferred":[
         "S\u1eb9\u0300n\u1eb9\u0300g\u00e0l"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de S\u1eb9n\u1eb9ga"
+    ],
     "name:zea_x_preferred":[
         "Senegal"
     ],
@@ -628,11 +735,18 @@
     "name:zho_x_preferred":[
         "\u585e\u5185\u52a0\u5c14"
     ],
+    "name:zho_x_variant":[
+        "\u585e\u5185\u52a0\u5c14",
+        "\u585e\u5167\u52a0\u723e"
+    ],
     "name:zho_yue_x_preferred":[
         "\u585e\u5167\u52a0\u723e"
     ],
     "name:zul_x_preferred":[
         "ISenegal"
+    ],
+    "name:zul_x_variant":[
+        "i-Senegal"
     ],
     "ne:abbrev":"Sen.",
     "ne:abbrev_len":4,
@@ -712,6 +826,21 @@
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"221",
+    "statoids:ds":"SN",
+    "statoids:fifa":"SEN",
+    "statoids:gaul":"217",
+    "statoids:gec":"SG",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"SEN",
+    "statoids:iso_a2":"SN",
+    "statoids:iso_a3":"SEN",
+    "statoids:iso_num":"686",
+    "statoids:itu":"SEN",
+    "statoids:marc":"sg",
+    "statoids:name":"Senegal",
+    "statoids:wmo":"SG",
     "wk:latitude":14.366667,
     "wk:longitude":-14.283333,
     "wk:population":14133280,
@@ -723,19 +852,29 @@
     "wof:concordances":{
         "dbp:id":"Senegal",
         "fb:id":"en.senegal",
+        "fifa:id":"SEN",
+        "fips:code":"SG",
+        "gaul:id":"217",
         "gn:id":2245662,
         "gp:id":23424943,
         "hasc:id":"SN",
+        "ioc:id":"SEN",
+        "itu:id":"SEN",
         "loc:id":"n79007506",
+        "m49:code":"686",
+        "marc:id":"sg",
         "mzb:id":"senegal",
+        "ne:adm0_a3":"SEN",
         "nyt:id":"58445269565018618401",
         "qs:id":91166,
+        "uncrt:id":"SN",
         "wd:id":"Q1041",
-        "wk:page":"Senegal"
+        "wk:page":"Senegal",
+        "wmo:id":"SG"
     },
     "wof:country":"SN",
     "wof:country_alpha3":"SEN",
-    "wof:geomhash":"ea456e21e147ea94024b21c4a36a31fb",
+    "wof:geomhash":"84a385691ebed314661e526b5b99890f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -754,11 +893,14 @@
         "wol",
         "fra"
     ],
-    "wof:lastmodified":1493229937,
+    "wof:lastmodified":1509143019,
     "wof:name":"Senegal",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
+    "wof:population":14133280,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"SEN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

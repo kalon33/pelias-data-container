@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015471,
+    "geom:area_square_m":124977905.07324,
     "geom:bbox":"-2.252888918,48.89541626,-1.784611106,49.297943115",
     "geom:latitude":49.208376,
     "geom:longitude":-2.13072,
     "gn:id":"",
     "gn:population":90812,
     "iso:country":"JE",
+    "itu:country_code":[
+        "44"
+    ],
     "lbl:latitude":49.224297,
     "lbl:longitude":-2.130418,
     "mps:latitude":49.224297,
     "mps:longitude":-2.130418,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Jersey"
     ],
@@ -25,11 +32,17 @@
     "name:als_x_preferred":[
         "Jersey"
     ],
+    "name:amh_x_preferred":[
+        "\u1300\u122d\u1232"
+    ],
     "name:ang_x_preferred":[
         "C\u0113sar\u0113a"
     ],
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0632\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u064a\u0631\u0633\u064a"
     ],
     "name:arg_x_preferred":[
         "J\u00e8rri"
@@ -40,14 +53,23 @@
     "name:aze_x_preferred":[
         "Cersi"
     ],
+    "name:aze_x_variant":[
+        "C\u00f6rsi"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0414\u0436\u044d\u0440\u0441\u0456"
     ],
     "name:bel_x_variant":[
         "\u0414\u0436\u044d\u0440\u0441\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09b0\u09cd\u09b8\u09bf"
+    ],
     "name:bos_x_preferred":[
         "Jersey"
+    ],
+    "name:bos_x_variant":[
+        "D\u017eersi"
     ],
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b0\u09cd\u09b8\u09bf"
@@ -57,6 +79,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0414\u0436\u044a\u0440\u0441\u0438"
+    ],
+    "name:bul_x_variant":[
+        "\u043e. \u0414\u0436\u044a\u0440\u0437\u0438"
     ],
     "name:cat_x_preferred":[
         "Jersey"
@@ -85,6 +110,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03ad\u03c1\u03c3\u03b5\u03ca"
     ],
+    "name:ell_x_variant":[
+        "\u03a5\u03b5\u03c1\u03c3\u03ad\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Jersey"
     ],
@@ -97,6 +125,9 @@
     "name:eus_x_preferred":[
         "Jersey"
     ],
+    "name:ewe_x_preferred":[
+        "Dz\u025bse nutome"
+    ],
     "name:fao_x_preferred":[
         "Jersey"
     ],
@@ -108,6 +139,9 @@
     ],
     "name:fra_x_preferred":[
         "Jersey"
+    ],
+    "name:fra_x_variant":[
+        "Bailliage de Jersey"
     ],
     "name:frp_x_preferred":[
         "J\u00e8rseyi"
@@ -124,8 +158,14 @@
     "name:glg_x_preferred":[
         "Illa de Jersey"
     ],
+    "name:glg_x_variant":[
+        "Jersey"
+    ],
     "name:glv_x_preferred":[
         "Jersee"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0ab0\u0acd\u0ab8\u0ac0"
     ],
     "name:hau_x_preferred":[
         "Jersey"
@@ -136,6 +176,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05e8\u05d6\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05f3\u05e8\u05e1\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0930\u094d\u0938\u0940"
     ],
     "name:hrv_x_preferred":[
         "Jersey (otok)",
@@ -162,17 +208,29 @@
     "name:ita_x_preferred":[
         "Baliato di Jersey"
     ],
+    "name:ita_x_variant":[
+        "Jersey"
+    ],
     "name:jav_x_preferred":[
         "Jersey"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30fc\u30b8\u30fc"
     ],
+    "name:kal_x_preferred":[
+        "Jersey"
+    ],
     "name:kan_x_preferred":[
         "\u0c9c\u0cb0\u0ccd\u0cb8\u0cbf"
     ],
+    "name:kan_x_variant":[
+        "\u0c9c\u0cc6\u0cb0\u0ccd\u0cb8\u0cbf"
+    ],
     "name:kat_x_preferred":[
         "\u10ef\u10d4\u10e0\u10d6\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10ef\u10d4\u10e0\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0436\u0435\u0440\u0441\u0438 (\u0430\u0440\u0430\u043b)",
@@ -183,6 +241,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc800\uc9c0 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\uc800\uc9c0"
     ],
     "name:lat_x_preferred":[
         "Caesarea insula"
@@ -199,6 +260,9 @@
     "name:lit_x_preferred":[
         "D\u017eersis"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d47\u0d34\u0d4d\u0d38\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u0930\u094d\u0938\u0940"
     ],
@@ -210,6 +274,9 @@
     ],
     "name:msa_x_preferred":[
         "Jersey"
+    ],
+    "name:mya_x_preferred":[
+        "\u1002\u103b\u102c\u1005\u102e"
     ],
     "name:nds_nld_x_preferred":[
         "Jersey"
@@ -224,6 +291,9 @@
     "name:nno_x_preferred":[
         "Jersey"
     ],
+    "name:nob_x_preferred":[
+        "Jersey"
+    ],
     "name:nor_x_preferred":[
         "Jersey"
     ],
@@ -235,6 +305,9 @@
     ],
     "name:oci_x_preferred":[
         "Jersei"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b30\u0b4d\u0b38\u0b3f"
     ],
     "name:oss_x_preferred":[
         "\u0414\u0436\u0435\u0440\u0441\u0438"
@@ -248,11 +321,20 @@
     "name:pol_x_preferred":[
         "Jersey"
     ],
+    "name:pol_x_variant":[
+        "Wyspa Jersey"
+    ],
     "name:por_x_preferred":[
+        "Jersey"
+    ],
+    "name:roh_x_preferred":[
         "Jersey"
     ],
     "name:ron_x_preferred":[
         "Insula Jersey"
+    ],
+    "name:ron_x_variant":[
+        "Jersey"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0440\u0441\u0438 (\u043e\u0441\u0442\u0440\u043e\u0432)",
@@ -267,6 +349,9 @@
     "name:slv_x_preferred":[
         "Jersey"
     ],
+    "name:sme_x_preferred":[
+        "Jersey"
+    ],
     "name:spa_x_preferred":[
         "Jersey"
     ],
@@ -275,6 +360,9 @@
     ],
     "name:srp_x_preferred":[
         "\u040f\u0435\u0440\u0437\u0438"
+    ],
+    "name:srp_x_variant":[
+        "\u040f\u0435\u0440\u0441\u0438"
     ],
     "name:sun_x_preferred":[
         "Jersey"
@@ -288,17 +376,26 @@
     "name:tam_x_preferred":[
         "\u0baf\u0bc7\u0bb0\u0bcd\u0b9a\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0b9c\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf"
+    ],
     "name:tat_x_preferred":[
         "\u0496\u0435\u0440\u0441\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c30\u0c4d\u0c38\u0c40"
     ],
+    "name:tel_x_variant":[
+        "\u0c1c\u0c30\u0c4d\u0c38\u0c3f"
+    ],
     "name:tgl_x_preferred":[
         "Jersey"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e2d\u0e23\u0e4c\u0e0b\u0e35\u0e22\u0e4c"
+    ],
+    "name:ton_x_preferred":[
+        "Selus\u012b"
     ],
     "name:tur_x_preferred":[
         "Jersey"
@@ -309,6 +406,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u0632\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0631\u0633\u06cc"
     ],
     "name:vie_x_preferred":[
         "Jersey"
@@ -331,10 +431,16 @@
     "name:zho_x_preferred":[
         "\u6fa4\u897f"
     ],
+    "name:zho_x_variant":[
+        "\u6cfd\u897f\u5c9b"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6fa4\u897f\u5cf6"
     ],
-    "ne:abbrev":"Jey.",
+    "name:zul_x_preferred":[
+        "isi-Jersey"
+    ],
+    "ne:abbrev":"",
     "ne:abbrev_len":4,
     "ne:adm0_a3":"JEY",
     "ne:adm0_a3_is":"JEY",
@@ -342,62 +448,102 @@
     "ne:adm0_a3_us":"JEY",
     "ne:adm0_a3_wb":-99,
     "ne:adm0_dif":1,
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"JEY+00?",
+    "ne:adm1_code":"JEY+00?",
     "ne:admin":"Jersey",
+    "ne:area_sqkm":"0.00000000000",
     "ne:brk_a3":"JEY",
     "ne:brk_diff":0,
     "ne:brk_group":"Channel Islands",
     "ne:brk_name":"Jersey",
+    "ne:check_me":"20",
+    "ne:code_hasc":"JE",
+    "ne:code_local":"",
     "ne:continent":"Europe",
+    "ne:datarank":"10",
+    "ne:diss_me":"10090",
     "ne:economy":"2. Developed region: nonG7",
-    "ne:featurecla":"Admin-0 country",
+    "ne:featurecla":"Admin-1 aggregation",
+    "ne:fips":"",
     "ne:fips_10_":"JE",
+    "ne:fips_alt":"",
     "ne:formal_en":"Bailiwick of Jersey",
     "ne:formal_fr":null,
+    "ne:gadm_level":"0",
     "ne:gdp_md_est":5100,
     "ne:gdp_year":-99,
+    "ne:geonunit":"Jersey",
     "ne:geou_dif":0,
     "ne:geounit":"Jersey",
+    "ne:gn_a1_code":"JE.",
+    "ne:gn_id":"0",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
     "ne:gu_a3":"JEY",
+    "ne:hasc_maybe":"",
     "ne:homepart":-99,
     "ne:income_grp":"2. High income: nonOECD",
+    "ne:iso_3166_2":"JE-",
     "ne:iso_a2":"JE",
     "ne:iso_a3":"JEY",
     "ne:iso_n3":"832",
-    "ne:labelrank":6,
+    "ne:labelrank":"20",
     "ne:lastcensus":2001,
+    "ne:latitude":"49.22980000000",
     "ne:level":2,
     "ne:long_len":6,
-    "ne:mapcolor13":3,
+    "ne:longitude":"-2.12454000000",
+    "ne:mapcolor13":"3",
     "ne:mapcolor7":6,
     "ne:mapcolor8":6,
-    "ne:mapcolor9":6,
+    "ne:mapcolor9":"6",
     "ne:name":"Jersey",
-    "ne:name_alt":null,
-    "ne:name_len":6,
+    "ne:name_alt":"",
+    "ne:name_len":"6",
+    "ne:name_local":"",
     "ne:name_long":"Jersey",
     "ne:name_sort":"Jersey",
+    "ne:note":"",
     "ne:note_adm0":"U.K. crown dependency",
     "ne:note_brk":null,
     "ne:pop_est":91626,
     "ne:pop_year":-99,
-    "ne:postal":"JE",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
     "ne:region_un":"Europe",
     "ne:region_wb":"Europe & Central Asia",
-    "ne:scalerank":5,
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
     "ne:sov_a3":"GB1",
     "ne:sovereignt":"United Kingdom",
     "ne:su_a3":"JEY",
     "ne:su_dif":0,
+    "ne:sub_code":"",
     "ne:subregion":"Northern Europe",
     "ne:subunit":"Jersey",
     "ne:tiny":-99,
-    "ne:type":"Country",
+    "ne:type":"",
+    "ne:type_en":"",
     "ne:un_a3":"832",
     "ne:wb_a2":"JG",
     "ne:wb_a3":"CHI",
-    "ne:wikipedia":-99,
-    "ne:woe_id":23424857,
+    "ne:wikipedia":"",
+    "ne:woe_id":"23424857",
     "ne:woe_id_eh":23424857,
+    "ne:woe_label":"",
+    "ne:woe_name":"Jersey",
     "ne:woe_note":"Exact WOE match as country",
     "qs:a0":"Jersey",
     "qs:a0_alt":"Jersey",
@@ -411,22 +557,44 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"44",
+    "statoids:ds":"GBJ",
+    "statoids:fifa":"GBJ",
+    "statoids:gaul":"128",
+    "statoids:gec":"JE",
+    "statoids:independent":"Crown dependency of GB",
+    "statoids:ioc":"",
+    "statoids:iso_a2":"JE",
+    "statoids:iso_a3":"JEY",
+    "statoids:iso_num":"832",
+    "statoids:itu":"",
+    "statoids:marc":"uik",
+    "statoids:name":"Jersey",
+    "statoids:wmo":"",
     "wof:belongsto":[
         102191581,
         136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fifa:id":"GBJ",
+        "fips:code":"JE",
+        "gaul:id":"128",
         "gn:id":3042142,
         "gp:id":23424857,
         "hasc:id":"JE",
+        "m49:code":"832",
+        "marc:id":"uik",
         "mzb:id":"jersey",
+        "ne:adm0_a3":"JEY",
         "qs:id":94399,
+        "uncrt:id":"GBJ",
         "wd:id":"Q785"
     },
     "wof:country":"JE",
     "wof:country_alpha3":"JEY",
-    "wof:geomhash":"08ee71ef728259f6b95bc44d4e55fefb",
+    "wof:geomhash":"083df51571959fb54c8d6984ad1bfbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -446,11 +614,14 @@
         "eng",
         "fre"
     ],
-    "wof:lastmodified":1493230011,
+    "wof:lastmodified":1509142784,
     "wof:name":"Jersey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
+    "wof:population":90812,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"JEY",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,21 +5,31 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065749,
+    "geom:area_square_m":764384443.761596,
     "geom:bbox":"-176.21963501,-22.342082977,-173.700439453,-15.560416222",
     "geom:latitude":-19.842767,
     "geom:longitude":-174.817922,
     "gn:id":"",
     "gn:population":122580,
     "iso:country":"TO",
+    "itu:country_code":[
+        "676"
+    ],
     "lbl:latitude":-21.230852,
     "lbl:longitude":-175.14127,
     "mps:latitude":-21.230852,
     "mps:longitude":-175.14127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.0,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Tonga"
     ],
     "name:afr_x_preferred":[
+        "Tonga"
+    ],
+    "name:aka_x_preferred":[
         "Tonga"
     ],
     "name:als_x_preferred":[
@@ -30,6 +40,9 @@
     ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u063a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u0646\u062c\u0627"
     ],
     "name:arg_x_preferred":[
         "Tonga"
@@ -46,6 +59,9 @@
     "name:bak_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
     ],
+    "name:bam_x_preferred":[
+        "Tonga"
+    ],
     "name:bcl_x_preferred":[
         "Tonga"
     ],
@@ -53,7 +69,8 @@
         "\u0422\u043e\u043d\u0433\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0422\u043e\u043d\u0433\u0430"
+        "\u0422\u043e\u043d\u0433\u0430",
+        "\u0422\u0430\u043d\u0433\u0456\u0439\u0441\u043a\u0430\u044f"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09cb\u0999\u09cd\u0997\u09be"
@@ -93,12 +110,6 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u6771\u52a0"
-    ],
-    "name:chi_x_variant":[
-        "\u6c64\u52a0"
     ],
     "name:chu_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
@@ -150,11 +161,17 @@
     "name:epo_x_preferred":[
         "Tongo"
     ],
+    "name:epo_x_variant":[
+        "Tonga"
+    ],
     "name:est_x_preferred":[
         "Tonga"
     ],
     "name:eus_x_preferred":[
         "Tonga"
+    ],
+    "name:ewe_x_preferred":[
+        "Tonga nutome"
     ],
     "name:ext_x_preferred":[
         "Tonga"
@@ -183,6 +200,9 @@
     "name:fry_x_preferred":[
         "Tonga"
     ],
+    "name:ful_x_preferred":[
+        "Tonngaa"
+    ],
     "name:gag_x_preferred":[
         "Tonga"
     ],
@@ -208,11 +228,17 @@
     "name:gom_x_preferred":[
         "\u091f\u094b\u0902\u0917\u093e"
     ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acb\u0a82\u0a97\u0abe"
+    ],
     "name:hak_x_preferred":[
         "Tonga"
     ],
     "name:hat_x_preferred":[
         "Tonga"
+    ],
+    "name:hau_x_preferred":[
+        "Tanga"
     ],
     "name:hbs_x_preferred":[
         "Tonga"
@@ -235,8 +261,14 @@
     "name:hun_x_preferred":[
         "Tonga"
     ],
+    "name:hun_x_variant":[
+        "Tongai"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u0576\u0563\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u054f\u0578\u0576\u0563\u0565\u0580\u0565\u0576"
     ],
     "name:ido_x_preferred":[
         "Tonga"
@@ -250,8 +282,14 @@
     "name:ina_x_preferred":[
         "Tonga"
     ],
+    "name:ina_x_variant":[
+        "tonga"
+    ],
     "name:ind_x_preferred":[
         "Tonga"
+    ],
+    "name:ind_x_variant":[
+        "Bahasa Tonga"
     ],
     "name:isl_x_preferred":[
         "Tonga"
@@ -274,8 +312,14 @@
     "name:kaa_x_preferred":[
         "Tonga"
     ],
+    "name:kal_x_preferred":[
+        "Tonga"
+    ],
     "name:kan_x_preferred":[
         "\u0c9f\u0ccb\u0c82\u0c97\u0cbe"
+    ],
+    "name:kan_x_variant":[
+        "\u0c9f\u0cca\u0c82\u0c97"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10dc\u10d2\u10d0"
@@ -283,8 +327,20 @@
     "name:kaz_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
     ],
+    "name:khm_x_preferred":[
+        "\u178f\u17bb\u1784\u17a0\u17d2\u1782\u17b6"
+    ],
+    "name:khm_x_variant":[
+        "\u1790\u17bb\u1784\u17a0\u17d2\u1782\u17b6"
+    ],
+    "name:kik_x_preferred":[
+        "Tonga"
+    ],
     "name:kin_x_preferred":[
         "Tonga"
+    ],
+    "name:kin_x_variant":[
+        "Igitonga"
     ],
     "name:kir_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
@@ -295,11 +351,20 @@
     "name:kur_x_preferred":[
         "Tonga"
     ],
+    "name:kur_x_variant":[
+        "\u062a\u06c6\u0646\u06af\u0627"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e95\u0ead\u0e87\u0e81\u0eb2"
+    ],
     "name:lat_x_preferred":[
         "Tonga"
     ],
     "name:lav_x_preferred":[
         "Tonga"
+    ],
+    "name:lav_x_variant":[
+        "Tongie\u0161u"
     ],
     "name:lij_x_preferred":[
         "Tonga"
@@ -307,8 +372,14 @@
     "name:lim_x_preferred":[
         "Tonga"
     ],
+    "name:lin_x_preferred":[
+        "Tonga"
+    ],
     "name:lit_x_preferred":[
         "Tonga"
+    ],
+    "name:lit_x_variant":[
+        "Tong\u0173"
     ],
     "name:lmo_x_preferred":[
         "Tonga"
@@ -316,14 +387,29 @@
     "name:ltz_x_preferred":[
         "Tonga"
     ],
+    "name:lub_x_preferred":[
+        "Tonga"
+    ],
+    "name:lug_x_preferred":[
+        "Tonga"
+    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d4b\u0d19\u0d4d\u0d15"
+    ],
+    "name:mal_x_variant":[
+        "\u0d1f\u0d4b\u0d02\u0d17"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u0902\u0917\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u043e\u043d\u0433\u0430\u043d\u0441\u043a\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "Tong\u00e0"
     ],
     "name:mlt_x_preferred":[
         "Tonga"
@@ -337,8 +423,14 @@
     "name:msa_x_preferred":[
         "Tonga"
     ],
+    "name:msa_x_variant":[
+        "Bahasa Tonga"
+    ],
     "name:mya_x_preferred":[
         "\u1010\u102f\u1036\u1002\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mya_x_variant":[
+        "\u1010\u103d\u1014\u103a\u1002\u102b"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u0646\u06af\u0627"
@@ -349,13 +441,25 @@
     "name:nav_x_preferred":[
         "T\u02bc\u00f3nga"
     ],
+    "name:nde_x_preferred":[
+        "Thonga"
+    ],
     "name:nds_x_preferred":[
         "Tonga"
+    ],
+    "name:nep_x_preferred":[
+        "\u091f\u094b\u0902\u0917\u093e"
     ],
     "name:nld_x_preferred":[
         "Tonga (land)"
     ],
+    "name:nld_x_variant":[
+        "Tonga"
+    ],
     "name:nno_x_preferred":[
+        "Tonga"
+    ],
+    "name:nob_x_preferred":[
         "Tonga"
     ],
     "name:nor_x_preferred":[
@@ -376,6 +480,9 @@
     "name:pan_x_preferred":[
         "\u0a1f\u0a4b\u0a02\u0a17\u0a3e"
     ],
+    "name:pan_x_variant":[
+        "\u0a24\u0a4b\u0a28\u0a4d\u0a17"
+    ],
     "name:pih_x_preferred":[
         "Tonga"
     ],
@@ -394,6 +501,9 @@
     "name:por_x_preferred":[
         "Tonga"
     ],
+    "name:pus_x_preferred":[
+        "\u067c\u0648\u0646\u06ab\u0627"
+    ],
     "name:que_x_preferred":[
         "Tunqa"
     ],
@@ -403,8 +513,14 @@
     "name:ron_x_preferred":[
         "Tonga"
     ],
+    "name:run_x_preferred":[
+        "Tonga"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Tonga"
     ],
     "name:sah_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
@@ -427,6 +543,9 @@
     "name:slv_x_preferred":[
         "Tonga"
     ],
+    "name:slv_x_variant":[
+        "Tongan\u0161\u010dina"
+    ],
     "name:sme_x_preferred":[
         "Tonga"
     ],
@@ -434,6 +553,9 @@
         "Toga"
     ],
     "name:sna_x_preferred":[
+        "Tonga"
+    ],
+    "name:som_x_preferred":[
         "Tonga"
     ],
     "name:spa_x_preferred":[
@@ -463,8 +585,14 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bca\u0b99\u0bcd\u0b95\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bcb\u0b99\u0bcd\u0b95\u0bbe"
+    ],
     "name:tat_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4b\u0c02\u0c17\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
@@ -475,8 +603,18 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e15\u0e2d\u0e07\u0e01\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e2d\u0e07\u0e01\u0e32",
+        "\u0e20\u0e32\u0e29\u0e32\u0e17\u0e2d\u0e07\u0e01\u0e49\u0e32"
+    ],
+    "name:tir_x_preferred":[
+        "\u1276\u1295\u130b"
+    ],
     "name:ton_x_preferred":[
         "Tonga"
+    ],
+    "name:ton_x_variant":[
+        "Pule\u2018anga Fakatu\u2018i \u2018o Tonga"
     ],
     "name:tpi_x_preferred":[
         "Tonga"
@@ -496,11 +634,20 @@
     "name:uig_x_preferred":[
         "Ton\u2019ga"
     ],
+    "name:uig_x_variant":[
+        "\u062a\u0648\u0646\u06af\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043d\u0491\u0430"
+    ],
     "name:und_x_variant":[
         "Kraljevina Tonga"
+    ],
+    "name:unk_x_variant":[
+        "Kingdom of Tonga"
     ],
     "name:urd_x_preferred":[
         "\u0679\u0648\u0646\u06af\u0627"
@@ -513,6 +660,9 @@
     ],
     "name:vie_x_preferred":[
         "Tonga"
+    ],
+    "name:vie_x_variant":[
+        "T\u00f4ng-ga"
     ],
     "name:vol_x_preferred":[
         "Tongu\u00e4ns"
@@ -538,6 +688,9 @@
     "name:yor_x_preferred":[
         "T\u00f3ng\u00e0"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de Tonga"
+    ],
     "name:zha_x_preferred":[
         "Tonga"
     ],
@@ -547,8 +700,14 @@
     "name:zho_x_preferred":[
         "\u6771\u52a0"
     ],
+    "name:zho_x_variant":[
+        "\u6c64\u52a0"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6e6f\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "i-Tonga"
     ],
     "ne:abbrev":"Tongo",
     "ne:abbrev_len":5,
@@ -627,6 +786,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"676",
+    "statoids:ds":"TO",
+    "statoids:fifa":"TGA",
+    "statoids:gaul":"245",
+    "statoids:gec":"TN",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"TGA",
+    "statoids:iso_a2":"TO",
+    "statoids:iso_a3":"TON",
+    "statoids:iso_num":"776",
+    "statoids:itu":"TON",
+    "statoids:marc":"to",
+    "statoids:name":"Tonga",
+    "statoids:wmo":"TO",
     "wk:latitude":-20.587778,
     "wk:longitude":-174.810278,
     "wk:population":105323,
@@ -639,18 +813,28 @@
     "wof:concordances":{
         "dbp:id":"Tonga",
         "fb:id":"en.tonga",
+        "fifa:id":"TGA",
+        "fips:code":"TN",
+        "gaul:id":"245",
         "gn:id":4032283,
         "gp:id":23424964,
         "hasc:id":"TO",
+        "ioc:id":"TGA",
+        "itu:id":"TON",
+        "m49:code":"776",
+        "marc:id":"to",
         "mzb:id":"tonga",
+        "ne:adm0_a3":"TON",
         "nyt:id":"66243051673847070721",
         "qs:id":1087773,
+        "uncrt:id":"TO",
         "wd:id":"Q678",
-        "wk:page":"Tonga"
+        "wk:page":"Tonga",
+        "wmo:id":"TO"
     },
     "wof:country":"TO",
     "wof:country_alpha3":"TON",
-    "wof:geomhash":"b8c35eaceacfda48c64abe5710c46b3a",
+    "wof:geomhash":"0a89e3ec3f09b7e5d7212c02698f5237",
     "wof:hierarchy":[
         {
             "continent_id":"102191583",
@@ -669,11 +853,14 @@
         "ton",
         "eng"
     ],
-    "wof:lastmodified":1493229967,
+    "wof:lastmodified":1509143038,
     "wof:name":"Tonga",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
+    "wof:population":105323,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"TON",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

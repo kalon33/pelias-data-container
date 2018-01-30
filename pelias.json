@@ -1,6 +1,6 @@
 {
   "esclient": {
-    "apiVersion": "2.3",
+    "apiVersion": "2.4",
     "keepAlive": true,
     "requestTimeout": "20000",
     "hosts": [
@@ -27,7 +27,7 @@
       "enabled": true
     },
     "openstreetmap": {
-      "datapath": "/var/data/openstreetmap/",
+      "datapath": "/mnt/data/openstreetmap/",
       "leveldbpath": "/tmp",
       "import": [{
         "filename": "france-latest.osm.pbf"
@@ -35,16 +35,16 @@
     },
     "openaddresses": {
       "datapath": "/mnt/data/openaddresses/",
-      "files": ["fr/*.csv"]
+      "files": ["fr/essonne.csv", "fr/gironde.csv", "fr/hauts_de_seine.csv", "fr/manche.csv", "fr/marne.csv", "fr/paris.csv", "fr/seien_et_marne.csv", "fr/seine_maritime.csv", "fr/seine_saint_denis.csv", "fr/val_de_marne.csv", "fr/val_doise.csv", "fr/yvelines.csv"]
     },
     "geonames": {
       "datapath": "/mnt/data/geonames/",
-      "countryCode": "FR" 
+      "countryCode": "FR"
     },
     "polyline": {
       "datapath": "/mnt/data/",
       "files": [
-        "france.polylines"
+        "world.polylines"
       ]
     },
     "whosonfirst": {

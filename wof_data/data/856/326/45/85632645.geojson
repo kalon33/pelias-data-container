@@ -5,17 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":48.6393,
+    "geom:area_square_m":448301763961.201477,
     "geom:bbox":"55.998218,37.172257,73.148946,45.590075",
     "geom:latitude":41.774572,
     "geom:longitude":63.124064,
     "gn:id":"",
     "gn:population":27865738,
     "iso:country":"UZ",
+    "itu:country_code":[
+        "998"
+    ],
     "lbl:latitude":41.726948,
     "lbl:longitude":63.960684,
     "mps:latitude":41.726948,
     "mps:longitude":63.960684,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":8.0,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Uzb\u00e8kistan"
     ],
@@ -25,17 +32,26 @@
     "name:afr_x_preferred":[
         "Oesbekistan"
     ],
+    "name:aka_x_preferred":[
+        "Uzb\u025bkistan"
+    ],
     "name:als_x_preferred":[
         "Usbekistan"
     ],
     "name:amh_x_preferred":[
         "\u12a1\u12dd\u1264\u12aa\u1235\u1273\u1295"
     ],
+    "name:amh_x_variant":[
+        "\u12e9\u12dd\u1260\u12aa\u1235\u1273\u1295"
+    ],
     "name:ang_x_preferred":[
         "Usbecastan"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0632\u0628\u0643\u0633\u062a\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0632\u0628\u0643\u0633\u062a\u0627\u0646"
     ],
     "name:arc_x_preferred":[
         "\u0710\u0718\u0719\u0712\u0729\u0723\u071b\u0710\u0722"
@@ -58,6 +74,9 @@
     "name:bak_x_preferred":[
         "\u04ae\u0437\u0431\u04d9\u043a\u0441\u0442\u0430\u043d"
     ],
+    "name:bam_x_preferred":[
+        "Uzebekisitani"
+    ],
     "name:bar_x_preferred":[
         "Usbekistan"
     ],
@@ -73,8 +92,14 @@
     "name:ben_x_preferred":[
         "\u0989\u099c\u09ac\u09c7\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u0989\u099c\u09cd\u09ac\u09c7\u0995\u09bf\u09b8\u09cd\u09a5\u09be\u09a8"
+    ],
     "name:bod_x_preferred":[
         "\u0f68\u0f74\u0f0b\u0f5f\u0f0b\u0f56\u0fb7\u0f7a\u0f0b\u0f41\u0f72\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f53\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f74\u0f5b\u0f0b\u0f56\u0f7a\u0f0b\u0f40\u0f72\u0f66\u0f9f\u0f71\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Uzbekistan"
@@ -97,6 +122,9 @@
     "name:cat_x_preferred":[
         "Uzbekistan"
     ],
+    "name:cat_x_variant":[
+        "L\u2019Uzbekistan"
+    ],
     "name:cdo_x_preferred":[
         "Uzbekistan"
     ],
@@ -108,13 +136,6 @@
     ],
     "name:che_x_preferred":[
         "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u70cf\u8332\u5225\u514b"
-    ],
-    "name:chi_x_variant":[
-        "\u4e4c\u5179\u522b\u514b\u65af\u5766",
-        "\u70cf\u8332\u5225\u514b"
     ],
     "name:chr_x_preferred":[
         "\u13a4\u13cd\u13c7\u13a9\u13cd\u13d6\u13c2"
@@ -137,6 +158,9 @@
     "name:cym_x_preferred":[
         "Wsbecistan"
     ],
+    "name:cym_x_variant":[
+        "Uzbekistan"
+    ],
     "name:cze_x_preferred":[
         "Uzbekist\u00e1n"
     ],
@@ -145,6 +169,9 @@
     ],
     "name:deu_x_preferred":[
         "Usbekistan"
+    ],
+    "name:deu_x_variant":[
+        "Republik Usbekistan"
     ],
     "name:diq_x_preferred":[
         "Ozbek\u0131stan"
@@ -155,11 +182,11 @@
     "name:dsb_x_preferred":[
         "Usbekistan"
     ],
-    "name:dut_x_preferred":[
-        "Oezbekistan"
-    ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f74\u0f5b\u0f0b\u0f56\u0f7a\u0f0b\u0f40\u0f72\u0f66\u0f72\u0f0b\u0f4f\u0f71\u0f53\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f68\u0f74\u0f5b\u0f0b\u0f56\u0f7a\u0f0b\u0f40\u0f72\u0f66\u0f72\u0f0b\u0f4f\u0f71\u0f53"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03b6\u03bc\u03c0\u03b5\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
@@ -179,6 +206,9 @@
     "name:epo_x_preferred":[
         "Uzbekio"
     ],
+    "name:epo_x_variant":[
+        "Uzbekujo"
+    ],
     "name:est_x_preferred":[
         "Usbekistan"
     ],
@@ -187,6 +217,9 @@
     ],
     "name:ewe_x_preferred":[
         "Uzbekistan"
+    ],
+    "name:ewe_x_variant":[
+        "Uzbekistan nutome"
     ],
     "name:ext_x_preferred":[
         "Uzbequist\u00e1n"
@@ -203,10 +236,7 @@
     "name:fra_x_preferred":[
         "Ouzb\u00e9kistan"
     ],
-    "name:fre_x_preferred":[
-        "Ouzb\u00e9kistan"
-    ],
-    "name:fre_x_variant":[
+    "name:fra_x_variant":[
         "Ouzbekistan"
     ],
     "name:frp_x_preferred":[
@@ -215,14 +245,11 @@
     "name:fry_x_preferred":[
         "Oezbekistan"
     ],
+    "name:ful_x_preferred":[
+        "Usbekistaan"
+    ],
     "name:gag_x_preferred":[
         "\u00d6zbekistan"
-    ],
-    "name:ger_x_preferred":[
-        "Usbekistan"
-    ],
-    "name:ger_x_variant":[
-        "Republik Usbekistan"
     ],
     "name:gla_x_preferred":[
         "Usbagast\u00e0n"
@@ -230,8 +257,14 @@
     "name:gle_x_preferred":[
         "An \u00daisb\u00e9iceast\u00e1in"
     ],
+    "name:gle_x_variant":[
+        "\u00daisb\u00e9iceast\u00e1in"
+    ],
     "name:glg_x_preferred":[
         "Uzbequist\u00e1n"
+    ],
+    "name:glg_x_variant":[
+        "Uzbekist\u00e1n"
     ],
     "name:glv_x_preferred":[
         "Yn Oosbeckistaan"
@@ -242,6 +275,9 @@
     "name:guj_x_preferred":[
         "\u0a89\u0a9d\u0aac\u0ac7\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0a89\u0a9d\u0acd\u0aac\u0ac7\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    ],
     "name:hak_x_preferred":[
         "Uzbekistan"
     ],
@@ -251,17 +287,26 @@
     "name:hau_x_preferred":[
         "Uzbekistan"
     ],
+    "name:hau_x_variant":[
+        "Uzubekistan"
+    ],
     "name:hbs_x_preferred":[
         "Uzbekistan"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d6\u05d1\u05e7\u05d9\u05e1\u05d8\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05d6\u05d1\u05e7\u05d9\u05e1\u05d8\u05d0\u05df"
+    ],
     "name:hif_x_preferred":[
         "Uzbekistan"
     ],
     "name:hin_x_preferred":[
         "\u0909\u091c\u093c\u094d\u092c\u0947\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0909\u091c\u092c\u0947\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:hrv_x_preferred":[
         "Uzbekistan"
@@ -274,6 +319,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0566\u0562\u0565\u056f\u057d\u057f\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u0582\u0566\u0562\u0565\u056f\u056b\u057d\u057f\u0561\u0576"
     ],
     "name:ido_x_preferred":[
         "Uzbekistan"
@@ -289,6 +337,9 @@
     ],
     "name:ind_x_preferred":[
         "Uzbekistan"
+    ],
+    "name:ind_x_variant":[
+        "Usbekistan"
     ],
     "name:isl_x_preferred":[
         "\u00dasbekistan"
@@ -311,11 +362,17 @@
     "name:kaa_x_preferred":[
         "O'zbekistan"
     ],
+    "name:kal_x_preferred":[
+        "Uzbekistani"
+    ],
     "name:kan_x_preferred":[
         "\u0c89\u0c9c\u0ccd\u0cac\u0cc7\u0c95\u0cbf\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e3\u10d6\u10d1\u10d4\u10d9\u10d4\u10d7\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10e3\u10d6\u10d1\u10d0\u10d9\u10d4\u10d7\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u04e8\u0437\u0431\u0435\u043a\u0441\u0442\u0430\u043d"
@@ -323,8 +380,14 @@
     "name:kbd_x_preferred":[
         "\u0423\u0437\u0431\u044d\u0447\u044b\u0441\u0442\u044d\u043d"
     ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17ca\u17bc\u17a0\u17d2\u179f\u1794\u17c1\u1782\u17b8\u179f\u17d2\u178f\u1784\u17cb"
+    ],
     "name:kik_x_preferred":[
         "Uzbekistan"
+    ],
+    "name:kik_x_variant":[
+        "Uzibekistani"
     ],
     "name:kin_x_preferred":[
         "Uzubekisitani"
@@ -347,8 +410,14 @@
     "name:kur_x_preferred":[
         "\u00dbzb\u00eakistan"
     ],
+    "name:kur_x_variant":[
+        "\u0626\u0648\u0632\u0628\u06d5\u06a9\u0633\u062a\u0627\u0646"
+    ],
     "name:lad_x_preferred":[
         "Uzbekistan"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0eb8\u0e94\u0ec0\u0e9a\u0e81\u0eb4\u0eaa\u0eb0\u0e96\u0eb2\u0e99"
     ],
     "name:lat_x_preferred":[
         "Uzbecia"
@@ -368,8 +437,14 @@
     "name:lin_x_preferred":[
         "Uzbekist\u00e1ni"
     ],
+    "name:lin_x_variant":[
+        "Uzib\u025bkisit\u00e1"
+    ],
     "name:lit_x_preferred":[
         "Uzbekija"
+    ],
+    "name:lit_x_variant":[
+        "Uzbekistanas"
     ],
     "name:lmo_x_preferred":[
         "Uzbekistan"
@@ -380,8 +455,17 @@
     "name:ltz_x_preferred":[
         "Usbekistan"
     ],
+    "name:lub_x_preferred":[
+        "Uzibekisita"
+    ],
+    "name:lug_x_preferred":[
+        "Wuzibekisitaani"
+    ],
     "name:mal_x_preferred":[
         "\u0d09\u0d38\u0d4d\u0d2c\u0d46\u0d15\u0d4d\u0d15\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d7b"
+    ],
+    "name:mal_x_variant":[
+        "\u0d09\u0d38\u0d4d\u0d2c\u0d46\u0d15\u0d4d\u0d15\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d"
     ],
     "name:mar_x_preferred":[
         "\u0909\u091d\u092c\u0947\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
@@ -398,6 +482,9 @@
     "name:mkd_x_preferred":[
         "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:mlg_x_preferred":[
+        "Ozbekistan"
+    ],
     "name:mlt_x_preferred":[
         "U\u017cbekistan"
     ],
@@ -410,6 +497,9 @@
     "name:mya_x_preferred":[
         "\u1025\u1007\u1018\u1000\u103a\u1000\u1005\u1039\u1005\u1010\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_variant":[
+        "\u1025\u1018\u1000\u103a\u1000\u1005\u1039\u1005\u1010\u1014\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0632\u0628\u06a9\u0633\u062a\u0648\u0646"
     ],
@@ -418,6 +508,9 @@
     ],
     "name:nav_x_preferred":[
         "\u00d3zbe\u02bc Bik\u00e9yah"
+    ],
+    "name:nde_x_preferred":[
+        "Uzbekistan"
     ],
     "name:nds_x_preferred":[
         "Usbekistan"
@@ -434,6 +527,9 @@
     "name:nno_x_preferred":[
         "Usbekistan"
     ],
+    "name:nob_x_preferred":[
+        "Usbekistan"
+    ],
     "name:nor_x_preferred":[
         "Usbekistan"
     ],
@@ -445,6 +541,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b09\u0b1c\u0b2c\u0b47\u0b15\u0b3f\u0b38\u0b4d\u0b24\u0b3e\u0b28"
+    ],
+    "name:ori_x_variant":[
+        "\u0b09\u0b1c\u0b2c\u0b47\u0b15\u0b3f\u0b38\u0b4d\u0b25\u0b3e\u0b28\u0b4d"
     ],
     "name:orm_x_preferred":[
         "Uzbeekistaan"
@@ -491,14 +590,23 @@
     "name:que_x_preferred":[
         "Usbiksuyu"
     ],
+    "name:roh_x_preferred":[
+        "Usbekistan"
+    ],
     "name:ron_x_preferred":[
         "Uzbekistan"
     ],
     "name:rue_x_preferred":[
         "\u0423\u0437\u0431\u0435\u043a\u0456\u0441\u0442\u0430\u043d"
     ],
+    "name:run_x_preferred":[
+        "Uzubekisitani"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Uzbekist\u00e4an"
     ],
     "name:sah_x_preferred":[
         "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u0430\u043d"
@@ -533,6 +641,9 @@
     "name:som_x_preferred":[
         "Usbekistan"
     ],
+    "name:som_x_variant":[
+        "Uusbakistaan"
+    ],
     "name:spa_x_colloquial":[
         "Uzbequistan"
     ],
@@ -557,6 +668,9 @@
     "name:swa_x_preferred":[
         "Uzbekistan"
     ],
+    "name:swa_x_variant":[
+        "Uzibekistani"
+    ],
     "name:swe_x_preferred":[
         "Uzbekistan"
     ],
@@ -565,6 +679,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0b9a\u0bc1\u0baa\u0bc6\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b89\u0bb8\u0bcd\u0baa\u0bc6\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u04ae\u0437\u0431\u04d9\u043a\u0441\u0442\u0430\u043d"
@@ -583,6 +700,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e38\u0e0b\u0e40\u0e1a\u0e01\u0e34\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e38\u0e0b\u0e40\u0e1a\u0e01\u0e34\u0e2a\u0e16\u0e32\u0e19"
+    ],
+    "name:tir_x_preferred":[
+        "\u12e9\u12dd\u1260\u12aa\u1235\u1273\u1295"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbUsipekit\u0113ni"
     ],
     "name:tuk_x_preferred":[
         "\u00d6zbegistan"
@@ -605,17 +731,29 @@
     "name:ukr_x_preferred":[
         "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0423\u0437\u0431\u0435\u043a\u0456\u0441\u0442\u0430\u043d"
+    ],
     "name:und_x_preferred":[
         "Uzbekiston Respublikasi"
     ],
     "name:und_x_variant":[
         "Republika Uzbekistan"
     ],
+    "name:unk_x_variant":[
+        "Uzbekskaya Sovetskaya Sotsialisticheskaya Respublika"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
         "O\u02bbzbekiston"
+    ],
+    "name:uzb_x_variant":[
+        "\u016czbekiston Respublikasi",
+        "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d",
+        "O\u2018zbekiston",
+        "O\u2018zbekiston Respublikasi"
     ],
     "name:vec_x_preferred":[
         "Uzbekistan"
@@ -625,6 +763,10 @@
     ],
     "name:vie_x_preferred":[
         "Uzbekistan"
+    ],
+    "name:vie_x_variant":[
+        "U-d\u01a1-b\u00ea-ki-xtan",
+        "U-d\u01a1-b\u00ea-ki-xtan (Uzbekistan)"
     ],
     "name:vol_x_preferred":[
         "Lusbek\u00e4n"
@@ -650,6 +792,9 @@
     "name:yor_x_preferred":[
         "\u00d9sb\u1eb9\u0300k\u00ecst\u00e1n"
     ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0301\u00e8de N\u1e63ib\u1eb9kisitani"
+    ],
     "name:zea_x_preferred":[
         "Oezbekistan"
     ],
@@ -659,8 +804,15 @@
     "name:zho_x_preferred":[
         "\u4e4c\u5179\u522b\u514b\u65af\u5766"
     ],
+    "name:zho_x_variant":[
+        "\u4e4c\u5179\u522b\u514b\u65af\u5766",
+        "\u70cf\u8332\u5225\u514b"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6708\u5373\u5225"
+    ],
+    "name:zul_x_preferred":[
+        "i-Uzbekistan"
     ],
     "ne:abbrev":"Uzb.",
     "ne:abbrev_len":4,
@@ -739,6 +891,21 @@
         "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "statoids:dial":"998",
+    "statoids:ds":"UZ",
+    "statoids:fifa":"UZB",
+    "statoids:gaul":"261",
+    "statoids:gec":"UZ",
+    "statoids:independent":"Yes",
+    "statoids:ioc":"UZB",
+    "statoids:iso_a2":"UZ",
+    "statoids:iso_a3":"UZB",
+    "statoids:iso_num":"860",
+    "statoids:itu":"UZB",
+    "statoids:marc":"uz",
+    "statoids:name":"Uzbekistan",
+    "statoids:wmo":"UZ",
     "wk:latitude":41.666667,
     "wk:longitude":64.066667,
     "wk:population":31576400,
@@ -750,18 +917,28 @@
     "wof:concordances":{
         "dbp:id":"Uzbekistan",
         "fb:id":"en.uzbekistan",
+        "fifa:id":"UZB",
+        "fips:code":"UZ",
+        "gaul:id":"261",
         "gn:id":1512440,
         "gp:id":23424980,
         "hasc:id":"UZ",
+        "ioc:id":"UZB",
+        "itu:id":"UZB",
         "loc:id":"n91129869",
+        "m49:code":"860",
+        "marc:id":"uz",
+        "ne:adm0_a3":"UZB",
         "nyt:id":"78657374252143117211",
         "qs:id":556334,
+        "uncrt:id":"UZ",
         "wd:id":"Q265",
-        "wk:page":"Uzbekistan"
+        "wk:page":"Uzbekistan",
+        "wmo:id":"UZ"
     },
     "wof:country":"UZ",
     "wof:country_alpha3":"UZB",
-    "wof:geomhash":"600f769a1accdf391c56361ca7220284",
+    "wof:geomhash":"42b30b065ed38867009fa7731e085068",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -778,11 +955,14 @@
     "wof:lang_x_spoken":[
         "uzb"
     ],
-    "wof:lastmodified":1493230020,
+    "wof:lastmodified":1509143048,
     "wof:name":"Uzbekistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":31576400,
+    "wof:population_rank":15,
     "wof:repo":"whosonfirst-data",
+    "wof:shortcode":"UZB",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
